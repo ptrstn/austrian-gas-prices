@@ -27,7 +27,7 @@ jobs:
           pip install -e .
       - name: Run data crawler
         run: |
-          ls - l
+          ls -l
           agp
           ls -l data
       - name: Commit files
