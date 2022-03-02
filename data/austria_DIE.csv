@@ -15127,3 +15127,1387 @@ identifier,name,address,city,postal_code,latitude,longitude,fuel_type,label,pric
 247905,eni24,Felberstraße vis a vis 102,Wien,1150,48.193432,16.321006,DIE,Diesel,1.549,2022-03-02 20:34
 1354670,JET TANKSTELLE,TRIESTERSTRASSE 292,WIEN,1230,48.131138,16.321654,DIE,Diesel,1.549,2022-03-02 20:34
 1473128,Diskont Tankstelle,"Wien Breitenfurter Strasse 261 (""Hofer-Parkplatz"")",Wien,1230,48.1506803,16.3016662,DIE,Diesel,1.554,2022-03-02 20:34
+44686,avanti - Pinkafeld Wiener Straße 8,Wiener Strasse 8,Pinkafeld,7423,47.3744,16.12554,DIE,Diesel,1.435,2022-03-02 20:39
+34320,freie Tankstelle,Untere Hauptstr. 153,Riedlingsdorf,7422,47.3371468,16.1450365,DIE,Diesel,1.437,2022-03-02 20:39
+605978,Turmöl Gold,Steinamangerstrasse 8,Pinkafeld,7423,47.3635786,16.1251255,DIE,Diesel,1.441,2022-03-02 20:39
+3059,TURMÖL,Bundesstraße 50,Piringsdorf,7373,47.4482398,16.4176861,DIE,Diesel,1.449,2022-03-02 20:39
+4359,Tanke Blaguss,Wiener Straße 26,Oberpullendorf,7350,47.5086025,16.5037784,DIE,Diesel,1.449,2022-03-02 20:39
+42886,Tanke Blaguss,Industriestraße,Eisenstadt,7000,47.8328353,16.5336044,DIE,Diesel,1.449,2022-03-02 20:39
+1128824,Diskont Tankstelle,"Burgenlandstraße /B50 (""Hofer Parkplatz"")",Stoob,7344,47.514537,16.487473,DIE,Diesel,1.449,2022-03-02 20:39
+34437,Gelbmann GmbH / freie Tankstelle / 24 Std. SB-Tankstelle,kindergartengasse 14,andau,7163,47.7762135,17.0346131,DIE,Diesel,1.455,2022-03-02 20:39
+1469807,Turmöl Tankstelle,Obere Hauptstraße 174,Neuberg,7537,47.184775,16.248481,DIE,Diesel,1.459,2022-03-02 20:39
+7586,Landestankstelle Rdf. Partner Luisser,Grazer Straße 34,Rudersdorf,7571,47.055172,16.1089281,DIE,Diesel,1.469,2022-03-02 20:39
+44686,avanti - Pinkafeld Wiener Straße 8,Wiener Strasse 8,Pinkafeld,7423,47.3744,16.12554,DIE,Diesel,1.435,2022-03-02 20:39
+34320,freie Tankstelle,Untere Hauptstr. 153,Riedlingsdorf,7422,47.3371468,16.1450365,DIE,Diesel,1.437,2022-03-02 20:39
+605978,Turmöl Gold,Steinamangerstrasse 8,Pinkafeld,7423,47.3635786,16.1251255,DIE,Diesel,1.441,2022-03-02 20:39
+3059,TURMÖL,Bundesstraße 50,Piringsdorf,7373,47.4482398,16.4176861,DIE,Diesel,1.449,2022-03-02 20:39
+4359,Tanke Blaguss,Wiener Straße 26,Oberpullendorf,7350,47.5086025,16.5037784,DIE,Diesel,1.449,2022-03-02 20:39
+42886,Tanke Blaguss,Industriestraße,Eisenstadt,7000,47.8328353,16.5336044,DIE,Diesel,1.449,2022-03-02 20:39
+1128824,Diskont Tankstelle,"Burgenlandstraße /B50 (""Hofer Parkplatz"")",Stoob,7344,47.514537,16.487473,DIE,Diesel,1.449,2022-03-02 20:39
+34437,Gelbmann GmbH / freie Tankstelle / 24 Std. SB-Tankstelle,kindergartengasse 14,andau,7163,47.7762135,17.0346131,DIE,Diesel,1.455,2022-03-02 20:39
+1469807,Turmöl Tankstelle,Obere Hauptstraße 174,Neuberg,7537,47.184775,16.248481,DIE,Diesel,1.459,2022-03-02 20:39
+7586,Landestankstelle Rdf. Partner Luisser,Grazer Straße 34,Rudersdorf,7571,47.055172,16.1089281,DIE,Diesel,1.469,2022-03-02 20:39
+44686,avanti - Pinkafeld Wiener Straße 8,Wiener Strasse 8,Pinkafeld,7423,47.3744,16.12554,DIE,Diesel,1.435,2022-03-02 20:39
+34320,freie Tankstelle,Untere Hauptstr. 153,Riedlingsdorf,7422,47.3371468,16.1450365,DIE,Diesel,1.437,2022-03-02 20:39
+605978,Turmöl Gold,Steinamangerstrasse 8,Pinkafeld,7423,47.3635786,16.1251255,DIE,Diesel,1.441,2022-03-02 20:39
+3059,TURMÖL,Bundesstraße 50,Piringsdorf,7373,47.4482398,16.4176861,DIE,Diesel,1.449,2022-03-02 20:39
+4359,Tanke Blaguss,Wiener Straße 26,Oberpullendorf,7350,47.5086025,16.5037784,DIE,Diesel,1.449,2022-03-02 20:39
+42886,Tanke Blaguss,Industriestraße,Eisenstadt,7000,47.8328353,16.5336044,DIE,Diesel,1.449,2022-03-02 20:39
+1128824,Diskont Tankstelle,"Burgenlandstraße /B50 (""Hofer Parkplatz"")",Stoob,7344,47.514537,16.487473,DIE,Diesel,1.449,2022-03-02 20:39
+34437,Gelbmann GmbH / freie Tankstelle / 24 Std. SB-Tankstelle,kindergartengasse 14,andau,7163,47.7762135,17.0346131,DIE,Diesel,1.455,2022-03-02 20:39
+1469807,Turmöl Tankstelle,Obere Hauptstraße 174,Neuberg,7537,47.184775,16.248481,DIE,Diesel,1.459,2022-03-02 20:39
+7586,Landestankstelle Rdf. Partner Luisser,Grazer Straße 34,Rudersdorf,7571,47.055172,16.1089281,DIE,Diesel,1.469,2022-03-02 20:39
+44686,avanti - Pinkafeld Wiener Straße 8,Wiener Strasse 8,Pinkafeld,7423,47.3744,16.12554,DIE,Diesel,1.435,2022-03-02 20:39
+34320,freie Tankstelle,Untere Hauptstr. 153,Riedlingsdorf,7422,47.3371468,16.1450365,DIE,Diesel,1.437,2022-03-02 20:39
+605978,Turmöl Gold,Steinamangerstrasse 8,Pinkafeld,7423,47.3635786,16.1251255,DIE,Diesel,1.441,2022-03-02 20:39
+3059,TURMÖL,Bundesstraße 50,Piringsdorf,7373,47.4482398,16.4176861,DIE,Diesel,1.449,2022-03-02 20:39
+4359,Tanke Blaguss,Wiener Straße 26,Oberpullendorf,7350,47.5086025,16.5037784,DIE,Diesel,1.449,2022-03-02 20:39
+42886,Tanke Blaguss,Industriestraße,Eisenstadt,7000,47.8328353,16.5336044,DIE,Diesel,1.449,2022-03-02 20:39
+1128824,Diskont Tankstelle,"Burgenlandstraße /B50 (""Hofer Parkplatz"")",Stoob,7344,47.514537,16.487473,DIE,Diesel,1.449,2022-03-02 20:39
+34437,Gelbmann GmbH / freie Tankstelle / 24 Std. SB-Tankstelle,kindergartengasse 14,andau,7163,47.7762135,17.0346131,DIE,Diesel,1.455,2022-03-02 20:39
+1469807,Turmöl Tankstelle,Obere Hauptstraße 174,Neuberg,7537,47.184775,16.248481,DIE,Diesel,1.459,2022-03-02 20:39
+7586,Landestankstelle Rdf. Partner Luisser,Grazer Straße 34,Rudersdorf,7571,47.055172,16.1089281,DIE,Diesel,1.469,2022-03-02 20:39
+44686,avanti - Pinkafeld Wiener Straße 8,Wiener Strasse 8,Pinkafeld,7423,47.3744,16.12554,DIE,Diesel,1.435,2022-03-02 20:39
+34320,freie Tankstelle,Untere Hauptstr. 153,Riedlingsdorf,7422,47.3371468,16.1450365,DIE,Diesel,1.437,2022-03-02 20:39
+605978,Turmöl Gold,Steinamangerstrasse 8,Pinkafeld,7423,47.3635786,16.1251255,DIE,Diesel,1.441,2022-03-02 20:39
+3059,TURMÖL,Bundesstraße 50,Piringsdorf,7373,47.4482398,16.4176861,DIE,Diesel,1.449,2022-03-02 20:39
+4359,Tanke Blaguss,Wiener Straße 26,Oberpullendorf,7350,47.5086025,16.5037784,DIE,Diesel,1.449,2022-03-02 20:39
+42886,Tanke Blaguss,Industriestraße,Eisenstadt,7000,47.8328353,16.5336044,DIE,Diesel,1.449,2022-03-02 20:39
+1128824,Diskont Tankstelle,"Burgenlandstraße /B50 (""Hofer Parkplatz"")",Stoob,7344,47.514537,16.487473,DIE,Diesel,1.449,2022-03-02 20:39
+34437,Gelbmann GmbH / freie Tankstelle / 24 Std. SB-Tankstelle,kindergartengasse 14,andau,7163,47.7762135,17.0346131,DIE,Diesel,1.455,2022-03-02 20:39
+1469807,Turmöl Tankstelle,Obere Hauptstraße 174,Neuberg,7537,47.184775,16.248481,DIE,Diesel,1.459,2022-03-02 20:39
+7586,Landestankstelle Rdf. Partner Luisser,Grazer Straße 34,Rudersdorf,7571,47.055172,16.1089281,DIE,Diesel,1.469,2022-03-02 20:39
+44686,avanti - Pinkafeld Wiener Straße 8,Wiener Strasse 8,Pinkafeld,7423,47.3744,16.12554,DIE,Diesel,1.435,2022-03-02 20:39
+34320,freie Tankstelle,Untere Hauptstr. 153,Riedlingsdorf,7422,47.3371468,16.1450365,DIE,Diesel,1.437,2022-03-02 20:39
+605978,Turmöl Gold,Steinamangerstrasse 8,Pinkafeld,7423,47.3635786,16.1251255,DIE,Diesel,1.441,2022-03-02 20:39
+3059,TURMÖL,Bundesstraße 50,Piringsdorf,7373,47.4482398,16.4176861,DIE,Diesel,1.449,2022-03-02 20:39
+4359,Tanke Blaguss,Wiener Straße 26,Oberpullendorf,7350,47.5086025,16.5037784,DIE,Diesel,1.449,2022-03-02 20:39
+42886,Tanke Blaguss,Industriestraße,Eisenstadt,7000,47.8328353,16.5336044,DIE,Diesel,1.449,2022-03-02 20:39
+1128824,Diskont Tankstelle,"Burgenlandstraße /B50 (""Hofer Parkplatz"")",Stoob,7344,47.514537,16.487473,DIE,Diesel,1.449,2022-03-02 20:39
+34437,Gelbmann GmbH / freie Tankstelle / 24 Std. SB-Tankstelle,kindergartengasse 14,andau,7163,47.7762135,17.0346131,DIE,Diesel,1.455,2022-03-02 20:39
+1469807,Turmöl Tankstelle,Obere Hauptstraße 174,Neuberg,7537,47.184775,16.248481,DIE,Diesel,1.459,2022-03-02 20:39
+7586,Landestankstelle Rdf. Partner Luisser,Grazer Straße 34,Rudersdorf,7571,47.055172,16.1089281,DIE,Diesel,1.469,2022-03-02 20:39
+44686,avanti - Pinkafeld Wiener Straße 8,Wiener Strasse 8,Pinkafeld,7423,47.3744,16.12554,DIE,Diesel,1.435,2022-03-02 20:39
+34320,freie Tankstelle,Untere Hauptstr. 153,Riedlingsdorf,7422,47.3371468,16.1450365,DIE,Diesel,1.437,2022-03-02 20:39
+605978,Turmöl Gold,Steinamangerstrasse 8,Pinkafeld,7423,47.3635786,16.1251255,DIE,Diesel,1.441,2022-03-02 20:39
+3059,TURMÖL,Bundesstraße 50,Piringsdorf,7373,47.4482398,16.4176861,DIE,Diesel,1.449,2022-03-02 20:39
+4359,Tanke Blaguss,Wiener Straße 26,Oberpullendorf,7350,47.5086025,16.5037784,DIE,Diesel,1.449,2022-03-02 20:39
+42886,Tanke Blaguss,Industriestraße,Eisenstadt,7000,47.8328353,16.5336044,DIE,Diesel,1.449,2022-03-02 20:39
+1128824,Diskont Tankstelle,"Burgenlandstraße /B50 (""Hofer Parkplatz"")",Stoob,7344,47.514537,16.487473,DIE,Diesel,1.449,2022-03-02 20:39
+34437,Gelbmann GmbH / freie Tankstelle / 24 Std. SB-Tankstelle,kindergartengasse 14,andau,7163,47.7762135,17.0346131,DIE,Diesel,1.455,2022-03-02 20:39
+1469807,Turmöl Tankstelle,Obere Hauptstraße 174,Neuberg,7537,47.184775,16.248481,DIE,Diesel,1.459,2022-03-02 20:39
+7586,Landestankstelle Rdf. Partner Luisser,Grazer Straße 34,Rudersdorf,7571,47.055172,16.1089281,DIE,Diesel,1.469,2022-03-02 20:39
+44686,avanti - Pinkafeld Wiener Straße 8,Wiener Strasse 8,Pinkafeld,7423,47.3744,16.12554,DIE,Diesel,1.435,2022-03-02 20:39
+34320,freie Tankstelle,Untere Hauptstr. 153,Riedlingsdorf,7422,47.3371468,16.1450365,DIE,Diesel,1.437,2022-03-02 20:39
+605978,Turmöl Gold,Steinamangerstrasse 8,Pinkafeld,7423,47.3635786,16.1251255,DIE,Diesel,1.441,2022-03-02 20:39
+3059,TURMÖL,Bundesstraße 50,Piringsdorf,7373,47.4482398,16.4176861,DIE,Diesel,1.449,2022-03-02 20:39
+4359,Tanke Blaguss,Wiener Straße 26,Oberpullendorf,7350,47.5086025,16.5037784,DIE,Diesel,1.449,2022-03-02 20:39
+42886,Tanke Blaguss,Industriestraße,Eisenstadt,7000,47.8328353,16.5336044,DIE,Diesel,1.449,2022-03-02 20:39
+1128824,Diskont Tankstelle,"Burgenlandstraße /B50 (""Hofer Parkplatz"")",Stoob,7344,47.514537,16.487473,DIE,Diesel,1.449,2022-03-02 20:39
+34437,Gelbmann GmbH / freie Tankstelle / 24 Std. SB-Tankstelle,kindergartengasse 14,andau,7163,47.7762135,17.0346131,DIE,Diesel,1.455,2022-03-02 20:39
+1469807,Turmöl Tankstelle,Obere Hauptstraße 174,Neuberg,7537,47.184775,16.248481,DIE,Diesel,1.459,2022-03-02 20:39
+7586,Landestankstelle Rdf. Partner Luisser,Grazer Straße 34,Rudersdorf,7571,47.055172,16.1089281,DIE,Diesel,1.469,2022-03-02 20:39
+44686,avanti - Pinkafeld Wiener Straße 8,Wiener Strasse 8,Pinkafeld,7423,47.3744,16.12554,DIE,Diesel,1.435,2022-03-02 20:39
+34320,freie Tankstelle,Untere Hauptstr. 153,Riedlingsdorf,7422,47.3371468,16.1450365,DIE,Diesel,1.437,2022-03-02 20:39
+605978,Turmöl Gold,Steinamangerstrasse 8,Pinkafeld,7423,47.3635786,16.1251255,DIE,Diesel,1.441,2022-03-02 20:39
+3059,TURMÖL,Bundesstraße 50,Piringsdorf,7373,47.4482398,16.4176861,DIE,Diesel,1.449,2022-03-02 20:39
+4359,Tanke Blaguss,Wiener Straße 26,Oberpullendorf,7350,47.5086025,16.5037784,DIE,Diesel,1.449,2022-03-02 20:39
+42886,Tanke Blaguss,Industriestraße,Eisenstadt,7000,47.8328353,16.5336044,DIE,Diesel,1.449,2022-03-02 20:39
+1128824,Diskont Tankstelle,"Burgenlandstraße /B50 (""Hofer Parkplatz"")",Stoob,7344,47.514537,16.487473,DIE,Diesel,1.449,2022-03-02 20:39
+34437,Gelbmann GmbH / freie Tankstelle / 24 Std. SB-Tankstelle,kindergartengasse 14,andau,7163,47.7762135,17.0346131,DIE,Diesel,1.455,2022-03-02 20:39
+1469807,Turmöl Tankstelle,Obere Hauptstraße 174,Neuberg,7537,47.184775,16.248481,DIE,Diesel,1.459,2022-03-02 20:39
+7586,Landestankstelle Rdf. Partner Luisser,Grazer Straße 34,Rudersdorf,7571,47.055172,16.1089281,DIE,Diesel,1.469,2022-03-02 20:39
+44686,avanti - Pinkafeld Wiener Straße 8,Wiener Strasse 8,Pinkafeld,7423,47.3744,16.12554,DIE,Diesel,1.435,2022-03-02 20:39
+34320,freie Tankstelle,Untere Hauptstr. 153,Riedlingsdorf,7422,47.3371468,16.1450365,DIE,Diesel,1.437,2022-03-02 20:39
+605978,Turmöl Gold,Steinamangerstrasse 8,Pinkafeld,7423,47.3635786,16.1251255,DIE,Diesel,1.441,2022-03-02 20:39
+3059,TURMÖL,Bundesstraße 50,Piringsdorf,7373,47.4482398,16.4176861,DIE,Diesel,1.449,2022-03-02 20:39
+4359,Tanke Blaguss,Wiener Straße 26,Oberpullendorf,7350,47.5086025,16.5037784,DIE,Diesel,1.449,2022-03-02 20:39
+42886,Tanke Blaguss,Industriestraße,Eisenstadt,7000,47.8328353,16.5336044,DIE,Diesel,1.449,2022-03-02 20:39
+1128824,Diskont Tankstelle,"Burgenlandstraße /B50 (""Hofer Parkplatz"")",Stoob,7344,47.514537,16.487473,DIE,Diesel,1.449,2022-03-02 20:39
+34437,Gelbmann GmbH / freie Tankstelle / 24 Std. SB-Tankstelle,kindergartengasse 14,andau,7163,47.7762135,17.0346131,DIE,Diesel,1.455,2022-03-02 20:39
+1469807,Turmöl Tankstelle,Obere Hauptstraße 174,Neuberg,7537,47.184775,16.248481,DIE,Diesel,1.459,2022-03-02 20:39
+7586,Landestankstelle Rdf. Partner Luisser,Grazer Straße 34,Rudersdorf,7571,47.055172,16.1089281,DIE,Diesel,1.469,2022-03-02 20:39
+37470,Deutsch-Griffen,Göschelsberg 17,Deutsch-Griffen,9572,46.8493966,14.0861215,DIE,Diesel,1.449,2022-03-02 20:39
+1472687,JET TANKSTELLE,ERMELINDE-KOCH-STRASSE 2,FELDKIRCHEN,9560,46.73206,14.09377,DIE,Diesel,1.479,2022-03-02 20:39
+34504,Steindorfer Mail,Mail Süd 1-5,Sankt Veit an der Glan,9300,46.800983,14.4024476,DIE,Diesel,1.499,2022-03-02 20:39
+1469987,Gerhard Prugger Maltatal Diskont,Malta 175,Malta,9854,46.949817,13.509007,DIE,Diesel,1.499,2022-03-02 20:39
+34817,Lagerhaus Tankstelle,Kötschach 153,Kötschach,9640,46.6721177,13.0032407,DIE,Diesel,1.509,2022-03-02 20:39
+38009,Landesprodukte Scheiber,Jakling 6,St. Andrä,9433,46.7585275,14.8463902,DIE,Diesel,1.52,2022-03-02 20:39
+4405,Diskont Tankstelle,"Ossiacher see strasse (""Hofer""-Parkplatz)",Treffen,9521,46.652264,13.874552,DIE,Diesel,1.523,2022-03-02 20:39
+34570,Lagerhaus,10. Oktoberstrasse 9,Grafenstein,9131,46.6218093,14.4489482,DIE,Diesel,1.523,2022-03-02 20:39
+1355334,Diskont Tankstelle,"Badstubenweg 80 (""Hofer-Parkplatz"")",Villach,9500,46.631153,13.8226038,DIE,Diesel,1.523,2022-03-02 20:39
+1472407,Diskont Tankstelle,"Kärntner Straße 27 (""Hofer-Parkplatz"")",Villach,9500,46.59742,13.83869,DIE,Diesel,1.523,2022-03-02 20:39
+37470,Deutsch-Griffen,Göschelsberg 17,Deutsch-Griffen,9572,46.8493966,14.0861215,DIE,Diesel,1.449,2022-03-02 20:39
+1472687,JET TANKSTELLE,ERMELINDE-KOCH-STRASSE 2,FELDKIRCHEN,9560,46.73206,14.09377,DIE,Diesel,1.479,2022-03-02 20:39
+34504,Steindorfer Mail,Mail Süd 1-5,Sankt Veit an der Glan,9300,46.800983,14.4024476,DIE,Diesel,1.499,2022-03-02 20:39
+1469987,Gerhard Prugger Maltatal Diskont,Malta 175,Malta,9854,46.949817,13.509007,DIE,Diesel,1.499,2022-03-02 20:39
+34817,Lagerhaus Tankstelle,Kötschach 153,Kötschach,9640,46.6721177,13.0032407,DIE,Diesel,1.509,2022-03-02 20:39
+38009,Landesprodukte Scheiber,Jakling 6,St. Andrä,9433,46.7585275,14.8463902,DIE,Diesel,1.52,2022-03-02 20:39
+4405,Diskont Tankstelle,"Ossiacher see strasse (""Hofer""-Parkplatz)",Treffen,9521,46.652264,13.874552,DIE,Diesel,1.523,2022-03-02 20:39
+34570,Lagerhaus,10. Oktoberstrasse 9,Grafenstein,9131,46.6218093,14.4489482,DIE,Diesel,1.523,2022-03-02 20:39
+1355334,Diskont Tankstelle,"Badstubenweg 80 (""Hofer-Parkplatz"")",Villach,9500,46.631153,13.8226038,DIE,Diesel,1.523,2022-03-02 20:39
+1472407,Diskont Tankstelle,"Kärntner Straße 27 (""Hofer-Parkplatz"")",Villach,9500,46.59742,13.83869,DIE,Diesel,1.523,2022-03-02 20:39
+37470,Deutsch-Griffen,Göschelsberg 17,Deutsch-Griffen,9572,46.8493966,14.0861215,DIE,Diesel,1.449,2022-03-02 20:39
+1472687,JET TANKSTELLE,ERMELINDE-KOCH-STRASSE 2,FELDKIRCHEN,9560,46.73206,14.09377,DIE,Diesel,1.479,2022-03-02 20:39
+34504,Steindorfer Mail,Mail Süd 1-5,Sankt Veit an der Glan,9300,46.800983,14.4024476,DIE,Diesel,1.499,2022-03-02 20:39
+1469987,Gerhard Prugger Maltatal Diskont,Malta 175,Malta,9854,46.949817,13.509007,DIE,Diesel,1.499,2022-03-02 20:39
+34817,Lagerhaus Tankstelle,Kötschach 153,Kötschach,9640,46.6721177,13.0032407,DIE,Diesel,1.509,2022-03-02 20:39
+38009,Landesprodukte Scheiber,Jakling 6,St. Andrä,9433,46.7585275,14.8463902,DIE,Diesel,1.52,2022-03-02 20:39
+4405,Diskont Tankstelle,"Ossiacher see strasse (""Hofer""-Parkplatz)",Treffen,9521,46.652264,13.874552,DIE,Diesel,1.523,2022-03-02 20:39
+34570,Lagerhaus,10. Oktoberstrasse 9,Grafenstein,9131,46.6218093,14.4489482,DIE,Diesel,1.523,2022-03-02 20:39
+1355334,Diskont Tankstelle,"Badstubenweg 80 (""Hofer-Parkplatz"")",Villach,9500,46.631153,13.8226038,DIE,Diesel,1.523,2022-03-02 20:39
+1472407,Diskont Tankstelle,"Kärntner Straße 27 (""Hofer-Parkplatz"")",Villach,9500,46.59742,13.83869,DIE,Diesel,1.523,2022-03-02 20:39
+37470,Deutsch-Griffen,Göschelsberg 17,Deutsch-Griffen,9572,46.8493966,14.0861215,DIE,Diesel,1.449,2022-03-02 20:39
+1472687,JET TANKSTELLE,ERMELINDE-KOCH-STRASSE 2,FELDKIRCHEN,9560,46.73206,14.09377,DIE,Diesel,1.479,2022-03-02 20:39
+34504,Steindorfer Mail,Mail Süd 1-5,Sankt Veit an der Glan,9300,46.800983,14.4024476,DIE,Diesel,1.499,2022-03-02 20:39
+1469987,Gerhard Prugger Maltatal Diskont,Malta 175,Malta,9854,46.949817,13.509007,DIE,Diesel,1.499,2022-03-02 20:39
+34817,Lagerhaus Tankstelle,Kötschach 153,Kötschach,9640,46.6721177,13.0032407,DIE,Diesel,1.509,2022-03-02 20:39
+38009,Landesprodukte Scheiber,Jakling 6,St. Andrä,9433,46.7585275,14.8463902,DIE,Diesel,1.52,2022-03-02 20:39
+4405,Diskont Tankstelle,"Ossiacher see strasse (""Hofer""-Parkplatz)",Treffen,9521,46.652264,13.874552,DIE,Diesel,1.523,2022-03-02 20:39
+34570,Lagerhaus,10. Oktoberstrasse 9,Grafenstein,9131,46.6218093,14.4489482,DIE,Diesel,1.523,2022-03-02 20:39
+1355334,Diskont Tankstelle,"Badstubenweg 80 (""Hofer-Parkplatz"")",Villach,9500,46.631153,13.8226038,DIE,Diesel,1.523,2022-03-02 20:39
+1472407,Diskont Tankstelle,"Kärntner Straße 27 (""Hofer-Parkplatz"")",Villach,9500,46.59742,13.83869,DIE,Diesel,1.523,2022-03-02 20:39
+37470,Deutsch-Griffen,Göschelsberg 17,Deutsch-Griffen,9572,46.8493966,14.0861215,DIE,Diesel,1.449,2022-03-02 20:39
+1472687,JET TANKSTELLE,ERMELINDE-KOCH-STRASSE 2,FELDKIRCHEN,9560,46.73206,14.09377,DIE,Diesel,1.479,2022-03-02 20:39
+34504,Steindorfer Mail,Mail Süd 1-5,Sankt Veit an der Glan,9300,46.800983,14.4024476,DIE,Diesel,1.499,2022-03-02 20:39
+1469987,Gerhard Prugger Maltatal Diskont,Malta 175,Malta,9854,46.949817,13.509007,DIE,Diesel,1.499,2022-03-02 20:39
+34817,Lagerhaus Tankstelle,Kötschach 153,Kötschach,9640,46.6721177,13.0032407,DIE,Diesel,1.509,2022-03-02 20:39
+38009,Landesprodukte Scheiber,Jakling 6,St. Andrä,9433,46.7585275,14.8463902,DIE,Diesel,1.52,2022-03-02 20:39
+4405,Diskont Tankstelle,"Ossiacher see strasse (""Hofer""-Parkplatz)",Treffen,9521,46.652264,13.874552,DIE,Diesel,1.523,2022-03-02 20:39
+34570,Lagerhaus,10. Oktoberstrasse 9,Grafenstein,9131,46.6218093,14.4489482,DIE,Diesel,1.523,2022-03-02 20:39
+1355334,Diskont Tankstelle,"Badstubenweg 80 (""Hofer-Parkplatz"")",Villach,9500,46.631153,13.8226038,DIE,Diesel,1.523,2022-03-02 20:39
+1472407,Diskont Tankstelle,"Kärntner Straße 27 (""Hofer-Parkplatz"")",Villach,9500,46.59742,13.83869,DIE,Diesel,1.523,2022-03-02 20:39
+37470,Deutsch-Griffen,Göschelsberg 17,Deutsch-Griffen,9572,46.8493966,14.0861215,DIE,Diesel,1.449,2022-03-02 20:39
+1472687,JET TANKSTELLE,ERMELINDE-KOCH-STRASSE 2,FELDKIRCHEN,9560,46.73206,14.09377,DIE,Diesel,1.479,2022-03-02 20:39
+34504,Steindorfer Mail,Mail Süd 1-5,Sankt Veit an der Glan,9300,46.800983,14.4024476,DIE,Diesel,1.499,2022-03-02 20:39
+1469987,Gerhard Prugger Maltatal Diskont,Malta 175,Malta,9854,46.949817,13.509007,DIE,Diesel,1.499,2022-03-02 20:39
+34817,Lagerhaus Tankstelle,Kötschach 153,Kötschach,9640,46.6721177,13.0032407,DIE,Diesel,1.509,2022-03-02 20:39
+38009,Landesprodukte Scheiber,Jakling 6,St. Andrä,9433,46.7585275,14.8463902,DIE,Diesel,1.52,2022-03-02 20:39
+4405,Diskont Tankstelle,"Ossiacher see strasse (""Hofer""-Parkplatz)",Treffen,9521,46.652264,13.874552,DIE,Diesel,1.523,2022-03-02 20:39
+34570,Lagerhaus,10. Oktoberstrasse 9,Grafenstein,9131,46.6218093,14.4489482,DIE,Diesel,1.523,2022-03-02 20:39
+1355334,Diskont Tankstelle,"Badstubenweg 80 (""Hofer-Parkplatz"")",Villach,9500,46.631153,13.8226038,DIE,Diesel,1.523,2022-03-02 20:39
+1472407,Diskont Tankstelle,"Kärntner Straße 27 (""Hofer-Parkplatz"")",Villach,9500,46.59742,13.83869,DIE,Diesel,1.523,2022-03-02 20:39
+37470,Deutsch-Griffen,Göschelsberg 17,Deutsch-Griffen,9572,46.8493966,14.0861215,DIE,Diesel,1.449,2022-03-02 20:39
+1472687,JET TANKSTELLE,ERMELINDE-KOCH-STRASSE 2,FELDKIRCHEN,9560,46.73206,14.09377,DIE,Diesel,1.479,2022-03-02 20:39
+34504,Steindorfer Mail,Mail Süd 1-5,Sankt Veit an der Glan,9300,46.800983,14.4024476,DIE,Diesel,1.499,2022-03-02 20:39
+1469987,Gerhard Prugger Maltatal Diskont,Malta 175,Malta,9854,46.949817,13.509007,DIE,Diesel,1.499,2022-03-02 20:39
+34817,Lagerhaus Tankstelle,Kötschach 153,Kötschach,9640,46.6721177,13.0032407,DIE,Diesel,1.509,2022-03-02 20:39
+38009,Landesprodukte Scheiber,Jakling 6,St. Andrä,9433,46.7585275,14.8463902,DIE,Diesel,1.52,2022-03-02 20:39
+4405,Diskont Tankstelle,"Ossiacher see strasse (""Hofer""-Parkplatz)",Treffen,9521,46.652264,13.874552,DIE,Diesel,1.523,2022-03-02 20:39
+34570,Lagerhaus,10. Oktoberstrasse 9,Grafenstein,9131,46.6218093,14.4489482,DIE,Diesel,1.523,2022-03-02 20:39
+1355334,Diskont Tankstelle,"Badstubenweg 80 (""Hofer-Parkplatz"")",Villach,9500,46.631153,13.8226038,DIE,Diesel,1.523,2022-03-02 20:39
+1472407,Diskont Tankstelle,"Kärntner Straße 27 (""Hofer-Parkplatz"")",Villach,9500,46.59742,13.83869,DIE,Diesel,1.523,2022-03-02 20:39
+37470,Deutsch-Griffen,Göschelsberg 17,Deutsch-Griffen,9572,46.8493966,14.0861215,DIE,Diesel,1.449,2022-03-02 20:39
+1472687,JET TANKSTELLE,ERMELINDE-KOCH-STRASSE 2,FELDKIRCHEN,9560,46.73206,14.09377,DIE,Diesel,1.479,2022-03-02 20:39
+34504,Steindorfer Mail,Mail Süd 1-5,Sankt Veit an der Glan,9300,46.800983,14.4024476,DIE,Diesel,1.499,2022-03-02 20:39
+1469987,Gerhard Prugger Maltatal Diskont,Malta 175,Malta,9854,46.949817,13.509007,DIE,Diesel,1.499,2022-03-02 20:39
+34817,Lagerhaus Tankstelle,Kötschach 153,Kötschach,9640,46.6721177,13.0032407,DIE,Diesel,1.509,2022-03-02 20:39
+38009,Landesprodukte Scheiber,Jakling 6,St. Andrä,9433,46.7585275,14.8463902,DIE,Diesel,1.52,2022-03-02 20:39
+4405,Diskont Tankstelle,"Ossiacher see strasse (""Hofer""-Parkplatz)",Treffen,9521,46.652264,13.874552,DIE,Diesel,1.523,2022-03-02 20:39
+34570,Lagerhaus,10. Oktoberstrasse 9,Grafenstein,9131,46.6218093,14.4489482,DIE,Diesel,1.523,2022-03-02 20:39
+1355334,Diskont Tankstelle,"Badstubenweg 80 (""Hofer-Parkplatz"")",Villach,9500,46.631153,13.8226038,DIE,Diesel,1.523,2022-03-02 20:39
+1472407,Diskont Tankstelle,"Kärntner Straße 27 (""Hofer-Parkplatz"")",Villach,9500,46.59742,13.83869,DIE,Diesel,1.523,2022-03-02 20:39
+37470,Deutsch-Griffen,Göschelsberg 17,Deutsch-Griffen,9572,46.8493966,14.0861215,DIE,Diesel,1.449,2022-03-02 20:39
+1472687,JET TANKSTELLE,ERMELINDE-KOCH-STRASSE 2,FELDKIRCHEN,9560,46.73206,14.09377,DIE,Diesel,1.479,2022-03-02 20:39
+34504,Steindorfer Mail,Mail Süd 1-5,Sankt Veit an der Glan,9300,46.800983,14.4024476,DIE,Diesel,1.499,2022-03-02 20:39
+1469987,Gerhard Prugger Maltatal Diskont,Malta 175,Malta,9854,46.949817,13.509007,DIE,Diesel,1.499,2022-03-02 20:39
+34817,Lagerhaus Tankstelle,Kötschach 153,Kötschach,9640,46.6721177,13.0032407,DIE,Diesel,1.509,2022-03-02 20:39
+38009,Landesprodukte Scheiber,Jakling 6,St. Andrä,9433,46.7585275,14.8463902,DIE,Diesel,1.52,2022-03-02 20:39
+4405,Diskont Tankstelle,"Ossiacher see strasse (""Hofer""-Parkplatz)",Treffen,9521,46.652264,13.874552,DIE,Diesel,1.523,2022-03-02 20:39
+34570,Lagerhaus,10. Oktoberstrasse 9,Grafenstein,9131,46.6218093,14.4489482,DIE,Diesel,1.523,2022-03-02 20:39
+1355334,Diskont Tankstelle,"Badstubenweg 80 (""Hofer-Parkplatz"")",Villach,9500,46.631153,13.8226038,DIE,Diesel,1.523,2022-03-02 20:39
+1472407,Diskont Tankstelle,"Kärntner Straße 27 (""Hofer-Parkplatz"")",Villach,9500,46.59742,13.83869,DIE,Diesel,1.523,2022-03-02 20:39
+37470,Deutsch-Griffen,Göschelsberg 17,Deutsch-Griffen,9572,46.8493966,14.0861215,DIE,Diesel,1.449,2022-03-02 20:39
+1472687,JET TANKSTELLE,ERMELINDE-KOCH-STRASSE 2,FELDKIRCHEN,9560,46.73206,14.09377,DIE,Diesel,1.479,2022-03-02 20:39
+34504,Steindorfer Mail,Mail Süd 1-5,Sankt Veit an der Glan,9300,46.800983,14.4024476,DIE,Diesel,1.499,2022-03-02 20:39
+1469987,Gerhard Prugger Maltatal Diskont,Malta 175,Malta,9854,46.949817,13.509007,DIE,Diesel,1.499,2022-03-02 20:39
+34817,Lagerhaus Tankstelle,Kötschach 153,Kötschach,9640,46.6721177,13.0032407,DIE,Diesel,1.509,2022-03-02 20:39
+38009,Landesprodukte Scheiber,Jakling 6,St. Andrä,9433,46.7585275,14.8463902,DIE,Diesel,1.52,2022-03-02 20:39
+4405,Diskont Tankstelle,"Ossiacher see strasse (""Hofer""-Parkplatz)",Treffen,9521,46.652264,13.874552,DIE,Diesel,1.523,2022-03-02 20:39
+34570,Lagerhaus,10. Oktoberstrasse 9,Grafenstein,9131,46.6218093,14.4489482,DIE,Diesel,1.523,2022-03-02 20:39
+1355334,Diskont Tankstelle,"Badstubenweg 80 (""Hofer-Parkplatz"")",Villach,9500,46.631153,13.8226038,DIE,Diesel,1.523,2022-03-02 20:39
+1472407,Diskont Tankstelle,"Kärntner Straße 27 (""Hofer-Parkplatz"")",Villach,9500,46.59742,13.83869,DIE,Diesel,1.523,2022-03-02 20:39
+37470,Deutsch-Griffen,Göschelsberg 17,Deutsch-Griffen,9572,46.8493966,14.0861215,DIE,Diesel,1.449,2022-03-02 20:39
+1472687,JET TANKSTELLE,ERMELINDE-KOCH-STRASSE 2,FELDKIRCHEN,9560,46.73206,14.09377,DIE,Diesel,1.479,2022-03-02 20:39
+34504,Steindorfer Mail,Mail Süd 1-5,Sankt Veit an der Glan,9300,46.800983,14.4024476,DIE,Diesel,1.499,2022-03-02 20:39
+1469987,Gerhard Prugger Maltatal Diskont,Malta 175,Malta,9854,46.949817,13.509007,DIE,Diesel,1.499,2022-03-02 20:39
+34817,Lagerhaus Tankstelle,Kötschach 153,Kötschach,9640,46.6721177,13.0032407,DIE,Diesel,1.509,2022-03-02 20:39
+38009,Landesprodukte Scheiber,Jakling 6,St. Andrä,9433,46.7585275,14.8463902,DIE,Diesel,1.52,2022-03-02 20:39
+4405,Diskont Tankstelle,"Ossiacher see strasse (""Hofer""-Parkplatz)",Treffen,9521,46.652264,13.874552,DIE,Diesel,1.523,2022-03-02 20:39
+34570,Lagerhaus,10. Oktoberstrasse 9,Grafenstein,9131,46.6218093,14.4489482,DIE,Diesel,1.523,2022-03-02 20:39
+1355334,Diskont Tankstelle,"Badstubenweg 80 (""Hofer-Parkplatz"")",Villach,9500,46.631153,13.8226038,DIE,Diesel,1.523,2022-03-02 20:39
+1472407,Diskont Tankstelle,"Kärntner Straße 27 (""Hofer-Parkplatz"")",Villach,9500,46.59742,13.83869,DIE,Diesel,1.523,2022-03-02 20:39
+33481,Paulischin , Puchbergerstraße 257,Weikersdorf,2722,47.806022,16.180545,DIE,Diesel,1.459,2022-03-02 20:39
+819631,"""M3 TANKSTELLE"" PUCHBERG ",SCHNEEBERG 29,PUCHBERG AM SCHNEEBERG,2734,47.7887601,15.9091111,DIE,Diesel,1.459,2022-03-02 20:39
+33480,Paulischin, Unternbergweg 1,Puchberg,2734,47.7917642,15.8960945,DIE,Diesel,1.464,2022-03-02 20:39
+27336,Rickl Mühle,Raggendorfer Straße 1,Groß Schweinbarth,2221,48.4018614,16.6461741,DIE,Diesel,1.468,2022-03-02 20:39
+1470206,JET TANKSTELLE,ST. POELTNER STRASSE 1 C,WILHELMSBURG,3150,48.11764,15.608591,DIE,Diesel,1.468,2022-03-02 20:39
+6412,GENOL - Lagerhaus,Sägemühle 2,Krumbach,2851,47.5032608,16.2044289,DIE,Diesel,1.469,2022-03-02 20:39
+259032,Diskont Tankstelle,"Gewerbestraße 2 (""Am Hofer Parkplatz"")",Traisen,3160,48.049897,15.612339,DIE,Diesel,1.469,2022-03-02 20:39
+1354734,avanti - Traisen Mariazeller Straße 38a,Mariazeller Strasse 38a,Traisen,3160,48.04857,15.60983,DIE,Diesel,1.469,2022-03-02 20:39
+33291,Diesel-Benzin-Diskont Groiss ,Josef-Jessernigg-Straße 3,Stockerau,2000,48.387907,16.232125,DIE,Diesel,1.476,2022-03-02 20:39
+7812,Vivod GmbH,Laaberstrasse 1,Breitenfurt,2384,48.1381917,16.2038779,DIE,Diesel,1.477,2022-03-02 20:39
+33481,Paulischin , Puchbergerstraße 257,Weikersdorf,2722,47.806022,16.180545,DIE,Diesel,1.459,2022-03-02 20:39
+819631,"""M3 TANKSTELLE"" PUCHBERG ",SCHNEEBERG 29,PUCHBERG AM SCHNEEBERG,2734,47.7887601,15.9091111,DIE,Diesel,1.459,2022-03-02 20:39
+33480,Paulischin, Unternbergweg 1,Puchberg,2734,47.7917642,15.8960945,DIE,Diesel,1.464,2022-03-02 20:39
+27336,Rickl Mühle,Raggendorfer Straße 1,Groß Schweinbarth,2221,48.4018614,16.6461741,DIE,Diesel,1.468,2022-03-02 20:39
+1470206,JET TANKSTELLE,ST. POELTNER STRASSE 1 C,WILHELMSBURG,3150,48.11764,15.608591,DIE,Diesel,1.468,2022-03-02 20:39
+6412,GENOL - Lagerhaus,Sägemühle 2,Krumbach,2851,47.5032608,16.2044289,DIE,Diesel,1.469,2022-03-02 20:39
+259032,Diskont Tankstelle,"Gewerbestraße 2 (""Am Hofer Parkplatz"")",Traisen,3160,48.049897,15.612339,DIE,Diesel,1.469,2022-03-02 20:39
+1354734,avanti - Traisen Mariazeller Straße 38a,Mariazeller Strasse 38a,Traisen,3160,48.04857,15.60983,DIE,Diesel,1.469,2022-03-02 20:39
+33291,Diesel-Benzin-Diskont Groiss ,Josef-Jessernigg-Straße 3,Stockerau,2000,48.387907,16.232125,DIE,Diesel,1.476,2022-03-02 20:39
+7812,Vivod GmbH,Laaberstrasse 1,Breitenfurt,2384,48.1381917,16.2038779,DIE,Diesel,1.477,2022-03-02 20:39
+33481,Paulischin , Puchbergerstraße 257,Weikersdorf,2722,47.806022,16.180545,DIE,Diesel,1.459,2022-03-02 20:39
+819631,"""M3 TANKSTELLE"" PUCHBERG ",SCHNEEBERG 29,PUCHBERG AM SCHNEEBERG,2734,47.7887601,15.9091111,DIE,Diesel,1.459,2022-03-02 20:39
+33480,Paulischin, Unternbergweg 1,Puchberg,2734,47.7917642,15.8960945,DIE,Diesel,1.464,2022-03-02 20:39
+27336,Rickl Mühle,Raggendorfer Straße 1,Groß Schweinbarth,2221,48.4018614,16.6461741,DIE,Diesel,1.468,2022-03-02 20:39
+1470206,JET TANKSTELLE,ST. POELTNER STRASSE 1 C,WILHELMSBURG,3150,48.11764,15.608591,DIE,Diesel,1.468,2022-03-02 20:39
+6412,GENOL - Lagerhaus,Sägemühle 2,Krumbach,2851,47.5032608,16.2044289,DIE,Diesel,1.469,2022-03-02 20:39
+259032,Diskont Tankstelle,"Gewerbestraße 2 (""Am Hofer Parkplatz"")",Traisen,3160,48.049897,15.612339,DIE,Diesel,1.469,2022-03-02 20:39
+1354734,avanti - Traisen Mariazeller Straße 38a,Mariazeller Strasse 38a,Traisen,3160,48.04857,15.60983,DIE,Diesel,1.469,2022-03-02 20:39
+33291,Diesel-Benzin-Diskont Groiss ,Josef-Jessernigg-Straße 3,Stockerau,2000,48.387907,16.232125,DIE,Diesel,1.476,2022-03-02 20:39
+7812,Vivod GmbH,Laaberstrasse 1,Breitenfurt,2384,48.1381917,16.2038779,DIE,Diesel,1.477,2022-03-02 20:39
+33481,Paulischin , Puchbergerstraße 257,Weikersdorf,2722,47.806022,16.180545,DIE,Diesel,1.459,2022-03-02 20:39
+819631,"""M3 TANKSTELLE"" PUCHBERG ",SCHNEEBERG 29,PUCHBERG AM SCHNEEBERG,2734,47.7887601,15.9091111,DIE,Diesel,1.459,2022-03-02 20:39
+33480,Paulischin, Unternbergweg 1,Puchberg,2734,47.7917642,15.8960945,DIE,Diesel,1.464,2022-03-02 20:39
+27336,Rickl Mühle,Raggendorfer Straße 1,Groß Schweinbarth,2221,48.4018614,16.6461741,DIE,Diesel,1.468,2022-03-02 20:39
+1470206,JET TANKSTELLE,ST. POELTNER STRASSE 1 C,WILHELMSBURG,3150,48.11764,15.608591,DIE,Diesel,1.468,2022-03-02 20:39
+6412,GENOL - Lagerhaus,Sägemühle 2,Krumbach,2851,47.5032608,16.2044289,DIE,Diesel,1.469,2022-03-02 20:39
+259032,Diskont Tankstelle,"Gewerbestraße 2 (""Am Hofer Parkplatz"")",Traisen,3160,48.049897,15.612339,DIE,Diesel,1.469,2022-03-02 20:39
+1354734,avanti - Traisen Mariazeller Straße 38a,Mariazeller Strasse 38a,Traisen,3160,48.04857,15.60983,DIE,Diesel,1.469,2022-03-02 20:39
+33291,Diesel-Benzin-Diskont Groiss ,Josef-Jessernigg-Straße 3,Stockerau,2000,48.387907,16.232125,DIE,Diesel,1.476,2022-03-02 20:39
+7812,Vivod GmbH,Laaberstrasse 1,Breitenfurt,2384,48.1381917,16.2038779,DIE,Diesel,1.477,2022-03-02 20:39
+33481,Paulischin , Puchbergerstraße 257,Weikersdorf,2722,47.806022,16.180545,DIE,Diesel,1.459,2022-03-02 20:39
+819631,"""M3 TANKSTELLE"" PUCHBERG ",SCHNEEBERG 29,PUCHBERG AM SCHNEEBERG,2734,47.7887601,15.9091111,DIE,Diesel,1.459,2022-03-02 20:39
+33480,Paulischin, Unternbergweg 1,Puchberg,2734,47.7917642,15.8960945,DIE,Diesel,1.464,2022-03-02 20:39
+27336,Rickl Mühle,Raggendorfer Straße 1,Groß Schweinbarth,2221,48.4018614,16.6461741,DIE,Diesel,1.468,2022-03-02 20:39
+1470206,JET TANKSTELLE,ST. POELTNER STRASSE 1 C,WILHELMSBURG,3150,48.11764,15.608591,DIE,Diesel,1.468,2022-03-02 20:39
+6412,GENOL - Lagerhaus,Sägemühle 2,Krumbach,2851,47.5032608,16.2044289,DIE,Diesel,1.469,2022-03-02 20:39
+259032,Diskont Tankstelle,"Gewerbestraße 2 (""Am Hofer Parkplatz"")",Traisen,3160,48.049897,15.612339,DIE,Diesel,1.469,2022-03-02 20:39
+1354734,avanti - Traisen Mariazeller Straße 38a,Mariazeller Strasse 38a,Traisen,3160,48.04857,15.60983,DIE,Diesel,1.469,2022-03-02 20:39
+33291,Diesel-Benzin-Diskont Groiss ,Josef-Jessernigg-Straße 3,Stockerau,2000,48.387907,16.232125,DIE,Diesel,1.476,2022-03-02 20:39
+7812,Vivod GmbH,Laaberstrasse 1,Breitenfurt,2384,48.1381917,16.2038779,DIE,Diesel,1.477,2022-03-02 20:39
+33481,Paulischin , Puchbergerstraße 257,Weikersdorf,2722,47.806022,16.180545,DIE,Diesel,1.459,2022-03-02 20:39
+819631,"""M3 TANKSTELLE"" PUCHBERG ",SCHNEEBERG 29,PUCHBERG AM SCHNEEBERG,2734,47.7887601,15.9091111,DIE,Diesel,1.459,2022-03-02 20:39
+33480,Paulischin, Unternbergweg 1,Puchberg,2734,47.7917642,15.8960945,DIE,Diesel,1.464,2022-03-02 20:39
+27336,Rickl Mühle,Raggendorfer Straße 1,Groß Schweinbarth,2221,48.4018614,16.6461741,DIE,Diesel,1.468,2022-03-02 20:39
+1470206,JET TANKSTELLE,ST. POELTNER STRASSE 1 C,WILHELMSBURG,3150,48.11764,15.608591,DIE,Diesel,1.468,2022-03-02 20:39
+6412,GENOL - Lagerhaus,Sägemühle 2,Krumbach,2851,47.5032608,16.2044289,DIE,Diesel,1.469,2022-03-02 20:39
+259032,Diskont Tankstelle,"Gewerbestraße 2 (""Am Hofer Parkplatz"")",Traisen,3160,48.049897,15.612339,DIE,Diesel,1.469,2022-03-02 20:39
+1354734,avanti - Traisen Mariazeller Straße 38a,Mariazeller Strasse 38a,Traisen,3160,48.04857,15.60983,DIE,Diesel,1.469,2022-03-02 20:39
+33291,Diesel-Benzin-Diskont Groiss ,Josef-Jessernigg-Straße 3,Stockerau,2000,48.387907,16.232125,DIE,Diesel,1.476,2022-03-02 20:39
+7812,Vivod GmbH,Laaberstrasse 1,Breitenfurt,2384,48.1381917,16.2038779,DIE,Diesel,1.477,2022-03-02 20:39
+33481,Paulischin , Puchbergerstraße 257,Weikersdorf,2722,47.806022,16.180545,DIE,Diesel,1.459,2022-03-02 20:39
+819631,"""M3 TANKSTELLE"" PUCHBERG ",SCHNEEBERG 29,PUCHBERG AM SCHNEEBERG,2734,47.7887601,15.9091111,DIE,Diesel,1.459,2022-03-02 20:39
+33480,Paulischin, Unternbergweg 1,Puchberg,2734,47.7917642,15.8960945,DIE,Diesel,1.464,2022-03-02 20:39
+27336,Rickl Mühle,Raggendorfer Straße 1,Groß Schweinbarth,2221,48.4018614,16.6461741,DIE,Diesel,1.468,2022-03-02 20:39
+1470206,JET TANKSTELLE,ST. POELTNER STRASSE 1 C,WILHELMSBURG,3150,48.11764,15.608591,DIE,Diesel,1.468,2022-03-02 20:39
+6412,GENOL - Lagerhaus,Sägemühle 2,Krumbach,2851,47.5032608,16.2044289,DIE,Diesel,1.469,2022-03-02 20:39
+259032,Diskont Tankstelle,"Gewerbestraße 2 (""Am Hofer Parkplatz"")",Traisen,3160,48.049897,15.612339,DIE,Diesel,1.469,2022-03-02 20:39
+1354734,avanti - Traisen Mariazeller Straße 38a,Mariazeller Strasse 38a,Traisen,3160,48.04857,15.60983,DIE,Diesel,1.469,2022-03-02 20:39
+33291,Diesel-Benzin-Diskont Groiss ,Josef-Jessernigg-Straße 3,Stockerau,2000,48.387907,16.232125,DIE,Diesel,1.476,2022-03-02 20:39
+7812,Vivod GmbH,Laaberstrasse 1,Breitenfurt,2384,48.1381917,16.2038779,DIE,Diesel,1.477,2022-03-02 20:39
+33481,Paulischin , Puchbergerstraße 257,Weikersdorf,2722,47.806022,16.180545,DIE,Diesel,1.459,2022-03-02 20:39
+819631,"""M3 TANKSTELLE"" PUCHBERG ",SCHNEEBERG 29,PUCHBERG AM SCHNEEBERG,2734,47.7887601,15.9091111,DIE,Diesel,1.459,2022-03-02 20:39
+33480,Paulischin, Unternbergweg 1,Puchberg,2734,47.7917642,15.8960945,DIE,Diesel,1.464,2022-03-02 20:39
+27336,Rickl Mühle,Raggendorfer Straße 1,Groß Schweinbarth,2221,48.4018614,16.6461741,DIE,Diesel,1.468,2022-03-02 20:39
+1470206,JET TANKSTELLE,ST. POELTNER STRASSE 1 C,WILHELMSBURG,3150,48.11764,15.608591,DIE,Diesel,1.468,2022-03-02 20:39
+6412,GENOL - Lagerhaus,Sägemühle 2,Krumbach,2851,47.5032608,16.2044289,DIE,Diesel,1.469,2022-03-02 20:39
+259032,Diskont Tankstelle,"Gewerbestraße 2 (""Am Hofer Parkplatz"")",Traisen,3160,48.049897,15.612339,DIE,Diesel,1.469,2022-03-02 20:39
+1354734,avanti - Traisen Mariazeller Straße 38a,Mariazeller Strasse 38a,Traisen,3160,48.04857,15.60983,DIE,Diesel,1.469,2022-03-02 20:39
+33291,Diesel-Benzin-Diskont Groiss ,Josef-Jessernigg-Straße 3,Stockerau,2000,48.387907,16.232125,DIE,Diesel,1.476,2022-03-02 20:39
+7812,Vivod GmbH,Laaberstrasse 1,Breitenfurt,2384,48.1381917,16.2038779,DIE,Diesel,1.477,2022-03-02 20:39
+33481,Paulischin , Puchbergerstraße 257,Weikersdorf,2722,47.806022,16.180545,DIE,Diesel,1.459,2022-03-02 20:39
+819631,"""M3 TANKSTELLE"" PUCHBERG ",SCHNEEBERG 29,PUCHBERG AM SCHNEEBERG,2734,47.7887601,15.9091111,DIE,Diesel,1.459,2022-03-02 20:39
+33480,Paulischin, Unternbergweg 1,Puchberg,2734,47.7917642,15.8960945,DIE,Diesel,1.464,2022-03-02 20:39
+27336,Rickl Mühle,Raggendorfer Straße 1,Groß Schweinbarth,2221,48.4018614,16.6461741,DIE,Diesel,1.468,2022-03-02 20:39
+1470206,JET TANKSTELLE,ST. POELTNER STRASSE 1 C,WILHELMSBURG,3150,48.11764,15.608591,DIE,Diesel,1.468,2022-03-02 20:39
+6412,GENOL - Lagerhaus,Sägemühle 2,Krumbach,2851,47.5032608,16.2044289,DIE,Diesel,1.469,2022-03-02 20:39
+259032,Diskont Tankstelle,"Gewerbestraße 2 (""Am Hofer Parkplatz"")",Traisen,3160,48.049897,15.612339,DIE,Diesel,1.469,2022-03-02 20:39
+1354734,avanti - Traisen Mariazeller Straße 38a,Mariazeller Strasse 38a,Traisen,3160,48.04857,15.60983,DIE,Diesel,1.469,2022-03-02 20:39
+33291,Diesel-Benzin-Diskont Groiss ,Josef-Jessernigg-Straße 3,Stockerau,2000,48.387907,16.232125,DIE,Diesel,1.476,2022-03-02 20:39
+7812,Vivod GmbH,Laaberstrasse 1,Breitenfurt,2384,48.1381917,16.2038779,DIE,Diesel,1.477,2022-03-02 20:39
+33481,Paulischin , Puchbergerstraße 257,Weikersdorf,2722,47.806022,16.180545,DIE,Diesel,1.459,2022-03-02 20:39
+819631,"""M3 TANKSTELLE"" PUCHBERG ",SCHNEEBERG 29,PUCHBERG AM SCHNEEBERG,2734,47.7887601,15.9091111,DIE,Diesel,1.459,2022-03-02 20:39
+33480,Paulischin, Unternbergweg 1,Puchberg,2734,47.7917642,15.8960945,DIE,Diesel,1.464,2022-03-02 20:39
+27336,Rickl Mühle,Raggendorfer Straße 1,Groß Schweinbarth,2221,48.4018614,16.6461741,DIE,Diesel,1.468,2022-03-02 20:39
+1470206,JET TANKSTELLE,ST. POELTNER STRASSE 1 C,WILHELMSBURG,3150,48.11764,15.608591,DIE,Diesel,1.468,2022-03-02 20:39
+6412,GENOL - Lagerhaus,Sägemühle 2,Krumbach,2851,47.5032608,16.2044289,DIE,Diesel,1.469,2022-03-02 20:39
+259032,Diskont Tankstelle,"Gewerbestraße 2 (""Am Hofer Parkplatz"")",Traisen,3160,48.049897,15.612339,DIE,Diesel,1.469,2022-03-02 20:39
+1354734,avanti - Traisen Mariazeller Straße 38a,Mariazeller Strasse 38a,Traisen,3160,48.04857,15.60983,DIE,Diesel,1.469,2022-03-02 20:39
+33291,Diesel-Benzin-Diskont Groiss ,Josef-Jessernigg-Straße 3,Stockerau,2000,48.387907,16.232125,DIE,Diesel,1.476,2022-03-02 20:39
+7812,Vivod GmbH,Laaberstrasse 1,Breitenfurt,2384,48.1381917,16.2038779,DIE,Diesel,1.477,2022-03-02 20:39
+33481,Paulischin , Puchbergerstraße 257,Weikersdorf,2722,47.806022,16.180545,DIE,Diesel,1.459,2022-03-02 20:39
+819631,"""M3 TANKSTELLE"" PUCHBERG ",SCHNEEBERG 29,PUCHBERG AM SCHNEEBERG,2734,47.7887601,15.9091111,DIE,Diesel,1.459,2022-03-02 20:39
+33480,Paulischin, Unternbergweg 1,Puchberg,2734,47.7917642,15.8960945,DIE,Diesel,1.464,2022-03-02 20:39
+27336,Rickl Mühle,Raggendorfer Straße 1,Groß Schweinbarth,2221,48.4018614,16.6461741,DIE,Diesel,1.468,2022-03-02 20:39
+1470206,JET TANKSTELLE,ST. POELTNER STRASSE 1 C,WILHELMSBURG,3150,48.11764,15.608591,DIE,Diesel,1.468,2022-03-02 20:39
+6412,GENOL - Lagerhaus,Sägemühle 2,Krumbach,2851,47.5032608,16.2044289,DIE,Diesel,1.469,2022-03-02 20:39
+259032,Diskont Tankstelle,"Gewerbestraße 2 (""Am Hofer Parkplatz"")",Traisen,3160,48.049897,15.612339,DIE,Diesel,1.469,2022-03-02 20:39
+1354734,avanti - Traisen Mariazeller Straße 38a,Mariazeller Strasse 38a,Traisen,3160,48.04857,15.60983,DIE,Diesel,1.469,2022-03-02 20:39
+33291,Diesel-Benzin-Diskont Groiss ,Josef-Jessernigg-Straße 3,Stockerau,2000,48.387907,16.232125,DIE,Diesel,1.476,2022-03-02 20:39
+7812,Vivod GmbH,Laaberstrasse 1,Breitenfurt,2384,48.1381917,16.2038779,DIE,Diesel,1.477,2022-03-02 20:39
+33481,Paulischin , Puchbergerstraße 257,Weikersdorf,2722,47.806022,16.180545,DIE,Diesel,1.459,2022-03-02 20:39
+819631,"""M3 TANKSTELLE"" PUCHBERG ",SCHNEEBERG 29,PUCHBERG AM SCHNEEBERG,2734,47.7887601,15.9091111,DIE,Diesel,1.459,2022-03-02 20:39
+33480,Paulischin, Unternbergweg 1,Puchberg,2734,47.7917642,15.8960945,DIE,Diesel,1.464,2022-03-02 20:39
+27336,Rickl Mühle,Raggendorfer Straße 1,Groß Schweinbarth,2221,48.4018614,16.6461741,DIE,Diesel,1.468,2022-03-02 20:39
+1470206,JET TANKSTELLE,ST. POELTNER STRASSE 1 C,WILHELMSBURG,3150,48.11764,15.608591,DIE,Diesel,1.468,2022-03-02 20:39
+6412,GENOL - Lagerhaus,Sägemühle 2,Krumbach,2851,47.5032608,16.2044289,DIE,Diesel,1.469,2022-03-02 20:39
+259032,Diskont Tankstelle,"Gewerbestraße 2 (""Am Hofer Parkplatz"")",Traisen,3160,48.049897,15.612339,DIE,Diesel,1.469,2022-03-02 20:39
+1354734,avanti - Traisen Mariazeller Straße 38a,Mariazeller Strasse 38a,Traisen,3160,48.04857,15.60983,DIE,Diesel,1.469,2022-03-02 20:39
+33291,Diesel-Benzin-Diskont Groiss ,Josef-Jessernigg-Straße 3,Stockerau,2000,48.387907,16.232125,DIE,Diesel,1.476,2022-03-02 20:39
+7812,Vivod GmbH,Laaberstrasse 1,Breitenfurt,2384,48.1381917,16.2038779,DIE,Diesel,1.477,2022-03-02 20:39
+33481,Paulischin , Puchbergerstraße 257,Weikersdorf,2722,47.806022,16.180545,DIE,Diesel,1.459,2022-03-02 20:39
+819631,"""M3 TANKSTELLE"" PUCHBERG ",SCHNEEBERG 29,PUCHBERG AM SCHNEEBERG,2734,47.7887601,15.9091111,DIE,Diesel,1.459,2022-03-02 20:39
+33480,Paulischin, Unternbergweg 1,Puchberg,2734,47.7917642,15.8960945,DIE,Diesel,1.464,2022-03-02 20:39
+27336,Rickl Mühle,Raggendorfer Straße 1,Groß Schweinbarth,2221,48.4018614,16.6461741,DIE,Diesel,1.468,2022-03-02 20:39
+1470206,JET TANKSTELLE,ST. POELTNER STRASSE 1 C,WILHELMSBURG,3150,48.11764,15.608591,DIE,Diesel,1.468,2022-03-02 20:39
+6412,GENOL - Lagerhaus,Sägemühle 2,Krumbach,2851,47.5032608,16.2044289,DIE,Diesel,1.469,2022-03-02 20:39
+259032,Diskont Tankstelle,"Gewerbestraße 2 (""Am Hofer Parkplatz"")",Traisen,3160,48.049897,15.612339,DIE,Diesel,1.469,2022-03-02 20:39
+1354734,avanti - Traisen Mariazeller Straße 38a,Mariazeller Strasse 38a,Traisen,3160,48.04857,15.60983,DIE,Diesel,1.469,2022-03-02 20:39
+33291,Diesel-Benzin-Diskont Groiss ,Josef-Jessernigg-Straße 3,Stockerau,2000,48.387907,16.232125,DIE,Diesel,1.476,2022-03-02 20:39
+7812,Vivod GmbH,Laaberstrasse 1,Breitenfurt,2384,48.1381917,16.2038779,DIE,Diesel,1.477,2022-03-02 20:39
+33481,Paulischin , Puchbergerstraße 257,Weikersdorf,2722,47.806022,16.180545,DIE,Diesel,1.459,2022-03-02 20:39
+819631,"""M3 TANKSTELLE"" PUCHBERG ",SCHNEEBERG 29,PUCHBERG AM SCHNEEBERG,2734,47.7887601,15.9091111,DIE,Diesel,1.459,2022-03-02 20:39
+33480,Paulischin, Unternbergweg 1,Puchberg,2734,47.7917642,15.8960945,DIE,Diesel,1.464,2022-03-02 20:39
+27336,Rickl Mühle,Raggendorfer Straße 1,Groß Schweinbarth,2221,48.4018614,16.6461741,DIE,Diesel,1.468,2022-03-02 20:39
+1470206,JET TANKSTELLE,ST. POELTNER STRASSE 1 C,WILHELMSBURG,3150,48.11764,15.608591,DIE,Diesel,1.468,2022-03-02 20:39
+6412,GENOL - Lagerhaus,Sägemühle 2,Krumbach,2851,47.5032608,16.2044289,DIE,Diesel,1.469,2022-03-02 20:39
+259032,Diskont Tankstelle,"Gewerbestraße 2 (""Am Hofer Parkplatz"")",Traisen,3160,48.049897,15.612339,DIE,Diesel,1.469,2022-03-02 20:39
+1354734,avanti - Traisen Mariazeller Straße 38a,Mariazeller Strasse 38a,Traisen,3160,48.04857,15.60983,DIE,Diesel,1.469,2022-03-02 20:39
+33291,Diesel-Benzin-Diskont Groiss ,Josef-Jessernigg-Straße 3,Stockerau,2000,48.387907,16.232125,DIE,Diesel,1.476,2022-03-02 20:39
+7812,Vivod GmbH,Laaberstrasse 1,Breitenfurt,2384,48.1381917,16.2038779,DIE,Diesel,1.477,2022-03-02 20:39
+33481,Paulischin , Puchbergerstraße 257,Weikersdorf,2722,47.806022,16.180545,DIE,Diesel,1.459,2022-03-02 20:39
+819631,"""M3 TANKSTELLE"" PUCHBERG ",SCHNEEBERG 29,PUCHBERG AM SCHNEEBERG,2734,47.7887601,15.9091111,DIE,Diesel,1.459,2022-03-02 20:39
+33480,Paulischin, Unternbergweg 1,Puchberg,2734,47.7917642,15.8960945,DIE,Diesel,1.464,2022-03-02 20:39
+27336,Rickl Mühle,Raggendorfer Straße 1,Groß Schweinbarth,2221,48.4018614,16.6461741,DIE,Diesel,1.468,2022-03-02 20:39
+1470206,JET TANKSTELLE,ST. POELTNER STRASSE 1 C,WILHELMSBURG,3150,48.11764,15.608591,DIE,Diesel,1.468,2022-03-02 20:39
+6412,GENOL - Lagerhaus,Sägemühle 2,Krumbach,2851,47.5032608,16.2044289,DIE,Diesel,1.469,2022-03-02 20:39
+259032,Diskont Tankstelle,"Gewerbestraße 2 (""Am Hofer Parkplatz"")",Traisen,3160,48.049897,15.612339,DIE,Diesel,1.469,2022-03-02 20:39
+1354734,avanti - Traisen Mariazeller Straße 38a,Mariazeller Strasse 38a,Traisen,3160,48.04857,15.60983,DIE,Diesel,1.469,2022-03-02 20:39
+33291,Diesel-Benzin-Diskont Groiss ,Josef-Jessernigg-Straße 3,Stockerau,2000,48.387907,16.232125,DIE,Diesel,1.476,2022-03-02 20:39
+7812,Vivod GmbH,Laaberstrasse 1,Breitenfurt,2384,48.1381917,16.2038779,DIE,Diesel,1.477,2022-03-02 20:39
+33481,Paulischin , Puchbergerstraße 257,Weikersdorf,2722,47.806022,16.180545,DIE,Diesel,1.459,2022-03-02 20:39
+819631,"""M3 TANKSTELLE"" PUCHBERG ",SCHNEEBERG 29,PUCHBERG AM SCHNEEBERG,2734,47.7887601,15.9091111,DIE,Diesel,1.459,2022-03-02 20:39
+33480,Paulischin, Unternbergweg 1,Puchberg,2734,47.7917642,15.8960945,DIE,Diesel,1.464,2022-03-02 20:39
+27336,Rickl Mühle,Raggendorfer Straße 1,Groß Schweinbarth,2221,48.4018614,16.6461741,DIE,Diesel,1.468,2022-03-02 20:39
+1470206,JET TANKSTELLE,ST. POELTNER STRASSE 1 C,WILHELMSBURG,3150,48.11764,15.608591,DIE,Diesel,1.468,2022-03-02 20:39
+6412,GENOL - Lagerhaus,Sägemühle 2,Krumbach,2851,47.5032608,16.2044289,DIE,Diesel,1.469,2022-03-02 20:39
+259032,Diskont Tankstelle,"Gewerbestraße 2 (""Am Hofer Parkplatz"")",Traisen,3160,48.049897,15.612339,DIE,Diesel,1.469,2022-03-02 20:39
+1354734,avanti - Traisen Mariazeller Straße 38a,Mariazeller Strasse 38a,Traisen,3160,48.04857,15.60983,DIE,Diesel,1.469,2022-03-02 20:39
+33291,Diesel-Benzin-Diskont Groiss ,Josef-Jessernigg-Straße 3,Stockerau,2000,48.387907,16.232125,DIE,Diesel,1.476,2022-03-02 20:39
+7812,Vivod GmbH,Laaberstrasse 1,Breitenfurt,2384,48.1381917,16.2038779,DIE,Diesel,1.477,2022-03-02 20:39
+33481,Paulischin , Puchbergerstraße 257,Weikersdorf,2722,47.806022,16.180545,DIE,Diesel,1.459,2022-03-02 20:39
+819631,"""M3 TANKSTELLE"" PUCHBERG ",SCHNEEBERG 29,PUCHBERG AM SCHNEEBERG,2734,47.7887601,15.9091111,DIE,Diesel,1.459,2022-03-02 20:39
+33480,Paulischin, Unternbergweg 1,Puchberg,2734,47.7917642,15.8960945,DIE,Diesel,1.464,2022-03-02 20:39
+27336,Rickl Mühle,Raggendorfer Straße 1,Groß Schweinbarth,2221,48.4018614,16.6461741,DIE,Diesel,1.468,2022-03-02 20:39
+1470206,JET TANKSTELLE,ST. POELTNER STRASSE 1 C,WILHELMSBURG,3150,48.11764,15.608591,DIE,Diesel,1.468,2022-03-02 20:39
+6412,GENOL - Lagerhaus,Sägemühle 2,Krumbach,2851,47.5032608,16.2044289,DIE,Diesel,1.469,2022-03-02 20:39
+259032,Diskont Tankstelle,"Gewerbestraße 2 (""Am Hofer Parkplatz"")",Traisen,3160,48.049897,15.612339,DIE,Diesel,1.469,2022-03-02 20:39
+1354734,avanti - Traisen Mariazeller Straße 38a,Mariazeller Strasse 38a,Traisen,3160,48.04857,15.60983,DIE,Diesel,1.469,2022-03-02 20:39
+33291,Diesel-Benzin-Diskont Groiss ,Josef-Jessernigg-Straße 3,Stockerau,2000,48.387907,16.232125,DIE,Diesel,1.476,2022-03-02 20:39
+7812,Vivod GmbH,Laaberstrasse 1,Breitenfurt,2384,48.1381917,16.2038779,DIE,Diesel,1.477,2022-03-02 20:39
+33481,Paulischin , Puchbergerstraße 257,Weikersdorf,2722,47.806022,16.180545,DIE,Diesel,1.459,2022-03-02 20:39
+819631,"""M3 TANKSTELLE"" PUCHBERG ",SCHNEEBERG 29,PUCHBERG AM SCHNEEBERG,2734,47.7887601,15.9091111,DIE,Diesel,1.459,2022-03-02 20:39
+33480,Paulischin, Unternbergweg 1,Puchberg,2734,47.7917642,15.8960945,DIE,Diesel,1.464,2022-03-02 20:39
+27336,Rickl Mühle,Raggendorfer Straße 1,Groß Schweinbarth,2221,48.4018614,16.6461741,DIE,Diesel,1.468,2022-03-02 20:39
+1470206,JET TANKSTELLE,ST. POELTNER STRASSE 1 C,WILHELMSBURG,3150,48.11764,15.608591,DIE,Diesel,1.468,2022-03-02 20:39
+6412,GENOL - Lagerhaus,Sägemühle 2,Krumbach,2851,47.5032608,16.2044289,DIE,Diesel,1.469,2022-03-02 20:39
+259032,Diskont Tankstelle,"Gewerbestraße 2 (""Am Hofer Parkplatz"")",Traisen,3160,48.049897,15.612339,DIE,Diesel,1.469,2022-03-02 20:39
+1354734,avanti - Traisen Mariazeller Straße 38a,Mariazeller Strasse 38a,Traisen,3160,48.04857,15.60983,DIE,Diesel,1.469,2022-03-02 20:39
+33291,Diesel-Benzin-Diskont Groiss ,Josef-Jessernigg-Straße 3,Stockerau,2000,48.387907,16.232125,DIE,Diesel,1.476,2022-03-02 20:39
+7812,Vivod GmbH,Laaberstrasse 1,Breitenfurt,2384,48.1381917,16.2038779,DIE,Diesel,1.477,2022-03-02 20:39
+33481,Paulischin , Puchbergerstraße 257,Weikersdorf,2722,47.806022,16.180545,DIE,Diesel,1.459,2022-03-02 20:39
+819631,"""M3 TANKSTELLE"" PUCHBERG ",SCHNEEBERG 29,PUCHBERG AM SCHNEEBERG,2734,47.7887601,15.9091111,DIE,Diesel,1.459,2022-03-02 20:39
+33480,Paulischin, Unternbergweg 1,Puchberg,2734,47.7917642,15.8960945,DIE,Diesel,1.464,2022-03-02 20:39
+27336,Rickl Mühle,Raggendorfer Straße 1,Groß Schweinbarth,2221,48.4018614,16.6461741,DIE,Diesel,1.468,2022-03-02 20:39
+1470206,JET TANKSTELLE,ST. POELTNER STRASSE 1 C,WILHELMSBURG,3150,48.11764,15.608591,DIE,Diesel,1.468,2022-03-02 20:39
+6412,GENOL - Lagerhaus,Sägemühle 2,Krumbach,2851,47.5032608,16.2044289,DIE,Diesel,1.469,2022-03-02 20:39
+259032,Diskont Tankstelle,"Gewerbestraße 2 (""Am Hofer Parkplatz"")",Traisen,3160,48.049897,15.612339,DIE,Diesel,1.469,2022-03-02 20:39
+1354734,avanti - Traisen Mariazeller Straße 38a,Mariazeller Strasse 38a,Traisen,3160,48.04857,15.60983,DIE,Diesel,1.469,2022-03-02 20:39
+33291,Diesel-Benzin-Diskont Groiss ,Josef-Jessernigg-Straße 3,Stockerau,2000,48.387907,16.232125,DIE,Diesel,1.476,2022-03-02 20:39
+7812,Vivod GmbH,Laaberstrasse 1,Breitenfurt,2384,48.1381917,16.2038779,DIE,Diesel,1.477,2022-03-02 20:39
+33481,Paulischin , Puchbergerstraße 257,Weikersdorf,2722,47.806022,16.180545,DIE,Diesel,1.459,2022-03-02 20:39
+819631,"""M3 TANKSTELLE"" PUCHBERG ",SCHNEEBERG 29,PUCHBERG AM SCHNEEBERG,2734,47.7887601,15.9091111,DIE,Diesel,1.459,2022-03-02 20:39
+33480,Paulischin, Unternbergweg 1,Puchberg,2734,47.7917642,15.8960945,DIE,Diesel,1.464,2022-03-02 20:39
+27336,Rickl Mühle,Raggendorfer Straße 1,Groß Schweinbarth,2221,48.4018614,16.6461741,DIE,Diesel,1.468,2022-03-02 20:39
+1470206,JET TANKSTELLE,ST. POELTNER STRASSE 1 C,WILHELMSBURG,3150,48.11764,15.608591,DIE,Diesel,1.468,2022-03-02 20:39
+6412,GENOL - Lagerhaus,Sägemühle 2,Krumbach,2851,47.5032608,16.2044289,DIE,Diesel,1.469,2022-03-02 20:39
+259032,Diskont Tankstelle,"Gewerbestraße 2 (""Am Hofer Parkplatz"")",Traisen,3160,48.049897,15.612339,DIE,Diesel,1.469,2022-03-02 20:39
+1354734,avanti - Traisen Mariazeller Straße 38a,Mariazeller Strasse 38a,Traisen,3160,48.04857,15.60983,DIE,Diesel,1.469,2022-03-02 20:39
+33291,Diesel-Benzin-Diskont Groiss ,Josef-Jessernigg-Straße 3,Stockerau,2000,48.387907,16.232125,DIE,Diesel,1.476,2022-03-02 20:39
+7812,Vivod GmbH,Laaberstrasse 1,Breitenfurt,2384,48.1381917,16.2038779,DIE,Diesel,1.477,2022-03-02 20:39
+33481,Paulischin , Puchbergerstraße 257,Weikersdorf,2722,47.806022,16.180545,DIE,Diesel,1.459,2022-03-02 20:39
+819631,"""M3 TANKSTELLE"" PUCHBERG ",SCHNEEBERG 29,PUCHBERG AM SCHNEEBERG,2734,47.7887601,15.9091111,DIE,Diesel,1.459,2022-03-02 20:39
+33480,Paulischin, Unternbergweg 1,Puchberg,2734,47.7917642,15.8960945,DIE,Diesel,1.464,2022-03-02 20:39
+27336,Rickl Mühle,Raggendorfer Straße 1,Groß Schweinbarth,2221,48.4018614,16.6461741,DIE,Diesel,1.468,2022-03-02 20:39
+1470206,JET TANKSTELLE,ST. POELTNER STRASSE 1 C,WILHELMSBURG,3150,48.11764,15.608591,DIE,Diesel,1.468,2022-03-02 20:39
+6412,GENOL - Lagerhaus,Sägemühle 2,Krumbach,2851,47.5032608,16.2044289,DIE,Diesel,1.469,2022-03-02 20:39
+259032,Diskont Tankstelle,"Gewerbestraße 2 (""Am Hofer Parkplatz"")",Traisen,3160,48.049897,15.612339,DIE,Diesel,1.469,2022-03-02 20:39
+1354734,avanti - Traisen Mariazeller Straße 38a,Mariazeller Strasse 38a,Traisen,3160,48.04857,15.60983,DIE,Diesel,1.469,2022-03-02 20:39
+33291,Diesel-Benzin-Diskont Groiss ,Josef-Jessernigg-Straße 3,Stockerau,2000,48.387907,16.232125,DIE,Diesel,1.476,2022-03-02 20:39
+7812,Vivod GmbH,Laaberstrasse 1,Breitenfurt,2384,48.1381917,16.2038779,DIE,Diesel,1.477,2022-03-02 20:39
+33481,Paulischin , Puchbergerstraße 257,Weikersdorf,2722,47.806022,16.180545,DIE,Diesel,1.459,2022-03-02 20:39
+819631,"""M3 TANKSTELLE"" PUCHBERG ",SCHNEEBERG 29,PUCHBERG AM SCHNEEBERG,2734,47.7887601,15.9091111,DIE,Diesel,1.459,2022-03-02 20:39
+33480,Paulischin, Unternbergweg 1,Puchberg,2734,47.7917642,15.8960945,DIE,Diesel,1.464,2022-03-02 20:39
+27336,Rickl Mühle,Raggendorfer Straße 1,Groß Schweinbarth,2221,48.4018614,16.6461741,DIE,Diesel,1.468,2022-03-02 20:39
+1470206,JET TANKSTELLE,ST. POELTNER STRASSE 1 C,WILHELMSBURG,3150,48.11764,15.608591,DIE,Diesel,1.468,2022-03-02 20:39
+6412,GENOL - Lagerhaus,Sägemühle 2,Krumbach,2851,47.5032608,16.2044289,DIE,Diesel,1.469,2022-03-02 20:39
+259032,Diskont Tankstelle,"Gewerbestraße 2 (""Am Hofer Parkplatz"")",Traisen,3160,48.049897,15.612339,DIE,Diesel,1.469,2022-03-02 20:39
+1354734,avanti - Traisen Mariazeller Straße 38a,Mariazeller Strasse 38a,Traisen,3160,48.04857,15.60983,DIE,Diesel,1.469,2022-03-02 20:39
+33291,Diesel-Benzin-Diskont Groiss ,Josef-Jessernigg-Straße 3,Stockerau,2000,48.387907,16.232125,DIE,Diesel,1.476,2022-03-02 20:39
+7812,Vivod GmbH,Laaberstrasse 1,Breitenfurt,2384,48.1381917,16.2038779,DIE,Diesel,1.477,2022-03-02 20:39
+33481,Paulischin , Puchbergerstraße 257,Weikersdorf,2722,47.806022,16.180545,DIE,Diesel,1.459,2022-03-02 20:39
+819631,"""M3 TANKSTELLE"" PUCHBERG ",SCHNEEBERG 29,PUCHBERG AM SCHNEEBERG,2734,47.7887601,15.9091111,DIE,Diesel,1.459,2022-03-02 20:39
+33480,Paulischin, Unternbergweg 1,Puchberg,2734,47.7917642,15.8960945,DIE,Diesel,1.464,2022-03-02 20:39
+27336,Rickl Mühle,Raggendorfer Straße 1,Groß Schweinbarth,2221,48.4018614,16.6461741,DIE,Diesel,1.468,2022-03-02 20:39
+1470206,JET TANKSTELLE,ST. POELTNER STRASSE 1 C,WILHELMSBURG,3150,48.11764,15.608591,DIE,Diesel,1.468,2022-03-02 20:39
+6412,GENOL - Lagerhaus,Sägemühle 2,Krumbach,2851,47.5032608,16.2044289,DIE,Diesel,1.469,2022-03-02 20:39
+259032,Diskont Tankstelle,"Gewerbestraße 2 (""Am Hofer Parkplatz"")",Traisen,3160,48.049897,15.612339,DIE,Diesel,1.469,2022-03-02 20:39
+1354734,avanti - Traisen Mariazeller Straße 38a,Mariazeller Strasse 38a,Traisen,3160,48.04857,15.60983,DIE,Diesel,1.469,2022-03-02 20:39
+33291,Diesel-Benzin-Diskont Groiss ,Josef-Jessernigg-Straße 3,Stockerau,2000,48.387907,16.232125,DIE,Diesel,1.476,2022-03-02 20:39
+7812,Vivod GmbH,Laaberstrasse 1,Breitenfurt,2384,48.1381917,16.2038779,DIE,Diesel,1.477,2022-03-02 20:39
+33481,Paulischin , Puchbergerstraße 257,Weikersdorf,2722,47.806022,16.180545,DIE,Diesel,1.459,2022-03-02 20:39
+819631,"""M3 TANKSTELLE"" PUCHBERG ",SCHNEEBERG 29,PUCHBERG AM SCHNEEBERG,2734,47.7887601,15.9091111,DIE,Diesel,1.459,2022-03-02 20:39
+33480,Paulischin, Unternbergweg 1,Puchberg,2734,47.7917642,15.8960945,DIE,Diesel,1.464,2022-03-02 20:39
+27336,Rickl Mühle,Raggendorfer Straße 1,Groß Schweinbarth,2221,48.4018614,16.6461741,DIE,Diesel,1.468,2022-03-02 20:39
+1470206,JET TANKSTELLE,ST. POELTNER STRASSE 1 C,WILHELMSBURG,3150,48.11764,15.608591,DIE,Diesel,1.468,2022-03-02 20:39
+6412,GENOL - Lagerhaus,Sägemühle 2,Krumbach,2851,47.5032608,16.2044289,DIE,Diesel,1.469,2022-03-02 20:39
+259032,Diskont Tankstelle,"Gewerbestraße 2 (""Am Hofer Parkplatz"")",Traisen,3160,48.049897,15.612339,DIE,Diesel,1.469,2022-03-02 20:39
+1354734,avanti - Traisen Mariazeller Straße 38a,Mariazeller Strasse 38a,Traisen,3160,48.04857,15.60983,DIE,Diesel,1.469,2022-03-02 20:39
+33291,Diesel-Benzin-Diskont Groiss ,Josef-Jessernigg-Straße 3,Stockerau,2000,48.387907,16.232125,DIE,Diesel,1.476,2022-03-02 20:39
+7812,Vivod GmbH,Laaberstrasse 1,Breitenfurt,2384,48.1381917,16.2038779,DIE,Diesel,1.477,2022-03-02 20:39
+33481,Paulischin , Puchbergerstraße 257,Weikersdorf,2722,47.806022,16.180545,DIE,Diesel,1.459,2022-03-02 20:39
+819631,"""M3 TANKSTELLE"" PUCHBERG ",SCHNEEBERG 29,PUCHBERG AM SCHNEEBERG,2734,47.7887601,15.9091111,DIE,Diesel,1.459,2022-03-02 20:39
+33480,Paulischin, Unternbergweg 1,Puchberg,2734,47.7917642,15.8960945,DIE,Diesel,1.464,2022-03-02 20:39
+27336,Rickl Mühle,Raggendorfer Straße 1,Groß Schweinbarth,2221,48.4018614,16.6461741,DIE,Diesel,1.468,2022-03-02 20:39
+1470206,JET TANKSTELLE,ST. POELTNER STRASSE 1 C,WILHELMSBURG,3150,48.11764,15.608591,DIE,Diesel,1.468,2022-03-02 20:39
+6412,GENOL - Lagerhaus,Sägemühle 2,Krumbach,2851,47.5032608,16.2044289,DIE,Diesel,1.469,2022-03-02 20:39
+259032,Diskont Tankstelle,"Gewerbestraße 2 (""Am Hofer Parkplatz"")",Traisen,3160,48.049897,15.612339,DIE,Diesel,1.469,2022-03-02 20:39
+1354734,avanti - Traisen Mariazeller Straße 38a,Mariazeller Strasse 38a,Traisen,3160,48.04857,15.60983,DIE,Diesel,1.469,2022-03-02 20:39
+33291,Diesel-Benzin-Diskont Groiss ,Josef-Jessernigg-Straße 3,Stockerau,2000,48.387907,16.232125,DIE,Diesel,1.476,2022-03-02 20:39
+7812,Vivod GmbH,Laaberstrasse 1,Breitenfurt,2384,48.1381917,16.2038779,DIE,Diesel,1.477,2022-03-02 20:39
+34493,Diskont,Markt 6,Windhaag bei Freistadt,4263,48.588616,14.561648,DIE,Diesel,1.429,2022-03-02 20:39
+237857,SB-Tankstelle Schmied im Wald,Gschaid 8,Natternbach,4723,48.4039189,13.6922177,DIE,Diesel,1.448,2022-03-02 20:39
+1172639,SB-Tankstelle Zauner,Jagern 18,Enzenkirchen,4761,48.37648,13.63102,DIE,Diesel,1.457,2022-03-02 20:39
+2056,Diskonttankstelle,Linzer Straße 29,Königswiesen,4280,48.3942687,14.8289891,DIE,Diesel,1.459,2022-03-02 20:39
+34480,DICKINGER Agrarhandel GmbH,Stampfstraße 3,Vorchdorf,4655,48.0051382,13.9188821,DIE,Diesel,1.459,2022-03-02 20:39
+34728,"Jedinger, Freie Tankstelle",Frei 3,Geboltskirchen,4682,48.1537941,13.6345045,DIE,Diesel,1.459,2022-03-02 20:39
+41188,Diskont Tankstelle,"Neue Landstraße 74 (""Hofer-Parkplatz"")",Vorchdorf,4655,48.008358,13.920214,DIE,Diesel,1.459,2022-03-02 20:39
+34763,Diskonttankstelle Leonhartsberger,Schloßberg 34,Waldhausen,4391,48.2777412,14.9560838,DIE,Diesel,1.478,2022-03-02 20:39
+1093770,AVIA Xpress (Automaten-Tankstelle),Hauptstraße 34,Weibern,4675,48.181118,13.698211,DIE,Diesel,1.484,2022-03-02 20:39
+6681,Genol LGH Grein_(-TKK Abschlag),Ufer 14,Grein,4360,48.2220734,14.8507314,DIE,Diesel,1.489,2022-03-02 20:39
+6684,Genol LGH Waldhausen_(-TKK Abschlag),Markt 94,Waldhausen,4391,48.2722,14.9508179,DIE,Diesel,1.489,2022-03-02 20:39
+34587,Tankstelle Pernsteiner - Tankautomat mit Bankomat,Hauptstraße 9,Kirchberg ob der Donau,4131,48.444348,13.938993,DIE,Diesel,1.489,2022-03-02 20:39
+38186,DISKONT Grausgruber,Starhemberg 15,Haag/Hausruck,4680,48.189051,13.642724,DIE,Diesel,1.489,2022-03-02 20:39
+34493,Diskont,Markt 6,Windhaag bei Freistadt,4263,48.588616,14.561648,DIE,Diesel,1.429,2022-03-02 20:39
+237857,SB-Tankstelle Schmied im Wald,Gschaid 8,Natternbach,4723,48.4039189,13.6922177,DIE,Diesel,1.448,2022-03-02 20:39
+1172639,SB-Tankstelle Zauner,Jagern 18,Enzenkirchen,4761,48.37648,13.63102,DIE,Diesel,1.457,2022-03-02 20:39
+2056,Diskonttankstelle,Linzer Straße 29,Königswiesen,4280,48.3942687,14.8289891,DIE,Diesel,1.459,2022-03-02 20:39
+34480,DICKINGER Agrarhandel GmbH,Stampfstraße 3,Vorchdorf,4655,48.0051382,13.9188821,DIE,Diesel,1.459,2022-03-02 20:39
+34728,"Jedinger, Freie Tankstelle",Frei 3,Geboltskirchen,4682,48.1537941,13.6345045,DIE,Diesel,1.459,2022-03-02 20:39
+41188,Diskont Tankstelle,"Neue Landstraße 74 (""Hofer-Parkplatz"")",Vorchdorf,4655,48.008358,13.920214,DIE,Diesel,1.459,2022-03-02 20:39
+34763,Diskonttankstelle Leonhartsberger,Schloßberg 34,Waldhausen,4391,48.2777412,14.9560838,DIE,Diesel,1.478,2022-03-02 20:39
+1093770,AVIA Xpress (Automaten-Tankstelle),Hauptstraße 34,Weibern,4675,48.181118,13.698211,DIE,Diesel,1.484,2022-03-02 20:39
+6681,Genol LGH Grein_(-TKK Abschlag),Ufer 14,Grein,4360,48.2220734,14.8507314,DIE,Diesel,1.489,2022-03-02 20:39
+6684,Genol LGH Waldhausen_(-TKK Abschlag),Markt 94,Waldhausen,4391,48.2722,14.9508179,DIE,Diesel,1.489,2022-03-02 20:39
+34587,Tankstelle Pernsteiner - Tankautomat mit Bankomat,Hauptstraße 9,Kirchberg ob der Donau,4131,48.444348,13.938993,DIE,Diesel,1.489,2022-03-02 20:39
+38186,DISKONT Grausgruber,Starhemberg 15,Haag/Hausruck,4680,48.189051,13.642724,DIE,Diesel,1.489,2022-03-02 20:39
+34493,Diskont,Markt 6,Windhaag bei Freistadt,4263,48.588616,14.561648,DIE,Diesel,1.429,2022-03-02 20:39
+237857,SB-Tankstelle Schmied im Wald,Gschaid 8,Natternbach,4723,48.4039189,13.6922177,DIE,Diesel,1.448,2022-03-02 20:39
+1172639,SB-Tankstelle Zauner,Jagern 18,Enzenkirchen,4761,48.37648,13.63102,DIE,Diesel,1.457,2022-03-02 20:39
+2056,Diskonttankstelle,Linzer Straße 29,Königswiesen,4280,48.3942687,14.8289891,DIE,Diesel,1.459,2022-03-02 20:39
+34480,DICKINGER Agrarhandel GmbH,Stampfstraße 3,Vorchdorf,4655,48.0051382,13.9188821,DIE,Diesel,1.459,2022-03-02 20:39
+34728,"Jedinger, Freie Tankstelle",Frei 3,Geboltskirchen,4682,48.1537941,13.6345045,DIE,Diesel,1.459,2022-03-02 20:39
+41188,Diskont Tankstelle,"Neue Landstraße 74 (""Hofer-Parkplatz"")",Vorchdorf,4655,48.008358,13.920214,DIE,Diesel,1.459,2022-03-02 20:39
+34763,Diskonttankstelle Leonhartsberger,Schloßberg 34,Waldhausen,4391,48.2777412,14.9560838,DIE,Diesel,1.478,2022-03-02 20:39
+1093770,AVIA Xpress (Automaten-Tankstelle),Hauptstraße 34,Weibern,4675,48.181118,13.698211,DIE,Diesel,1.484,2022-03-02 20:39
+6681,Genol LGH Grein_(-TKK Abschlag),Ufer 14,Grein,4360,48.2220734,14.8507314,DIE,Diesel,1.489,2022-03-02 20:39
+6684,Genol LGH Waldhausen_(-TKK Abschlag),Markt 94,Waldhausen,4391,48.2722,14.9508179,DIE,Diesel,1.489,2022-03-02 20:39
+34587,Tankstelle Pernsteiner - Tankautomat mit Bankomat,Hauptstraße 9,Kirchberg ob der Donau,4131,48.444348,13.938993,DIE,Diesel,1.489,2022-03-02 20:39
+38186,DISKONT Grausgruber,Starhemberg 15,Haag/Hausruck,4680,48.189051,13.642724,DIE,Diesel,1.489,2022-03-02 20:39
+34493,Diskont,Markt 6,Windhaag bei Freistadt,4263,48.588616,14.561648,DIE,Diesel,1.429,2022-03-02 20:39
+237857,SB-Tankstelle Schmied im Wald,Gschaid 8,Natternbach,4723,48.4039189,13.6922177,DIE,Diesel,1.448,2022-03-02 20:39
+1172639,SB-Tankstelle Zauner,Jagern 18,Enzenkirchen,4761,48.37648,13.63102,DIE,Diesel,1.457,2022-03-02 20:39
+2056,Diskonttankstelle,Linzer Straße 29,Königswiesen,4280,48.3942687,14.8289891,DIE,Diesel,1.459,2022-03-02 20:39
+34480,DICKINGER Agrarhandel GmbH,Stampfstraße 3,Vorchdorf,4655,48.0051382,13.9188821,DIE,Diesel,1.459,2022-03-02 20:39
+34728,"Jedinger, Freie Tankstelle",Frei 3,Geboltskirchen,4682,48.1537941,13.6345045,DIE,Diesel,1.459,2022-03-02 20:39
+41188,Diskont Tankstelle,"Neue Landstraße 74 (""Hofer-Parkplatz"")",Vorchdorf,4655,48.008358,13.920214,DIE,Diesel,1.459,2022-03-02 20:39
+34763,Diskonttankstelle Leonhartsberger,Schloßberg 34,Waldhausen,4391,48.2777412,14.9560838,DIE,Diesel,1.478,2022-03-02 20:39
+1093770,AVIA Xpress (Automaten-Tankstelle),Hauptstraße 34,Weibern,4675,48.181118,13.698211,DIE,Diesel,1.484,2022-03-02 20:39
+6681,Genol LGH Grein_(-TKK Abschlag),Ufer 14,Grein,4360,48.2220734,14.8507314,DIE,Diesel,1.489,2022-03-02 20:39
+6684,Genol LGH Waldhausen_(-TKK Abschlag),Markt 94,Waldhausen,4391,48.2722,14.9508179,DIE,Diesel,1.489,2022-03-02 20:39
+34587,Tankstelle Pernsteiner - Tankautomat mit Bankomat,Hauptstraße 9,Kirchberg ob der Donau,4131,48.444348,13.938993,DIE,Diesel,1.489,2022-03-02 20:39
+38186,DISKONT Grausgruber,Starhemberg 15,Haag/Hausruck,4680,48.189051,13.642724,DIE,Diesel,1.489,2022-03-02 20:39
+34493,Diskont,Markt 6,Windhaag bei Freistadt,4263,48.588616,14.561648,DIE,Diesel,1.429,2022-03-02 20:39
+237857,SB-Tankstelle Schmied im Wald,Gschaid 8,Natternbach,4723,48.4039189,13.6922177,DIE,Diesel,1.448,2022-03-02 20:39
+1172639,SB-Tankstelle Zauner,Jagern 18,Enzenkirchen,4761,48.37648,13.63102,DIE,Diesel,1.457,2022-03-02 20:39
+2056,Diskonttankstelle,Linzer Straße 29,Königswiesen,4280,48.3942687,14.8289891,DIE,Diesel,1.459,2022-03-02 20:39
+34480,DICKINGER Agrarhandel GmbH,Stampfstraße 3,Vorchdorf,4655,48.0051382,13.9188821,DIE,Diesel,1.459,2022-03-02 20:39
+34728,"Jedinger, Freie Tankstelle",Frei 3,Geboltskirchen,4682,48.1537941,13.6345045,DIE,Diesel,1.459,2022-03-02 20:39
+41188,Diskont Tankstelle,"Neue Landstraße 74 (""Hofer-Parkplatz"")",Vorchdorf,4655,48.008358,13.920214,DIE,Diesel,1.459,2022-03-02 20:39
+34763,Diskonttankstelle Leonhartsberger,Schloßberg 34,Waldhausen,4391,48.2777412,14.9560838,DIE,Diesel,1.478,2022-03-02 20:39
+1093770,AVIA Xpress (Automaten-Tankstelle),Hauptstraße 34,Weibern,4675,48.181118,13.698211,DIE,Diesel,1.484,2022-03-02 20:39
+6681,Genol LGH Grein_(-TKK Abschlag),Ufer 14,Grein,4360,48.2220734,14.8507314,DIE,Diesel,1.489,2022-03-02 20:39
+6684,Genol LGH Waldhausen_(-TKK Abschlag),Markt 94,Waldhausen,4391,48.2722,14.9508179,DIE,Diesel,1.489,2022-03-02 20:39
+34587,Tankstelle Pernsteiner - Tankautomat mit Bankomat,Hauptstraße 9,Kirchberg ob der Donau,4131,48.444348,13.938993,DIE,Diesel,1.489,2022-03-02 20:39
+38186,DISKONT Grausgruber,Starhemberg 15,Haag/Hausruck,4680,48.189051,13.642724,DIE,Diesel,1.489,2022-03-02 20:39
+34493,Diskont,Markt 6,Windhaag bei Freistadt,4263,48.588616,14.561648,DIE,Diesel,1.429,2022-03-02 20:39
+237857,SB-Tankstelle Schmied im Wald,Gschaid 8,Natternbach,4723,48.4039189,13.6922177,DIE,Diesel,1.448,2022-03-02 20:39
+1172639,SB-Tankstelle Zauner,Jagern 18,Enzenkirchen,4761,48.37648,13.63102,DIE,Diesel,1.457,2022-03-02 20:39
+2056,Diskonttankstelle,Linzer Straße 29,Königswiesen,4280,48.3942687,14.8289891,DIE,Diesel,1.459,2022-03-02 20:39
+34480,DICKINGER Agrarhandel GmbH,Stampfstraße 3,Vorchdorf,4655,48.0051382,13.9188821,DIE,Diesel,1.459,2022-03-02 20:39
+34728,"Jedinger, Freie Tankstelle",Frei 3,Geboltskirchen,4682,48.1537941,13.6345045,DIE,Diesel,1.459,2022-03-02 20:39
+41188,Diskont Tankstelle,"Neue Landstraße 74 (""Hofer-Parkplatz"")",Vorchdorf,4655,48.008358,13.920214,DIE,Diesel,1.459,2022-03-02 20:39
+34763,Diskonttankstelle Leonhartsberger,Schloßberg 34,Waldhausen,4391,48.2777412,14.9560838,DIE,Diesel,1.478,2022-03-02 20:39
+1093770,AVIA Xpress (Automaten-Tankstelle),Hauptstraße 34,Weibern,4675,48.181118,13.698211,DIE,Diesel,1.484,2022-03-02 20:39
+6681,Genol LGH Grein_(-TKK Abschlag),Ufer 14,Grein,4360,48.2220734,14.8507314,DIE,Diesel,1.489,2022-03-02 20:39
+6684,Genol LGH Waldhausen_(-TKK Abschlag),Markt 94,Waldhausen,4391,48.2722,14.9508179,DIE,Diesel,1.489,2022-03-02 20:39
+34587,Tankstelle Pernsteiner - Tankautomat mit Bankomat,Hauptstraße 9,Kirchberg ob der Donau,4131,48.444348,13.938993,DIE,Diesel,1.489,2022-03-02 20:39
+38186,DISKONT Grausgruber,Starhemberg 15,Haag/Hausruck,4680,48.189051,13.642724,DIE,Diesel,1.489,2022-03-02 20:39
+34493,Diskont,Markt 6,Windhaag bei Freistadt,4263,48.588616,14.561648,DIE,Diesel,1.429,2022-03-02 20:39
+237857,SB-Tankstelle Schmied im Wald,Gschaid 8,Natternbach,4723,48.4039189,13.6922177,DIE,Diesel,1.448,2022-03-02 20:39
+1172639,SB-Tankstelle Zauner,Jagern 18,Enzenkirchen,4761,48.37648,13.63102,DIE,Diesel,1.457,2022-03-02 20:39
+2056,Diskonttankstelle,Linzer Straße 29,Königswiesen,4280,48.3942687,14.8289891,DIE,Diesel,1.459,2022-03-02 20:39
+34480,DICKINGER Agrarhandel GmbH,Stampfstraße 3,Vorchdorf,4655,48.0051382,13.9188821,DIE,Diesel,1.459,2022-03-02 20:39
+34728,"Jedinger, Freie Tankstelle",Frei 3,Geboltskirchen,4682,48.1537941,13.6345045,DIE,Diesel,1.459,2022-03-02 20:39
+41188,Diskont Tankstelle,"Neue Landstraße 74 (""Hofer-Parkplatz"")",Vorchdorf,4655,48.008358,13.920214,DIE,Diesel,1.459,2022-03-02 20:39
+34763,Diskonttankstelle Leonhartsberger,Schloßberg 34,Waldhausen,4391,48.2777412,14.9560838,DIE,Diesel,1.478,2022-03-02 20:39
+1093770,AVIA Xpress (Automaten-Tankstelle),Hauptstraße 34,Weibern,4675,48.181118,13.698211,DIE,Diesel,1.484,2022-03-02 20:39
+6681,Genol LGH Grein_(-TKK Abschlag),Ufer 14,Grein,4360,48.2220734,14.8507314,DIE,Diesel,1.489,2022-03-02 20:39
+6684,Genol LGH Waldhausen_(-TKK Abschlag),Markt 94,Waldhausen,4391,48.2722,14.9508179,DIE,Diesel,1.489,2022-03-02 20:39
+34587,Tankstelle Pernsteiner - Tankautomat mit Bankomat,Hauptstraße 9,Kirchberg ob der Donau,4131,48.444348,13.938993,DIE,Diesel,1.489,2022-03-02 20:39
+38186,DISKONT Grausgruber,Starhemberg 15,Haag/Hausruck,4680,48.189051,13.642724,DIE,Diesel,1.489,2022-03-02 20:39
+34493,Diskont,Markt 6,Windhaag bei Freistadt,4263,48.588616,14.561648,DIE,Diesel,1.429,2022-03-02 20:39
+237857,SB-Tankstelle Schmied im Wald,Gschaid 8,Natternbach,4723,48.4039189,13.6922177,DIE,Diesel,1.448,2022-03-02 20:39
+1172639,SB-Tankstelle Zauner,Jagern 18,Enzenkirchen,4761,48.37648,13.63102,DIE,Diesel,1.457,2022-03-02 20:39
+2056,Diskonttankstelle,Linzer Straße 29,Königswiesen,4280,48.3942687,14.8289891,DIE,Diesel,1.459,2022-03-02 20:39
+34480,DICKINGER Agrarhandel GmbH,Stampfstraße 3,Vorchdorf,4655,48.0051382,13.9188821,DIE,Diesel,1.459,2022-03-02 20:39
+34728,"Jedinger, Freie Tankstelle",Frei 3,Geboltskirchen,4682,48.1537941,13.6345045,DIE,Diesel,1.459,2022-03-02 20:39
+41188,Diskont Tankstelle,"Neue Landstraße 74 (""Hofer-Parkplatz"")",Vorchdorf,4655,48.008358,13.920214,DIE,Diesel,1.459,2022-03-02 20:39
+34763,Diskonttankstelle Leonhartsberger,Schloßberg 34,Waldhausen,4391,48.2777412,14.9560838,DIE,Diesel,1.478,2022-03-02 20:39
+1093770,AVIA Xpress (Automaten-Tankstelle),Hauptstraße 34,Weibern,4675,48.181118,13.698211,DIE,Diesel,1.484,2022-03-02 20:39
+6681,Genol LGH Grein_(-TKK Abschlag),Ufer 14,Grein,4360,48.2220734,14.8507314,DIE,Diesel,1.489,2022-03-02 20:39
+6684,Genol LGH Waldhausen_(-TKK Abschlag),Markt 94,Waldhausen,4391,48.2722,14.9508179,DIE,Diesel,1.489,2022-03-02 20:39
+34587,Tankstelle Pernsteiner - Tankautomat mit Bankomat,Hauptstraße 9,Kirchberg ob der Donau,4131,48.444348,13.938993,DIE,Diesel,1.489,2022-03-02 20:39
+38186,DISKONT Grausgruber,Starhemberg 15,Haag/Hausruck,4680,48.189051,13.642724,DIE,Diesel,1.489,2022-03-02 20:39
+34493,Diskont,Markt 6,Windhaag bei Freistadt,4263,48.588616,14.561648,DIE,Diesel,1.429,2022-03-02 20:39
+237857,SB-Tankstelle Schmied im Wald,Gschaid 8,Natternbach,4723,48.4039189,13.6922177,DIE,Diesel,1.448,2022-03-02 20:39
+1172639,SB-Tankstelle Zauner,Jagern 18,Enzenkirchen,4761,48.37648,13.63102,DIE,Diesel,1.457,2022-03-02 20:39
+2056,Diskonttankstelle,Linzer Straße 29,Königswiesen,4280,48.3942687,14.8289891,DIE,Diesel,1.459,2022-03-02 20:39
+34480,DICKINGER Agrarhandel GmbH,Stampfstraße 3,Vorchdorf,4655,48.0051382,13.9188821,DIE,Diesel,1.459,2022-03-02 20:39
+34728,"Jedinger, Freie Tankstelle",Frei 3,Geboltskirchen,4682,48.1537941,13.6345045,DIE,Diesel,1.459,2022-03-02 20:39
+41188,Diskont Tankstelle,"Neue Landstraße 74 (""Hofer-Parkplatz"")",Vorchdorf,4655,48.008358,13.920214,DIE,Diesel,1.459,2022-03-02 20:39
+34763,Diskonttankstelle Leonhartsberger,Schloßberg 34,Waldhausen,4391,48.2777412,14.9560838,DIE,Diesel,1.478,2022-03-02 20:39
+1093770,AVIA Xpress (Automaten-Tankstelle),Hauptstraße 34,Weibern,4675,48.181118,13.698211,DIE,Diesel,1.484,2022-03-02 20:39
+6681,Genol LGH Grein_(-TKK Abschlag),Ufer 14,Grein,4360,48.2220734,14.8507314,DIE,Diesel,1.489,2022-03-02 20:39
+6684,Genol LGH Waldhausen_(-TKK Abschlag),Markt 94,Waldhausen,4391,48.2722,14.9508179,DIE,Diesel,1.489,2022-03-02 20:39
+34587,Tankstelle Pernsteiner - Tankautomat mit Bankomat,Hauptstraße 9,Kirchberg ob der Donau,4131,48.444348,13.938993,DIE,Diesel,1.489,2022-03-02 20:39
+38186,DISKONT Grausgruber,Starhemberg 15,Haag/Hausruck,4680,48.189051,13.642724,DIE,Diesel,1.489,2022-03-02 20:39
+34493,Diskont,Markt 6,Windhaag bei Freistadt,4263,48.588616,14.561648,DIE,Diesel,1.429,2022-03-02 20:39
+237857,SB-Tankstelle Schmied im Wald,Gschaid 8,Natternbach,4723,48.4039189,13.6922177,DIE,Diesel,1.448,2022-03-02 20:39
+1172639,SB-Tankstelle Zauner,Jagern 18,Enzenkirchen,4761,48.37648,13.63102,DIE,Diesel,1.457,2022-03-02 20:39
+2056,Diskonttankstelle,Linzer Straße 29,Königswiesen,4280,48.3942687,14.8289891,DIE,Diesel,1.459,2022-03-02 20:39
+34480,DICKINGER Agrarhandel GmbH,Stampfstraße 3,Vorchdorf,4655,48.0051382,13.9188821,DIE,Diesel,1.459,2022-03-02 20:39
+34728,"Jedinger, Freie Tankstelle",Frei 3,Geboltskirchen,4682,48.1537941,13.6345045,DIE,Diesel,1.459,2022-03-02 20:39
+41188,Diskont Tankstelle,"Neue Landstraße 74 (""Hofer-Parkplatz"")",Vorchdorf,4655,48.008358,13.920214,DIE,Diesel,1.459,2022-03-02 20:39
+34763,Diskonttankstelle Leonhartsberger,Schloßberg 34,Waldhausen,4391,48.2777412,14.9560838,DIE,Diesel,1.478,2022-03-02 20:39
+1093770,AVIA Xpress (Automaten-Tankstelle),Hauptstraße 34,Weibern,4675,48.181118,13.698211,DIE,Diesel,1.484,2022-03-02 20:39
+6681,Genol LGH Grein_(-TKK Abschlag),Ufer 14,Grein,4360,48.2220734,14.8507314,DIE,Diesel,1.489,2022-03-02 20:39
+6684,Genol LGH Waldhausen_(-TKK Abschlag),Markt 94,Waldhausen,4391,48.2722,14.9508179,DIE,Diesel,1.489,2022-03-02 20:39
+34587,Tankstelle Pernsteiner - Tankautomat mit Bankomat,Hauptstraße 9,Kirchberg ob der Donau,4131,48.444348,13.938993,DIE,Diesel,1.489,2022-03-02 20:39
+38186,DISKONT Grausgruber,Starhemberg 15,Haag/Hausruck,4680,48.189051,13.642724,DIE,Diesel,1.489,2022-03-02 20:39
+34493,Diskont,Markt 6,Windhaag bei Freistadt,4263,48.588616,14.561648,DIE,Diesel,1.429,2022-03-02 20:39
+237857,SB-Tankstelle Schmied im Wald,Gschaid 8,Natternbach,4723,48.4039189,13.6922177,DIE,Diesel,1.448,2022-03-02 20:39
+1172639,SB-Tankstelle Zauner,Jagern 18,Enzenkirchen,4761,48.37648,13.63102,DIE,Diesel,1.457,2022-03-02 20:39
+2056,Diskonttankstelle,Linzer Straße 29,Königswiesen,4280,48.3942687,14.8289891,DIE,Diesel,1.459,2022-03-02 20:39
+34480,DICKINGER Agrarhandel GmbH,Stampfstraße 3,Vorchdorf,4655,48.0051382,13.9188821,DIE,Diesel,1.459,2022-03-02 20:39
+34728,"Jedinger, Freie Tankstelle",Frei 3,Geboltskirchen,4682,48.1537941,13.6345045,DIE,Diesel,1.459,2022-03-02 20:39
+41188,Diskont Tankstelle,"Neue Landstraße 74 (""Hofer-Parkplatz"")",Vorchdorf,4655,48.008358,13.920214,DIE,Diesel,1.459,2022-03-02 20:39
+34763,Diskonttankstelle Leonhartsberger,Schloßberg 34,Waldhausen,4391,48.2777412,14.9560838,DIE,Diesel,1.478,2022-03-02 20:39
+1093770,AVIA Xpress (Automaten-Tankstelle),Hauptstraße 34,Weibern,4675,48.181118,13.698211,DIE,Diesel,1.484,2022-03-02 20:39
+6681,Genol LGH Grein_(-TKK Abschlag),Ufer 14,Grein,4360,48.2220734,14.8507314,DIE,Diesel,1.489,2022-03-02 20:39
+6684,Genol LGH Waldhausen_(-TKK Abschlag),Markt 94,Waldhausen,4391,48.2722,14.9508179,DIE,Diesel,1.489,2022-03-02 20:39
+34587,Tankstelle Pernsteiner - Tankautomat mit Bankomat,Hauptstraße 9,Kirchberg ob der Donau,4131,48.444348,13.938993,DIE,Diesel,1.489,2022-03-02 20:39
+38186,DISKONT Grausgruber,Starhemberg 15,Haag/Hausruck,4680,48.189051,13.642724,DIE,Diesel,1.489,2022-03-02 20:39
+34493,Diskont,Markt 6,Windhaag bei Freistadt,4263,48.588616,14.561648,DIE,Diesel,1.429,2022-03-02 20:39
+237857,SB-Tankstelle Schmied im Wald,Gschaid 8,Natternbach,4723,48.4039189,13.6922177,DIE,Diesel,1.448,2022-03-02 20:39
+1172639,SB-Tankstelle Zauner,Jagern 18,Enzenkirchen,4761,48.37648,13.63102,DIE,Diesel,1.457,2022-03-02 20:39
+2056,Diskonttankstelle,Linzer Straße 29,Königswiesen,4280,48.3942687,14.8289891,DIE,Diesel,1.459,2022-03-02 20:39
+34480,DICKINGER Agrarhandel GmbH,Stampfstraße 3,Vorchdorf,4655,48.0051382,13.9188821,DIE,Diesel,1.459,2022-03-02 20:39
+34728,"Jedinger, Freie Tankstelle",Frei 3,Geboltskirchen,4682,48.1537941,13.6345045,DIE,Diesel,1.459,2022-03-02 20:39
+41188,Diskont Tankstelle,"Neue Landstraße 74 (""Hofer-Parkplatz"")",Vorchdorf,4655,48.008358,13.920214,DIE,Diesel,1.459,2022-03-02 20:39
+34763,Diskonttankstelle Leonhartsberger,Schloßberg 34,Waldhausen,4391,48.2777412,14.9560838,DIE,Diesel,1.478,2022-03-02 20:39
+1093770,AVIA Xpress (Automaten-Tankstelle),Hauptstraße 34,Weibern,4675,48.181118,13.698211,DIE,Diesel,1.484,2022-03-02 20:39
+6681,Genol LGH Grein_(-TKK Abschlag),Ufer 14,Grein,4360,48.2220734,14.8507314,DIE,Diesel,1.489,2022-03-02 20:39
+6684,Genol LGH Waldhausen_(-TKK Abschlag),Markt 94,Waldhausen,4391,48.2722,14.9508179,DIE,Diesel,1.489,2022-03-02 20:39
+34587,Tankstelle Pernsteiner - Tankautomat mit Bankomat,Hauptstraße 9,Kirchberg ob der Donau,4131,48.444348,13.938993,DIE,Diesel,1.489,2022-03-02 20:39
+38186,DISKONT Grausgruber,Starhemberg 15,Haag/Hausruck,4680,48.189051,13.642724,DIE,Diesel,1.489,2022-03-02 20:39
+34493,Diskont,Markt 6,Windhaag bei Freistadt,4263,48.588616,14.561648,DIE,Diesel,1.429,2022-03-02 20:39
+237857,SB-Tankstelle Schmied im Wald,Gschaid 8,Natternbach,4723,48.4039189,13.6922177,DIE,Diesel,1.448,2022-03-02 20:39
+1172639,SB-Tankstelle Zauner,Jagern 18,Enzenkirchen,4761,48.37648,13.63102,DIE,Diesel,1.457,2022-03-02 20:39
+2056,Diskonttankstelle,Linzer Straße 29,Königswiesen,4280,48.3942687,14.8289891,DIE,Diesel,1.459,2022-03-02 20:39
+34480,DICKINGER Agrarhandel GmbH,Stampfstraße 3,Vorchdorf,4655,48.0051382,13.9188821,DIE,Diesel,1.459,2022-03-02 20:39
+34728,"Jedinger, Freie Tankstelle",Frei 3,Geboltskirchen,4682,48.1537941,13.6345045,DIE,Diesel,1.459,2022-03-02 20:39
+41188,Diskont Tankstelle,"Neue Landstraße 74 (""Hofer-Parkplatz"")",Vorchdorf,4655,48.008358,13.920214,DIE,Diesel,1.459,2022-03-02 20:39
+34763,Diskonttankstelle Leonhartsberger,Schloßberg 34,Waldhausen,4391,48.2777412,14.9560838,DIE,Diesel,1.478,2022-03-02 20:39
+1093770,AVIA Xpress (Automaten-Tankstelle),Hauptstraße 34,Weibern,4675,48.181118,13.698211,DIE,Diesel,1.484,2022-03-02 20:39
+6681,Genol LGH Grein_(-TKK Abschlag),Ufer 14,Grein,4360,48.2220734,14.8507314,DIE,Diesel,1.489,2022-03-02 20:39
+6684,Genol LGH Waldhausen_(-TKK Abschlag),Markt 94,Waldhausen,4391,48.2722,14.9508179,DIE,Diesel,1.489,2022-03-02 20:39
+34587,Tankstelle Pernsteiner - Tankautomat mit Bankomat,Hauptstraße 9,Kirchberg ob der Donau,4131,48.444348,13.938993,DIE,Diesel,1.489,2022-03-02 20:39
+38186,DISKONT Grausgruber,Starhemberg 15,Haag/Hausruck,4680,48.189051,13.642724,DIE,Diesel,1.489,2022-03-02 20:39
+34493,Diskont,Markt 6,Windhaag bei Freistadt,4263,48.588616,14.561648,DIE,Diesel,1.429,2022-03-02 20:39
+237857,SB-Tankstelle Schmied im Wald,Gschaid 8,Natternbach,4723,48.4039189,13.6922177,DIE,Diesel,1.448,2022-03-02 20:39
+1172639,SB-Tankstelle Zauner,Jagern 18,Enzenkirchen,4761,48.37648,13.63102,DIE,Diesel,1.457,2022-03-02 20:39
+2056,Diskonttankstelle,Linzer Straße 29,Königswiesen,4280,48.3942687,14.8289891,DIE,Diesel,1.459,2022-03-02 20:39
+34480,DICKINGER Agrarhandel GmbH,Stampfstraße 3,Vorchdorf,4655,48.0051382,13.9188821,DIE,Diesel,1.459,2022-03-02 20:39
+34728,"Jedinger, Freie Tankstelle",Frei 3,Geboltskirchen,4682,48.1537941,13.6345045,DIE,Diesel,1.459,2022-03-02 20:39
+41188,Diskont Tankstelle,"Neue Landstraße 74 (""Hofer-Parkplatz"")",Vorchdorf,4655,48.008358,13.920214,DIE,Diesel,1.459,2022-03-02 20:39
+34763,Diskonttankstelle Leonhartsberger,Schloßberg 34,Waldhausen,4391,48.2777412,14.9560838,DIE,Diesel,1.478,2022-03-02 20:39
+1093770,AVIA Xpress (Automaten-Tankstelle),Hauptstraße 34,Weibern,4675,48.181118,13.698211,DIE,Diesel,1.484,2022-03-02 20:39
+6681,Genol LGH Grein_(-TKK Abschlag),Ufer 14,Grein,4360,48.2220734,14.8507314,DIE,Diesel,1.489,2022-03-02 20:39
+6684,Genol LGH Waldhausen_(-TKK Abschlag),Markt 94,Waldhausen,4391,48.2722,14.9508179,DIE,Diesel,1.489,2022-03-02 20:39
+34587,Tankstelle Pernsteiner - Tankautomat mit Bankomat,Hauptstraße 9,Kirchberg ob der Donau,4131,48.444348,13.938993,DIE,Diesel,1.489,2022-03-02 20:39
+38186,DISKONT Grausgruber,Starhemberg 15,Haag/Hausruck,4680,48.189051,13.642724,DIE,Diesel,1.489,2022-03-02 20:39
+34493,Diskont,Markt 6,Windhaag bei Freistadt,4263,48.588616,14.561648,DIE,Diesel,1.429,2022-03-02 20:39
+237857,SB-Tankstelle Schmied im Wald,Gschaid 8,Natternbach,4723,48.4039189,13.6922177,DIE,Diesel,1.448,2022-03-02 20:39
+1172639,SB-Tankstelle Zauner,Jagern 18,Enzenkirchen,4761,48.37648,13.63102,DIE,Diesel,1.457,2022-03-02 20:39
+2056,Diskonttankstelle,Linzer Straße 29,Königswiesen,4280,48.3942687,14.8289891,DIE,Diesel,1.459,2022-03-02 20:39
+34480,DICKINGER Agrarhandel GmbH,Stampfstraße 3,Vorchdorf,4655,48.0051382,13.9188821,DIE,Diesel,1.459,2022-03-02 20:39
+34728,"Jedinger, Freie Tankstelle",Frei 3,Geboltskirchen,4682,48.1537941,13.6345045,DIE,Diesel,1.459,2022-03-02 20:39
+41188,Diskont Tankstelle,"Neue Landstraße 74 (""Hofer-Parkplatz"")",Vorchdorf,4655,48.008358,13.920214,DIE,Diesel,1.459,2022-03-02 20:39
+34763,Diskonttankstelle Leonhartsberger,Schloßberg 34,Waldhausen,4391,48.2777412,14.9560838,DIE,Diesel,1.478,2022-03-02 20:39
+1093770,AVIA Xpress (Automaten-Tankstelle),Hauptstraße 34,Weibern,4675,48.181118,13.698211,DIE,Diesel,1.484,2022-03-02 20:39
+6681,Genol LGH Grein_(-TKK Abschlag),Ufer 14,Grein,4360,48.2220734,14.8507314,DIE,Diesel,1.489,2022-03-02 20:39
+6684,Genol LGH Waldhausen_(-TKK Abschlag),Markt 94,Waldhausen,4391,48.2722,14.9508179,DIE,Diesel,1.489,2022-03-02 20:39
+34587,Tankstelle Pernsteiner - Tankautomat mit Bankomat,Hauptstraße 9,Kirchberg ob der Donau,4131,48.444348,13.938993,DIE,Diesel,1.489,2022-03-02 20:39
+38186,DISKONT Grausgruber,Starhemberg 15,Haag/Hausruck,4680,48.189051,13.642724,DIE,Diesel,1.489,2022-03-02 20:39
+34493,Diskont,Markt 6,Windhaag bei Freistadt,4263,48.588616,14.561648,DIE,Diesel,1.429,2022-03-02 20:39
+237857,SB-Tankstelle Schmied im Wald,Gschaid 8,Natternbach,4723,48.4039189,13.6922177,DIE,Diesel,1.448,2022-03-02 20:39
+1172639,SB-Tankstelle Zauner,Jagern 18,Enzenkirchen,4761,48.37648,13.63102,DIE,Diesel,1.457,2022-03-02 20:39
+2056,Diskonttankstelle,Linzer Straße 29,Königswiesen,4280,48.3942687,14.8289891,DIE,Diesel,1.459,2022-03-02 20:39
+34480,DICKINGER Agrarhandel GmbH,Stampfstraße 3,Vorchdorf,4655,48.0051382,13.9188821,DIE,Diesel,1.459,2022-03-02 20:39
+34728,"Jedinger, Freie Tankstelle",Frei 3,Geboltskirchen,4682,48.1537941,13.6345045,DIE,Diesel,1.459,2022-03-02 20:39
+41188,Diskont Tankstelle,"Neue Landstraße 74 (""Hofer-Parkplatz"")",Vorchdorf,4655,48.008358,13.920214,DIE,Diesel,1.459,2022-03-02 20:39
+34763,Diskonttankstelle Leonhartsberger,Schloßberg 34,Waldhausen,4391,48.2777412,14.9560838,DIE,Diesel,1.478,2022-03-02 20:39
+1093770,AVIA Xpress (Automaten-Tankstelle),Hauptstraße 34,Weibern,4675,48.181118,13.698211,DIE,Diesel,1.484,2022-03-02 20:39
+6681,Genol LGH Grein_(-TKK Abschlag),Ufer 14,Grein,4360,48.2220734,14.8507314,DIE,Diesel,1.489,2022-03-02 20:39
+6684,Genol LGH Waldhausen_(-TKK Abschlag),Markt 94,Waldhausen,4391,48.2722,14.9508179,DIE,Diesel,1.489,2022-03-02 20:39
+34587,Tankstelle Pernsteiner - Tankautomat mit Bankomat,Hauptstraße 9,Kirchberg ob der Donau,4131,48.444348,13.938993,DIE,Diesel,1.489,2022-03-02 20:39
+38186,DISKONT Grausgruber,Starhemberg 15,Haag/Hausruck,4680,48.189051,13.642724,DIE,Diesel,1.489,2022-03-02 20:39
+34493,Diskont,Markt 6,Windhaag bei Freistadt,4263,48.588616,14.561648,DIE,Diesel,1.429,2022-03-02 20:39
+237857,SB-Tankstelle Schmied im Wald,Gschaid 8,Natternbach,4723,48.4039189,13.6922177,DIE,Diesel,1.448,2022-03-02 20:39
+1172639,SB-Tankstelle Zauner,Jagern 18,Enzenkirchen,4761,48.37648,13.63102,DIE,Diesel,1.457,2022-03-02 20:39
+2056,Diskonttankstelle,Linzer Straße 29,Königswiesen,4280,48.3942687,14.8289891,DIE,Diesel,1.459,2022-03-02 20:39
+34480,DICKINGER Agrarhandel GmbH,Stampfstraße 3,Vorchdorf,4655,48.0051382,13.9188821,DIE,Diesel,1.459,2022-03-02 20:39
+34728,"Jedinger, Freie Tankstelle",Frei 3,Geboltskirchen,4682,48.1537941,13.6345045,DIE,Diesel,1.459,2022-03-02 20:39
+41188,Diskont Tankstelle,"Neue Landstraße 74 (""Hofer-Parkplatz"")",Vorchdorf,4655,48.008358,13.920214,DIE,Diesel,1.459,2022-03-02 20:39
+34763,Diskonttankstelle Leonhartsberger,Schloßberg 34,Waldhausen,4391,48.2777412,14.9560838,DIE,Diesel,1.478,2022-03-02 20:39
+1093770,AVIA Xpress (Automaten-Tankstelle),Hauptstraße 34,Weibern,4675,48.181118,13.698211,DIE,Diesel,1.484,2022-03-02 20:39
+6681,Genol LGH Grein_(-TKK Abschlag),Ufer 14,Grein,4360,48.2220734,14.8507314,DIE,Diesel,1.489,2022-03-02 20:39
+6684,Genol LGH Waldhausen_(-TKK Abschlag),Markt 94,Waldhausen,4391,48.2722,14.9508179,DIE,Diesel,1.489,2022-03-02 20:39
+34587,Tankstelle Pernsteiner - Tankautomat mit Bankomat,Hauptstraße 9,Kirchberg ob der Donau,4131,48.444348,13.938993,DIE,Diesel,1.489,2022-03-02 20:39
+38186,DISKONT Grausgruber,Starhemberg 15,Haag/Hausruck,4680,48.189051,13.642724,DIE,Diesel,1.489,2022-03-02 20:39
+34493,Diskont,Markt 6,Windhaag bei Freistadt,4263,48.588616,14.561648,DIE,Diesel,1.429,2022-03-02 20:39
+237857,SB-Tankstelle Schmied im Wald,Gschaid 8,Natternbach,4723,48.4039189,13.6922177,DIE,Diesel,1.448,2022-03-02 20:39
+1172639,SB-Tankstelle Zauner,Jagern 18,Enzenkirchen,4761,48.37648,13.63102,DIE,Diesel,1.457,2022-03-02 20:39
+2056,Diskonttankstelle,Linzer Straße 29,Königswiesen,4280,48.3942687,14.8289891,DIE,Diesel,1.459,2022-03-02 20:39
+34480,DICKINGER Agrarhandel GmbH,Stampfstraße 3,Vorchdorf,4655,48.0051382,13.9188821,DIE,Diesel,1.459,2022-03-02 20:39
+34728,"Jedinger, Freie Tankstelle",Frei 3,Geboltskirchen,4682,48.1537941,13.6345045,DIE,Diesel,1.459,2022-03-02 20:39
+41188,Diskont Tankstelle,"Neue Landstraße 74 (""Hofer-Parkplatz"")",Vorchdorf,4655,48.008358,13.920214,DIE,Diesel,1.459,2022-03-02 20:39
+34763,Diskonttankstelle Leonhartsberger,Schloßberg 34,Waldhausen,4391,48.2777412,14.9560838,DIE,Diesel,1.478,2022-03-02 20:39
+1093770,AVIA Xpress (Automaten-Tankstelle),Hauptstraße 34,Weibern,4675,48.181118,13.698211,DIE,Diesel,1.484,2022-03-02 20:39
+6681,Genol LGH Grein_(-TKK Abschlag),Ufer 14,Grein,4360,48.2220734,14.8507314,DIE,Diesel,1.489,2022-03-02 20:39
+6684,Genol LGH Waldhausen_(-TKK Abschlag),Markt 94,Waldhausen,4391,48.2722,14.9508179,DIE,Diesel,1.489,2022-03-02 20:39
+34587,Tankstelle Pernsteiner - Tankautomat mit Bankomat,Hauptstraße 9,Kirchberg ob der Donau,4131,48.444348,13.938993,DIE,Diesel,1.489,2022-03-02 20:39
+38186,DISKONT Grausgruber,Starhemberg 15,Haag/Hausruck,4680,48.189051,13.642724,DIE,Diesel,1.489,2022-03-02 20:39
+34493,Diskont,Markt 6,Windhaag bei Freistadt,4263,48.588616,14.561648,DIE,Diesel,1.429,2022-03-02 20:39
+237857,SB-Tankstelle Schmied im Wald,Gschaid 8,Natternbach,4723,48.4039189,13.6922177,DIE,Diesel,1.448,2022-03-02 20:39
+1172639,SB-Tankstelle Zauner,Jagern 18,Enzenkirchen,4761,48.37648,13.63102,DIE,Diesel,1.457,2022-03-02 20:39
+2056,Diskonttankstelle,Linzer Straße 29,Königswiesen,4280,48.3942687,14.8289891,DIE,Diesel,1.459,2022-03-02 20:39
+34480,DICKINGER Agrarhandel GmbH,Stampfstraße 3,Vorchdorf,4655,48.0051382,13.9188821,DIE,Diesel,1.459,2022-03-02 20:39
+34728,"Jedinger, Freie Tankstelle",Frei 3,Geboltskirchen,4682,48.1537941,13.6345045,DIE,Diesel,1.459,2022-03-02 20:39
+41188,Diskont Tankstelle,"Neue Landstraße 74 (""Hofer-Parkplatz"")",Vorchdorf,4655,48.008358,13.920214,DIE,Diesel,1.459,2022-03-02 20:39
+34763,Diskonttankstelle Leonhartsberger,Schloßberg 34,Waldhausen,4391,48.2777412,14.9560838,DIE,Diesel,1.478,2022-03-02 20:39
+1093770,AVIA Xpress (Automaten-Tankstelle),Hauptstraße 34,Weibern,4675,48.181118,13.698211,DIE,Diesel,1.484,2022-03-02 20:39
+6681,Genol LGH Grein_(-TKK Abschlag),Ufer 14,Grein,4360,48.2220734,14.8507314,DIE,Diesel,1.489,2022-03-02 20:39
+6684,Genol LGH Waldhausen_(-TKK Abschlag),Markt 94,Waldhausen,4391,48.2722,14.9508179,DIE,Diesel,1.489,2022-03-02 20:39
+34587,Tankstelle Pernsteiner - Tankautomat mit Bankomat,Hauptstraße 9,Kirchberg ob der Donau,4131,48.444348,13.938993,DIE,Diesel,1.489,2022-03-02 20:39
+38186,DISKONT Grausgruber,Starhemberg 15,Haag/Hausruck,4680,48.189051,13.642724,DIE,Diesel,1.489,2022-03-02 20:39
+85913,TURMTANKSTELLE,Irrsdorfer Bachstraße Nr. 47,Straßwalchen,5204,47.967945,13.276355,DIE,Diesel,1.48,2022-03-02 20:39
+1354790,JET TANKSTELLE,GEWERBEPARK 12,ELIXHAUSEN,5161,47.871096,13.065989,DIE,Diesel,1.5,2022-03-02 20:39
+6637,Eni Service Station,Mattseer Landesstr. 4,Elixhausen,5161,47.8596157,13.059111,DIE,Diesel,1.505,2022-03-02 20:39
+276,OMV - Obertrum Salzburger Straße 2,Salzburger Strasse 2,Obertrum,5162,47.93554,13.08069,DIE,Diesel,1.514,2022-03-02 20:39
+4340,Diskont Tankstelle,"Bundesstrasse 23 (""Hofer-Parkplatz"")",St. Johann,5600,47.3569941,13.1971638,DIE,Diesel,1.514,2022-03-02 20:39
+40406, LMEnergy Express,Bundesstraße 2,St. Johann,5600,47.3343734,13.189367,DIE,Diesel,1.518,2022-03-02 20:39
+810034,Diesel Prommegger St. Michael,Gewerbestraße 649,St. Michael,5582,47.0968149,13.6314642,DIE,Diesel,1.519,2022-03-02 20:39
+1354832,JET TANKSTELLE,BUNDESSTRASSE 13,ST JOHANN IM PONGAU,5600,47.343479,13.191715,DIE,Diesel,1.519,2022-03-02 20:39
+181,OMV - Schwarzach Salzburger Straße 52,Salzburger Strasse 52,Schwarzach,5620,47.32019,13.14384,DIE,Diesel,1.523,2022-03-02 20:39
+7694,BP,Bundesstraße 2,St. Johann,5600,47.3343734,13.189367,DIE,Diesel,1.523,2022-03-02 20:39
+1354747,JET TANKSTELLE,BUNDESSTRASSE 18,ST JOHANN IM PONGAU,5600,47.350359,13.194386,DIE,Diesel,1.523,2022-03-02 20:39
+85913,TURMTANKSTELLE,Irrsdorfer Bachstraße Nr. 47,Straßwalchen,5204,47.967945,13.276355,DIE,Diesel,1.48,2022-03-02 20:39
+1354790,JET TANKSTELLE,GEWERBEPARK 12,ELIXHAUSEN,5161,47.871096,13.065989,DIE,Diesel,1.5,2022-03-02 20:39
+6637,Eni Service Station,Mattseer Landesstr. 4,Elixhausen,5161,47.8596157,13.059111,DIE,Diesel,1.505,2022-03-02 20:39
+276,OMV - Obertrum Salzburger Straße 2,Salzburger Strasse 2,Obertrum,5162,47.93554,13.08069,DIE,Diesel,1.514,2022-03-02 20:39
+4340,Diskont Tankstelle,"Bundesstrasse 23 (""Hofer-Parkplatz"")",St. Johann,5600,47.3569941,13.1971638,DIE,Diesel,1.514,2022-03-02 20:39
+40406, LMEnergy Express,Bundesstraße 2,St. Johann,5600,47.3343734,13.189367,DIE,Diesel,1.518,2022-03-02 20:39
+810034,Diesel Prommegger St. Michael,Gewerbestraße 649,St. Michael,5582,47.0968149,13.6314642,DIE,Diesel,1.519,2022-03-02 20:39
+1354832,JET TANKSTELLE,BUNDESSTRASSE 13,ST JOHANN IM PONGAU,5600,47.343479,13.191715,DIE,Diesel,1.519,2022-03-02 20:39
+181,OMV - Schwarzach Salzburger Straße 52,Salzburger Strasse 52,Schwarzach,5620,47.32019,13.14384,DIE,Diesel,1.523,2022-03-02 20:39
+7694,BP,Bundesstraße 2,St. Johann,5600,47.3343734,13.189367,DIE,Diesel,1.523,2022-03-02 20:39
+1354747,JET TANKSTELLE,BUNDESSTRASSE 18,ST JOHANN IM PONGAU,5600,47.350359,13.194386,DIE,Diesel,1.523,2022-03-02 20:39
+85913,TURMTANKSTELLE,Irrsdorfer Bachstraße Nr. 47,Straßwalchen,5204,47.967945,13.276355,DIE,Diesel,1.48,2022-03-02 20:39
+1354790,JET TANKSTELLE,GEWERBEPARK 12,ELIXHAUSEN,5161,47.871096,13.065989,DIE,Diesel,1.5,2022-03-02 20:39
+6637,Eni Service Station,Mattseer Landesstr. 4,Elixhausen,5161,47.8596157,13.059111,DIE,Diesel,1.505,2022-03-02 20:39
+276,OMV - Obertrum Salzburger Straße 2,Salzburger Strasse 2,Obertrum,5162,47.93554,13.08069,DIE,Diesel,1.514,2022-03-02 20:39
+4340,Diskont Tankstelle,"Bundesstrasse 23 (""Hofer-Parkplatz"")",St. Johann,5600,47.3569941,13.1971638,DIE,Diesel,1.514,2022-03-02 20:39
+40406, LMEnergy Express,Bundesstraße 2,St. Johann,5600,47.3343734,13.189367,DIE,Diesel,1.518,2022-03-02 20:39
+810034,Diesel Prommegger St. Michael,Gewerbestraße 649,St. Michael,5582,47.0968149,13.6314642,DIE,Diesel,1.519,2022-03-02 20:39
+1354832,JET TANKSTELLE,BUNDESSTRASSE 13,ST JOHANN IM PONGAU,5600,47.343479,13.191715,DIE,Diesel,1.519,2022-03-02 20:39
+181,OMV - Schwarzach Salzburger Straße 52,Salzburger Strasse 52,Schwarzach,5620,47.32019,13.14384,DIE,Diesel,1.523,2022-03-02 20:39
+7694,BP,Bundesstraße 2,St. Johann,5600,47.3343734,13.189367,DIE,Diesel,1.523,2022-03-02 20:39
+1354747,JET TANKSTELLE,BUNDESSTRASSE 18,ST JOHANN IM PONGAU,5600,47.350359,13.194386,DIE,Diesel,1.523,2022-03-02 20:39
+85913,TURMTANKSTELLE,Irrsdorfer Bachstraße Nr. 47,Straßwalchen,5204,47.967945,13.276355,DIE,Diesel,1.48,2022-03-02 20:39
+1354790,JET TANKSTELLE,GEWERBEPARK 12,ELIXHAUSEN,5161,47.871096,13.065989,DIE,Diesel,1.5,2022-03-02 20:39
+6637,Eni Service Station,Mattseer Landesstr. 4,Elixhausen,5161,47.8596157,13.059111,DIE,Diesel,1.505,2022-03-02 20:39
+276,OMV - Obertrum Salzburger Straße 2,Salzburger Strasse 2,Obertrum,5162,47.93554,13.08069,DIE,Diesel,1.514,2022-03-02 20:39
+4340,Diskont Tankstelle,"Bundesstrasse 23 (""Hofer-Parkplatz"")",St. Johann,5600,47.3569941,13.1971638,DIE,Diesel,1.514,2022-03-02 20:39
+40406, LMEnergy Express,Bundesstraße 2,St. Johann,5600,47.3343734,13.189367,DIE,Diesel,1.518,2022-03-02 20:39
+810034,Diesel Prommegger St. Michael,Gewerbestraße 649,St. Michael,5582,47.0968149,13.6314642,DIE,Diesel,1.519,2022-03-02 20:39
+1354832,JET TANKSTELLE,BUNDESSTRASSE 13,ST JOHANN IM PONGAU,5600,47.343479,13.191715,DIE,Diesel,1.519,2022-03-02 20:39
+181,OMV - Schwarzach Salzburger Straße 52,Salzburger Strasse 52,Schwarzach,5620,47.32019,13.14384,DIE,Diesel,1.523,2022-03-02 20:39
+7694,BP,Bundesstraße 2,St. Johann,5600,47.3343734,13.189367,DIE,Diesel,1.523,2022-03-02 20:39
+1354747,JET TANKSTELLE,BUNDESSTRASSE 18,ST JOHANN IM PONGAU,5600,47.350359,13.194386,DIE,Diesel,1.523,2022-03-02 20:39
+85913,TURMTANKSTELLE,Irrsdorfer Bachstraße Nr. 47,Straßwalchen,5204,47.967945,13.276355,DIE,Diesel,1.48,2022-03-02 20:39
+1354790,JET TANKSTELLE,GEWERBEPARK 12,ELIXHAUSEN,5161,47.871096,13.065989,DIE,Diesel,1.5,2022-03-02 20:39
+6637,Eni Service Station,Mattseer Landesstr. 4,Elixhausen,5161,47.8596157,13.059111,DIE,Diesel,1.505,2022-03-02 20:39
+276,OMV - Obertrum Salzburger Straße 2,Salzburger Strasse 2,Obertrum,5162,47.93554,13.08069,DIE,Diesel,1.514,2022-03-02 20:39
+4340,Diskont Tankstelle,"Bundesstrasse 23 (""Hofer-Parkplatz"")",St. Johann,5600,47.3569941,13.1971638,DIE,Diesel,1.514,2022-03-02 20:39
+40406, LMEnergy Express,Bundesstraße 2,St. Johann,5600,47.3343734,13.189367,DIE,Diesel,1.518,2022-03-02 20:39
+810034,Diesel Prommegger St. Michael,Gewerbestraße 649,St. Michael,5582,47.0968149,13.6314642,DIE,Diesel,1.519,2022-03-02 20:39
+1354832,JET TANKSTELLE,BUNDESSTRASSE 13,ST JOHANN IM PONGAU,5600,47.343479,13.191715,DIE,Diesel,1.519,2022-03-02 20:39
+181,OMV - Schwarzach Salzburger Straße 52,Salzburger Strasse 52,Schwarzach,5620,47.32019,13.14384,DIE,Diesel,1.523,2022-03-02 20:39
+7694,BP,Bundesstraße 2,St. Johann,5600,47.3343734,13.189367,DIE,Diesel,1.523,2022-03-02 20:39
+1354747,JET TANKSTELLE,BUNDESSTRASSE 18,ST JOHANN IM PONGAU,5600,47.350359,13.194386,DIE,Diesel,1.523,2022-03-02 20:39
+85913,TURMTANKSTELLE,Irrsdorfer Bachstraße Nr. 47,Straßwalchen,5204,47.967945,13.276355,DIE,Diesel,1.48,2022-03-02 20:39
+1354790,JET TANKSTELLE,GEWERBEPARK 12,ELIXHAUSEN,5161,47.871096,13.065989,DIE,Diesel,1.5,2022-03-02 20:39
+6637,Eni Service Station,Mattseer Landesstr. 4,Elixhausen,5161,47.8596157,13.059111,DIE,Diesel,1.505,2022-03-02 20:39
+276,OMV - Obertrum Salzburger Straße 2,Salzburger Strasse 2,Obertrum,5162,47.93554,13.08069,DIE,Diesel,1.514,2022-03-02 20:39
+4340,Diskont Tankstelle,"Bundesstrasse 23 (""Hofer-Parkplatz"")",St. Johann,5600,47.3569941,13.1971638,DIE,Diesel,1.514,2022-03-02 20:39
+40406, LMEnergy Express,Bundesstraße 2,St. Johann,5600,47.3343734,13.189367,DIE,Diesel,1.518,2022-03-02 20:39
+810034,Diesel Prommegger St. Michael,Gewerbestraße 649,St. Michael,5582,47.0968149,13.6314642,DIE,Diesel,1.519,2022-03-02 20:39
+1354832,JET TANKSTELLE,BUNDESSTRASSE 13,ST JOHANN IM PONGAU,5600,47.343479,13.191715,DIE,Diesel,1.519,2022-03-02 20:39
+181,OMV - Schwarzach Salzburger Straße 52,Salzburger Strasse 52,Schwarzach,5620,47.32019,13.14384,DIE,Diesel,1.523,2022-03-02 20:39
+7694,BP,Bundesstraße 2,St. Johann,5600,47.3343734,13.189367,DIE,Diesel,1.523,2022-03-02 20:39
+1354747,JET TANKSTELLE,BUNDESSTRASSE 18,ST JOHANN IM PONGAU,5600,47.350359,13.194386,DIE,Diesel,1.523,2022-03-02 20:39
+85913,TURMTANKSTELLE,Irrsdorfer Bachstraße Nr. 47,Straßwalchen,5204,47.967945,13.276355,DIE,Diesel,1.48,2022-03-02 20:39
+1354790,JET TANKSTELLE,GEWERBEPARK 12,ELIXHAUSEN,5161,47.871096,13.065989,DIE,Diesel,1.5,2022-03-02 20:39
+6637,Eni Service Station,Mattseer Landesstr. 4,Elixhausen,5161,47.8596157,13.059111,DIE,Diesel,1.505,2022-03-02 20:39
+276,OMV - Obertrum Salzburger Straße 2,Salzburger Strasse 2,Obertrum,5162,47.93554,13.08069,DIE,Diesel,1.514,2022-03-02 20:39
+4340,Diskont Tankstelle,"Bundesstrasse 23 (""Hofer-Parkplatz"")",St. Johann,5600,47.3569941,13.1971638,DIE,Diesel,1.514,2022-03-02 20:39
+40406, LMEnergy Express,Bundesstraße 2,St. Johann,5600,47.3343734,13.189367,DIE,Diesel,1.518,2022-03-02 20:39
+810034,Diesel Prommegger St. Michael,Gewerbestraße 649,St. Michael,5582,47.0968149,13.6314642,DIE,Diesel,1.519,2022-03-02 20:39
+1354832,JET TANKSTELLE,BUNDESSTRASSE 13,ST JOHANN IM PONGAU,5600,47.343479,13.191715,DIE,Diesel,1.519,2022-03-02 20:39
+181,OMV - Schwarzach Salzburger Straße 52,Salzburger Strasse 52,Schwarzach,5620,47.32019,13.14384,DIE,Diesel,1.523,2022-03-02 20:39
+7694,BP,Bundesstraße 2,St. Johann,5600,47.3343734,13.189367,DIE,Diesel,1.523,2022-03-02 20:39
+1354747,JET TANKSTELLE,BUNDESSTRASSE 18,ST JOHANN IM PONGAU,5600,47.350359,13.194386,DIE,Diesel,1.523,2022-03-02 20:39
+33463,Ford-Levak,Halbenrain 13,Halbenrain,8492,46.7226069,15.9474719,DIE,Diesel,1.425,2022-03-02 20:39
+208629,,Willersdorferstrasse 67,St. Radegund bei Graz,8061,47.1918522,15.5028483,DIE,Diesel,1.428,2022-03-02 20:39
+7644,Gruber Diesel,Industriepark 1,Traboch - Timmersdorf,8772,47.3724078,14.9887659,DIE,Diesel,1.43,2022-03-02 20:39
+34340,Gbr. Trippl Transporte GmbH & Co KG,Mariazellerstrasse 89,Kapfenberg,8605,47.4524949,15.266624,DIE,Diesel,1.436,2022-03-02 20:39
+2070,freie Tankstelle,Hirschegg 50,Hirschegg,8584,47.0201138,14.9572875,DIE,Diesel,1.44,2022-03-02 20:39
+40786,Diskont Diesel,Hainfeld 68,Ilz,8262,47.08102,15.9682,DIE,Diesel,1.444,2022-03-02 20:39
+33436,Hirschmugl,Deutsch Goritz 78,Deutsch Goritz,8483,46.749278,15.831924,DIE,Diesel,1.455,2022-03-02 20:39
+33472,Stadtwerke Leoben,Kerpelystraße 34,Leoben,8700,47.3746958,15.0823166,DIE,Diesel,1.459,2022-03-02 20:39
+209826,Rumpold,Mettersdorf am Saßbach 59,Mettersdorf,8092,46.8057563,15.7113904,DIE,Diesel,1.459,2022-03-02 20:39
+1470086,Rumpold,Petersplatz 5,St. Peter am Ottersbach,8093,46.79924,15.759666,DIE,Diesel,1.459,2022-03-02 20:39
+33463,Ford-Levak,Halbenrain 13,Halbenrain,8492,46.7226069,15.9474719,DIE,Diesel,1.425,2022-03-02 20:39
+208629,,Willersdorferstrasse 67,St. Radegund bei Graz,8061,47.1918522,15.5028483,DIE,Diesel,1.428,2022-03-02 20:39
+7644,Gruber Diesel,Industriepark 1,Traboch - Timmersdorf,8772,47.3724078,14.9887659,DIE,Diesel,1.43,2022-03-02 20:39
+34340,Gbr. Trippl Transporte GmbH & Co KG,Mariazellerstrasse 89,Kapfenberg,8605,47.4524949,15.266624,DIE,Diesel,1.436,2022-03-02 20:39
+2070,freie Tankstelle,Hirschegg 50,Hirschegg,8584,47.0201138,14.9572875,DIE,Diesel,1.44,2022-03-02 20:39
+40786,Diskont Diesel,Hainfeld 68,Ilz,8262,47.08102,15.9682,DIE,Diesel,1.444,2022-03-02 20:39
+33436,Hirschmugl,Deutsch Goritz 78,Deutsch Goritz,8483,46.749278,15.831924,DIE,Diesel,1.455,2022-03-02 20:39
+33472,Stadtwerke Leoben,Kerpelystraße 34,Leoben,8700,47.3746958,15.0823166,DIE,Diesel,1.459,2022-03-02 20:39
+209826,Rumpold,Mettersdorf am Saßbach 59,Mettersdorf,8092,46.8057563,15.7113904,DIE,Diesel,1.459,2022-03-02 20:39
+1470086,Rumpold,Petersplatz 5,St. Peter am Ottersbach,8093,46.79924,15.759666,DIE,Diesel,1.459,2022-03-02 20:39
+33463,Ford-Levak,Halbenrain 13,Halbenrain,8492,46.7226069,15.9474719,DIE,Diesel,1.425,2022-03-02 20:39
+208629,,Willersdorferstrasse 67,St. Radegund bei Graz,8061,47.1918522,15.5028483,DIE,Diesel,1.428,2022-03-02 20:39
+7644,Gruber Diesel,Industriepark 1,Traboch - Timmersdorf,8772,47.3724078,14.9887659,DIE,Diesel,1.43,2022-03-02 20:39
+34340,Gbr. Trippl Transporte GmbH & Co KG,Mariazellerstrasse 89,Kapfenberg,8605,47.4524949,15.266624,DIE,Diesel,1.436,2022-03-02 20:39
+2070,freie Tankstelle,Hirschegg 50,Hirschegg,8584,47.0201138,14.9572875,DIE,Diesel,1.44,2022-03-02 20:39
+40786,Diskont Diesel,Hainfeld 68,Ilz,8262,47.08102,15.9682,DIE,Diesel,1.444,2022-03-02 20:39
+33436,Hirschmugl,Deutsch Goritz 78,Deutsch Goritz,8483,46.749278,15.831924,DIE,Diesel,1.455,2022-03-02 20:39
+33472,Stadtwerke Leoben,Kerpelystraße 34,Leoben,8700,47.3746958,15.0823166,DIE,Diesel,1.459,2022-03-02 20:39
+209826,Rumpold,Mettersdorf am Saßbach 59,Mettersdorf,8092,46.8057563,15.7113904,DIE,Diesel,1.459,2022-03-02 20:39
+1470086,Rumpold,Petersplatz 5,St. Peter am Ottersbach,8093,46.79924,15.759666,DIE,Diesel,1.459,2022-03-02 20:39
+33463,Ford-Levak,Halbenrain 13,Halbenrain,8492,46.7226069,15.9474719,DIE,Diesel,1.425,2022-03-02 20:39
+208629,,Willersdorferstrasse 67,St. Radegund bei Graz,8061,47.1918522,15.5028483,DIE,Diesel,1.428,2022-03-02 20:39
+7644,Gruber Diesel,Industriepark 1,Traboch - Timmersdorf,8772,47.3724078,14.9887659,DIE,Diesel,1.43,2022-03-02 20:39
+34340,Gbr. Trippl Transporte GmbH & Co KG,Mariazellerstrasse 89,Kapfenberg,8605,47.4524949,15.266624,DIE,Diesel,1.436,2022-03-02 20:39
+2070,freie Tankstelle,Hirschegg 50,Hirschegg,8584,47.0201138,14.9572875,DIE,Diesel,1.44,2022-03-02 20:39
+40786,Diskont Diesel,Hainfeld 68,Ilz,8262,47.08102,15.9682,DIE,Diesel,1.444,2022-03-02 20:39
+33436,Hirschmugl,Deutsch Goritz 78,Deutsch Goritz,8483,46.749278,15.831924,DIE,Diesel,1.455,2022-03-02 20:39
+33472,Stadtwerke Leoben,Kerpelystraße 34,Leoben,8700,47.3746958,15.0823166,DIE,Diesel,1.459,2022-03-02 20:39
+209826,Rumpold,Mettersdorf am Saßbach 59,Mettersdorf,8092,46.8057563,15.7113904,DIE,Diesel,1.459,2022-03-02 20:39
+1470086,Rumpold,Petersplatz 5,St. Peter am Ottersbach,8093,46.79924,15.759666,DIE,Diesel,1.459,2022-03-02 20:39
+33463,Ford-Levak,Halbenrain 13,Halbenrain,8492,46.7226069,15.9474719,DIE,Diesel,1.425,2022-03-02 20:39
+208629,,Willersdorferstrasse 67,St. Radegund bei Graz,8061,47.1918522,15.5028483,DIE,Diesel,1.428,2022-03-02 20:39
+7644,Gruber Diesel,Industriepark 1,Traboch - Timmersdorf,8772,47.3724078,14.9887659,DIE,Diesel,1.43,2022-03-02 20:39
+34340,Gbr. Trippl Transporte GmbH & Co KG,Mariazellerstrasse 89,Kapfenberg,8605,47.4524949,15.266624,DIE,Diesel,1.436,2022-03-02 20:39
+2070,freie Tankstelle,Hirschegg 50,Hirschegg,8584,47.0201138,14.9572875,DIE,Diesel,1.44,2022-03-02 20:39
+40786,Diskont Diesel,Hainfeld 68,Ilz,8262,47.08102,15.9682,DIE,Diesel,1.444,2022-03-02 20:39
+33436,Hirschmugl,Deutsch Goritz 78,Deutsch Goritz,8483,46.749278,15.831924,DIE,Diesel,1.455,2022-03-02 20:39
+33472,Stadtwerke Leoben,Kerpelystraße 34,Leoben,8700,47.3746958,15.0823166,DIE,Diesel,1.459,2022-03-02 20:39
+209826,Rumpold,Mettersdorf am Saßbach 59,Mettersdorf,8092,46.8057563,15.7113904,DIE,Diesel,1.459,2022-03-02 20:39
+1470086,Rumpold,Petersplatz 5,St. Peter am Ottersbach,8093,46.79924,15.759666,DIE,Diesel,1.459,2022-03-02 20:39
+33463,Ford-Levak,Halbenrain 13,Halbenrain,8492,46.7226069,15.9474719,DIE,Diesel,1.425,2022-03-02 20:40
+208629,,Willersdorferstrasse 67,St. Radegund bei Graz,8061,47.1918522,15.5028483,DIE,Diesel,1.428,2022-03-02 20:40
+7644,Gruber Diesel,Industriepark 1,Traboch - Timmersdorf,8772,47.3724078,14.9887659,DIE,Diesel,1.43,2022-03-02 20:40
+34340,Gbr. Trippl Transporte GmbH & Co KG,Mariazellerstrasse 89,Kapfenberg,8605,47.4524949,15.266624,DIE,Diesel,1.436,2022-03-02 20:40
+2070,freie Tankstelle,Hirschegg 50,Hirschegg,8584,47.0201138,14.9572875,DIE,Diesel,1.44,2022-03-02 20:40
+40786,Diskont Diesel,Hainfeld 68,Ilz,8262,47.08102,15.9682,DIE,Diesel,1.444,2022-03-02 20:40
+33436,Hirschmugl,Deutsch Goritz 78,Deutsch Goritz,8483,46.749278,15.831924,DIE,Diesel,1.455,2022-03-02 20:40
+33472,Stadtwerke Leoben,Kerpelystraße 34,Leoben,8700,47.3746958,15.0823166,DIE,Diesel,1.459,2022-03-02 20:40
+209826,Rumpold,Mettersdorf am Saßbach 59,Mettersdorf,8092,46.8057563,15.7113904,DIE,Diesel,1.459,2022-03-02 20:40
+1470086,Rumpold,Petersplatz 5,St. Peter am Ottersbach,8093,46.79924,15.759666,DIE,Diesel,1.459,2022-03-02 20:40
+33463,Ford-Levak,Halbenrain 13,Halbenrain,8492,46.7226069,15.9474719,DIE,Diesel,1.425,2022-03-02 20:40
+208629,,Willersdorferstrasse 67,St. Radegund bei Graz,8061,47.1918522,15.5028483,DIE,Diesel,1.428,2022-03-02 20:40
+7644,Gruber Diesel,Industriepark 1,Traboch - Timmersdorf,8772,47.3724078,14.9887659,DIE,Diesel,1.43,2022-03-02 20:40
+34340,Gbr. Trippl Transporte GmbH & Co KG,Mariazellerstrasse 89,Kapfenberg,8605,47.4524949,15.266624,DIE,Diesel,1.436,2022-03-02 20:40
+2070,freie Tankstelle,Hirschegg 50,Hirschegg,8584,47.0201138,14.9572875,DIE,Diesel,1.44,2022-03-02 20:40
+40786,Diskont Diesel,Hainfeld 68,Ilz,8262,47.08102,15.9682,DIE,Diesel,1.444,2022-03-02 20:40
+33436,Hirschmugl,Deutsch Goritz 78,Deutsch Goritz,8483,46.749278,15.831924,DIE,Diesel,1.455,2022-03-02 20:40
+33472,Stadtwerke Leoben,Kerpelystraße 34,Leoben,8700,47.3746958,15.0823166,DIE,Diesel,1.459,2022-03-02 20:40
+209826,Rumpold,Mettersdorf am Saßbach 59,Mettersdorf,8092,46.8057563,15.7113904,DIE,Diesel,1.459,2022-03-02 20:40
+1470086,Rumpold,Petersplatz 5,St. Peter am Ottersbach,8093,46.79924,15.759666,DIE,Diesel,1.459,2022-03-02 20:40
+33463,Ford-Levak,Halbenrain 13,Halbenrain,8492,46.7226069,15.9474719,DIE,Diesel,1.425,2022-03-02 20:40
+208629,,Willersdorferstrasse 67,St. Radegund bei Graz,8061,47.1918522,15.5028483,DIE,Diesel,1.428,2022-03-02 20:40
+7644,Gruber Diesel,Industriepark 1,Traboch - Timmersdorf,8772,47.3724078,14.9887659,DIE,Diesel,1.43,2022-03-02 20:40
+34340,Gbr. Trippl Transporte GmbH & Co KG,Mariazellerstrasse 89,Kapfenberg,8605,47.4524949,15.266624,DIE,Diesel,1.436,2022-03-02 20:40
+2070,freie Tankstelle,Hirschegg 50,Hirschegg,8584,47.0201138,14.9572875,DIE,Diesel,1.44,2022-03-02 20:40
+40786,Diskont Diesel,Hainfeld 68,Ilz,8262,47.08102,15.9682,DIE,Diesel,1.444,2022-03-02 20:40
+33436,Hirschmugl,Deutsch Goritz 78,Deutsch Goritz,8483,46.749278,15.831924,DIE,Diesel,1.455,2022-03-02 20:40
+33472,Stadtwerke Leoben,Kerpelystraße 34,Leoben,8700,47.3746958,15.0823166,DIE,Diesel,1.459,2022-03-02 20:40
+209826,Rumpold,Mettersdorf am Saßbach 59,Mettersdorf,8092,46.8057563,15.7113904,DIE,Diesel,1.459,2022-03-02 20:40
+1470086,Rumpold,Petersplatz 5,St. Peter am Ottersbach,8093,46.79924,15.759666,DIE,Diesel,1.459,2022-03-02 20:40
+33463,Ford-Levak,Halbenrain 13,Halbenrain,8492,46.7226069,15.9474719,DIE,Diesel,1.425,2022-03-02 20:40
+208629,,Willersdorferstrasse 67,St. Radegund bei Graz,8061,47.1918522,15.5028483,DIE,Diesel,1.428,2022-03-02 20:40
+7644,Gruber Diesel,Industriepark 1,Traboch - Timmersdorf,8772,47.3724078,14.9887659,DIE,Diesel,1.43,2022-03-02 20:40
+34340,Gbr. Trippl Transporte GmbH & Co KG,Mariazellerstrasse 89,Kapfenberg,8605,47.4524949,15.266624,DIE,Diesel,1.436,2022-03-02 20:40
+2070,freie Tankstelle,Hirschegg 50,Hirschegg,8584,47.0201138,14.9572875,DIE,Diesel,1.44,2022-03-02 20:40
+40786,Diskont Diesel,Hainfeld 68,Ilz,8262,47.08102,15.9682,DIE,Diesel,1.444,2022-03-02 20:40
+33436,Hirschmugl,Deutsch Goritz 78,Deutsch Goritz,8483,46.749278,15.831924,DIE,Diesel,1.455,2022-03-02 20:40
+33472,Stadtwerke Leoben,Kerpelystraße 34,Leoben,8700,47.3746958,15.0823166,DIE,Diesel,1.459,2022-03-02 20:40
+209826,Rumpold,Mettersdorf am Saßbach 59,Mettersdorf,8092,46.8057563,15.7113904,DIE,Diesel,1.459,2022-03-02 20:40
+1470086,Rumpold,Petersplatz 5,St. Peter am Ottersbach,8093,46.79924,15.759666,DIE,Diesel,1.459,2022-03-02 20:40
+33463,Ford-Levak,Halbenrain 13,Halbenrain,8492,46.7226069,15.9474719,DIE,Diesel,1.425,2022-03-02 20:40
+208629,,Willersdorferstrasse 67,St. Radegund bei Graz,8061,47.1918522,15.5028483,DIE,Diesel,1.428,2022-03-02 20:40
+7644,Gruber Diesel,Industriepark 1,Traboch - Timmersdorf,8772,47.3724078,14.9887659,DIE,Diesel,1.43,2022-03-02 20:40
+34340,Gbr. Trippl Transporte GmbH & Co KG,Mariazellerstrasse 89,Kapfenberg,8605,47.4524949,15.266624,DIE,Diesel,1.436,2022-03-02 20:40
+2070,freie Tankstelle,Hirschegg 50,Hirschegg,8584,47.0201138,14.9572875,DIE,Diesel,1.44,2022-03-02 20:40
+40786,Diskont Diesel,Hainfeld 68,Ilz,8262,47.08102,15.9682,DIE,Diesel,1.444,2022-03-02 20:40
+33436,Hirschmugl,Deutsch Goritz 78,Deutsch Goritz,8483,46.749278,15.831924,DIE,Diesel,1.455,2022-03-02 20:40
+33472,Stadtwerke Leoben,Kerpelystraße 34,Leoben,8700,47.3746958,15.0823166,DIE,Diesel,1.459,2022-03-02 20:40
+209826,Rumpold,Mettersdorf am Saßbach 59,Mettersdorf,8092,46.8057563,15.7113904,DIE,Diesel,1.459,2022-03-02 20:40
+1470086,Rumpold,Petersplatz 5,St. Peter am Ottersbach,8093,46.79924,15.759666,DIE,Diesel,1.459,2022-03-02 20:40
+33463,Ford-Levak,Halbenrain 13,Halbenrain,8492,46.7226069,15.9474719,DIE,Diesel,1.425,2022-03-02 20:40
+208629,,Willersdorferstrasse 67,St. Radegund bei Graz,8061,47.1918522,15.5028483,DIE,Diesel,1.428,2022-03-02 20:40
+7644,Gruber Diesel,Industriepark 1,Traboch - Timmersdorf,8772,47.3724078,14.9887659,DIE,Diesel,1.43,2022-03-02 20:40
+34340,Gbr. Trippl Transporte GmbH & Co KG,Mariazellerstrasse 89,Kapfenberg,8605,47.4524949,15.266624,DIE,Diesel,1.436,2022-03-02 20:40
+2070,freie Tankstelle,Hirschegg 50,Hirschegg,8584,47.0201138,14.9572875,DIE,Diesel,1.44,2022-03-02 20:40
+40786,Diskont Diesel,Hainfeld 68,Ilz,8262,47.08102,15.9682,DIE,Diesel,1.444,2022-03-02 20:40
+33436,Hirschmugl,Deutsch Goritz 78,Deutsch Goritz,8483,46.749278,15.831924,DIE,Diesel,1.455,2022-03-02 20:40
+33472,Stadtwerke Leoben,Kerpelystraße 34,Leoben,8700,47.3746958,15.0823166,DIE,Diesel,1.459,2022-03-02 20:40
+209826,Rumpold,Mettersdorf am Saßbach 59,Mettersdorf,8092,46.8057563,15.7113904,DIE,Diesel,1.459,2022-03-02 20:40
+1470086,Rumpold,Petersplatz 5,St. Peter am Ottersbach,8093,46.79924,15.759666,DIE,Diesel,1.459,2022-03-02 20:40
+33463,Ford-Levak,Halbenrain 13,Halbenrain,8492,46.7226069,15.9474719,DIE,Diesel,1.425,2022-03-02 20:40
+208629,,Willersdorferstrasse 67,St. Radegund bei Graz,8061,47.1918522,15.5028483,DIE,Diesel,1.428,2022-03-02 20:40
+7644,Gruber Diesel,Industriepark 1,Traboch - Timmersdorf,8772,47.3724078,14.9887659,DIE,Diesel,1.43,2022-03-02 20:40
+34340,Gbr. Trippl Transporte GmbH & Co KG,Mariazellerstrasse 89,Kapfenberg,8605,47.4524949,15.266624,DIE,Diesel,1.436,2022-03-02 20:40
+2070,freie Tankstelle,Hirschegg 50,Hirschegg,8584,47.0201138,14.9572875,DIE,Diesel,1.44,2022-03-02 20:40
+40786,Diskont Diesel,Hainfeld 68,Ilz,8262,47.08102,15.9682,DIE,Diesel,1.444,2022-03-02 20:40
+33436,Hirschmugl,Deutsch Goritz 78,Deutsch Goritz,8483,46.749278,15.831924,DIE,Diesel,1.455,2022-03-02 20:40
+33472,Stadtwerke Leoben,Kerpelystraße 34,Leoben,8700,47.3746958,15.0823166,DIE,Diesel,1.459,2022-03-02 20:40
+209826,Rumpold,Mettersdorf am Saßbach 59,Mettersdorf,8092,46.8057563,15.7113904,DIE,Diesel,1.459,2022-03-02 20:40
+1470086,Rumpold,Petersplatz 5,St. Peter am Ottersbach,8093,46.79924,15.759666,DIE,Diesel,1.459,2022-03-02 20:40
+33463,Ford-Levak,Halbenrain 13,Halbenrain,8492,46.7226069,15.9474719,DIE,Diesel,1.425,2022-03-02 20:40
+208629,,Willersdorferstrasse 67,St. Radegund bei Graz,8061,47.1918522,15.5028483,DIE,Diesel,1.428,2022-03-02 20:40
+7644,Gruber Diesel,Industriepark 1,Traboch - Timmersdorf,8772,47.3724078,14.9887659,DIE,Diesel,1.43,2022-03-02 20:40
+34340,Gbr. Trippl Transporte GmbH & Co KG,Mariazellerstrasse 89,Kapfenberg,8605,47.4524949,15.266624,DIE,Diesel,1.436,2022-03-02 20:40
+2070,freie Tankstelle,Hirschegg 50,Hirschegg,8584,47.0201138,14.9572875,DIE,Diesel,1.44,2022-03-02 20:40
+40786,Diskont Diesel,Hainfeld 68,Ilz,8262,47.08102,15.9682,DIE,Diesel,1.444,2022-03-02 20:40
+33436,Hirschmugl,Deutsch Goritz 78,Deutsch Goritz,8483,46.749278,15.831924,DIE,Diesel,1.455,2022-03-02 20:40
+33472,Stadtwerke Leoben,Kerpelystraße 34,Leoben,8700,47.3746958,15.0823166,DIE,Diesel,1.459,2022-03-02 20:40
+209826,Rumpold,Mettersdorf am Saßbach 59,Mettersdorf,8092,46.8057563,15.7113904,DIE,Diesel,1.459,2022-03-02 20:40
+1470086,Rumpold,Petersplatz 5,St. Peter am Ottersbach,8093,46.79924,15.759666,DIE,Diesel,1.459,2022-03-02 20:40
+33463,Ford-Levak,Halbenrain 13,Halbenrain,8492,46.7226069,15.9474719,DIE,Diesel,1.425,2022-03-02 20:40
+208629,,Willersdorferstrasse 67,St. Radegund bei Graz,8061,47.1918522,15.5028483,DIE,Diesel,1.428,2022-03-02 20:40
+7644,Gruber Diesel,Industriepark 1,Traboch - Timmersdorf,8772,47.3724078,14.9887659,DIE,Diesel,1.43,2022-03-02 20:40
+34340,Gbr. Trippl Transporte GmbH & Co KG,Mariazellerstrasse 89,Kapfenberg,8605,47.4524949,15.266624,DIE,Diesel,1.436,2022-03-02 20:40
+2070,freie Tankstelle,Hirschegg 50,Hirschegg,8584,47.0201138,14.9572875,DIE,Diesel,1.44,2022-03-02 20:40
+40786,Diskont Diesel,Hainfeld 68,Ilz,8262,47.08102,15.9682,DIE,Diesel,1.444,2022-03-02 20:40
+33436,Hirschmugl,Deutsch Goritz 78,Deutsch Goritz,8483,46.749278,15.831924,DIE,Diesel,1.455,2022-03-02 20:40
+33472,Stadtwerke Leoben,Kerpelystraße 34,Leoben,8700,47.3746958,15.0823166,DIE,Diesel,1.459,2022-03-02 20:40
+209826,Rumpold,Mettersdorf am Saßbach 59,Mettersdorf,8092,46.8057563,15.7113904,DIE,Diesel,1.459,2022-03-02 20:40
+1470086,Rumpold,Petersplatz 5,St. Peter am Ottersbach,8093,46.79924,15.759666,DIE,Diesel,1.459,2022-03-02 20:40
+1467404,D.Gertl Tankstelle GmbH,x,Radfeld,6241,47.4517224,11.9360568,DIE,Diesel,1.489,2022-03-02 20:40
+4342,Diskont Tankstelle,"Hermann-Gmeiner-Strasse 14 (""Hofer-Parkplatz"")",Nussdorf,9990,46.8275812,12.8150528,DIE,Diesel,1.514,2022-03-02 20:40
+7645,Plose A Oil,Innstrasse 13,Fritzens,6122,47.3012592,11.5923631,DIE,Diesel,1.519,2022-03-02 20:40
+621248,OIL! Tankstelle,Schusterbergweg 84,Innsbruck,6020,47.2769,11.432,DIE,Diesel,1.519,2022-03-02 20:40
+1354727,JET TANKSTELLE,KÄRNTNERSTRASSE 88,LIENZ,9900,46.831014,12.783933,DIE,Diesel,1.519,2022-03-02 20:40
+187,avanti - Kirchdorf in Tirol Innsbrucker Straße 51,Innsbrucker Strasse 51,Kirchdorf in Tirol,6383,47.54417,12.44904,DIE,Diesel,1.529,2022-03-02 20:40
+435,OMV - Ried im Oberinntal Reschenstraße 299,Reschenstrasse 299,Ried im Oberinntal,6531,47.05741,10.65375,DIE,Diesel,1.529,2022-03-02 20:40
+40106,Egger Wolfgang Internationale Transporte,Achenkirch 205,Achenkirch,6215,47.5160681,11.7083395,DIE,Diesel,1.535,2022-03-02 20:40
+665616,avanti - Rum Siemensstraße 1,Siemensstrasse 1,Rum,6063,47.27753,11.45756,DIE,Diesel,1.538,2022-03-02 20:40
+361,OMV - Lienz Tiroler Straße 10,Tiroler Strasse  10,Lienz,9900,46.83095,12.77553,DIE,Diesel,1.539,2022-03-02 20:40
+34764,Huber ,Zellbergeben 16,Zellber,6277,47.2352316,11.8802754,DIE,Diesel,1.539,2022-03-02 20:40
+34988,Reinpold Tankstelle Scharnitz,Innsbruckerstraße 464,Scharnitz,6108,47.3879114,11.2609853,DIE,Diesel,1.539,2022-03-02 20:40
+41886,OMV - Lienz Iseltaler Straße 30,Iseltaler Strasse 30,Lienz,9900,46.83172,12.75363,DIE,Diesel,1.539,2022-03-02 20:40
+44066,Unser Lagerhaus,Gewerbepark 2,Pfaffenhofen,6405,47.300377,11.072502,DIE,Diesel,1.539,2022-03-02 20:40
+247965,eni,Kärntnerstrasse 84,Lienz,9900,46.83117595,12.78306752,DIE,Diesel,1.539,2022-03-02 20:40
+1354838,SCHNELL UND GUENSTIG TANKSTELLE,BUNDESSTRASSE 34,RUM,6063,47.277562,11.444639,DIE,Diesel,1.539,2022-03-02 20:40
+1467404,D.Gertl Tankstelle GmbH,x,Radfeld,6241,47.4517224,11.9360568,DIE,Diesel,1.489,2022-03-02 20:40
+4342,Diskont Tankstelle,"Hermann-Gmeiner-Strasse 14 (""Hofer-Parkplatz"")",Nussdorf,9990,46.8275812,12.8150528,DIE,Diesel,1.514,2022-03-02 20:40
+7645,Plose A Oil,Innstrasse 13,Fritzens,6122,47.3012592,11.5923631,DIE,Diesel,1.519,2022-03-02 20:40
+621248,OIL! Tankstelle,Schusterbergweg 84,Innsbruck,6020,47.2769,11.432,DIE,Diesel,1.519,2022-03-02 20:40
+1354727,JET TANKSTELLE,KÄRNTNERSTRASSE 88,LIENZ,9900,46.831014,12.783933,DIE,Diesel,1.519,2022-03-02 20:40
+187,avanti - Kirchdorf in Tirol Innsbrucker Straße 51,Innsbrucker Strasse 51,Kirchdorf in Tirol,6383,47.54417,12.44904,DIE,Diesel,1.529,2022-03-02 20:40
+435,OMV - Ried im Oberinntal Reschenstraße 299,Reschenstrasse 299,Ried im Oberinntal,6531,47.05741,10.65375,DIE,Diesel,1.529,2022-03-02 20:40
+40106,Egger Wolfgang Internationale Transporte,Achenkirch 205,Achenkirch,6215,47.5160681,11.7083395,DIE,Diesel,1.535,2022-03-02 20:40
+665616,avanti - Rum Siemensstraße 1,Siemensstrasse 1,Rum,6063,47.27753,11.45756,DIE,Diesel,1.538,2022-03-02 20:40
+361,OMV - Lienz Tiroler Straße 10,Tiroler Strasse  10,Lienz,9900,46.83095,12.77553,DIE,Diesel,1.539,2022-03-02 20:40
+34764,Huber ,Zellbergeben 16,Zellber,6277,47.2352316,11.8802754,DIE,Diesel,1.539,2022-03-02 20:40
+34988,Reinpold Tankstelle Scharnitz,Innsbruckerstraße 464,Scharnitz,6108,47.3879114,11.2609853,DIE,Diesel,1.539,2022-03-02 20:40
+41886,OMV - Lienz Iseltaler Straße 30,Iseltaler Strasse 30,Lienz,9900,46.83172,12.75363,DIE,Diesel,1.539,2022-03-02 20:40
+44066,Unser Lagerhaus,Gewerbepark 2,Pfaffenhofen,6405,47.300377,11.072502,DIE,Diesel,1.539,2022-03-02 20:40
+247965,eni,Kärntnerstrasse 84,Lienz,9900,46.83117595,12.78306752,DIE,Diesel,1.539,2022-03-02 20:40
+1354838,SCHNELL UND GUENSTIG TANKSTELLE,BUNDESSTRASSE 34,RUM,6063,47.277562,11.444639,DIE,Diesel,1.539,2022-03-02 20:40
+1467404,D.Gertl Tankstelle GmbH,x,Radfeld,6241,47.4517224,11.9360568,DIE,Diesel,1.489,2022-03-02 20:40
+4342,Diskont Tankstelle,"Hermann-Gmeiner-Strasse 14 (""Hofer-Parkplatz"")",Nussdorf,9990,46.8275812,12.8150528,DIE,Diesel,1.514,2022-03-02 20:40
+7645,Plose A Oil,Innstrasse 13,Fritzens,6122,47.3012592,11.5923631,DIE,Diesel,1.519,2022-03-02 20:40
+621248,OIL! Tankstelle,Schusterbergweg 84,Innsbruck,6020,47.2769,11.432,DIE,Diesel,1.519,2022-03-02 20:40
+1354727,JET TANKSTELLE,KÄRNTNERSTRASSE 88,LIENZ,9900,46.831014,12.783933,DIE,Diesel,1.519,2022-03-02 20:40
+187,avanti - Kirchdorf in Tirol Innsbrucker Straße 51,Innsbrucker Strasse 51,Kirchdorf in Tirol,6383,47.54417,12.44904,DIE,Diesel,1.529,2022-03-02 20:40
+435,OMV - Ried im Oberinntal Reschenstraße 299,Reschenstrasse 299,Ried im Oberinntal,6531,47.05741,10.65375,DIE,Diesel,1.529,2022-03-02 20:40
+40106,Egger Wolfgang Internationale Transporte,Achenkirch 205,Achenkirch,6215,47.5160681,11.7083395,DIE,Diesel,1.535,2022-03-02 20:40
+665616,avanti - Rum Siemensstraße 1,Siemensstrasse 1,Rum,6063,47.27753,11.45756,DIE,Diesel,1.538,2022-03-02 20:40
+361,OMV - Lienz Tiroler Straße 10,Tiroler Strasse  10,Lienz,9900,46.83095,12.77553,DIE,Diesel,1.539,2022-03-02 20:40
+34764,Huber ,Zellbergeben 16,Zellber,6277,47.2352316,11.8802754,DIE,Diesel,1.539,2022-03-02 20:40
+34988,Reinpold Tankstelle Scharnitz,Innsbruckerstraße 464,Scharnitz,6108,47.3879114,11.2609853,DIE,Diesel,1.539,2022-03-02 20:40
+41886,OMV - Lienz Iseltaler Straße 30,Iseltaler Strasse 30,Lienz,9900,46.83172,12.75363,DIE,Diesel,1.539,2022-03-02 20:40
+44066,Unser Lagerhaus,Gewerbepark 2,Pfaffenhofen,6405,47.300377,11.072502,DIE,Diesel,1.539,2022-03-02 20:40
+247965,eni,Kärntnerstrasse 84,Lienz,9900,46.83117595,12.78306752,DIE,Diesel,1.539,2022-03-02 20:40
+1354838,SCHNELL UND GUENSTIG TANKSTELLE,BUNDESSTRASSE 34,RUM,6063,47.277562,11.444639,DIE,Diesel,1.539,2022-03-02 20:40
+1467404,D.Gertl Tankstelle GmbH,x,Radfeld,6241,47.4517224,11.9360568,DIE,Diesel,1.489,2022-03-02 20:40
+4342,Diskont Tankstelle,"Hermann-Gmeiner-Strasse 14 (""Hofer-Parkplatz"")",Nussdorf,9990,46.8275812,12.8150528,DIE,Diesel,1.514,2022-03-02 20:40
+7645,Plose A Oil,Innstrasse 13,Fritzens,6122,47.3012592,11.5923631,DIE,Diesel,1.519,2022-03-02 20:40
+621248,OIL! Tankstelle,Schusterbergweg 84,Innsbruck,6020,47.2769,11.432,DIE,Diesel,1.519,2022-03-02 20:40
+1354727,JET TANKSTELLE,KÄRNTNERSTRASSE 88,LIENZ,9900,46.831014,12.783933,DIE,Diesel,1.519,2022-03-02 20:40
+187,avanti - Kirchdorf in Tirol Innsbrucker Straße 51,Innsbrucker Strasse 51,Kirchdorf in Tirol,6383,47.54417,12.44904,DIE,Diesel,1.529,2022-03-02 20:40
+435,OMV - Ried im Oberinntal Reschenstraße 299,Reschenstrasse 299,Ried im Oberinntal,6531,47.05741,10.65375,DIE,Diesel,1.529,2022-03-02 20:40
+40106,Egger Wolfgang Internationale Transporte,Achenkirch 205,Achenkirch,6215,47.5160681,11.7083395,DIE,Diesel,1.535,2022-03-02 20:40
+665616,avanti - Rum Siemensstraße 1,Siemensstrasse 1,Rum,6063,47.27753,11.45756,DIE,Diesel,1.538,2022-03-02 20:40
+361,OMV - Lienz Tiroler Straße 10,Tiroler Strasse  10,Lienz,9900,46.83095,12.77553,DIE,Diesel,1.539,2022-03-02 20:40
+34764,Huber ,Zellbergeben 16,Zellber,6277,47.2352316,11.8802754,DIE,Diesel,1.539,2022-03-02 20:40
+34988,Reinpold Tankstelle Scharnitz,Innsbruckerstraße 464,Scharnitz,6108,47.3879114,11.2609853,DIE,Diesel,1.539,2022-03-02 20:40
+41886,OMV - Lienz Iseltaler Straße 30,Iseltaler Strasse 30,Lienz,9900,46.83172,12.75363,DIE,Diesel,1.539,2022-03-02 20:40
+44066,Unser Lagerhaus,Gewerbepark 2,Pfaffenhofen,6405,47.300377,11.072502,DIE,Diesel,1.539,2022-03-02 20:40
+247965,eni,Kärntnerstrasse 84,Lienz,9900,46.83117595,12.78306752,DIE,Diesel,1.539,2022-03-02 20:40
+1354838,SCHNELL UND GUENSTIG TANKSTELLE,BUNDESSTRASSE 34,RUM,6063,47.277562,11.444639,DIE,Diesel,1.539,2022-03-02 20:40
+1467404,D.Gertl Tankstelle GmbH,x,Radfeld,6241,47.4517224,11.9360568,DIE,Diesel,1.489,2022-03-02 20:40
+4342,Diskont Tankstelle,"Hermann-Gmeiner-Strasse 14 (""Hofer-Parkplatz"")",Nussdorf,9990,46.8275812,12.8150528,DIE,Diesel,1.514,2022-03-02 20:40
+7645,Plose A Oil,Innstrasse 13,Fritzens,6122,47.3012592,11.5923631,DIE,Diesel,1.519,2022-03-02 20:40
+621248,OIL! Tankstelle,Schusterbergweg 84,Innsbruck,6020,47.2769,11.432,DIE,Diesel,1.519,2022-03-02 20:40
+1354727,JET TANKSTELLE,KÄRNTNERSTRASSE 88,LIENZ,9900,46.831014,12.783933,DIE,Diesel,1.519,2022-03-02 20:40
+187,avanti - Kirchdorf in Tirol Innsbrucker Straße 51,Innsbrucker Strasse 51,Kirchdorf in Tirol,6383,47.54417,12.44904,DIE,Diesel,1.529,2022-03-02 20:40
+435,OMV - Ried im Oberinntal Reschenstraße 299,Reschenstrasse 299,Ried im Oberinntal,6531,47.05741,10.65375,DIE,Diesel,1.529,2022-03-02 20:40
+40106,Egger Wolfgang Internationale Transporte,Achenkirch 205,Achenkirch,6215,47.5160681,11.7083395,DIE,Diesel,1.535,2022-03-02 20:40
+665616,avanti - Rum Siemensstraße 1,Siemensstrasse 1,Rum,6063,47.27753,11.45756,DIE,Diesel,1.538,2022-03-02 20:40
+361,OMV - Lienz Tiroler Straße 10,Tiroler Strasse  10,Lienz,9900,46.83095,12.77553,DIE,Diesel,1.539,2022-03-02 20:40
+34764,Huber ,Zellbergeben 16,Zellber,6277,47.2352316,11.8802754,DIE,Diesel,1.539,2022-03-02 20:40
+34988,Reinpold Tankstelle Scharnitz,Innsbruckerstraße 464,Scharnitz,6108,47.3879114,11.2609853,DIE,Diesel,1.539,2022-03-02 20:40
+41886,OMV - Lienz Iseltaler Straße 30,Iseltaler Strasse 30,Lienz,9900,46.83172,12.75363,DIE,Diesel,1.539,2022-03-02 20:40
+44066,Unser Lagerhaus,Gewerbepark 2,Pfaffenhofen,6405,47.300377,11.072502,DIE,Diesel,1.539,2022-03-02 20:40
+247965,eni,Kärntnerstrasse 84,Lienz,9900,46.83117595,12.78306752,DIE,Diesel,1.539,2022-03-02 20:40
+1354838,SCHNELL UND GUENSTIG TANKSTELLE,BUNDESSTRASSE 34,RUM,6063,47.277562,11.444639,DIE,Diesel,1.539,2022-03-02 20:40
+1467404,D.Gertl Tankstelle GmbH,x,Radfeld,6241,47.4517224,11.9360568,DIE,Diesel,1.489,2022-03-02 20:40
+4342,Diskont Tankstelle,"Hermann-Gmeiner-Strasse 14 (""Hofer-Parkplatz"")",Nussdorf,9990,46.8275812,12.8150528,DIE,Diesel,1.514,2022-03-02 20:40
+7645,Plose A Oil,Innstrasse 13,Fritzens,6122,47.3012592,11.5923631,DIE,Diesel,1.519,2022-03-02 20:40
+621248,OIL! Tankstelle,Schusterbergweg 84,Innsbruck,6020,47.2769,11.432,DIE,Diesel,1.519,2022-03-02 20:40
+1354727,JET TANKSTELLE,KÄRNTNERSTRASSE 88,LIENZ,9900,46.831014,12.783933,DIE,Diesel,1.519,2022-03-02 20:40
+187,avanti - Kirchdorf in Tirol Innsbrucker Straße 51,Innsbrucker Strasse 51,Kirchdorf in Tirol,6383,47.54417,12.44904,DIE,Diesel,1.529,2022-03-02 20:40
+435,OMV - Ried im Oberinntal Reschenstraße 299,Reschenstrasse 299,Ried im Oberinntal,6531,47.05741,10.65375,DIE,Diesel,1.529,2022-03-02 20:40
+40106,Egger Wolfgang Internationale Transporte,Achenkirch 205,Achenkirch,6215,47.5160681,11.7083395,DIE,Diesel,1.535,2022-03-02 20:40
+665616,avanti - Rum Siemensstraße 1,Siemensstrasse 1,Rum,6063,47.27753,11.45756,DIE,Diesel,1.538,2022-03-02 20:40
+361,OMV - Lienz Tiroler Straße 10,Tiroler Strasse  10,Lienz,9900,46.83095,12.77553,DIE,Diesel,1.539,2022-03-02 20:40
+34764,Huber ,Zellbergeben 16,Zellber,6277,47.2352316,11.8802754,DIE,Diesel,1.539,2022-03-02 20:40
+34988,Reinpold Tankstelle Scharnitz,Innsbruckerstraße 464,Scharnitz,6108,47.3879114,11.2609853,DIE,Diesel,1.539,2022-03-02 20:40
+41886,OMV - Lienz Iseltaler Straße 30,Iseltaler Strasse 30,Lienz,9900,46.83172,12.75363,DIE,Diesel,1.539,2022-03-02 20:40
+44066,Unser Lagerhaus,Gewerbepark 2,Pfaffenhofen,6405,47.300377,11.072502,DIE,Diesel,1.539,2022-03-02 20:40
+247965,eni,Kärntnerstrasse 84,Lienz,9900,46.83117595,12.78306752,DIE,Diesel,1.539,2022-03-02 20:40
+1354838,SCHNELL UND GUENSTIG TANKSTELLE,BUNDESSTRASSE 34,RUM,6063,47.277562,11.444639,DIE,Diesel,1.539,2022-03-02 20:40
+1467404,D.Gertl Tankstelle GmbH,x,Radfeld,6241,47.4517224,11.9360568,DIE,Diesel,1.489,2022-03-02 20:40
+4342,Diskont Tankstelle,"Hermann-Gmeiner-Strasse 14 (""Hofer-Parkplatz"")",Nussdorf,9990,46.8275812,12.8150528,DIE,Diesel,1.514,2022-03-02 20:40
+7645,Plose A Oil,Innstrasse 13,Fritzens,6122,47.3012592,11.5923631,DIE,Diesel,1.519,2022-03-02 20:40
+621248,OIL! Tankstelle,Schusterbergweg 84,Innsbruck,6020,47.2769,11.432,DIE,Diesel,1.519,2022-03-02 20:40
+1354727,JET TANKSTELLE,KÄRNTNERSTRASSE 88,LIENZ,9900,46.831014,12.783933,DIE,Diesel,1.519,2022-03-02 20:40
+187,avanti - Kirchdorf in Tirol Innsbrucker Straße 51,Innsbrucker Strasse 51,Kirchdorf in Tirol,6383,47.54417,12.44904,DIE,Diesel,1.529,2022-03-02 20:40
+435,OMV - Ried im Oberinntal Reschenstraße 299,Reschenstrasse 299,Ried im Oberinntal,6531,47.05741,10.65375,DIE,Diesel,1.529,2022-03-02 20:40
+40106,Egger Wolfgang Internationale Transporte,Achenkirch 205,Achenkirch,6215,47.5160681,11.7083395,DIE,Diesel,1.535,2022-03-02 20:40
+665616,avanti - Rum Siemensstraße 1,Siemensstrasse 1,Rum,6063,47.27753,11.45756,DIE,Diesel,1.538,2022-03-02 20:40
+361,OMV - Lienz Tiroler Straße 10,Tiroler Strasse  10,Lienz,9900,46.83095,12.77553,DIE,Diesel,1.539,2022-03-02 20:40
+34764,Huber ,Zellbergeben 16,Zellber,6277,47.2352316,11.8802754,DIE,Diesel,1.539,2022-03-02 20:40
+34988,Reinpold Tankstelle Scharnitz,Innsbruckerstraße 464,Scharnitz,6108,47.3879114,11.2609853,DIE,Diesel,1.539,2022-03-02 20:40
+41886,OMV - Lienz Iseltaler Straße 30,Iseltaler Strasse 30,Lienz,9900,46.83172,12.75363,DIE,Diesel,1.539,2022-03-02 20:40
+44066,Unser Lagerhaus,Gewerbepark 2,Pfaffenhofen,6405,47.300377,11.072502,DIE,Diesel,1.539,2022-03-02 20:40
+247965,eni,Kärntnerstrasse 84,Lienz,9900,46.83117595,12.78306752,DIE,Diesel,1.539,2022-03-02 20:40
+1354838,SCHNELL UND GUENSTIG TANKSTELLE,BUNDESSTRASSE 34,RUM,6063,47.277562,11.444639,DIE,Diesel,1.539,2022-03-02 20:40
+1467404,D.Gertl Tankstelle GmbH,x,Radfeld,6241,47.4517224,11.9360568,DIE,Diesel,1.489,2022-03-02 20:40
+4342,Diskont Tankstelle,"Hermann-Gmeiner-Strasse 14 (""Hofer-Parkplatz"")",Nussdorf,9990,46.8275812,12.8150528,DIE,Diesel,1.514,2022-03-02 20:40
+7645,Plose A Oil,Innstrasse 13,Fritzens,6122,47.3012592,11.5923631,DIE,Diesel,1.519,2022-03-02 20:40
+621248,OIL! Tankstelle,Schusterbergweg 84,Innsbruck,6020,47.2769,11.432,DIE,Diesel,1.519,2022-03-02 20:40
+1354727,JET TANKSTELLE,KÄRNTNERSTRASSE 88,LIENZ,9900,46.831014,12.783933,DIE,Diesel,1.519,2022-03-02 20:40
+187,avanti - Kirchdorf in Tirol Innsbrucker Straße 51,Innsbrucker Strasse 51,Kirchdorf in Tirol,6383,47.54417,12.44904,DIE,Diesel,1.529,2022-03-02 20:40
+435,OMV - Ried im Oberinntal Reschenstraße 299,Reschenstrasse 299,Ried im Oberinntal,6531,47.05741,10.65375,DIE,Diesel,1.529,2022-03-02 20:40
+40106,Egger Wolfgang Internationale Transporte,Achenkirch 205,Achenkirch,6215,47.5160681,11.7083395,DIE,Diesel,1.535,2022-03-02 20:40
+665616,avanti - Rum Siemensstraße 1,Siemensstrasse 1,Rum,6063,47.27753,11.45756,DIE,Diesel,1.538,2022-03-02 20:40
+361,OMV - Lienz Tiroler Straße 10,Tiroler Strasse  10,Lienz,9900,46.83095,12.77553,DIE,Diesel,1.539,2022-03-02 20:40
+34764,Huber ,Zellbergeben 16,Zellber,6277,47.2352316,11.8802754,DIE,Diesel,1.539,2022-03-02 20:40
+34988,Reinpold Tankstelle Scharnitz,Innsbruckerstraße 464,Scharnitz,6108,47.3879114,11.2609853,DIE,Diesel,1.539,2022-03-02 20:40
+41886,OMV - Lienz Iseltaler Straße 30,Iseltaler Strasse 30,Lienz,9900,46.83172,12.75363,DIE,Diesel,1.539,2022-03-02 20:40
+44066,Unser Lagerhaus,Gewerbepark 2,Pfaffenhofen,6405,47.300377,11.072502,DIE,Diesel,1.539,2022-03-02 20:40
+247965,eni,Kärntnerstrasse 84,Lienz,9900,46.83117595,12.78306752,DIE,Diesel,1.539,2022-03-02 20:40
+1354838,SCHNELL UND GUENSTIG TANKSTELLE,BUNDESSTRASSE 34,RUM,6063,47.277562,11.444639,DIE,Diesel,1.539,2022-03-02 20:40
+1467404,D.Gertl Tankstelle GmbH,x,Radfeld,6241,47.4517224,11.9360568,DIE,Diesel,1.489,2022-03-02 20:40
+4342,Diskont Tankstelle,"Hermann-Gmeiner-Strasse 14 (""Hofer-Parkplatz"")",Nussdorf,9990,46.8275812,12.8150528,DIE,Diesel,1.514,2022-03-02 20:40
+7645,Plose A Oil,Innstrasse 13,Fritzens,6122,47.3012592,11.5923631,DIE,Diesel,1.519,2022-03-02 20:40
+621248,OIL! Tankstelle,Schusterbergweg 84,Innsbruck,6020,47.2769,11.432,DIE,Diesel,1.519,2022-03-02 20:40
+1354727,JET TANKSTELLE,KÄRNTNERSTRASSE 88,LIENZ,9900,46.831014,12.783933,DIE,Diesel,1.519,2022-03-02 20:40
+187,avanti - Kirchdorf in Tirol Innsbrucker Straße 51,Innsbrucker Strasse 51,Kirchdorf in Tirol,6383,47.54417,12.44904,DIE,Diesel,1.529,2022-03-02 20:40
+435,OMV - Ried im Oberinntal Reschenstraße 299,Reschenstrasse 299,Ried im Oberinntal,6531,47.05741,10.65375,DIE,Diesel,1.529,2022-03-02 20:40
+40106,Egger Wolfgang Internationale Transporte,Achenkirch 205,Achenkirch,6215,47.5160681,11.7083395,DIE,Diesel,1.535,2022-03-02 20:40
+665616,avanti - Rum Siemensstraße 1,Siemensstrasse 1,Rum,6063,47.27753,11.45756,DIE,Diesel,1.538,2022-03-02 20:40
+361,OMV - Lienz Tiroler Straße 10,Tiroler Strasse  10,Lienz,9900,46.83095,12.77553,DIE,Diesel,1.539,2022-03-02 20:40
+34764,Huber ,Zellbergeben 16,Zellber,6277,47.2352316,11.8802754,DIE,Diesel,1.539,2022-03-02 20:40
+34988,Reinpold Tankstelle Scharnitz,Innsbruckerstraße 464,Scharnitz,6108,47.3879114,11.2609853,DIE,Diesel,1.539,2022-03-02 20:40
+41886,OMV - Lienz Iseltaler Straße 30,Iseltaler Strasse 30,Lienz,9900,46.83172,12.75363,DIE,Diesel,1.539,2022-03-02 20:40
+44066,Unser Lagerhaus,Gewerbepark 2,Pfaffenhofen,6405,47.300377,11.072502,DIE,Diesel,1.539,2022-03-02 20:40
+247965,eni,Kärntnerstrasse 84,Lienz,9900,46.83117595,12.78306752,DIE,Diesel,1.539,2022-03-02 20:40
+1354838,SCHNELL UND GUENSTIG TANKSTELLE,BUNDESSTRASSE 34,RUM,6063,47.277562,11.444639,DIE,Diesel,1.539,2022-03-02 20:40
+1467404,D.Gertl Tankstelle GmbH,x,Radfeld,6241,47.4517224,11.9360568,DIE,Diesel,1.489,2022-03-02 20:40
+4342,Diskont Tankstelle,"Hermann-Gmeiner-Strasse 14 (""Hofer-Parkplatz"")",Nussdorf,9990,46.8275812,12.8150528,DIE,Diesel,1.514,2022-03-02 20:40
+7645,Plose A Oil,Innstrasse 13,Fritzens,6122,47.3012592,11.5923631,DIE,Diesel,1.519,2022-03-02 20:40
+621248,OIL! Tankstelle,Schusterbergweg 84,Innsbruck,6020,47.2769,11.432,DIE,Diesel,1.519,2022-03-02 20:40
+1354727,JET TANKSTELLE,KÄRNTNERSTRASSE 88,LIENZ,9900,46.831014,12.783933,DIE,Diesel,1.519,2022-03-02 20:40
+187,avanti - Kirchdorf in Tirol Innsbrucker Straße 51,Innsbrucker Strasse 51,Kirchdorf in Tirol,6383,47.54417,12.44904,DIE,Diesel,1.529,2022-03-02 20:40
+435,OMV - Ried im Oberinntal Reschenstraße 299,Reschenstrasse 299,Ried im Oberinntal,6531,47.05741,10.65375,DIE,Diesel,1.529,2022-03-02 20:40
+40106,Egger Wolfgang Internationale Transporte,Achenkirch 205,Achenkirch,6215,47.5160681,11.7083395,DIE,Diesel,1.535,2022-03-02 20:40
+665616,avanti - Rum Siemensstraße 1,Siemensstrasse 1,Rum,6063,47.27753,11.45756,DIE,Diesel,1.538,2022-03-02 20:40
+361,OMV - Lienz Tiroler Straße 10,Tiroler Strasse  10,Lienz,9900,46.83095,12.77553,DIE,Diesel,1.539,2022-03-02 20:40
+34764,Huber ,Zellbergeben 16,Zellber,6277,47.2352316,11.8802754,DIE,Diesel,1.539,2022-03-02 20:40
+34988,Reinpold Tankstelle Scharnitz,Innsbruckerstraße 464,Scharnitz,6108,47.3879114,11.2609853,DIE,Diesel,1.539,2022-03-02 20:40
+41886,OMV - Lienz Iseltaler Straße 30,Iseltaler Strasse 30,Lienz,9900,46.83172,12.75363,DIE,Diesel,1.539,2022-03-02 20:40
+44066,Unser Lagerhaus,Gewerbepark 2,Pfaffenhofen,6405,47.300377,11.072502,DIE,Diesel,1.539,2022-03-02 20:40
+247965,eni,Kärntnerstrasse 84,Lienz,9900,46.83117595,12.78306752,DIE,Diesel,1.539,2022-03-02 20:40
+1354838,SCHNELL UND GUENSTIG TANKSTELLE,BUNDESSTRASSE 34,RUM,6063,47.277562,11.444639,DIE,Diesel,1.539,2022-03-02 20:40
+34521,www.voegel-trans.at,Säge 156,Doren,6933,47.49052893,9.85336304,DIE,Diesel,1.452,2022-03-02 20:40
+40426,SCHWÄRZLER,Zeihenbühl 422,Lingenau,6951,47.4491533,9.9048504,DIE,Diesel,1.469,2022-03-02 20:40
+42228,Johann Meusburger GmbH,Zeihenbühl 396,Lingenau,6951,47.4491221,9.90622,DIE,Diesel,1.469,2022-03-02 20:40
+108726,Wema  GmbH,Zeihenbühl 435,Lingenau,6951,47.4495768,9.9046295,DIE,Diesel,1.469,2022-03-02 20:40
+43426,JP MENNEL,Hof 331,Lingenau,6951,47.4499378,9.9233926,DIE,Diesel,1.498,2022-03-02 20:40
+1264659,Diskont Tankstelle,"Bundesstraße 6 (""Hofer-Parkplatz"")",Koblach,6842,47.325984,9.629425,DIE,Diesel,1.514,2022-03-02 20:40
+7620,Loacker Tours GmbH (Diesel + Super95),Bundesstraße 17,Koblach,6842,47.323657,9.6285154,DIE,Diesel,1.519,2022-03-02 20:40
+621287,OIL! Tankstelle,Furchgasse 2A,Hohenems,6845,47.3801,9.70549,DIE,Diesel,1.529,2022-03-02 20:40
+1354902,JET TANKSTELLE,SCHWEFEL 44 A,DORNBIRN,6850,47.426673,9.741176,DIE,Diesel,1.529,2022-03-02 20:40
+1354948,JET TANKSTELLE,WALLENMAHD 22,DORNBIRN,6850,47.39649,9.731134,DIE,Diesel,1.529,2022-03-02 20:40
+34521,www.voegel-trans.at,Säge 156,Doren,6933,47.49052893,9.85336304,DIE,Diesel,1.452,2022-03-02 20:40
+40426,SCHWÄRZLER,Zeihenbühl 422,Lingenau,6951,47.4491533,9.9048504,DIE,Diesel,1.469,2022-03-02 20:40
+42228,Johann Meusburger GmbH,Zeihenbühl 396,Lingenau,6951,47.4491221,9.90622,DIE,Diesel,1.469,2022-03-02 20:40
+108726,Wema  GmbH,Zeihenbühl 435,Lingenau,6951,47.4495768,9.9046295,DIE,Diesel,1.469,2022-03-02 20:40
+43426,JP MENNEL,Hof 331,Lingenau,6951,47.4499378,9.9233926,DIE,Diesel,1.498,2022-03-02 20:40
+1264659,Diskont Tankstelle,"Bundesstraße 6 (""Hofer-Parkplatz"")",Koblach,6842,47.325984,9.629425,DIE,Diesel,1.514,2022-03-02 20:40
+7620,Loacker Tours GmbH (Diesel + Super95),Bundesstraße 17,Koblach,6842,47.323657,9.6285154,DIE,Diesel,1.519,2022-03-02 20:40
+621287,OIL! Tankstelle,Furchgasse 2A,Hohenems,6845,47.3801,9.70549,DIE,Diesel,1.529,2022-03-02 20:40
+1354902,JET TANKSTELLE,SCHWEFEL 44 A,DORNBIRN,6850,47.426673,9.741176,DIE,Diesel,1.529,2022-03-02 20:40
+1354948,JET TANKSTELLE,WALLENMAHD 22,DORNBIRN,6850,47.39649,9.731134,DIE,Diesel,1.529,2022-03-02 20:40
+34521,www.voegel-trans.at,Säge 156,Doren,6933,47.49052893,9.85336304,DIE,Diesel,1.452,2022-03-02 20:40
+40426,SCHWÄRZLER,Zeihenbühl 422,Lingenau,6951,47.4491533,9.9048504,DIE,Diesel,1.469,2022-03-02 20:40
+42228,Johann Meusburger GmbH,Zeihenbühl 396,Lingenau,6951,47.4491221,9.90622,DIE,Diesel,1.469,2022-03-02 20:40
+108726,Wema  GmbH,Zeihenbühl 435,Lingenau,6951,47.4495768,9.9046295,DIE,Diesel,1.469,2022-03-02 20:40
+43426,JP MENNEL,Hof 331,Lingenau,6951,47.4499378,9.9233926,DIE,Diesel,1.498,2022-03-02 20:40
+1264659,Diskont Tankstelle,"Bundesstraße 6 (""Hofer-Parkplatz"")",Koblach,6842,47.325984,9.629425,DIE,Diesel,1.514,2022-03-02 20:40
+7620,Loacker Tours GmbH (Diesel + Super95),Bundesstraße 17,Koblach,6842,47.323657,9.6285154,DIE,Diesel,1.519,2022-03-02 20:40
+621287,OIL! Tankstelle,Furchgasse 2A,Hohenems,6845,47.3801,9.70549,DIE,Diesel,1.529,2022-03-02 20:40
+1354902,JET TANKSTELLE,SCHWEFEL 44 A,DORNBIRN,6850,47.426673,9.741176,DIE,Diesel,1.529,2022-03-02 20:40
+1354948,JET TANKSTELLE,WALLENMAHD 22,DORNBIRN,6850,47.39649,9.731134,DIE,Diesel,1.529,2022-03-02 20:40
+34521,www.voegel-trans.at,Säge 156,Doren,6933,47.49052893,9.85336304,DIE,Diesel,1.452,2022-03-02 20:40
+40426,SCHWÄRZLER,Zeihenbühl 422,Lingenau,6951,47.4491533,9.9048504,DIE,Diesel,1.469,2022-03-02 20:40
+42228,Johann Meusburger GmbH,Zeihenbühl 396,Lingenau,6951,47.4491221,9.90622,DIE,Diesel,1.469,2022-03-02 20:40
+108726,Wema  GmbH,Zeihenbühl 435,Lingenau,6951,47.4495768,9.9046295,DIE,Diesel,1.469,2022-03-02 20:40
+43426,JP MENNEL,Hof 331,Lingenau,6951,47.4499378,9.9233926,DIE,Diesel,1.498,2022-03-02 20:40
+1264659,Diskont Tankstelle,"Bundesstraße 6 (""Hofer-Parkplatz"")",Koblach,6842,47.325984,9.629425,DIE,Diesel,1.514,2022-03-02 20:40
+7620,Loacker Tours GmbH (Diesel + Super95),Bundesstraße 17,Koblach,6842,47.323657,9.6285154,DIE,Diesel,1.519,2022-03-02 20:40
+621287,OIL! Tankstelle,Furchgasse 2A,Hohenems,6845,47.3801,9.70549,DIE,Diesel,1.529,2022-03-02 20:40
+1354902,JET TANKSTELLE,SCHWEFEL 44 A,DORNBIRN,6850,47.426673,9.741176,DIE,Diesel,1.529,2022-03-02 20:40
+1354948,JET TANKSTELLE,WALLENMAHD 22,DORNBIRN,6850,47.39649,9.731134,DIE,Diesel,1.529,2022-03-02 20:40
+34521,www.voegel-trans.at,Säge 156,Doren,6933,47.49052893,9.85336304,DIE,Diesel,1.452,2022-03-02 20:40
+40426,SCHWÄRZLER,Zeihenbühl 422,Lingenau,6951,47.4491533,9.9048504,DIE,Diesel,1.469,2022-03-02 20:40
+42228,Johann Meusburger GmbH,Zeihenbühl 396,Lingenau,6951,47.4491221,9.90622,DIE,Diesel,1.469,2022-03-02 20:40
+108726,Wema  GmbH,Zeihenbühl 435,Lingenau,6951,47.4495768,9.9046295,DIE,Diesel,1.469,2022-03-02 20:40
+43426,JP MENNEL,Hof 331,Lingenau,6951,47.4499378,9.9233926,DIE,Diesel,1.498,2022-03-02 20:40
+1264659,Diskont Tankstelle,"Bundesstraße 6 (""Hofer-Parkplatz"")",Koblach,6842,47.325984,9.629425,DIE,Diesel,1.514,2022-03-02 20:40
+7620,Loacker Tours GmbH (Diesel + Super95),Bundesstraße 17,Koblach,6842,47.323657,9.6285154,DIE,Diesel,1.519,2022-03-02 20:40
+621287,OIL! Tankstelle,Furchgasse 2A,Hohenems,6845,47.3801,9.70549,DIE,Diesel,1.529,2022-03-02 20:40
+1354902,JET TANKSTELLE,SCHWEFEL 44 A,DORNBIRN,6850,47.426673,9.741176,DIE,Diesel,1.529,2022-03-02 20:40
+1354948,JET TANKSTELLE,WALLENMAHD 22,DORNBIRN,6850,47.39649,9.731134,DIE,Diesel,1.529,2022-03-02 20:40
+1131667,AWI-Diskont Bedienungstankstelle,Sternwartestraße 23,Wien,1180,48.2295664,16.3462611,DIE,Diesel,1.497,2022-03-02 20:40
+621283,OIL! Tankstelle,Himberger Strasse 50,Wien,1100,48.1365,16.3835,DIE,Diesel,1.529,2022-03-02 20:40
+621285,OIL! Tankstelle,Laxenburger Strasse 244,Wien,1230,48.1388,16.358,DIE,Diesel,1.529,2022-03-02 20:40
+1354672,JET TANKSTELLE,OBERLAAERSTR. 276,WIEN,1230,48.146913,16.366831,DIE,Diesel,1.529,2022-03-02 20:40
+1354892,JET TANKSTELLE,LAXENBURGER STRASSE 248,WIEN,1230,48.135681,16.356244,DIE,Diesel,1.529,2022-03-02 20:40
+1354895,avanti - Wien Nordbahnstraße 1,Nordbahnstrasse 1,Wien,1020,48.22912,16.38852,DIE,Diesel,1.534,2022-03-02 20:40
+1354901,avanti - Wien Gaussplatz 1,Gaussplatz 1,Wien,1020,48.22588,16.3708,DIE,Diesel,1.534,2022-03-02 20:40
+247905,eni24,Felberstraße vis a vis 102,Wien,1150,48.193432,16.321006,DIE,Diesel,1.549,2022-03-02 20:40
+1354670,JET TANKSTELLE,TRIESTERSTRASSE 292,WIEN,1230,48.131138,16.321654,DIE,Diesel,1.549,2022-03-02 20:40
+1473128,Diskont Tankstelle,"Wien Breitenfurter Strasse 261 (""Hofer-Parkplatz"")",Wien,1230,48.1506803,16.3016662,DIE,Diesel,1.554,2022-03-02 20:40
+1131667,AWI-Diskont Bedienungstankstelle,Sternwartestraße 23,Wien,1180,48.2295664,16.3462611,DIE,Diesel,1.497,2022-03-02 20:40
+621283,OIL! Tankstelle,Himberger Strasse 50,Wien,1100,48.1365,16.3835,DIE,Diesel,1.529,2022-03-02 20:40
+621285,OIL! Tankstelle,Laxenburger Strasse 244,Wien,1230,48.1388,16.358,DIE,Diesel,1.529,2022-03-02 20:40
+1354672,JET TANKSTELLE,OBERLAAERSTR. 276,WIEN,1230,48.146913,16.366831,DIE,Diesel,1.529,2022-03-02 20:40
+1354892,JET TANKSTELLE,LAXENBURGER STRASSE 248,WIEN,1230,48.135681,16.356244,DIE,Diesel,1.529,2022-03-02 20:40
+1354895,avanti - Wien Nordbahnstraße 1,Nordbahnstrasse 1,Wien,1020,48.22912,16.38852,DIE,Diesel,1.534,2022-03-02 20:40
+1354901,avanti - Wien Gaussplatz 1,Gaussplatz 1,Wien,1020,48.22588,16.3708,DIE,Diesel,1.534,2022-03-02 20:40
+247905,eni24,Felberstraße vis a vis 102,Wien,1150,48.193432,16.321006,DIE,Diesel,1.549,2022-03-02 20:40
+1354670,JET TANKSTELLE,TRIESTERSTRASSE 292,WIEN,1230,48.131138,16.321654,DIE,Diesel,1.549,2022-03-02 20:40
+1473128,Diskont Tankstelle,"Wien Breitenfurter Strasse 261 (""Hofer-Parkplatz"")",Wien,1230,48.1506803,16.3016662,DIE,Diesel,1.554,2022-03-02 20:40
+1131667,AWI-Diskont Bedienungstankstelle,Sternwartestraße 23,Wien,1180,48.2295664,16.3462611,DIE,Diesel,1.497,2022-03-02 20:40
+621283,OIL! Tankstelle,Himberger Strasse 50,Wien,1100,48.1365,16.3835,DIE,Diesel,1.529,2022-03-02 20:40
+621285,OIL! Tankstelle,Laxenburger Strasse 244,Wien,1230,48.1388,16.358,DIE,Diesel,1.529,2022-03-02 20:40
+1354672,JET TANKSTELLE,OBERLAAERSTR. 276,WIEN,1230,48.146913,16.366831,DIE,Diesel,1.529,2022-03-02 20:40
+1354892,JET TANKSTELLE,LAXENBURGER STRASSE 248,WIEN,1230,48.135681,16.356244,DIE,Diesel,1.529,2022-03-02 20:40
+1354895,avanti - Wien Nordbahnstraße 1,Nordbahnstrasse 1,Wien,1020,48.22912,16.38852,DIE,Diesel,1.534,2022-03-02 20:40
+1354901,avanti - Wien Gaussplatz 1,Gaussplatz 1,Wien,1020,48.22588,16.3708,DIE,Diesel,1.534,2022-03-02 20:40
+247905,eni24,Felberstraße vis a vis 102,Wien,1150,48.193432,16.321006,DIE,Diesel,1.549,2022-03-02 20:40
+1354670,JET TANKSTELLE,TRIESTERSTRASSE 292,WIEN,1230,48.131138,16.321654,DIE,Diesel,1.549,2022-03-02 20:40
+1473128,Diskont Tankstelle,"Wien Breitenfurter Strasse 261 (""Hofer-Parkplatz"")",Wien,1230,48.1506803,16.3016662,DIE,Diesel,1.554,2022-03-02 20:40
+1131667,AWI-Diskont Bedienungstankstelle,Sternwartestraße 23,Wien,1180,48.2295664,16.3462611,DIE,Diesel,1.497,2022-03-02 20:40
+621283,OIL! Tankstelle,Himberger Strasse 50,Wien,1100,48.1365,16.3835,DIE,Diesel,1.529,2022-03-02 20:40
+621285,OIL! Tankstelle,Laxenburger Strasse 244,Wien,1230,48.1388,16.358,DIE,Diesel,1.529,2022-03-02 20:40
+1354672,JET TANKSTELLE,OBERLAAERSTR. 276,WIEN,1230,48.146913,16.366831,DIE,Diesel,1.529,2022-03-02 20:40
+1354892,JET TANKSTELLE,LAXENBURGER STRASSE 248,WIEN,1230,48.135681,16.356244,DIE,Diesel,1.529,2022-03-02 20:40
+1354895,avanti - Wien Nordbahnstraße 1,Nordbahnstrasse 1,Wien,1020,48.22912,16.38852,DIE,Diesel,1.534,2022-03-02 20:40
+1354901,avanti - Wien Gaussplatz 1,Gaussplatz 1,Wien,1020,48.22588,16.3708,DIE,Diesel,1.534,2022-03-02 20:40
+247905,eni24,Felberstraße vis a vis 102,Wien,1150,48.193432,16.321006,DIE,Diesel,1.549,2022-03-02 20:40
+1354670,JET TANKSTELLE,TRIESTERSTRASSE 292,WIEN,1230,48.131138,16.321654,DIE,Diesel,1.549,2022-03-02 20:40
+1473128,Diskont Tankstelle,"Wien Breitenfurter Strasse 261 (""Hofer-Parkplatz"")",Wien,1230,48.1506803,16.3016662,DIE,Diesel,1.554,2022-03-02 20:40
+1131667,AWI-Diskont Bedienungstankstelle,Sternwartestraße 23,Wien,1180,48.2295664,16.3462611,DIE,Diesel,1.497,2022-03-02 20:40
+621283,OIL! Tankstelle,Himberger Strasse 50,Wien,1100,48.1365,16.3835,DIE,Diesel,1.529,2022-03-02 20:40
+621285,OIL! Tankstelle,Laxenburger Strasse 244,Wien,1230,48.1388,16.358,DIE,Diesel,1.529,2022-03-02 20:40
+1354672,JET TANKSTELLE,OBERLAAERSTR. 276,WIEN,1230,48.146913,16.366831,DIE,Diesel,1.529,2022-03-02 20:40
+1354892,JET TANKSTELLE,LAXENBURGER STRASSE 248,WIEN,1230,48.135681,16.356244,DIE,Diesel,1.529,2022-03-02 20:40
+1354895,avanti - Wien Nordbahnstraße 1,Nordbahnstrasse 1,Wien,1020,48.22912,16.38852,DIE,Diesel,1.534,2022-03-02 20:40
+1354901,avanti - Wien Gaussplatz 1,Gaussplatz 1,Wien,1020,48.22588,16.3708,DIE,Diesel,1.534,2022-03-02 20:40
+247905,eni24,Felberstraße vis a vis 102,Wien,1150,48.193432,16.321006,DIE,Diesel,1.549,2022-03-02 20:40
+1354670,JET TANKSTELLE,TRIESTERSTRASSE 292,WIEN,1230,48.131138,16.321654,DIE,Diesel,1.549,2022-03-02 20:40
+1473128,Diskont Tankstelle,"Wien Breitenfurter Strasse 261 (""Hofer-Parkplatz"")",Wien,1230,48.1506803,16.3016662,DIE,Diesel,1.554,2022-03-02 20:40
+1131667,AWI-Diskont Bedienungstankstelle,Sternwartestraße 23,Wien,1180,48.2295664,16.3462611,DIE,Diesel,1.497,2022-03-02 20:40
+621283,OIL! Tankstelle,Himberger Strasse 50,Wien,1100,48.1365,16.3835,DIE,Diesel,1.529,2022-03-02 20:40
+621285,OIL! Tankstelle,Laxenburger Strasse 244,Wien,1230,48.1388,16.358,DIE,Diesel,1.529,2022-03-02 20:40
+1354672,JET TANKSTELLE,OBERLAAERSTR. 276,WIEN,1230,48.146913,16.366831,DIE,Diesel,1.529,2022-03-02 20:40
+1354892,JET TANKSTELLE,LAXENBURGER STRASSE 248,WIEN,1230,48.135681,16.356244,DIE,Diesel,1.529,2022-03-02 20:40
+1354895,avanti - Wien Nordbahnstraße 1,Nordbahnstrasse 1,Wien,1020,48.22912,16.38852,DIE,Diesel,1.534,2022-03-02 20:40
+1354901,avanti - Wien Gaussplatz 1,Gaussplatz 1,Wien,1020,48.22588,16.3708,DIE,Diesel,1.534,2022-03-02 20:40
+247905,eni24,Felberstraße vis a vis 102,Wien,1150,48.193432,16.321006,DIE,Diesel,1.549,2022-03-02 20:40
+1354670,JET TANKSTELLE,TRIESTERSTRASSE 292,WIEN,1230,48.131138,16.321654,DIE,Diesel,1.549,2022-03-02 20:40
+1473128,Diskont Tankstelle,"Wien Breitenfurter Strasse 261 (""Hofer-Parkplatz"")",Wien,1230,48.1506803,16.3016662,DIE,Diesel,1.554,2022-03-02 20:40
+1131667,AWI-Diskont Bedienungstankstelle,Sternwartestraße 23,Wien,1180,48.2295664,16.3462611,DIE,Diesel,1.497,2022-03-02 20:40
+621283,OIL! Tankstelle,Himberger Strasse 50,Wien,1100,48.1365,16.3835,DIE,Diesel,1.529,2022-03-02 20:40
+621285,OIL! Tankstelle,Laxenburger Strasse 244,Wien,1230,48.1388,16.358,DIE,Diesel,1.529,2022-03-02 20:40
+1354672,JET TANKSTELLE,OBERLAAERSTR. 276,WIEN,1230,48.146913,16.366831,DIE,Diesel,1.529,2022-03-02 20:40
+1354892,JET TANKSTELLE,LAXENBURGER STRASSE 248,WIEN,1230,48.135681,16.356244,DIE,Diesel,1.529,2022-03-02 20:40
+1354895,avanti - Wien Nordbahnstraße 1,Nordbahnstrasse 1,Wien,1020,48.22912,16.38852,DIE,Diesel,1.534,2022-03-02 20:40
+1354901,avanti - Wien Gaussplatz 1,Gaussplatz 1,Wien,1020,48.22588,16.3708,DIE,Diesel,1.534,2022-03-02 20:40
+247905,eni24,Felberstraße vis a vis 102,Wien,1150,48.193432,16.321006,DIE,Diesel,1.549,2022-03-02 20:40
+1354670,JET TANKSTELLE,TRIESTERSTRASSE 292,WIEN,1230,48.131138,16.321654,DIE,Diesel,1.549,2022-03-02 20:40
+1473128,Diskont Tankstelle,"Wien Breitenfurter Strasse 261 (""Hofer-Parkplatz"")",Wien,1230,48.1506803,16.3016662,DIE,Diesel,1.554,2022-03-02 20:40
+1131667,AWI-Diskont Bedienungstankstelle,Sternwartestraße 23,Wien,1180,48.2295664,16.3462611,DIE,Diesel,1.497,2022-03-02 20:40
+621283,OIL! Tankstelle,Himberger Strasse 50,Wien,1100,48.1365,16.3835,DIE,Diesel,1.529,2022-03-02 20:40
+621285,OIL! Tankstelle,Laxenburger Strasse 244,Wien,1230,48.1388,16.358,DIE,Diesel,1.529,2022-03-02 20:40
+1354672,JET TANKSTELLE,OBERLAAERSTR. 276,WIEN,1230,48.146913,16.366831,DIE,Diesel,1.529,2022-03-02 20:40
+1354892,JET TANKSTELLE,LAXENBURGER STRASSE 248,WIEN,1230,48.135681,16.356244,DIE,Diesel,1.529,2022-03-02 20:40
+1354895,avanti - Wien Nordbahnstraße 1,Nordbahnstrasse 1,Wien,1020,48.22912,16.38852,DIE,Diesel,1.534,2022-03-02 20:40
+1354901,avanti - Wien Gaussplatz 1,Gaussplatz 1,Wien,1020,48.22588,16.3708,DIE,Diesel,1.534,2022-03-02 20:40
+247905,eni24,Felberstraße vis a vis 102,Wien,1150,48.193432,16.321006,DIE,Diesel,1.549,2022-03-02 20:40
+1354670,JET TANKSTELLE,TRIESTERSTRASSE 292,WIEN,1230,48.131138,16.321654,DIE,Diesel,1.549,2022-03-02 20:40
+1473128,Diskont Tankstelle,"Wien Breitenfurter Strasse 261 (""Hofer-Parkplatz"")",Wien,1230,48.1506803,16.3016662,DIE,Diesel,1.554,2022-03-02 20:40
+1131667,AWI-Diskont Bedienungstankstelle,Sternwartestraße 23,Wien,1180,48.2295664,16.3462611,DIE,Diesel,1.497,2022-03-02 20:40
+621283,OIL! Tankstelle,Himberger Strasse 50,Wien,1100,48.1365,16.3835,DIE,Diesel,1.529,2022-03-02 20:40
+621285,OIL! Tankstelle,Laxenburger Strasse 244,Wien,1230,48.1388,16.358,DIE,Diesel,1.529,2022-03-02 20:40
+1354672,JET TANKSTELLE,OBERLAAERSTR. 276,WIEN,1230,48.146913,16.366831,DIE,Diesel,1.529,2022-03-02 20:40
+1354892,JET TANKSTELLE,LAXENBURGER STRASSE 248,WIEN,1230,48.135681,16.356244,DIE,Diesel,1.529,2022-03-02 20:40
+1354895,avanti - Wien Nordbahnstraße 1,Nordbahnstrasse 1,Wien,1020,48.22912,16.38852,DIE,Diesel,1.534,2022-03-02 20:40
+1354901,avanti - Wien Gaussplatz 1,Gaussplatz 1,Wien,1020,48.22588,16.3708,DIE,Diesel,1.534,2022-03-02 20:40
+247905,eni24,Felberstraße vis a vis 102,Wien,1150,48.193432,16.321006,DIE,Diesel,1.549,2022-03-02 20:40
+1354670,JET TANKSTELLE,TRIESTERSTRASSE 292,WIEN,1230,48.131138,16.321654,DIE,Diesel,1.549,2022-03-02 20:40
+1473128,Diskont Tankstelle,"Wien Breitenfurter Strasse 261 (""Hofer-Parkplatz"")",Wien,1230,48.1506803,16.3016662,DIE,Diesel,1.554,2022-03-02 20:40
+1131667,AWI-Diskont Bedienungstankstelle,Sternwartestraße 23,Wien,1180,48.2295664,16.3462611,DIE,Diesel,1.497,2022-03-02 20:40
+621283,OIL! Tankstelle,Himberger Strasse 50,Wien,1100,48.1365,16.3835,DIE,Diesel,1.529,2022-03-02 20:40
+621285,OIL! Tankstelle,Laxenburger Strasse 244,Wien,1230,48.1388,16.358,DIE,Diesel,1.529,2022-03-02 20:40
+1354672,JET TANKSTELLE,OBERLAAERSTR. 276,WIEN,1230,48.146913,16.366831,DIE,Diesel,1.529,2022-03-02 20:40
+1354892,JET TANKSTELLE,LAXENBURGER STRASSE 248,WIEN,1230,48.135681,16.356244,DIE,Diesel,1.529,2022-03-02 20:40
+1354895,avanti - Wien Nordbahnstraße 1,Nordbahnstrasse 1,Wien,1020,48.22912,16.38852,DIE,Diesel,1.534,2022-03-02 20:40
+1354901,avanti - Wien Gaussplatz 1,Gaussplatz 1,Wien,1020,48.22588,16.3708,DIE,Diesel,1.534,2022-03-02 20:40
+247905,eni24,Felberstraße vis a vis 102,Wien,1150,48.193432,16.321006,DIE,Diesel,1.549,2022-03-02 20:40
+1354670,JET TANKSTELLE,TRIESTERSTRASSE 292,WIEN,1230,48.131138,16.321654,DIE,Diesel,1.549,2022-03-02 20:40
+1473128,Diskont Tankstelle,"Wien Breitenfurter Strasse 261 (""Hofer-Parkplatz"")",Wien,1230,48.1506803,16.3016662,DIE,Diesel,1.554,2022-03-02 20:40
+1131667,AWI-Diskont Bedienungstankstelle,Sternwartestraße 23,Wien,1180,48.2295664,16.3462611,DIE,Diesel,1.497,2022-03-02 20:40
+621283,OIL! Tankstelle,Himberger Strasse 50,Wien,1100,48.1365,16.3835,DIE,Diesel,1.529,2022-03-02 20:40
+621285,OIL! Tankstelle,Laxenburger Strasse 244,Wien,1230,48.1388,16.358,DIE,Diesel,1.529,2022-03-02 20:40
+1354672,JET TANKSTELLE,OBERLAAERSTR. 276,WIEN,1230,48.146913,16.366831,DIE,Diesel,1.529,2022-03-02 20:40
+1354892,JET TANKSTELLE,LAXENBURGER STRASSE 248,WIEN,1230,48.135681,16.356244,DIE,Diesel,1.529,2022-03-02 20:40
+1354895,avanti - Wien Nordbahnstraße 1,Nordbahnstrasse 1,Wien,1020,48.22912,16.38852,DIE,Diesel,1.534,2022-03-02 20:40
+1354901,avanti - Wien Gaussplatz 1,Gaussplatz 1,Wien,1020,48.22588,16.3708,DIE,Diesel,1.534,2022-03-02 20:40
+247905,eni24,Felberstraße vis a vis 102,Wien,1150,48.193432,16.321006,DIE,Diesel,1.549,2022-03-02 20:40
+1354670,JET TANKSTELLE,TRIESTERSTRASSE 292,WIEN,1230,48.131138,16.321654,DIE,Diesel,1.549,2022-03-02 20:40
+1473128,Diskont Tankstelle,"Wien Breitenfurter Strasse 261 (""Hofer-Parkplatz"")",Wien,1230,48.1506803,16.3016662,DIE,Diesel,1.554,2022-03-02 20:40
+1131667,AWI-Diskont Bedienungstankstelle,Sternwartestraße 23,Wien,1180,48.2295664,16.3462611,DIE,Diesel,1.497,2022-03-02 20:40
+621283,OIL! Tankstelle,Himberger Strasse 50,Wien,1100,48.1365,16.3835,DIE,Diesel,1.529,2022-03-02 20:40
+621285,OIL! Tankstelle,Laxenburger Strasse 244,Wien,1230,48.1388,16.358,DIE,Diesel,1.529,2022-03-02 20:40
+1354672,JET TANKSTELLE,OBERLAAERSTR. 276,WIEN,1230,48.146913,16.366831,DIE,Diesel,1.529,2022-03-02 20:40
+1354892,JET TANKSTELLE,LAXENBURGER STRASSE 248,WIEN,1230,48.135681,16.356244,DIE,Diesel,1.529,2022-03-02 20:40
+1354895,avanti - Wien Nordbahnstraße 1,Nordbahnstrasse 1,Wien,1020,48.22912,16.38852,DIE,Diesel,1.534,2022-03-02 20:40
+1354901,avanti - Wien Gaussplatz 1,Gaussplatz 1,Wien,1020,48.22588,16.3708,DIE,Diesel,1.534,2022-03-02 20:40
+247905,eni24,Felberstraße vis a vis 102,Wien,1150,48.193432,16.321006,DIE,Diesel,1.549,2022-03-02 20:40
+1354670,JET TANKSTELLE,TRIESTERSTRASSE 292,WIEN,1230,48.131138,16.321654,DIE,Diesel,1.549,2022-03-02 20:40
+1473128,Diskont Tankstelle,"Wien Breitenfurter Strasse 261 (""Hofer-Parkplatz"")",Wien,1230,48.1506803,16.3016662,DIE,Diesel,1.554,2022-03-02 20:40
+1131667,AWI-Diskont Bedienungstankstelle,Sternwartestraße 23,Wien,1180,48.2295664,16.3462611,DIE,Diesel,1.497,2022-03-02 20:40
+621283,OIL! Tankstelle,Himberger Strasse 50,Wien,1100,48.1365,16.3835,DIE,Diesel,1.529,2022-03-02 20:40
+621285,OIL! Tankstelle,Laxenburger Strasse 244,Wien,1230,48.1388,16.358,DIE,Diesel,1.529,2022-03-02 20:40
+1354672,JET TANKSTELLE,OBERLAAERSTR. 276,WIEN,1230,48.146913,16.366831,DIE,Diesel,1.529,2022-03-02 20:40
+1354892,JET TANKSTELLE,LAXENBURGER STRASSE 248,WIEN,1230,48.135681,16.356244,DIE,Diesel,1.529,2022-03-02 20:40
+1354895,avanti - Wien Nordbahnstraße 1,Nordbahnstrasse 1,Wien,1020,48.22912,16.38852,DIE,Diesel,1.534,2022-03-02 20:40
+1354901,avanti - Wien Gaussplatz 1,Gaussplatz 1,Wien,1020,48.22588,16.3708,DIE,Diesel,1.534,2022-03-02 20:40
+247905,eni24,Felberstraße vis a vis 102,Wien,1150,48.193432,16.321006,DIE,Diesel,1.549,2022-03-02 20:40
+1354670,JET TANKSTELLE,TRIESTERSTRASSE 292,WIEN,1230,48.131138,16.321654,DIE,Diesel,1.549,2022-03-02 20:40
+1473128,Diskont Tankstelle,"Wien Breitenfurter Strasse 261 (""Hofer-Parkplatz"")",Wien,1230,48.1506803,16.3016662,DIE,Diesel,1.554,2022-03-02 20:40
+1131667,AWI-Diskont Bedienungstankstelle,Sternwartestraße 23,Wien,1180,48.2295664,16.3462611,DIE,Diesel,1.497,2022-03-02 20:40
+621283,OIL! Tankstelle,Himberger Strasse 50,Wien,1100,48.1365,16.3835,DIE,Diesel,1.529,2022-03-02 20:40
+621285,OIL! Tankstelle,Laxenburger Strasse 244,Wien,1230,48.1388,16.358,DIE,Diesel,1.529,2022-03-02 20:40
+1354672,JET TANKSTELLE,OBERLAAERSTR. 276,WIEN,1230,48.146913,16.366831,DIE,Diesel,1.529,2022-03-02 20:40
+1354892,JET TANKSTELLE,LAXENBURGER STRASSE 248,WIEN,1230,48.135681,16.356244,DIE,Diesel,1.529,2022-03-02 20:40
+1354895,avanti - Wien Nordbahnstraße 1,Nordbahnstrasse 1,Wien,1020,48.22912,16.38852,DIE,Diesel,1.534,2022-03-02 20:40
+1354901,avanti - Wien Gaussplatz 1,Gaussplatz 1,Wien,1020,48.22588,16.3708,DIE,Diesel,1.534,2022-03-02 20:40
+247905,eni24,Felberstraße vis a vis 102,Wien,1150,48.193432,16.321006,DIE,Diesel,1.549,2022-03-02 20:40
+1354670,JET TANKSTELLE,TRIESTERSTRASSE 292,WIEN,1230,48.131138,16.321654,DIE,Diesel,1.549,2022-03-02 20:40
+1473128,Diskont Tankstelle,"Wien Breitenfurter Strasse 261 (""Hofer-Parkplatz"")",Wien,1230,48.1506803,16.3016662,DIE,Diesel,1.554,2022-03-02 20:40
+1131667,AWI-Diskont Bedienungstankstelle,Sternwartestraße 23,Wien,1180,48.2295664,16.3462611,DIE,Diesel,1.497,2022-03-02 20:40
+621283,OIL! Tankstelle,Himberger Strasse 50,Wien,1100,48.1365,16.3835,DIE,Diesel,1.529,2022-03-02 20:40
+621285,OIL! Tankstelle,Laxenburger Strasse 244,Wien,1230,48.1388,16.358,DIE,Diesel,1.529,2022-03-02 20:40
+1354672,JET TANKSTELLE,OBERLAAERSTR. 276,WIEN,1230,48.146913,16.366831,DIE,Diesel,1.529,2022-03-02 20:40
+1354892,JET TANKSTELLE,LAXENBURGER STRASSE 248,WIEN,1230,48.135681,16.356244,DIE,Diesel,1.529,2022-03-02 20:40
+1354895,avanti - Wien Nordbahnstraße 1,Nordbahnstrasse 1,Wien,1020,48.22912,16.38852,DIE,Diesel,1.534,2022-03-02 20:40
+1354901,avanti - Wien Gaussplatz 1,Gaussplatz 1,Wien,1020,48.22588,16.3708,DIE,Diesel,1.534,2022-03-02 20:40
+247905,eni24,Felberstraße vis a vis 102,Wien,1150,48.193432,16.321006,DIE,Diesel,1.549,2022-03-02 20:40
+1354670,JET TANKSTELLE,TRIESTERSTRASSE 292,WIEN,1230,48.131138,16.321654,DIE,Diesel,1.549,2022-03-02 20:40
+1473128,Diskont Tankstelle,"Wien Breitenfurter Strasse 261 (""Hofer-Parkplatz"")",Wien,1230,48.1506803,16.3016662,DIE,Diesel,1.554,2022-03-02 20:40
+1131667,AWI-Diskont Bedienungstankstelle,Sternwartestraße 23,Wien,1180,48.2295664,16.3462611,DIE,Diesel,1.497,2022-03-02 20:40
+621283,OIL! Tankstelle,Himberger Strasse 50,Wien,1100,48.1365,16.3835,DIE,Diesel,1.529,2022-03-02 20:40
+621285,OIL! Tankstelle,Laxenburger Strasse 244,Wien,1230,48.1388,16.358,DIE,Diesel,1.529,2022-03-02 20:40
+1354672,JET TANKSTELLE,OBERLAAERSTR. 276,WIEN,1230,48.146913,16.366831,DIE,Diesel,1.529,2022-03-02 20:40
+1354892,JET TANKSTELLE,LAXENBURGER STRASSE 248,WIEN,1230,48.135681,16.356244,DIE,Diesel,1.529,2022-03-02 20:40
+1354895,avanti - Wien Nordbahnstraße 1,Nordbahnstrasse 1,Wien,1020,48.22912,16.38852,DIE,Diesel,1.534,2022-03-02 20:40
+1354901,avanti - Wien Gaussplatz 1,Gaussplatz 1,Wien,1020,48.22588,16.3708,DIE,Diesel,1.534,2022-03-02 20:40
+247905,eni24,Felberstraße vis a vis 102,Wien,1150,48.193432,16.321006,DIE,Diesel,1.549,2022-03-02 20:40
+1354670,JET TANKSTELLE,TRIESTERSTRASSE 292,WIEN,1230,48.131138,16.321654,DIE,Diesel,1.549,2022-03-02 20:40
+1473128,Diskont Tankstelle,"Wien Breitenfurter Strasse 261 (""Hofer-Parkplatz"")",Wien,1230,48.1506803,16.3016662,DIE,Diesel,1.554,2022-03-02 20:40
+1131667,AWI-Diskont Bedienungstankstelle,Sternwartestraße 23,Wien,1180,48.2295664,16.3462611,DIE,Diesel,1.497,2022-03-02 20:40
+621283,OIL! Tankstelle,Himberger Strasse 50,Wien,1100,48.1365,16.3835,DIE,Diesel,1.529,2022-03-02 20:40
+621285,OIL! Tankstelle,Laxenburger Strasse 244,Wien,1230,48.1388,16.358,DIE,Diesel,1.529,2022-03-02 20:40
+1354672,JET TANKSTELLE,OBERLAAERSTR. 276,WIEN,1230,48.146913,16.366831,DIE,Diesel,1.529,2022-03-02 20:40
+1354892,JET TANKSTELLE,LAXENBURGER STRASSE 248,WIEN,1230,48.135681,16.356244,DIE,Diesel,1.529,2022-03-02 20:40
+1354895,avanti - Wien Nordbahnstraße 1,Nordbahnstrasse 1,Wien,1020,48.22912,16.38852,DIE,Diesel,1.534,2022-03-02 20:40
+1354901,avanti - Wien Gaussplatz 1,Gaussplatz 1,Wien,1020,48.22588,16.3708,DIE,Diesel,1.534,2022-03-02 20:40
+247905,eni24,Felberstraße vis a vis 102,Wien,1150,48.193432,16.321006,DIE,Diesel,1.549,2022-03-02 20:40
+1354670,JET TANKSTELLE,TRIESTERSTRASSE 292,WIEN,1230,48.131138,16.321654,DIE,Diesel,1.549,2022-03-02 20:40
+1473128,Diskont Tankstelle,"Wien Breitenfurter Strasse 261 (""Hofer-Parkplatz"")",Wien,1230,48.1506803,16.3016662,DIE,Diesel,1.554,2022-03-02 20:40
+1131667,AWI-Diskont Bedienungstankstelle,Sternwartestraße 23,Wien,1180,48.2295664,16.3462611,DIE,Diesel,1.497,2022-03-02 20:40
+621283,OIL! Tankstelle,Himberger Strasse 50,Wien,1100,48.1365,16.3835,DIE,Diesel,1.529,2022-03-02 20:40
+621285,OIL! Tankstelle,Laxenburger Strasse 244,Wien,1230,48.1388,16.358,DIE,Diesel,1.529,2022-03-02 20:40
+1354672,JET TANKSTELLE,OBERLAAERSTR. 276,WIEN,1230,48.146913,16.366831,DIE,Diesel,1.529,2022-03-02 20:40
+1354892,JET TANKSTELLE,LAXENBURGER STRASSE 248,WIEN,1230,48.135681,16.356244,DIE,Diesel,1.529,2022-03-02 20:40
+1354895,avanti - Wien Nordbahnstraße 1,Nordbahnstrasse 1,Wien,1020,48.22912,16.38852,DIE,Diesel,1.534,2022-03-02 20:40
+1354901,avanti - Wien Gaussplatz 1,Gaussplatz 1,Wien,1020,48.22588,16.3708,DIE,Diesel,1.534,2022-03-02 20:40
+247905,eni24,Felberstraße vis a vis 102,Wien,1150,48.193432,16.321006,DIE,Diesel,1.549,2022-03-02 20:40
+1354670,JET TANKSTELLE,TRIESTERSTRASSE 292,WIEN,1230,48.131138,16.321654,DIE,Diesel,1.549,2022-03-02 20:40
+1473128,Diskont Tankstelle,"Wien Breitenfurter Strasse 261 (""Hofer-Parkplatz"")",Wien,1230,48.1506803,16.3016662,DIE,Diesel,1.554,2022-03-02 20:40
+1131667,AWI-Diskont Bedienungstankstelle,Sternwartestraße 23,Wien,1180,48.2295664,16.3462611,DIE,Diesel,1.497,2022-03-02 20:40
+621283,OIL! Tankstelle,Himberger Strasse 50,Wien,1100,48.1365,16.3835,DIE,Diesel,1.529,2022-03-02 20:40
+621285,OIL! Tankstelle,Laxenburger Strasse 244,Wien,1230,48.1388,16.358,DIE,Diesel,1.529,2022-03-02 20:40
+1354672,JET TANKSTELLE,OBERLAAERSTR. 276,WIEN,1230,48.146913,16.366831,DIE,Diesel,1.529,2022-03-02 20:40
+1354892,JET TANKSTELLE,LAXENBURGER STRASSE 248,WIEN,1230,48.135681,16.356244,DIE,Diesel,1.529,2022-03-02 20:40
+1354895,avanti - Wien Nordbahnstraße 1,Nordbahnstrasse 1,Wien,1020,48.22912,16.38852,DIE,Diesel,1.534,2022-03-02 20:40
+1354901,avanti - Wien Gaussplatz 1,Gaussplatz 1,Wien,1020,48.22588,16.3708,DIE,Diesel,1.534,2022-03-02 20:40
+247905,eni24,Felberstraße vis a vis 102,Wien,1150,48.193432,16.321006,DIE,Diesel,1.549,2022-03-02 20:40
+1354670,JET TANKSTELLE,TRIESTERSTRASSE 292,WIEN,1230,48.131138,16.321654,DIE,Diesel,1.549,2022-03-02 20:40
+1473128,Diskont Tankstelle,"Wien Breitenfurter Strasse 261 (""Hofer-Parkplatz"")",Wien,1230,48.1506803,16.3016662,DIE,Diesel,1.554,2022-03-02 20:40
+1131667,AWI-Diskont Bedienungstankstelle,Sternwartestraße 23,Wien,1180,48.2295664,16.3462611,DIE,Diesel,1.497,2022-03-02 20:40
+621283,OIL! Tankstelle,Himberger Strasse 50,Wien,1100,48.1365,16.3835,DIE,Diesel,1.529,2022-03-02 20:40
+621285,OIL! Tankstelle,Laxenburger Strasse 244,Wien,1230,48.1388,16.358,DIE,Diesel,1.529,2022-03-02 20:40
+1354672,JET TANKSTELLE,OBERLAAERSTR. 276,WIEN,1230,48.146913,16.366831,DIE,Diesel,1.529,2022-03-02 20:40
+1354892,JET TANKSTELLE,LAXENBURGER STRASSE 248,WIEN,1230,48.135681,16.356244,DIE,Diesel,1.529,2022-03-02 20:40
+1354895,avanti - Wien Nordbahnstraße 1,Nordbahnstrasse 1,Wien,1020,48.22912,16.38852,DIE,Diesel,1.534,2022-03-02 20:40
+1354901,avanti - Wien Gaussplatz 1,Gaussplatz 1,Wien,1020,48.22588,16.3708,DIE,Diesel,1.534,2022-03-02 20:40
+247905,eni24,Felberstraße vis a vis 102,Wien,1150,48.193432,16.321006,DIE,Diesel,1.549,2022-03-02 20:40
+1354670,JET TANKSTELLE,TRIESTERSTRASSE 292,WIEN,1230,48.131138,16.321654,DIE,Diesel,1.549,2022-03-02 20:40
+1473128,Diskont Tankstelle,"Wien Breitenfurter Strasse 261 (""Hofer-Parkplatz"")",Wien,1230,48.1506803,16.3016662,DIE,Diesel,1.554,2022-03-02 20:40
+1131667,AWI-Diskont Bedienungstankstelle,Sternwartestraße 23,Wien,1180,48.2295664,16.3462611,DIE,Diesel,1.497,2022-03-02 20:40
+621283,OIL! Tankstelle,Himberger Strasse 50,Wien,1100,48.1365,16.3835,DIE,Diesel,1.529,2022-03-02 20:40
+621285,OIL! Tankstelle,Laxenburger Strasse 244,Wien,1230,48.1388,16.358,DIE,Diesel,1.529,2022-03-02 20:40
+1354672,JET TANKSTELLE,OBERLAAERSTR. 276,WIEN,1230,48.146913,16.366831,DIE,Diesel,1.529,2022-03-02 20:40
+1354892,JET TANKSTELLE,LAXENBURGER STRASSE 248,WIEN,1230,48.135681,16.356244,DIE,Diesel,1.529,2022-03-02 20:40
+1354895,avanti - Wien Nordbahnstraße 1,Nordbahnstrasse 1,Wien,1020,48.22912,16.38852,DIE,Diesel,1.534,2022-03-02 20:40
+1354901,avanti - Wien Gaussplatz 1,Gaussplatz 1,Wien,1020,48.22588,16.3708,DIE,Diesel,1.534,2022-03-02 20:40
+247905,eni24,Felberstraße vis a vis 102,Wien,1150,48.193432,16.321006,DIE,Diesel,1.549,2022-03-02 20:40
+1354670,JET TANKSTELLE,TRIESTERSTRASSE 292,WIEN,1230,48.131138,16.321654,DIE,Diesel,1.549,2022-03-02 20:40
+1473128,Diskont Tankstelle,"Wien Breitenfurter Strasse 261 (""Hofer-Parkplatz"")",Wien,1230,48.1506803,16.3016662,DIE,Diesel,1.554,2022-03-02 20:40
+1131667,AWI-Diskont Bedienungstankstelle,Sternwartestraße 23,Wien,1180,48.2295664,16.3462611,DIE,Diesel,1.497,2022-03-02 20:40
+621283,OIL! Tankstelle,Himberger Strasse 50,Wien,1100,48.1365,16.3835,DIE,Diesel,1.529,2022-03-02 20:40
+621285,OIL! Tankstelle,Laxenburger Strasse 244,Wien,1230,48.1388,16.358,DIE,Diesel,1.529,2022-03-02 20:40
+1354672,JET TANKSTELLE,OBERLAAERSTR. 276,WIEN,1230,48.146913,16.366831,DIE,Diesel,1.529,2022-03-02 20:40
+1354892,JET TANKSTELLE,LAXENBURGER STRASSE 248,WIEN,1230,48.135681,16.356244,DIE,Diesel,1.529,2022-03-02 20:40
+1354895,avanti - Wien Nordbahnstraße 1,Nordbahnstrasse 1,Wien,1020,48.22912,16.38852,DIE,Diesel,1.534,2022-03-02 20:40
+1354901,avanti - Wien Gaussplatz 1,Gaussplatz 1,Wien,1020,48.22588,16.3708,DIE,Diesel,1.534,2022-03-02 20:40
+247905,eni24,Felberstraße vis a vis 102,Wien,1150,48.193432,16.321006,DIE,Diesel,1.549,2022-03-02 20:40
+1354670,JET TANKSTELLE,TRIESTERSTRASSE 292,WIEN,1230,48.131138,16.321654,DIE,Diesel,1.549,2022-03-02 20:40
+1473128,Diskont Tankstelle,"Wien Breitenfurter Strasse 261 (""Hofer-Parkplatz"")",Wien,1230,48.1506803,16.3016662,DIE,Diesel,1.554,2022-03-02 20:40
+1131667,AWI-Diskont Bedienungstankstelle,Sternwartestraße 23,Wien,1180,48.2295664,16.3462611,DIE,Diesel,1.497,2022-03-02 20:40
+621283,OIL! Tankstelle,Himberger Strasse 50,Wien,1100,48.1365,16.3835,DIE,Diesel,1.529,2022-03-02 20:40
+621285,OIL! Tankstelle,Laxenburger Strasse 244,Wien,1230,48.1388,16.358,DIE,Diesel,1.529,2022-03-02 20:40
+1354672,JET TANKSTELLE,OBERLAAERSTR. 276,WIEN,1230,48.146913,16.366831,DIE,Diesel,1.529,2022-03-02 20:40
+1354892,JET TANKSTELLE,LAXENBURGER STRASSE 248,WIEN,1230,48.135681,16.356244,DIE,Diesel,1.529,2022-03-02 20:40
+1354895,avanti - Wien Nordbahnstraße 1,Nordbahnstrasse 1,Wien,1020,48.22912,16.38852,DIE,Diesel,1.534,2022-03-02 20:40
+1354901,avanti - Wien Gaussplatz 1,Gaussplatz 1,Wien,1020,48.22588,16.3708,DIE,Diesel,1.534,2022-03-02 20:40
+247905,eni24,Felberstraße vis a vis 102,Wien,1150,48.193432,16.321006,DIE,Diesel,1.549,2022-03-02 20:40
+1354670,JET TANKSTELLE,TRIESTERSTRASSE 292,WIEN,1230,48.131138,16.321654,DIE,Diesel,1.549,2022-03-02 20:40
+1473128,Diskont Tankstelle,"Wien Breitenfurter Strasse 261 (""Hofer-Parkplatz"")",Wien,1230,48.1506803,16.3016662,DIE,Diesel,1.554,2022-03-02 20:40
+1131667,AWI-Diskont Bedienungstankstelle,Sternwartestraße 23,Wien,1180,48.2295664,16.3462611,DIE,Diesel,1.497,2022-03-02 20:40
+621283,OIL! Tankstelle,Himberger Strasse 50,Wien,1100,48.1365,16.3835,DIE,Diesel,1.529,2022-03-02 20:40
+621285,OIL! Tankstelle,Laxenburger Strasse 244,Wien,1230,48.1388,16.358,DIE,Diesel,1.529,2022-03-02 20:40
+1354672,JET TANKSTELLE,OBERLAAERSTR. 276,WIEN,1230,48.146913,16.366831,DIE,Diesel,1.529,2022-03-02 20:40
+1354892,JET TANKSTELLE,LAXENBURGER STRASSE 248,WIEN,1230,48.135681,16.356244,DIE,Diesel,1.529,2022-03-02 20:40
+1354895,avanti - Wien Nordbahnstraße 1,Nordbahnstrasse 1,Wien,1020,48.22912,16.38852,DIE,Diesel,1.534,2022-03-02 20:40
+1354901,avanti - Wien Gaussplatz 1,Gaussplatz 1,Wien,1020,48.22588,16.3708,DIE,Diesel,1.534,2022-03-02 20:40
+247905,eni24,Felberstraße vis a vis 102,Wien,1150,48.193432,16.321006,DIE,Diesel,1.549,2022-03-02 20:40
+1354670,JET TANKSTELLE,TRIESTERSTRASSE 292,WIEN,1230,48.131138,16.321654,DIE,Diesel,1.549,2022-03-02 20:40
+1473128,Diskont Tankstelle,"Wien Breitenfurter Strasse 261 (""Hofer-Parkplatz"")",Wien,1230,48.1506803,16.3016662,DIE,Diesel,1.554,2022-03-02 20:40
+1131667,AWI-Diskont Bedienungstankstelle,Sternwartestraße 23,Wien,1180,48.2295664,16.3462611,DIE,Diesel,1.497,2022-03-02 20:40
+621283,OIL! Tankstelle,Himberger Strasse 50,Wien,1100,48.1365,16.3835,DIE,Diesel,1.529,2022-03-02 20:40
+621285,OIL! Tankstelle,Laxenburger Strasse 244,Wien,1230,48.1388,16.358,DIE,Diesel,1.529,2022-03-02 20:40
+1354672,JET TANKSTELLE,OBERLAAERSTR. 276,WIEN,1230,48.146913,16.366831,DIE,Diesel,1.529,2022-03-02 20:40
+1354892,JET TANKSTELLE,LAXENBURGER STRASSE 248,WIEN,1230,48.135681,16.356244,DIE,Diesel,1.529,2022-03-02 20:40
+1354895,avanti - Wien Nordbahnstraße 1,Nordbahnstrasse 1,Wien,1020,48.22912,16.38852,DIE,Diesel,1.534,2022-03-02 20:40
+1354901,avanti - Wien Gaussplatz 1,Gaussplatz 1,Wien,1020,48.22588,16.3708,DIE,Diesel,1.534,2022-03-02 20:40
+247905,eni24,Felberstraße vis a vis 102,Wien,1150,48.193432,16.321006,DIE,Diesel,1.549,2022-03-02 20:40
+1354670,JET TANKSTELLE,TRIESTERSTRASSE 292,WIEN,1230,48.131138,16.321654,DIE,Diesel,1.549,2022-03-02 20:40
+1473128,Diskont Tankstelle,"Wien Breitenfurter Strasse 261 (""Hofer-Parkplatz"")",Wien,1230,48.1506803,16.3016662,DIE,Diesel,1.554,2022-03-02 20:40
