@@ -27,6 +27,15 @@ jobs:
           pip install -e .
       - name: Run data crawler
         run: |
-          ls
+          ls - l
           agp
-          ls
+          ls -l data
+      - name: Commit files
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/
+          now=`date +"%Y-%m-%d %H:%M"`
+          git commit -m "Update data ${now}"
+      - name: GitHub Push
+        uses: ad-m/github-push-action@v0.6.0
