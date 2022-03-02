@@ -18,10 +18,10 @@ def main():
         file_name = f"vienna_{fuel_type}.csv"
         save_gas_prices_to_file(prices, file_name)
 
-    # for fuel_type in fuel_types:
-    #     prices = get_gas_prices_austria(fuel_type)
-    #     file_name = f"austria_{fuel_type}.csv"
-    #     save_gas_prices_to_file(prices, file_name)
+    for fuel_type in fuel_types:
+        prices = get_gas_prices_austria(fuel_type)
+        file_name = f"austria_{fuel_type}.csv"
+        save_gas_prices_to_file(prices, file_name)
 
 
 if __name__ == "__main__":
