@@ -1,0 +1,1529 @@
+identifier,name,address,city,postal_code,latitude,longitude,fuel_type,label,price,timestamp
+259,OMV - Oberwart Grazer Straße 123,Grazer Strasse 123,Oberwart,7400,47.28297,16.18523,GAS,CNG,1.699,2022-03-02 17:43
+374,OMV - Weiden am See Parz. Nr. 2164 17-18,Parz. Nr. 2164 17-18,Weiden am See,7100,47.9375,16.85532,GAS,CNG,1.699,2022-03-02 17:43
+33599,AVIA,Fachmarktzentrum 1,Siegendorf,7011,47.7735234,16.529095,GAS,CNG,1.699,2022-03-02 17:43
+1354784,OMV - Oberpullendorf Stoob Süd 6,Stoob Sued 6,Oberpullendorf,7350,47.50957,16.50023,GAS,CNG,1.699,2022-03-02 17:43
+1354822,OMV - Eisenstadt Mattersburger Straße 28,Mattersburger Strasse 28,Eisenstadt,7000,47.83317,16.52318,GAS,CNG,1.699,2022-03-02 17:43
+259,OMV - Oberwart Grazer Straße 123,Grazer Strasse 123,Oberwart,7400,47.28297,16.18523,GAS,CNG,1.699,2022-03-02 17:43
+374,OMV - Weiden am See Parz. Nr. 2164 17-18,Parz. Nr. 2164 17-18,Weiden am See,7100,47.9375,16.85532,GAS,CNG,1.699,2022-03-02 17:43
+33599,AVIA,Fachmarktzentrum 1,Siegendorf,7011,47.7735234,16.529095,GAS,CNG,1.699,2022-03-02 17:43
+1354784,OMV - Oberpullendorf Stoob Süd 6,Stoob Sued 6,Oberpullendorf,7350,47.50957,16.50023,GAS,CNG,1.699,2022-03-02 17:43
+1354822,OMV - Eisenstadt Mattersburger Straße 28,Mattersburger Strasse 28,Eisenstadt,7000,47.83317,16.52318,GAS,CNG,1.699,2022-03-02 17:43
+259,OMV - Oberwart Grazer Straße 123,Grazer Strasse 123,Oberwart,7400,47.28297,16.18523,GAS,CNG,1.699,2022-03-02 17:43
+374,OMV - Weiden am See Parz. Nr. 2164 17-18,Parz. Nr. 2164 17-18,Weiden am See,7100,47.9375,16.85532,GAS,CNG,1.699,2022-03-02 17:43
+33599,AVIA,Fachmarktzentrum 1,Siegendorf,7011,47.7735234,16.529095,GAS,CNG,1.699,2022-03-02 17:43
+1354784,OMV - Oberpullendorf Stoob Süd 6,Stoob Sued 6,Oberpullendorf,7350,47.50957,16.50023,GAS,CNG,1.699,2022-03-02 17:43
+1354822,OMV - Eisenstadt Mattersburger Straße 28,Mattersburger Strasse 28,Eisenstadt,7000,47.83317,16.52318,GAS,CNG,1.699,2022-03-02 17:43
+259,OMV - Oberwart Grazer Straße 123,Grazer Strasse 123,Oberwart,7400,47.28297,16.18523,GAS,CNG,1.699,2022-03-02 17:43
+374,OMV - Weiden am See Parz. Nr. 2164 17-18,Parz. Nr. 2164 17-18,Weiden am See,7100,47.9375,16.85532,GAS,CNG,1.699,2022-03-02 17:43
+33599,AVIA,Fachmarktzentrum 1,Siegendorf,7011,47.7735234,16.529095,GAS,CNG,1.699,2022-03-02 17:43
+1354784,OMV - Oberpullendorf Stoob Süd 6,Stoob Sued 6,Oberpullendorf,7350,47.50957,16.50023,GAS,CNG,1.699,2022-03-02 17:43
+1354822,OMV - Eisenstadt Mattersburger Straße 28,Mattersburger Strasse 28,Eisenstadt,7000,47.83317,16.52318,GAS,CNG,1.699,2022-03-02 17:43
+259,OMV - Oberwart Grazer Straße 123,Grazer Strasse 123,Oberwart,7400,47.28297,16.18523,GAS,CNG,1.699,2022-03-02 17:43
+374,OMV - Weiden am See Parz. Nr. 2164 17-18,Parz. Nr. 2164 17-18,Weiden am See,7100,47.9375,16.85532,GAS,CNG,1.699,2022-03-02 17:43
+33599,AVIA,Fachmarktzentrum 1,Siegendorf,7011,47.7735234,16.529095,GAS,CNG,1.699,2022-03-02 17:43
+1354784,OMV - Oberpullendorf Stoob Süd 6,Stoob Sued 6,Oberpullendorf,7350,47.50957,16.50023,GAS,CNG,1.699,2022-03-02 17:43
+1354822,OMV - Eisenstadt Mattersburger Straße 28,Mattersburger Strasse 28,Eisenstadt,7000,47.83317,16.52318,GAS,CNG,1.699,2022-03-02 17:43
+259,OMV - Oberwart Grazer Straße 123,Grazer Strasse 123,Oberwart,7400,47.28297,16.18523,GAS,CNG,1.699,2022-03-02 17:43
+374,OMV - Weiden am See Parz. Nr. 2164 17-18,Parz. Nr. 2164 17-18,Weiden am See,7100,47.9375,16.85532,GAS,CNG,1.699,2022-03-02 17:43
+33599,AVIA,Fachmarktzentrum 1,Siegendorf,7011,47.7735234,16.529095,GAS,CNG,1.699,2022-03-02 17:43
+1354784,OMV - Oberpullendorf Stoob Süd 6,Stoob Sued 6,Oberpullendorf,7350,47.50957,16.50023,GAS,CNG,1.699,2022-03-02 17:43
+1354822,OMV - Eisenstadt Mattersburger Straße 28,Mattersburger Strasse 28,Eisenstadt,7000,47.83317,16.52318,GAS,CNG,1.699,2022-03-02 17:43
+259,OMV - Oberwart Grazer Straße 123,Grazer Strasse 123,Oberwart,7400,47.28297,16.18523,GAS,CNG,1.699,2022-03-02 17:43
+374,OMV - Weiden am See Parz. Nr. 2164 17-18,Parz. Nr. 2164 17-18,Weiden am See,7100,47.9375,16.85532,GAS,CNG,1.699,2022-03-02 17:43
+33599,AVIA,Fachmarktzentrum 1,Siegendorf,7011,47.7735234,16.529095,GAS,CNG,1.699,2022-03-02 17:43
+1354784,OMV - Oberpullendorf Stoob Süd 6,Stoob Sued 6,Oberpullendorf,7350,47.50957,16.50023,GAS,CNG,1.699,2022-03-02 17:43
+1354822,OMV - Eisenstadt Mattersburger Straße 28,Mattersburger Strasse 28,Eisenstadt,7000,47.83317,16.52318,GAS,CNG,1.699,2022-03-02 17:43
+259,OMV - Oberwart Grazer Straße 123,Grazer Strasse 123,Oberwart,7400,47.28297,16.18523,GAS,CNG,1.699,2022-03-02 17:43
+374,OMV - Weiden am See Parz. Nr. 2164 17-18,Parz. Nr. 2164 17-18,Weiden am See,7100,47.9375,16.85532,GAS,CNG,1.699,2022-03-02 17:43
+33599,AVIA,Fachmarktzentrum 1,Siegendorf,7011,47.7735234,16.529095,GAS,CNG,1.699,2022-03-02 17:43
+1354784,OMV - Oberpullendorf Stoob Süd 6,Stoob Sued 6,Oberpullendorf,7350,47.50957,16.50023,GAS,CNG,1.699,2022-03-02 17:43
+1354822,OMV - Eisenstadt Mattersburger Straße 28,Mattersburger Strasse 28,Eisenstadt,7000,47.83317,16.52318,GAS,CNG,1.699,2022-03-02 17:43
+259,OMV - Oberwart Grazer Straße 123,Grazer Strasse 123,Oberwart,7400,47.28297,16.18523,GAS,CNG,1.699,2022-03-02 17:43
+374,OMV - Weiden am See Parz. Nr. 2164 17-18,Parz. Nr. 2164 17-18,Weiden am See,7100,47.9375,16.85532,GAS,CNG,1.699,2022-03-02 17:43
+33599,AVIA,Fachmarktzentrum 1,Siegendorf,7011,47.7735234,16.529095,GAS,CNG,1.699,2022-03-02 17:43
+1354784,OMV - Oberpullendorf Stoob Süd 6,Stoob Sued 6,Oberpullendorf,7350,47.50957,16.50023,GAS,CNG,1.699,2022-03-02 17:43
+1354822,OMV - Eisenstadt Mattersburger Straße 28,Mattersburger Strasse 28,Eisenstadt,7000,47.83317,16.52318,GAS,CNG,1.699,2022-03-02 17:43
+259,OMV - Oberwart Grazer Straße 123,Grazer Strasse 123,Oberwart,7400,47.28297,16.18523,GAS,CNG,1.699,2022-03-02 17:43
+374,OMV - Weiden am See Parz. Nr. 2164 17-18,Parz. Nr. 2164 17-18,Weiden am See,7100,47.9375,16.85532,GAS,CNG,1.699,2022-03-02 17:43
+33599,AVIA,Fachmarktzentrum 1,Siegendorf,7011,47.7735234,16.529095,GAS,CNG,1.699,2022-03-02 17:43
+1354784,OMV - Oberpullendorf Stoob Süd 6,Stoob Sued 6,Oberpullendorf,7350,47.50957,16.50023,GAS,CNG,1.699,2022-03-02 17:43
+1354822,OMV - Eisenstadt Mattersburger Straße 28,Mattersburger Strasse 28,Eisenstadt,7000,47.83317,16.52318,GAS,CNG,1.699,2022-03-02 17:43
+428034,Shell Spittal/Drau ,Zgurner Strasse 2,Spittal an der Drau,9800,46.782823,13.534383,GAS,CNG,1.199,2022-03-02 17:43
+166,OMV - Klagenfurt Völkermarkter Straße 272,Voelkermarkter Strasse 272,Klagenfurt,9020,46.62956,14.35681,GAS,CNG,1.699,2022-03-02 17:43
+355,OMV - Villach Maria-Gailer-Straße 53,Maria-Gailer-Strasse 53,Villach,9500,46.60434,13.87092,GAS,CNG,1.699,2022-03-02 17:43
+450,OMV - Wolfsberg Klagenfurter Straße 16,Klagenfurter Strasse 16,Wolfsberg,9400,46.82775,14.83911,GAS,CNG,1.699,2022-03-02 17:43
+428034,Shell Spittal/Drau ,Zgurner Strasse 2,Spittal an der Drau,9800,46.782823,13.534383,GAS,CNG,1.199,2022-03-02 17:43
+166,OMV - Klagenfurt Völkermarkter Straße 272,Voelkermarkter Strasse 272,Klagenfurt,9020,46.62956,14.35681,GAS,CNG,1.699,2022-03-02 17:43
+355,OMV - Villach Maria-Gailer-Straße 53,Maria-Gailer-Strasse 53,Villach,9500,46.60434,13.87092,GAS,CNG,1.699,2022-03-02 17:43
+450,OMV - Wolfsberg Klagenfurter Straße 16,Klagenfurter Strasse 16,Wolfsberg,9400,46.82775,14.83911,GAS,CNG,1.699,2022-03-02 17:43
+428034,Shell Spittal/Drau ,Zgurner Strasse 2,Spittal an der Drau,9800,46.782823,13.534383,GAS,CNG,1.199,2022-03-02 17:43
+166,OMV - Klagenfurt Völkermarkter Straße 272,Voelkermarkter Strasse 272,Klagenfurt,9020,46.62956,14.35681,GAS,CNG,1.699,2022-03-02 17:43
+355,OMV - Villach Maria-Gailer-Straße 53,Maria-Gailer-Strasse 53,Villach,9500,46.60434,13.87092,GAS,CNG,1.699,2022-03-02 17:43
+450,OMV - Wolfsberg Klagenfurter Straße 16,Klagenfurter Strasse 16,Wolfsberg,9400,46.82775,14.83911,GAS,CNG,1.699,2022-03-02 17:43
+428034,Shell Spittal/Drau ,Zgurner Strasse 2,Spittal an der Drau,9800,46.782823,13.534383,GAS,CNG,1.199,2022-03-02 17:43
+166,OMV - Klagenfurt Völkermarkter Straße 272,Voelkermarkter Strasse 272,Klagenfurt,9020,46.62956,14.35681,GAS,CNG,1.699,2022-03-02 17:43
+355,OMV - Villach Maria-Gailer-Straße 53,Maria-Gailer-Strasse 53,Villach,9500,46.60434,13.87092,GAS,CNG,1.699,2022-03-02 17:43
+450,OMV - Wolfsberg Klagenfurter Straße 16,Klagenfurter Strasse 16,Wolfsberg,9400,46.82775,14.83911,GAS,CNG,1.699,2022-03-02 17:43
+428034,Shell Spittal/Drau ,Zgurner Strasse 2,Spittal an der Drau,9800,46.782823,13.534383,GAS,CNG,1.199,2022-03-02 17:43
+166,OMV - Klagenfurt Völkermarkter Straße 272,Voelkermarkter Strasse 272,Klagenfurt,9020,46.62956,14.35681,GAS,CNG,1.699,2022-03-02 17:43
+355,OMV - Villach Maria-Gailer-Straße 53,Maria-Gailer-Strasse 53,Villach,9500,46.60434,13.87092,GAS,CNG,1.699,2022-03-02 17:43
+450,OMV - Wolfsberg Klagenfurter Straße 16,Klagenfurter Strasse 16,Wolfsberg,9400,46.82775,14.83911,GAS,CNG,1.699,2022-03-02 17:43
+428034,Shell Spittal/Drau ,Zgurner Strasse 2,Spittal an der Drau,9800,46.782823,13.534383,GAS,CNG,1.199,2022-03-02 17:43
+166,OMV - Klagenfurt Völkermarkter Straße 272,Voelkermarkter Strasse 272,Klagenfurt,9020,46.62956,14.35681,GAS,CNG,1.699,2022-03-02 17:43
+355,OMV - Villach Maria-Gailer-Straße 53,Maria-Gailer-Strasse 53,Villach,9500,46.60434,13.87092,GAS,CNG,1.699,2022-03-02 17:43
+450,OMV - Wolfsberg Klagenfurter Straße 16,Klagenfurter Strasse 16,Wolfsberg,9400,46.82775,14.83911,GAS,CNG,1.699,2022-03-02 17:43
+428034,Shell Spittal/Drau ,Zgurner Strasse 2,Spittal an der Drau,9800,46.782823,13.534383,GAS,CNG,1.199,2022-03-02 17:43
+166,OMV - Klagenfurt Völkermarkter Straße 272,Voelkermarkter Strasse 272,Klagenfurt,9020,46.62956,14.35681,GAS,CNG,1.699,2022-03-02 17:43
+355,OMV - Villach Maria-Gailer-Straße 53,Maria-Gailer-Strasse 53,Villach,9500,46.60434,13.87092,GAS,CNG,1.699,2022-03-02 17:43
+450,OMV - Wolfsberg Klagenfurter Straße 16,Klagenfurter Strasse 16,Wolfsberg,9400,46.82775,14.83911,GAS,CNG,1.699,2022-03-02 17:43
+428034,Shell Spittal/Drau ,Zgurner Strasse 2,Spittal an der Drau,9800,46.782823,13.534383,GAS,CNG,1.199,2022-03-02 17:43
+166,OMV - Klagenfurt Völkermarkter Straße 272,Voelkermarkter Strasse 272,Klagenfurt,9020,46.62956,14.35681,GAS,CNG,1.699,2022-03-02 17:43
+355,OMV - Villach Maria-Gailer-Straße 53,Maria-Gailer-Strasse 53,Villach,9500,46.60434,13.87092,GAS,CNG,1.699,2022-03-02 17:43
+450,OMV - Wolfsberg Klagenfurter Straße 16,Klagenfurter Strasse 16,Wolfsberg,9400,46.82775,14.83911,GAS,CNG,1.699,2022-03-02 17:43
+428034,Shell Spittal/Drau ,Zgurner Strasse 2,Spittal an der Drau,9800,46.782823,13.534383,GAS,CNG,1.199,2022-03-02 17:43
+166,OMV - Klagenfurt Völkermarkter Straße 272,Voelkermarkter Strasse 272,Klagenfurt,9020,46.62956,14.35681,GAS,CNG,1.699,2022-03-02 17:43
+355,OMV - Villach Maria-Gailer-Straße 53,Maria-Gailer-Strasse 53,Villach,9500,46.60434,13.87092,GAS,CNG,1.699,2022-03-02 17:43
+450,OMV - Wolfsberg Klagenfurter Straße 16,Klagenfurter Strasse 16,Wolfsberg,9400,46.82775,14.83911,GAS,CNG,1.699,2022-03-02 17:43
+428034,Shell Spittal/Drau ,Zgurner Strasse 2,Spittal an der Drau,9800,46.782823,13.534383,GAS,CNG,1.199,2022-03-02 17:43
+166,OMV - Klagenfurt Völkermarkter Straße 272,Voelkermarkter Strasse 272,Klagenfurt,9020,46.62956,14.35681,GAS,CNG,1.699,2022-03-02 17:43
+355,OMV - Villach Maria-Gailer-Straße 53,Maria-Gailer-Strasse 53,Villach,9500,46.60434,13.87092,GAS,CNG,1.699,2022-03-02 17:43
+450,OMV - Wolfsberg Klagenfurter Straße 16,Klagenfurter Strasse 16,Wolfsberg,9400,46.82775,14.83911,GAS,CNG,1.699,2022-03-02 17:43
+428034,Shell Spittal/Drau ,Zgurner Strasse 2,Spittal an der Drau,9800,46.782823,13.534383,GAS,CNG,1.199,2022-03-02 17:43
+166,OMV - Klagenfurt Völkermarkter Straße 272,Voelkermarkter Strasse 272,Klagenfurt,9020,46.62956,14.35681,GAS,CNG,1.699,2022-03-02 17:43
+355,OMV - Villach Maria-Gailer-Straße 53,Maria-Gailer-Strasse 53,Villach,9500,46.60434,13.87092,GAS,CNG,1.699,2022-03-02 17:43
+450,OMV - Wolfsberg Klagenfurter Straße 16,Klagenfurter Strasse 16,Wolfsberg,9400,46.82775,14.83911,GAS,CNG,1.699,2022-03-02 17:43
+248020,eni,Braitnerstrasse 62a,Baden,2500,48.001929,16.241614,GAS,CNG,1.089,2022-03-02 17:43
+247819,eni,Feldstrasse 44,Brunn/Geb.,2345,48.122997,16.293216,GAS,CNG,1.098,2022-03-02 17:43
+248017,eni,Oberegging 54,Bergland,3254,48.158477,15.111832,GAS,CNG,1.098,2022-03-02 17:43
+1469766,EVM - Biomethan Tankstelle,Energiestraße 9,Margarethen am Moos,2433,48.047635,16.605493,GAS,CNG,1.15,2022-03-02 17:43
+33343,Eni Tankstelle,Bundesstrasse 130,Bisamberg,2102,48.332867,16.345122,GAS,CNG,1.299,2022-03-02 17:43
+33363,Shell Tankstelle,Reichsstrasse 14,Poechlarn,3380,48.198073,15.222101,GAS,CNG,1.299,2022-03-02 17:43
+33426,ENI Tankstelle,Lanzendorfer Strasse GST 471/1,Achau,2481,48.0907,16.4113,GAS,CNG,1.299,2022-03-02 17:43
+391,OMV - Strasshof Hauptstraße 119,Hauptstrasse 119,Strasshof,2231,48.31458,16.6256,GAS,CNG,1.699,2022-03-02 17:43
+33596,AVIA ,Keltenstraße 2,St. Pölten-Ratzersdorf,3100,48.2279934,15.6768304,GAS,CNG,1.699,2022-03-02 17:43
+33598,AVIA,Franz Eigl-Str. 7,Zwettl,3910,48.6028473,15.1854858,GAS,CNG,1.699,2022-03-02 17:43
+33600,AVIA,Prof.Krejci-Graf-Str.2,Gmünd,3950,48.7608669,14.9905661,GAS,CNG,1.699,2022-03-02 17:43
+33609,AVIA,Gewerbeparkstraße 1,Krems,3500,48.4052349,15.6549839,GAS,CNG,1.699,2022-03-02 17:43
+1354712,OMV - Frauenhofen Wiener Straße 6,Wiener Strasse 6,Frauenhofen,3580,48.66569,15.63271,GAS,CNG,1.699,2022-03-02 17:43
+1354753,OMV - Wiener Neudorf IZ NÖ Süd Straße 4 Objekt 9,IZ NOe Sued Strasse 4 Objekt 9,Wiener Neudorf,2351,48.0776,16.3233,GAS,CNG,1.699,2022-03-02 17:43
+1354778,OMV - Wiener Neustadt Wiener Straße 126,Wiener Strasse 126,Wiener Neustadt,2700,47.84322,16.24631,GAS,CNG,1.699,2022-03-02 17:43
+1354782,OMV - Loosdorf Gewerbestraße 8,Gewerbestrasse 8,Loosdorf,3382,48.19,15.409,GAS,CNG,1.699,2022-03-02 17:43
+1354826,OMV - Sankt Pölten Mariazeller Straße 95,Mariazeller Strasse 95,Sankt Poelten,3100,48.18769,15.61753,GAS,CNG,1.699,2022-03-02 17:43
+248020,eni,Braitnerstrasse 62a,Baden,2500,48.001929,16.241614,GAS,CNG,1.089,2022-03-02 17:43
+247819,eni,Feldstrasse 44,Brunn/Geb.,2345,48.122997,16.293216,GAS,CNG,1.098,2022-03-02 17:43
+248017,eni,Oberegging 54,Bergland,3254,48.158477,15.111832,GAS,CNG,1.098,2022-03-02 17:43
+1469766,EVM - Biomethan Tankstelle,Energiestraße 9,Margarethen am Moos,2433,48.047635,16.605493,GAS,CNG,1.15,2022-03-02 17:43
+33343,Eni Tankstelle,Bundesstrasse 130,Bisamberg,2102,48.332867,16.345122,GAS,CNG,1.299,2022-03-02 17:43
+33363,Shell Tankstelle,Reichsstrasse 14,Poechlarn,3380,48.198073,15.222101,GAS,CNG,1.299,2022-03-02 17:43
+33426,ENI Tankstelle,Lanzendorfer Strasse GST 471/1,Achau,2481,48.0907,16.4113,GAS,CNG,1.299,2022-03-02 17:43
+391,OMV - Strasshof Hauptstraße 119,Hauptstrasse 119,Strasshof,2231,48.31458,16.6256,GAS,CNG,1.699,2022-03-02 17:43
+33596,AVIA ,Keltenstraße 2,St. Pölten-Ratzersdorf,3100,48.2279934,15.6768304,GAS,CNG,1.699,2022-03-02 17:43
+33598,AVIA,Franz Eigl-Str. 7,Zwettl,3910,48.6028473,15.1854858,GAS,CNG,1.699,2022-03-02 17:43
+33600,AVIA,Prof.Krejci-Graf-Str.2,Gmünd,3950,48.7608669,14.9905661,GAS,CNG,1.699,2022-03-02 17:43
+33609,AVIA,Gewerbeparkstraße 1,Krems,3500,48.4052349,15.6549839,GAS,CNG,1.699,2022-03-02 17:43
+1354712,OMV - Frauenhofen Wiener Straße 6,Wiener Strasse 6,Frauenhofen,3580,48.66569,15.63271,GAS,CNG,1.699,2022-03-02 17:43
+1354753,OMV - Wiener Neudorf IZ NÖ Süd Straße 4 Objekt 9,IZ NOe Sued Strasse 4 Objekt 9,Wiener Neudorf,2351,48.0776,16.3233,GAS,CNG,1.699,2022-03-02 17:43
+1354778,OMV - Wiener Neustadt Wiener Straße 126,Wiener Strasse 126,Wiener Neustadt,2700,47.84322,16.24631,GAS,CNG,1.699,2022-03-02 17:43
+1354782,OMV - Loosdorf Gewerbestraße 8,Gewerbestrasse 8,Loosdorf,3382,48.19,15.409,GAS,CNG,1.699,2022-03-02 17:43
+1354826,OMV - Sankt Pölten Mariazeller Straße 95,Mariazeller Strasse 95,Sankt Poelten,3100,48.18769,15.61753,GAS,CNG,1.699,2022-03-02 17:43
+248020,eni,Braitnerstrasse 62a,Baden,2500,48.001929,16.241614,GAS,CNG,1.089,2022-03-02 17:43
+247819,eni,Feldstrasse 44,Brunn/Geb.,2345,48.122997,16.293216,GAS,CNG,1.098,2022-03-02 17:43
+248017,eni,Oberegging 54,Bergland,3254,48.158477,15.111832,GAS,CNG,1.098,2022-03-02 17:43
+1469766,EVM - Biomethan Tankstelle,Energiestraße 9,Margarethen am Moos,2433,48.047635,16.605493,GAS,CNG,1.15,2022-03-02 17:43
+33343,Eni Tankstelle,Bundesstrasse 130,Bisamberg,2102,48.332867,16.345122,GAS,CNG,1.299,2022-03-02 17:43
+33363,Shell Tankstelle,Reichsstrasse 14,Poechlarn,3380,48.198073,15.222101,GAS,CNG,1.299,2022-03-02 17:43
+33426,ENI Tankstelle,Lanzendorfer Strasse GST 471/1,Achau,2481,48.0907,16.4113,GAS,CNG,1.299,2022-03-02 17:43
+391,OMV - Strasshof Hauptstraße 119,Hauptstrasse 119,Strasshof,2231,48.31458,16.6256,GAS,CNG,1.699,2022-03-02 17:43
+33596,AVIA ,Keltenstraße 2,St. Pölten-Ratzersdorf,3100,48.2279934,15.6768304,GAS,CNG,1.699,2022-03-02 17:43
+33598,AVIA,Franz Eigl-Str. 7,Zwettl,3910,48.6028473,15.1854858,GAS,CNG,1.699,2022-03-02 17:43
+33600,AVIA,Prof.Krejci-Graf-Str.2,Gmünd,3950,48.7608669,14.9905661,GAS,CNG,1.699,2022-03-02 17:43
+33609,AVIA,Gewerbeparkstraße 1,Krems,3500,48.4052349,15.6549839,GAS,CNG,1.699,2022-03-02 17:43
+1354712,OMV - Frauenhofen Wiener Straße 6,Wiener Strasse 6,Frauenhofen,3580,48.66569,15.63271,GAS,CNG,1.699,2022-03-02 17:43
+1354753,OMV - Wiener Neudorf IZ NÖ Süd Straße 4 Objekt 9,IZ NOe Sued Strasse 4 Objekt 9,Wiener Neudorf,2351,48.0776,16.3233,GAS,CNG,1.699,2022-03-02 17:43
+1354778,OMV - Wiener Neustadt Wiener Straße 126,Wiener Strasse 126,Wiener Neustadt,2700,47.84322,16.24631,GAS,CNG,1.699,2022-03-02 17:43
+1354782,OMV - Loosdorf Gewerbestraße 8,Gewerbestrasse 8,Loosdorf,3382,48.19,15.409,GAS,CNG,1.699,2022-03-02 17:43
+1354826,OMV - Sankt Pölten Mariazeller Straße 95,Mariazeller Strasse 95,Sankt Poelten,3100,48.18769,15.61753,GAS,CNG,1.699,2022-03-02 17:43
+248020,eni,Braitnerstrasse 62a,Baden,2500,48.001929,16.241614,GAS,CNG,1.089,2022-03-02 17:43
+247819,eni,Feldstrasse 44,Brunn/Geb.,2345,48.122997,16.293216,GAS,CNG,1.098,2022-03-02 17:43
+248017,eni,Oberegging 54,Bergland,3254,48.158477,15.111832,GAS,CNG,1.098,2022-03-02 17:43
+1469766,EVM - Biomethan Tankstelle,Energiestraße 9,Margarethen am Moos,2433,48.047635,16.605493,GAS,CNG,1.15,2022-03-02 17:43
+33343,Eni Tankstelle,Bundesstrasse 130,Bisamberg,2102,48.332867,16.345122,GAS,CNG,1.299,2022-03-02 17:43
+33363,Shell Tankstelle,Reichsstrasse 14,Poechlarn,3380,48.198073,15.222101,GAS,CNG,1.299,2022-03-02 17:43
+33426,ENI Tankstelle,Lanzendorfer Strasse GST 471/1,Achau,2481,48.0907,16.4113,GAS,CNG,1.299,2022-03-02 17:43
+391,OMV - Strasshof Hauptstraße 119,Hauptstrasse 119,Strasshof,2231,48.31458,16.6256,GAS,CNG,1.699,2022-03-02 17:43
+33596,AVIA ,Keltenstraße 2,St. Pölten-Ratzersdorf,3100,48.2279934,15.6768304,GAS,CNG,1.699,2022-03-02 17:43
+33598,AVIA,Franz Eigl-Str. 7,Zwettl,3910,48.6028473,15.1854858,GAS,CNG,1.699,2022-03-02 17:43
+33600,AVIA,Prof.Krejci-Graf-Str.2,Gmünd,3950,48.7608669,14.9905661,GAS,CNG,1.699,2022-03-02 17:43
+33609,AVIA,Gewerbeparkstraße 1,Krems,3500,48.4052349,15.6549839,GAS,CNG,1.699,2022-03-02 17:43
+1354712,OMV - Frauenhofen Wiener Straße 6,Wiener Strasse 6,Frauenhofen,3580,48.66569,15.63271,GAS,CNG,1.699,2022-03-02 17:43
+1354753,OMV - Wiener Neudorf IZ NÖ Süd Straße 4 Objekt 9,IZ NOe Sued Strasse 4 Objekt 9,Wiener Neudorf,2351,48.0776,16.3233,GAS,CNG,1.699,2022-03-02 17:43
+1354778,OMV - Wiener Neustadt Wiener Straße 126,Wiener Strasse 126,Wiener Neustadt,2700,47.84322,16.24631,GAS,CNG,1.699,2022-03-02 17:43
+1354782,OMV - Loosdorf Gewerbestraße 8,Gewerbestrasse 8,Loosdorf,3382,48.19,15.409,GAS,CNG,1.699,2022-03-02 17:43
+1354826,OMV - Sankt Pölten Mariazeller Straße 95,Mariazeller Strasse 95,Sankt Poelten,3100,48.18769,15.61753,GAS,CNG,1.699,2022-03-02 17:43
+248020,eni,Braitnerstrasse 62a,Baden,2500,48.001929,16.241614,GAS,CNG,1.089,2022-03-02 17:43
+247819,eni,Feldstrasse 44,Brunn/Geb.,2345,48.122997,16.293216,GAS,CNG,1.098,2022-03-02 17:43
+248017,eni,Oberegging 54,Bergland,3254,48.158477,15.111832,GAS,CNG,1.098,2022-03-02 17:43
+1469766,EVM - Biomethan Tankstelle,Energiestraße 9,Margarethen am Moos,2433,48.047635,16.605493,GAS,CNG,1.15,2022-03-02 17:43
+33343,Eni Tankstelle,Bundesstrasse 130,Bisamberg,2102,48.332867,16.345122,GAS,CNG,1.299,2022-03-02 17:43
+33363,Shell Tankstelle,Reichsstrasse 14,Poechlarn,3380,48.198073,15.222101,GAS,CNG,1.299,2022-03-02 17:43
+33426,ENI Tankstelle,Lanzendorfer Strasse GST 471/1,Achau,2481,48.0907,16.4113,GAS,CNG,1.299,2022-03-02 17:43
+391,OMV - Strasshof Hauptstraße 119,Hauptstrasse 119,Strasshof,2231,48.31458,16.6256,GAS,CNG,1.699,2022-03-02 17:43
+33596,AVIA ,Keltenstraße 2,St. Pölten-Ratzersdorf,3100,48.2279934,15.6768304,GAS,CNG,1.699,2022-03-02 17:43
+33598,AVIA,Franz Eigl-Str. 7,Zwettl,3910,48.6028473,15.1854858,GAS,CNG,1.699,2022-03-02 17:43
+33600,AVIA,Prof.Krejci-Graf-Str.2,Gmünd,3950,48.7608669,14.9905661,GAS,CNG,1.699,2022-03-02 17:43
+33609,AVIA,Gewerbeparkstraße 1,Krems,3500,48.4052349,15.6549839,GAS,CNG,1.699,2022-03-02 17:43
+1354712,OMV - Frauenhofen Wiener Straße 6,Wiener Strasse 6,Frauenhofen,3580,48.66569,15.63271,GAS,CNG,1.699,2022-03-02 17:43
+1354753,OMV - Wiener Neudorf IZ NÖ Süd Straße 4 Objekt 9,IZ NOe Sued Strasse 4 Objekt 9,Wiener Neudorf,2351,48.0776,16.3233,GAS,CNG,1.699,2022-03-02 17:43
+1354778,OMV - Wiener Neustadt Wiener Straße 126,Wiener Strasse 126,Wiener Neustadt,2700,47.84322,16.24631,GAS,CNG,1.699,2022-03-02 17:43
+1354782,OMV - Loosdorf Gewerbestraße 8,Gewerbestrasse 8,Loosdorf,3382,48.19,15.409,GAS,CNG,1.699,2022-03-02 17:43
+1354826,OMV - Sankt Pölten Mariazeller Straße 95,Mariazeller Strasse 95,Sankt Poelten,3100,48.18769,15.61753,GAS,CNG,1.699,2022-03-02 17:43
+248020,eni,Braitnerstrasse 62a,Baden,2500,48.001929,16.241614,GAS,CNG,1.089,2022-03-02 17:43
+247819,eni,Feldstrasse 44,Brunn/Geb.,2345,48.122997,16.293216,GAS,CNG,1.098,2022-03-02 17:43
+248017,eni,Oberegging 54,Bergland,3254,48.158477,15.111832,GAS,CNG,1.098,2022-03-02 17:43
+1469766,EVM - Biomethan Tankstelle,Energiestraße 9,Margarethen am Moos,2433,48.047635,16.605493,GAS,CNG,1.15,2022-03-02 17:43
+33343,Eni Tankstelle,Bundesstrasse 130,Bisamberg,2102,48.332867,16.345122,GAS,CNG,1.299,2022-03-02 17:43
+33363,Shell Tankstelle,Reichsstrasse 14,Poechlarn,3380,48.198073,15.222101,GAS,CNG,1.299,2022-03-02 17:43
+33426,ENI Tankstelle,Lanzendorfer Strasse GST 471/1,Achau,2481,48.0907,16.4113,GAS,CNG,1.299,2022-03-02 17:43
+391,OMV - Strasshof Hauptstraße 119,Hauptstrasse 119,Strasshof,2231,48.31458,16.6256,GAS,CNG,1.699,2022-03-02 17:43
+33596,AVIA ,Keltenstraße 2,St. Pölten-Ratzersdorf,3100,48.2279934,15.6768304,GAS,CNG,1.699,2022-03-02 17:43
+33598,AVIA,Franz Eigl-Str. 7,Zwettl,3910,48.6028473,15.1854858,GAS,CNG,1.699,2022-03-02 17:43
+33600,AVIA,Prof.Krejci-Graf-Str.2,Gmünd,3950,48.7608669,14.9905661,GAS,CNG,1.699,2022-03-02 17:43
+33609,AVIA,Gewerbeparkstraße 1,Krems,3500,48.4052349,15.6549839,GAS,CNG,1.699,2022-03-02 17:43
+1354712,OMV - Frauenhofen Wiener Straße 6,Wiener Strasse 6,Frauenhofen,3580,48.66569,15.63271,GAS,CNG,1.699,2022-03-02 17:43
+1354753,OMV - Wiener Neudorf IZ NÖ Süd Straße 4 Objekt 9,IZ NOe Sued Strasse 4 Objekt 9,Wiener Neudorf,2351,48.0776,16.3233,GAS,CNG,1.699,2022-03-02 17:43
+1354778,OMV - Wiener Neustadt Wiener Straße 126,Wiener Strasse 126,Wiener Neustadt,2700,47.84322,16.24631,GAS,CNG,1.699,2022-03-02 17:43
+1354782,OMV - Loosdorf Gewerbestraße 8,Gewerbestrasse 8,Loosdorf,3382,48.19,15.409,GAS,CNG,1.699,2022-03-02 17:43
+1354826,OMV - Sankt Pölten Mariazeller Straße 95,Mariazeller Strasse 95,Sankt Poelten,3100,48.18769,15.61753,GAS,CNG,1.699,2022-03-02 17:43
+248020,eni,Braitnerstrasse 62a,Baden,2500,48.001929,16.241614,GAS,CNG,1.089,2022-03-02 17:43
+247819,eni,Feldstrasse 44,Brunn/Geb.,2345,48.122997,16.293216,GAS,CNG,1.098,2022-03-02 17:43
+248017,eni,Oberegging 54,Bergland,3254,48.158477,15.111832,GAS,CNG,1.098,2022-03-02 17:43
+1469766,EVM - Biomethan Tankstelle,Energiestraße 9,Margarethen am Moos,2433,48.047635,16.605493,GAS,CNG,1.15,2022-03-02 17:43
+33343,Eni Tankstelle,Bundesstrasse 130,Bisamberg,2102,48.332867,16.345122,GAS,CNG,1.299,2022-03-02 17:43
+33363,Shell Tankstelle,Reichsstrasse 14,Poechlarn,3380,48.198073,15.222101,GAS,CNG,1.299,2022-03-02 17:43
+33426,ENI Tankstelle,Lanzendorfer Strasse GST 471/1,Achau,2481,48.0907,16.4113,GAS,CNG,1.299,2022-03-02 17:43
+391,OMV - Strasshof Hauptstraße 119,Hauptstrasse 119,Strasshof,2231,48.31458,16.6256,GAS,CNG,1.699,2022-03-02 17:43
+33596,AVIA ,Keltenstraße 2,St. Pölten-Ratzersdorf,3100,48.2279934,15.6768304,GAS,CNG,1.699,2022-03-02 17:43
+33598,AVIA,Franz Eigl-Str. 7,Zwettl,3910,48.6028473,15.1854858,GAS,CNG,1.699,2022-03-02 17:43
+33600,AVIA,Prof.Krejci-Graf-Str.2,Gmünd,3950,48.7608669,14.9905661,GAS,CNG,1.699,2022-03-02 17:43
+33609,AVIA,Gewerbeparkstraße 1,Krems,3500,48.4052349,15.6549839,GAS,CNG,1.699,2022-03-02 17:43
+1354712,OMV - Frauenhofen Wiener Straße 6,Wiener Strasse 6,Frauenhofen,3580,48.66569,15.63271,GAS,CNG,1.699,2022-03-02 17:43
+1354753,OMV - Wiener Neudorf IZ NÖ Süd Straße 4 Objekt 9,IZ NOe Sued Strasse 4 Objekt 9,Wiener Neudorf,2351,48.0776,16.3233,GAS,CNG,1.699,2022-03-02 17:43
+1354778,OMV - Wiener Neustadt Wiener Straße 126,Wiener Strasse 126,Wiener Neustadt,2700,47.84322,16.24631,GAS,CNG,1.699,2022-03-02 17:43
+1354782,OMV - Loosdorf Gewerbestraße 8,Gewerbestrasse 8,Loosdorf,3382,48.19,15.409,GAS,CNG,1.699,2022-03-02 17:43
+1354826,OMV - Sankt Pölten Mariazeller Straße 95,Mariazeller Strasse 95,Sankt Poelten,3100,48.18769,15.61753,GAS,CNG,1.699,2022-03-02 17:43
+248020,eni,Braitnerstrasse 62a,Baden,2500,48.001929,16.241614,GAS,CNG,1.089,2022-03-02 17:43
+247819,eni,Feldstrasse 44,Brunn/Geb.,2345,48.122997,16.293216,GAS,CNG,1.098,2022-03-02 17:43
+248017,eni,Oberegging 54,Bergland,3254,48.158477,15.111832,GAS,CNG,1.098,2022-03-02 17:43
+1469766,EVM - Biomethan Tankstelle,Energiestraße 9,Margarethen am Moos,2433,48.047635,16.605493,GAS,CNG,1.15,2022-03-02 17:43
+33343,Eni Tankstelle,Bundesstrasse 130,Bisamberg,2102,48.332867,16.345122,GAS,CNG,1.299,2022-03-02 17:43
+33363,Shell Tankstelle,Reichsstrasse 14,Poechlarn,3380,48.198073,15.222101,GAS,CNG,1.299,2022-03-02 17:43
+33426,ENI Tankstelle,Lanzendorfer Strasse GST 471/1,Achau,2481,48.0907,16.4113,GAS,CNG,1.299,2022-03-02 17:43
+391,OMV - Strasshof Hauptstraße 119,Hauptstrasse 119,Strasshof,2231,48.31458,16.6256,GAS,CNG,1.699,2022-03-02 17:43
+33596,AVIA ,Keltenstraße 2,St. Pölten-Ratzersdorf,3100,48.2279934,15.6768304,GAS,CNG,1.699,2022-03-02 17:43
+33598,AVIA,Franz Eigl-Str. 7,Zwettl,3910,48.6028473,15.1854858,GAS,CNG,1.699,2022-03-02 17:43
+33600,AVIA,Prof.Krejci-Graf-Str.2,Gmünd,3950,48.7608669,14.9905661,GAS,CNG,1.699,2022-03-02 17:43
+33609,AVIA,Gewerbeparkstraße 1,Krems,3500,48.4052349,15.6549839,GAS,CNG,1.699,2022-03-02 17:43
+1354712,OMV - Frauenhofen Wiener Straße 6,Wiener Strasse 6,Frauenhofen,3580,48.66569,15.63271,GAS,CNG,1.699,2022-03-02 17:43
+1354753,OMV - Wiener Neudorf IZ NÖ Süd Straße 4 Objekt 9,IZ NOe Sued Strasse 4 Objekt 9,Wiener Neudorf,2351,48.0776,16.3233,GAS,CNG,1.699,2022-03-02 17:43
+1354778,OMV - Wiener Neustadt Wiener Straße 126,Wiener Strasse 126,Wiener Neustadt,2700,47.84322,16.24631,GAS,CNG,1.699,2022-03-02 17:43
+1354782,OMV - Loosdorf Gewerbestraße 8,Gewerbestrasse 8,Loosdorf,3382,48.19,15.409,GAS,CNG,1.699,2022-03-02 17:43
+1354826,OMV - Sankt Pölten Mariazeller Straße 95,Mariazeller Strasse 95,Sankt Poelten,3100,48.18769,15.61753,GAS,CNG,1.699,2022-03-02 17:43
+248020,eni,Braitnerstrasse 62a,Baden,2500,48.001929,16.241614,GAS,CNG,1.089,2022-03-02 17:43
+247819,eni,Feldstrasse 44,Brunn/Geb.,2345,48.122997,16.293216,GAS,CNG,1.098,2022-03-02 17:43
+248017,eni,Oberegging 54,Bergland,3254,48.158477,15.111832,GAS,CNG,1.098,2022-03-02 17:43
+1469766,EVM - Biomethan Tankstelle,Energiestraße 9,Margarethen am Moos,2433,48.047635,16.605493,GAS,CNG,1.15,2022-03-02 17:43
+33343,Eni Tankstelle,Bundesstrasse 130,Bisamberg,2102,48.332867,16.345122,GAS,CNG,1.299,2022-03-02 17:43
+33363,Shell Tankstelle,Reichsstrasse 14,Poechlarn,3380,48.198073,15.222101,GAS,CNG,1.299,2022-03-02 17:43
+33426,ENI Tankstelle,Lanzendorfer Strasse GST 471/1,Achau,2481,48.0907,16.4113,GAS,CNG,1.299,2022-03-02 17:43
+391,OMV - Strasshof Hauptstraße 119,Hauptstrasse 119,Strasshof,2231,48.31458,16.6256,GAS,CNG,1.699,2022-03-02 17:43
+33596,AVIA ,Keltenstraße 2,St. Pölten-Ratzersdorf,3100,48.2279934,15.6768304,GAS,CNG,1.699,2022-03-02 17:43
+33598,AVIA,Franz Eigl-Str. 7,Zwettl,3910,48.6028473,15.1854858,GAS,CNG,1.699,2022-03-02 17:43
+33600,AVIA,Prof.Krejci-Graf-Str.2,Gmünd,3950,48.7608669,14.9905661,GAS,CNG,1.699,2022-03-02 17:43
+33609,AVIA,Gewerbeparkstraße 1,Krems,3500,48.4052349,15.6549839,GAS,CNG,1.699,2022-03-02 17:43
+1354712,OMV - Frauenhofen Wiener Straße 6,Wiener Strasse 6,Frauenhofen,3580,48.66569,15.63271,GAS,CNG,1.699,2022-03-02 17:43
+1354753,OMV - Wiener Neudorf IZ NÖ Süd Straße 4 Objekt 9,IZ NOe Sued Strasse 4 Objekt 9,Wiener Neudorf,2351,48.0776,16.3233,GAS,CNG,1.699,2022-03-02 17:43
+1354778,OMV - Wiener Neustadt Wiener Straße 126,Wiener Strasse 126,Wiener Neustadt,2700,47.84322,16.24631,GAS,CNG,1.699,2022-03-02 17:43
+1354782,OMV - Loosdorf Gewerbestraße 8,Gewerbestrasse 8,Loosdorf,3382,48.19,15.409,GAS,CNG,1.699,2022-03-02 17:43
+1354826,OMV - Sankt Pölten Mariazeller Straße 95,Mariazeller Strasse 95,Sankt Poelten,3100,48.18769,15.61753,GAS,CNG,1.699,2022-03-02 17:43
+248020,eni,Braitnerstrasse 62a,Baden,2500,48.001929,16.241614,GAS,CNG,1.089,2022-03-02 17:43
+247819,eni,Feldstrasse 44,Brunn/Geb.,2345,48.122997,16.293216,GAS,CNG,1.098,2022-03-02 17:43
+248017,eni,Oberegging 54,Bergland,3254,48.158477,15.111832,GAS,CNG,1.098,2022-03-02 17:43
+1469766,EVM - Biomethan Tankstelle,Energiestraße 9,Margarethen am Moos,2433,48.047635,16.605493,GAS,CNG,1.15,2022-03-02 17:43
+33343,Eni Tankstelle,Bundesstrasse 130,Bisamberg,2102,48.332867,16.345122,GAS,CNG,1.299,2022-03-02 17:43
+33363,Shell Tankstelle,Reichsstrasse 14,Poechlarn,3380,48.198073,15.222101,GAS,CNG,1.299,2022-03-02 17:43
+33426,ENI Tankstelle,Lanzendorfer Strasse GST 471/1,Achau,2481,48.0907,16.4113,GAS,CNG,1.299,2022-03-02 17:43
+391,OMV - Strasshof Hauptstraße 119,Hauptstrasse 119,Strasshof,2231,48.31458,16.6256,GAS,CNG,1.699,2022-03-02 17:43
+33596,AVIA ,Keltenstraße 2,St. Pölten-Ratzersdorf,3100,48.2279934,15.6768304,GAS,CNG,1.699,2022-03-02 17:43
+33598,AVIA,Franz Eigl-Str. 7,Zwettl,3910,48.6028473,15.1854858,GAS,CNG,1.699,2022-03-02 17:43
+33600,AVIA,Prof.Krejci-Graf-Str.2,Gmünd,3950,48.7608669,14.9905661,GAS,CNG,1.699,2022-03-02 17:43
+33609,AVIA,Gewerbeparkstraße 1,Krems,3500,48.4052349,15.6549839,GAS,CNG,1.699,2022-03-02 17:43
+1354712,OMV - Frauenhofen Wiener Straße 6,Wiener Strasse 6,Frauenhofen,3580,48.66569,15.63271,GAS,CNG,1.699,2022-03-02 17:43
+1354753,OMV - Wiener Neudorf IZ NÖ Süd Straße 4 Objekt 9,IZ NOe Sued Strasse 4 Objekt 9,Wiener Neudorf,2351,48.0776,16.3233,GAS,CNG,1.699,2022-03-02 17:43
+1354778,OMV - Wiener Neustadt Wiener Straße 126,Wiener Strasse 126,Wiener Neustadt,2700,47.84322,16.24631,GAS,CNG,1.699,2022-03-02 17:43
+1354782,OMV - Loosdorf Gewerbestraße 8,Gewerbestrasse 8,Loosdorf,3382,48.19,15.409,GAS,CNG,1.699,2022-03-02 17:43
+1354826,OMV - Sankt Pölten Mariazeller Straße 95,Mariazeller Strasse 95,Sankt Poelten,3100,48.18769,15.61753,GAS,CNG,1.699,2022-03-02 17:43
+248020,eni,Braitnerstrasse 62a,Baden,2500,48.001929,16.241614,GAS,CNG,1.089,2022-03-02 17:43
+247819,eni,Feldstrasse 44,Brunn/Geb.,2345,48.122997,16.293216,GAS,CNG,1.098,2022-03-02 17:43
+248017,eni,Oberegging 54,Bergland,3254,48.158477,15.111832,GAS,CNG,1.098,2022-03-02 17:43
+1469766,EVM - Biomethan Tankstelle,Energiestraße 9,Margarethen am Moos,2433,48.047635,16.605493,GAS,CNG,1.15,2022-03-02 17:43
+33343,Eni Tankstelle,Bundesstrasse 130,Bisamberg,2102,48.332867,16.345122,GAS,CNG,1.299,2022-03-02 17:43
+33363,Shell Tankstelle,Reichsstrasse 14,Poechlarn,3380,48.198073,15.222101,GAS,CNG,1.299,2022-03-02 17:43
+33426,ENI Tankstelle,Lanzendorfer Strasse GST 471/1,Achau,2481,48.0907,16.4113,GAS,CNG,1.299,2022-03-02 17:43
+391,OMV - Strasshof Hauptstraße 119,Hauptstrasse 119,Strasshof,2231,48.31458,16.6256,GAS,CNG,1.699,2022-03-02 17:43
+33596,AVIA ,Keltenstraße 2,St. Pölten-Ratzersdorf,3100,48.2279934,15.6768304,GAS,CNG,1.699,2022-03-02 17:43
+33598,AVIA,Franz Eigl-Str. 7,Zwettl,3910,48.6028473,15.1854858,GAS,CNG,1.699,2022-03-02 17:43
+33600,AVIA,Prof.Krejci-Graf-Str.2,Gmünd,3950,48.7608669,14.9905661,GAS,CNG,1.699,2022-03-02 17:43
+33609,AVIA,Gewerbeparkstraße 1,Krems,3500,48.4052349,15.6549839,GAS,CNG,1.699,2022-03-02 17:43
+1354712,OMV - Frauenhofen Wiener Straße 6,Wiener Strasse 6,Frauenhofen,3580,48.66569,15.63271,GAS,CNG,1.699,2022-03-02 17:43
+1354753,OMV - Wiener Neudorf IZ NÖ Süd Straße 4 Objekt 9,IZ NOe Sued Strasse 4 Objekt 9,Wiener Neudorf,2351,48.0776,16.3233,GAS,CNG,1.699,2022-03-02 17:43
+1354778,OMV - Wiener Neustadt Wiener Straße 126,Wiener Strasse 126,Wiener Neustadt,2700,47.84322,16.24631,GAS,CNG,1.699,2022-03-02 17:43
+1354782,OMV - Loosdorf Gewerbestraße 8,Gewerbestrasse 8,Loosdorf,3382,48.19,15.409,GAS,CNG,1.699,2022-03-02 17:43
+1354826,OMV - Sankt Pölten Mariazeller Straße 95,Mariazeller Strasse 95,Sankt Poelten,3100,48.18769,15.61753,GAS,CNG,1.699,2022-03-02 17:43
+248020,eni,Braitnerstrasse 62a,Baden,2500,48.001929,16.241614,GAS,CNG,1.089,2022-03-02 17:43
+247819,eni,Feldstrasse 44,Brunn/Geb.,2345,48.122997,16.293216,GAS,CNG,1.098,2022-03-02 17:43
+248017,eni,Oberegging 54,Bergland,3254,48.158477,15.111832,GAS,CNG,1.098,2022-03-02 17:43
+1469766,EVM - Biomethan Tankstelle,Energiestraße 9,Margarethen am Moos,2433,48.047635,16.605493,GAS,CNG,1.15,2022-03-02 17:43
+33343,Eni Tankstelle,Bundesstrasse 130,Bisamberg,2102,48.332867,16.345122,GAS,CNG,1.299,2022-03-02 17:43
+33363,Shell Tankstelle,Reichsstrasse 14,Poechlarn,3380,48.198073,15.222101,GAS,CNG,1.299,2022-03-02 17:43
+33426,ENI Tankstelle,Lanzendorfer Strasse GST 471/1,Achau,2481,48.0907,16.4113,GAS,CNG,1.299,2022-03-02 17:43
+391,OMV - Strasshof Hauptstraße 119,Hauptstrasse 119,Strasshof,2231,48.31458,16.6256,GAS,CNG,1.699,2022-03-02 17:43
+33596,AVIA ,Keltenstraße 2,St. Pölten-Ratzersdorf,3100,48.2279934,15.6768304,GAS,CNG,1.699,2022-03-02 17:43
+33598,AVIA,Franz Eigl-Str. 7,Zwettl,3910,48.6028473,15.1854858,GAS,CNG,1.699,2022-03-02 17:43
+33600,AVIA,Prof.Krejci-Graf-Str.2,Gmünd,3950,48.7608669,14.9905661,GAS,CNG,1.699,2022-03-02 17:43
+33609,AVIA,Gewerbeparkstraße 1,Krems,3500,48.4052349,15.6549839,GAS,CNG,1.699,2022-03-02 17:43
+1354712,OMV - Frauenhofen Wiener Straße 6,Wiener Strasse 6,Frauenhofen,3580,48.66569,15.63271,GAS,CNG,1.699,2022-03-02 17:43
+1354753,OMV - Wiener Neudorf IZ NÖ Süd Straße 4 Objekt 9,IZ NOe Sued Strasse 4 Objekt 9,Wiener Neudorf,2351,48.0776,16.3233,GAS,CNG,1.699,2022-03-02 17:43
+1354778,OMV - Wiener Neustadt Wiener Straße 126,Wiener Strasse 126,Wiener Neustadt,2700,47.84322,16.24631,GAS,CNG,1.699,2022-03-02 17:43
+1354782,OMV - Loosdorf Gewerbestraße 8,Gewerbestrasse 8,Loosdorf,3382,48.19,15.409,GAS,CNG,1.699,2022-03-02 17:43
+1354826,OMV - Sankt Pölten Mariazeller Straße 95,Mariazeller Strasse 95,Sankt Poelten,3100,48.18769,15.61753,GAS,CNG,1.699,2022-03-02 17:43
+248020,eni,Braitnerstrasse 62a,Baden,2500,48.001929,16.241614,GAS,CNG,1.089,2022-03-02 17:43
+247819,eni,Feldstrasse 44,Brunn/Geb.,2345,48.122997,16.293216,GAS,CNG,1.098,2022-03-02 17:43
+248017,eni,Oberegging 54,Bergland,3254,48.158477,15.111832,GAS,CNG,1.098,2022-03-02 17:43
+1469766,EVM - Biomethan Tankstelle,Energiestraße 9,Margarethen am Moos,2433,48.047635,16.605493,GAS,CNG,1.15,2022-03-02 17:43
+33343,Eni Tankstelle,Bundesstrasse 130,Bisamberg,2102,48.332867,16.345122,GAS,CNG,1.299,2022-03-02 17:43
+33363,Shell Tankstelle,Reichsstrasse 14,Poechlarn,3380,48.198073,15.222101,GAS,CNG,1.299,2022-03-02 17:43
+33426,ENI Tankstelle,Lanzendorfer Strasse GST 471/1,Achau,2481,48.0907,16.4113,GAS,CNG,1.299,2022-03-02 17:43
+391,OMV - Strasshof Hauptstraße 119,Hauptstrasse 119,Strasshof,2231,48.31458,16.6256,GAS,CNG,1.699,2022-03-02 17:43
+33596,AVIA ,Keltenstraße 2,St. Pölten-Ratzersdorf,3100,48.2279934,15.6768304,GAS,CNG,1.699,2022-03-02 17:43
+33598,AVIA,Franz Eigl-Str. 7,Zwettl,3910,48.6028473,15.1854858,GAS,CNG,1.699,2022-03-02 17:43
+33600,AVIA,Prof.Krejci-Graf-Str.2,Gmünd,3950,48.7608669,14.9905661,GAS,CNG,1.699,2022-03-02 17:43
+33609,AVIA,Gewerbeparkstraße 1,Krems,3500,48.4052349,15.6549839,GAS,CNG,1.699,2022-03-02 17:43
+1354712,OMV - Frauenhofen Wiener Straße 6,Wiener Strasse 6,Frauenhofen,3580,48.66569,15.63271,GAS,CNG,1.699,2022-03-02 17:43
+1354753,OMV - Wiener Neudorf IZ NÖ Süd Straße 4 Objekt 9,IZ NOe Sued Strasse 4 Objekt 9,Wiener Neudorf,2351,48.0776,16.3233,GAS,CNG,1.699,2022-03-02 17:43
+1354778,OMV - Wiener Neustadt Wiener Straße 126,Wiener Strasse 126,Wiener Neustadt,2700,47.84322,16.24631,GAS,CNG,1.699,2022-03-02 17:43
+1354782,OMV - Loosdorf Gewerbestraße 8,Gewerbestrasse 8,Loosdorf,3382,48.19,15.409,GAS,CNG,1.699,2022-03-02 17:43
+1354826,OMV - Sankt Pölten Mariazeller Straße 95,Mariazeller Strasse 95,Sankt Poelten,3100,48.18769,15.61753,GAS,CNG,1.699,2022-03-02 17:43
+248020,eni,Braitnerstrasse 62a,Baden,2500,48.001929,16.241614,GAS,CNG,1.089,2022-03-02 17:43
+247819,eni,Feldstrasse 44,Brunn/Geb.,2345,48.122997,16.293216,GAS,CNG,1.098,2022-03-02 17:43
+248017,eni,Oberegging 54,Bergland,3254,48.158477,15.111832,GAS,CNG,1.098,2022-03-02 17:43
+1469766,EVM - Biomethan Tankstelle,Energiestraße 9,Margarethen am Moos,2433,48.047635,16.605493,GAS,CNG,1.15,2022-03-02 17:43
+33343,Eni Tankstelle,Bundesstrasse 130,Bisamberg,2102,48.332867,16.345122,GAS,CNG,1.299,2022-03-02 17:43
+33363,Shell Tankstelle,Reichsstrasse 14,Poechlarn,3380,48.198073,15.222101,GAS,CNG,1.299,2022-03-02 17:43
+33426,ENI Tankstelle,Lanzendorfer Strasse GST 471/1,Achau,2481,48.0907,16.4113,GAS,CNG,1.299,2022-03-02 17:43
+391,OMV - Strasshof Hauptstraße 119,Hauptstrasse 119,Strasshof,2231,48.31458,16.6256,GAS,CNG,1.699,2022-03-02 17:43
+33596,AVIA ,Keltenstraße 2,St. Pölten-Ratzersdorf,3100,48.2279934,15.6768304,GAS,CNG,1.699,2022-03-02 17:43
+33598,AVIA,Franz Eigl-Str. 7,Zwettl,3910,48.6028473,15.1854858,GAS,CNG,1.699,2022-03-02 17:43
+33600,AVIA,Prof.Krejci-Graf-Str.2,Gmünd,3950,48.7608669,14.9905661,GAS,CNG,1.699,2022-03-02 17:43
+33609,AVIA,Gewerbeparkstraße 1,Krems,3500,48.4052349,15.6549839,GAS,CNG,1.699,2022-03-02 17:43
+1354712,OMV - Frauenhofen Wiener Straße 6,Wiener Strasse 6,Frauenhofen,3580,48.66569,15.63271,GAS,CNG,1.699,2022-03-02 17:43
+1354753,OMV - Wiener Neudorf IZ NÖ Süd Straße 4 Objekt 9,IZ NOe Sued Strasse 4 Objekt 9,Wiener Neudorf,2351,48.0776,16.3233,GAS,CNG,1.699,2022-03-02 17:43
+1354778,OMV - Wiener Neustadt Wiener Straße 126,Wiener Strasse 126,Wiener Neustadt,2700,47.84322,16.24631,GAS,CNG,1.699,2022-03-02 17:43
+1354782,OMV - Loosdorf Gewerbestraße 8,Gewerbestrasse 8,Loosdorf,3382,48.19,15.409,GAS,CNG,1.699,2022-03-02 17:43
+1354826,OMV - Sankt Pölten Mariazeller Straße 95,Mariazeller Strasse 95,Sankt Poelten,3100,48.18769,15.61753,GAS,CNG,1.699,2022-03-02 17:43
+248020,eni,Braitnerstrasse 62a,Baden,2500,48.001929,16.241614,GAS,CNG,1.089,2022-03-02 17:43
+247819,eni,Feldstrasse 44,Brunn/Geb.,2345,48.122997,16.293216,GAS,CNG,1.098,2022-03-02 17:43
+248017,eni,Oberegging 54,Bergland,3254,48.158477,15.111832,GAS,CNG,1.098,2022-03-02 17:43
+1469766,EVM - Biomethan Tankstelle,Energiestraße 9,Margarethen am Moos,2433,48.047635,16.605493,GAS,CNG,1.15,2022-03-02 17:43
+33343,Eni Tankstelle,Bundesstrasse 130,Bisamberg,2102,48.332867,16.345122,GAS,CNG,1.299,2022-03-02 17:43
+33363,Shell Tankstelle,Reichsstrasse 14,Poechlarn,3380,48.198073,15.222101,GAS,CNG,1.299,2022-03-02 17:43
+33426,ENI Tankstelle,Lanzendorfer Strasse GST 471/1,Achau,2481,48.0907,16.4113,GAS,CNG,1.299,2022-03-02 17:43
+391,OMV - Strasshof Hauptstraße 119,Hauptstrasse 119,Strasshof,2231,48.31458,16.6256,GAS,CNG,1.699,2022-03-02 17:43
+33596,AVIA ,Keltenstraße 2,St. Pölten-Ratzersdorf,3100,48.2279934,15.6768304,GAS,CNG,1.699,2022-03-02 17:43
+33598,AVIA,Franz Eigl-Str. 7,Zwettl,3910,48.6028473,15.1854858,GAS,CNG,1.699,2022-03-02 17:43
+33600,AVIA,Prof.Krejci-Graf-Str.2,Gmünd,3950,48.7608669,14.9905661,GAS,CNG,1.699,2022-03-02 17:43
+33609,AVIA,Gewerbeparkstraße 1,Krems,3500,48.4052349,15.6549839,GAS,CNG,1.699,2022-03-02 17:43
+1354712,OMV - Frauenhofen Wiener Straße 6,Wiener Strasse 6,Frauenhofen,3580,48.66569,15.63271,GAS,CNG,1.699,2022-03-02 17:43
+1354753,OMV - Wiener Neudorf IZ NÖ Süd Straße 4 Objekt 9,IZ NOe Sued Strasse 4 Objekt 9,Wiener Neudorf,2351,48.0776,16.3233,GAS,CNG,1.699,2022-03-02 17:43
+1354778,OMV - Wiener Neustadt Wiener Straße 126,Wiener Strasse 126,Wiener Neustadt,2700,47.84322,16.24631,GAS,CNG,1.699,2022-03-02 17:43
+1354782,OMV - Loosdorf Gewerbestraße 8,Gewerbestrasse 8,Loosdorf,3382,48.19,15.409,GAS,CNG,1.699,2022-03-02 17:43
+1354826,OMV - Sankt Pölten Mariazeller Straße 95,Mariazeller Strasse 95,Sankt Poelten,3100,48.18769,15.61753,GAS,CNG,1.699,2022-03-02 17:43
+248020,eni,Braitnerstrasse 62a,Baden,2500,48.001929,16.241614,GAS,CNG,1.089,2022-03-02 17:43
+247819,eni,Feldstrasse 44,Brunn/Geb.,2345,48.122997,16.293216,GAS,CNG,1.098,2022-03-02 17:43
+248017,eni,Oberegging 54,Bergland,3254,48.158477,15.111832,GAS,CNG,1.098,2022-03-02 17:43
+1469766,EVM - Biomethan Tankstelle,Energiestraße 9,Margarethen am Moos,2433,48.047635,16.605493,GAS,CNG,1.15,2022-03-02 17:43
+33343,Eni Tankstelle,Bundesstrasse 130,Bisamberg,2102,48.332867,16.345122,GAS,CNG,1.299,2022-03-02 17:43
+33363,Shell Tankstelle,Reichsstrasse 14,Poechlarn,3380,48.198073,15.222101,GAS,CNG,1.299,2022-03-02 17:43
+33426,ENI Tankstelle,Lanzendorfer Strasse GST 471/1,Achau,2481,48.0907,16.4113,GAS,CNG,1.299,2022-03-02 17:43
+391,OMV - Strasshof Hauptstraße 119,Hauptstrasse 119,Strasshof,2231,48.31458,16.6256,GAS,CNG,1.699,2022-03-02 17:43
+33596,AVIA ,Keltenstraße 2,St. Pölten-Ratzersdorf,3100,48.2279934,15.6768304,GAS,CNG,1.699,2022-03-02 17:43
+33598,AVIA,Franz Eigl-Str. 7,Zwettl,3910,48.6028473,15.1854858,GAS,CNG,1.699,2022-03-02 17:43
+33600,AVIA,Prof.Krejci-Graf-Str.2,Gmünd,3950,48.7608669,14.9905661,GAS,CNG,1.699,2022-03-02 17:43
+33609,AVIA,Gewerbeparkstraße 1,Krems,3500,48.4052349,15.6549839,GAS,CNG,1.699,2022-03-02 17:43
+1354712,OMV - Frauenhofen Wiener Straße 6,Wiener Strasse 6,Frauenhofen,3580,48.66569,15.63271,GAS,CNG,1.699,2022-03-02 17:43
+1354753,OMV - Wiener Neudorf IZ NÖ Süd Straße 4 Objekt 9,IZ NOe Sued Strasse 4 Objekt 9,Wiener Neudorf,2351,48.0776,16.3233,GAS,CNG,1.699,2022-03-02 17:43
+1354778,OMV - Wiener Neustadt Wiener Straße 126,Wiener Strasse 126,Wiener Neustadt,2700,47.84322,16.24631,GAS,CNG,1.699,2022-03-02 17:43
+1354782,OMV - Loosdorf Gewerbestraße 8,Gewerbestrasse 8,Loosdorf,3382,48.19,15.409,GAS,CNG,1.699,2022-03-02 17:43
+1354826,OMV - Sankt Pölten Mariazeller Straße 95,Mariazeller Strasse 95,Sankt Poelten,3100,48.18769,15.61753,GAS,CNG,1.699,2022-03-02 17:43
+248020,eni,Braitnerstrasse 62a,Baden,2500,48.001929,16.241614,GAS,CNG,1.089,2022-03-02 17:43
+247819,eni,Feldstrasse 44,Brunn/Geb.,2345,48.122997,16.293216,GAS,CNG,1.098,2022-03-02 17:43
+248017,eni,Oberegging 54,Bergland,3254,48.158477,15.111832,GAS,CNG,1.098,2022-03-02 17:43
+1469766,EVM - Biomethan Tankstelle,Energiestraße 9,Margarethen am Moos,2433,48.047635,16.605493,GAS,CNG,1.15,2022-03-02 17:43
+33343,Eni Tankstelle,Bundesstrasse 130,Bisamberg,2102,48.332867,16.345122,GAS,CNG,1.299,2022-03-02 17:43
+33363,Shell Tankstelle,Reichsstrasse 14,Poechlarn,3380,48.198073,15.222101,GAS,CNG,1.299,2022-03-02 17:43
+33426,ENI Tankstelle,Lanzendorfer Strasse GST 471/1,Achau,2481,48.0907,16.4113,GAS,CNG,1.299,2022-03-02 17:43
+391,OMV - Strasshof Hauptstraße 119,Hauptstrasse 119,Strasshof,2231,48.31458,16.6256,GAS,CNG,1.699,2022-03-02 17:43
+33596,AVIA ,Keltenstraße 2,St. Pölten-Ratzersdorf,3100,48.2279934,15.6768304,GAS,CNG,1.699,2022-03-02 17:43
+33598,AVIA,Franz Eigl-Str. 7,Zwettl,3910,48.6028473,15.1854858,GAS,CNG,1.699,2022-03-02 17:43
+33600,AVIA,Prof.Krejci-Graf-Str.2,Gmünd,3950,48.7608669,14.9905661,GAS,CNG,1.699,2022-03-02 17:43
+33609,AVIA,Gewerbeparkstraße 1,Krems,3500,48.4052349,15.6549839,GAS,CNG,1.699,2022-03-02 17:43
+1354712,OMV - Frauenhofen Wiener Straße 6,Wiener Strasse 6,Frauenhofen,3580,48.66569,15.63271,GAS,CNG,1.699,2022-03-02 17:43
+1354753,OMV - Wiener Neudorf IZ NÖ Süd Straße 4 Objekt 9,IZ NOe Sued Strasse 4 Objekt 9,Wiener Neudorf,2351,48.0776,16.3233,GAS,CNG,1.699,2022-03-02 17:43
+1354778,OMV - Wiener Neustadt Wiener Straße 126,Wiener Strasse 126,Wiener Neustadt,2700,47.84322,16.24631,GAS,CNG,1.699,2022-03-02 17:43
+1354782,OMV - Loosdorf Gewerbestraße 8,Gewerbestrasse 8,Loosdorf,3382,48.19,15.409,GAS,CNG,1.699,2022-03-02 17:43
+1354826,OMV - Sankt Pölten Mariazeller Straße 95,Mariazeller Strasse 95,Sankt Poelten,3100,48.18769,15.61753,GAS,CNG,1.699,2022-03-02 17:43
+248020,eni,Braitnerstrasse 62a,Baden,2500,48.001929,16.241614,GAS,CNG,1.089,2022-03-02 17:43
+247819,eni,Feldstrasse 44,Brunn/Geb.,2345,48.122997,16.293216,GAS,CNG,1.098,2022-03-02 17:43
+248017,eni,Oberegging 54,Bergland,3254,48.158477,15.111832,GAS,CNG,1.098,2022-03-02 17:43
+1469766,EVM - Biomethan Tankstelle,Energiestraße 9,Margarethen am Moos,2433,48.047635,16.605493,GAS,CNG,1.15,2022-03-02 17:43
+33343,Eni Tankstelle,Bundesstrasse 130,Bisamberg,2102,48.332867,16.345122,GAS,CNG,1.299,2022-03-02 17:43
+33363,Shell Tankstelle,Reichsstrasse 14,Poechlarn,3380,48.198073,15.222101,GAS,CNG,1.299,2022-03-02 17:43
+33426,ENI Tankstelle,Lanzendorfer Strasse GST 471/1,Achau,2481,48.0907,16.4113,GAS,CNG,1.299,2022-03-02 17:43
+391,OMV - Strasshof Hauptstraße 119,Hauptstrasse 119,Strasshof,2231,48.31458,16.6256,GAS,CNG,1.699,2022-03-02 17:43
+33596,AVIA ,Keltenstraße 2,St. Pölten-Ratzersdorf,3100,48.2279934,15.6768304,GAS,CNG,1.699,2022-03-02 17:43
+33598,AVIA,Franz Eigl-Str. 7,Zwettl,3910,48.6028473,15.1854858,GAS,CNG,1.699,2022-03-02 17:43
+33600,AVIA,Prof.Krejci-Graf-Str.2,Gmünd,3950,48.7608669,14.9905661,GAS,CNG,1.699,2022-03-02 17:43
+33609,AVIA,Gewerbeparkstraße 1,Krems,3500,48.4052349,15.6549839,GAS,CNG,1.699,2022-03-02 17:43
+1354712,OMV - Frauenhofen Wiener Straße 6,Wiener Strasse 6,Frauenhofen,3580,48.66569,15.63271,GAS,CNG,1.699,2022-03-02 17:43
+1354753,OMV - Wiener Neudorf IZ NÖ Süd Straße 4 Objekt 9,IZ NOe Sued Strasse 4 Objekt 9,Wiener Neudorf,2351,48.0776,16.3233,GAS,CNG,1.699,2022-03-02 17:43
+1354778,OMV - Wiener Neustadt Wiener Straße 126,Wiener Strasse 126,Wiener Neustadt,2700,47.84322,16.24631,GAS,CNG,1.699,2022-03-02 17:43
+1354782,OMV - Loosdorf Gewerbestraße 8,Gewerbestrasse 8,Loosdorf,3382,48.19,15.409,GAS,CNG,1.699,2022-03-02 17:43
+1354826,OMV - Sankt Pölten Mariazeller Straße 95,Mariazeller Strasse 95,Sankt Poelten,3100,48.18769,15.61753,GAS,CNG,1.699,2022-03-02 17:43
+248020,eni,Braitnerstrasse 62a,Baden,2500,48.001929,16.241614,GAS,CNG,1.089,2022-03-02 17:43
+247819,eni,Feldstrasse 44,Brunn/Geb.,2345,48.122997,16.293216,GAS,CNG,1.098,2022-03-02 17:43
+248017,eni,Oberegging 54,Bergland,3254,48.158477,15.111832,GAS,CNG,1.098,2022-03-02 17:43
+1469766,EVM - Biomethan Tankstelle,Energiestraße 9,Margarethen am Moos,2433,48.047635,16.605493,GAS,CNG,1.15,2022-03-02 17:43
+33343,Eni Tankstelle,Bundesstrasse 130,Bisamberg,2102,48.332867,16.345122,GAS,CNG,1.299,2022-03-02 17:43
+33363,Shell Tankstelle,Reichsstrasse 14,Poechlarn,3380,48.198073,15.222101,GAS,CNG,1.299,2022-03-02 17:43
+33426,ENI Tankstelle,Lanzendorfer Strasse GST 471/1,Achau,2481,48.0907,16.4113,GAS,CNG,1.299,2022-03-02 17:43
+391,OMV - Strasshof Hauptstraße 119,Hauptstrasse 119,Strasshof,2231,48.31458,16.6256,GAS,CNG,1.699,2022-03-02 17:43
+33596,AVIA ,Keltenstraße 2,St. Pölten-Ratzersdorf,3100,48.2279934,15.6768304,GAS,CNG,1.699,2022-03-02 17:43
+33598,AVIA,Franz Eigl-Str. 7,Zwettl,3910,48.6028473,15.1854858,GAS,CNG,1.699,2022-03-02 17:43
+33600,AVIA,Prof.Krejci-Graf-Str.2,Gmünd,3950,48.7608669,14.9905661,GAS,CNG,1.699,2022-03-02 17:43
+33609,AVIA,Gewerbeparkstraße 1,Krems,3500,48.4052349,15.6549839,GAS,CNG,1.699,2022-03-02 17:43
+1354712,OMV - Frauenhofen Wiener Straße 6,Wiener Strasse 6,Frauenhofen,3580,48.66569,15.63271,GAS,CNG,1.699,2022-03-02 17:43
+1354753,OMV - Wiener Neudorf IZ NÖ Süd Straße 4 Objekt 9,IZ NOe Sued Strasse 4 Objekt 9,Wiener Neudorf,2351,48.0776,16.3233,GAS,CNG,1.699,2022-03-02 17:43
+1354778,OMV - Wiener Neustadt Wiener Straße 126,Wiener Strasse 126,Wiener Neustadt,2700,47.84322,16.24631,GAS,CNG,1.699,2022-03-02 17:43
+1354782,OMV - Loosdorf Gewerbestraße 8,Gewerbestrasse 8,Loosdorf,3382,48.19,15.409,GAS,CNG,1.699,2022-03-02 17:43
+1354826,OMV - Sankt Pölten Mariazeller Straße 95,Mariazeller Strasse 95,Sankt Poelten,3100,48.18769,15.61753,GAS,CNG,1.699,2022-03-02 17:43
+248020,eni,Braitnerstrasse 62a,Baden,2500,48.001929,16.241614,GAS,CNG,1.089,2022-03-02 17:43
+247819,eni,Feldstrasse 44,Brunn/Geb.,2345,48.122997,16.293216,GAS,CNG,1.098,2022-03-02 17:43
+248017,eni,Oberegging 54,Bergland,3254,48.158477,15.111832,GAS,CNG,1.098,2022-03-02 17:43
+1469766,EVM - Biomethan Tankstelle,Energiestraße 9,Margarethen am Moos,2433,48.047635,16.605493,GAS,CNG,1.15,2022-03-02 17:43
+33343,Eni Tankstelle,Bundesstrasse 130,Bisamberg,2102,48.332867,16.345122,GAS,CNG,1.299,2022-03-02 17:43
+33363,Shell Tankstelle,Reichsstrasse 14,Poechlarn,3380,48.198073,15.222101,GAS,CNG,1.299,2022-03-02 17:43
+33426,ENI Tankstelle,Lanzendorfer Strasse GST 471/1,Achau,2481,48.0907,16.4113,GAS,CNG,1.299,2022-03-02 17:43
+391,OMV - Strasshof Hauptstraße 119,Hauptstrasse 119,Strasshof,2231,48.31458,16.6256,GAS,CNG,1.699,2022-03-02 17:43
+33596,AVIA ,Keltenstraße 2,St. Pölten-Ratzersdorf,3100,48.2279934,15.6768304,GAS,CNG,1.699,2022-03-02 17:43
+33598,AVIA,Franz Eigl-Str. 7,Zwettl,3910,48.6028473,15.1854858,GAS,CNG,1.699,2022-03-02 17:43
+33600,AVIA,Prof.Krejci-Graf-Str.2,Gmünd,3950,48.7608669,14.9905661,GAS,CNG,1.699,2022-03-02 17:43
+33609,AVIA,Gewerbeparkstraße 1,Krems,3500,48.4052349,15.6549839,GAS,CNG,1.699,2022-03-02 17:43
+1354712,OMV - Frauenhofen Wiener Straße 6,Wiener Strasse 6,Frauenhofen,3580,48.66569,15.63271,GAS,CNG,1.699,2022-03-02 17:43
+1354753,OMV - Wiener Neudorf IZ NÖ Süd Straße 4 Objekt 9,IZ NOe Sued Strasse 4 Objekt 9,Wiener Neudorf,2351,48.0776,16.3233,GAS,CNG,1.699,2022-03-02 17:43
+1354778,OMV - Wiener Neustadt Wiener Straße 126,Wiener Strasse 126,Wiener Neustadt,2700,47.84322,16.24631,GAS,CNG,1.699,2022-03-02 17:43
+1354782,OMV - Loosdorf Gewerbestraße 8,Gewerbestrasse 8,Loosdorf,3382,48.19,15.409,GAS,CNG,1.699,2022-03-02 17:43
+1354826,OMV - Sankt Pölten Mariazeller Straße 95,Mariazeller Strasse 95,Sankt Poelten,3100,48.18769,15.61753,GAS,CNG,1.699,2022-03-02 17:43
+248020,eni,Braitnerstrasse 62a,Baden,2500,48.001929,16.241614,GAS,CNG,1.089,2022-03-02 17:43
+247819,eni,Feldstrasse 44,Brunn/Geb.,2345,48.122997,16.293216,GAS,CNG,1.098,2022-03-02 17:43
+248017,eni,Oberegging 54,Bergland,3254,48.158477,15.111832,GAS,CNG,1.098,2022-03-02 17:43
+1469766,EVM - Biomethan Tankstelle,Energiestraße 9,Margarethen am Moos,2433,48.047635,16.605493,GAS,CNG,1.15,2022-03-02 17:43
+33343,Eni Tankstelle,Bundesstrasse 130,Bisamberg,2102,48.332867,16.345122,GAS,CNG,1.299,2022-03-02 17:43
+33363,Shell Tankstelle,Reichsstrasse 14,Poechlarn,3380,48.198073,15.222101,GAS,CNG,1.299,2022-03-02 17:43
+33426,ENI Tankstelle,Lanzendorfer Strasse GST 471/1,Achau,2481,48.0907,16.4113,GAS,CNG,1.299,2022-03-02 17:43
+391,OMV - Strasshof Hauptstraße 119,Hauptstrasse 119,Strasshof,2231,48.31458,16.6256,GAS,CNG,1.699,2022-03-02 17:43
+33596,AVIA ,Keltenstraße 2,St. Pölten-Ratzersdorf,3100,48.2279934,15.6768304,GAS,CNG,1.699,2022-03-02 17:43
+33598,AVIA,Franz Eigl-Str. 7,Zwettl,3910,48.6028473,15.1854858,GAS,CNG,1.699,2022-03-02 17:43
+33600,AVIA,Prof.Krejci-Graf-Str.2,Gmünd,3950,48.7608669,14.9905661,GAS,CNG,1.699,2022-03-02 17:43
+33609,AVIA,Gewerbeparkstraße 1,Krems,3500,48.4052349,15.6549839,GAS,CNG,1.699,2022-03-02 17:43
+1354712,OMV - Frauenhofen Wiener Straße 6,Wiener Strasse 6,Frauenhofen,3580,48.66569,15.63271,GAS,CNG,1.699,2022-03-02 17:43
+1354753,OMV - Wiener Neudorf IZ NÖ Süd Straße 4 Objekt 9,IZ NOe Sued Strasse 4 Objekt 9,Wiener Neudorf,2351,48.0776,16.3233,GAS,CNG,1.699,2022-03-02 17:43
+1354778,OMV - Wiener Neustadt Wiener Straße 126,Wiener Strasse 126,Wiener Neustadt,2700,47.84322,16.24631,GAS,CNG,1.699,2022-03-02 17:43
+1354782,OMV - Loosdorf Gewerbestraße 8,Gewerbestrasse 8,Loosdorf,3382,48.19,15.409,GAS,CNG,1.699,2022-03-02 17:43
+1354826,OMV - Sankt Pölten Mariazeller Straße 95,Mariazeller Strasse 95,Sankt Poelten,3100,48.18769,15.61753,GAS,CNG,1.699,2022-03-02 17:43
+248020,eni,Braitnerstrasse 62a,Baden,2500,48.001929,16.241614,GAS,CNG,1.089,2022-03-02 17:43
+247819,eni,Feldstrasse 44,Brunn/Geb.,2345,48.122997,16.293216,GAS,CNG,1.098,2022-03-02 17:43
+248017,eni,Oberegging 54,Bergland,3254,48.158477,15.111832,GAS,CNG,1.098,2022-03-02 17:43
+1469766,EVM - Biomethan Tankstelle,Energiestraße 9,Margarethen am Moos,2433,48.047635,16.605493,GAS,CNG,1.15,2022-03-02 17:43
+33343,Eni Tankstelle,Bundesstrasse 130,Bisamberg,2102,48.332867,16.345122,GAS,CNG,1.299,2022-03-02 17:43
+33363,Shell Tankstelle,Reichsstrasse 14,Poechlarn,3380,48.198073,15.222101,GAS,CNG,1.299,2022-03-02 17:43
+33426,ENI Tankstelle,Lanzendorfer Strasse GST 471/1,Achau,2481,48.0907,16.4113,GAS,CNG,1.299,2022-03-02 17:43
+391,OMV - Strasshof Hauptstraße 119,Hauptstrasse 119,Strasshof,2231,48.31458,16.6256,GAS,CNG,1.699,2022-03-02 17:43
+33596,AVIA ,Keltenstraße 2,St. Pölten-Ratzersdorf,3100,48.2279934,15.6768304,GAS,CNG,1.699,2022-03-02 17:43
+33598,AVIA,Franz Eigl-Str. 7,Zwettl,3910,48.6028473,15.1854858,GAS,CNG,1.699,2022-03-02 17:43
+33600,AVIA,Prof.Krejci-Graf-Str.2,Gmünd,3950,48.7608669,14.9905661,GAS,CNG,1.699,2022-03-02 17:43
+33609,AVIA,Gewerbeparkstraße 1,Krems,3500,48.4052349,15.6549839,GAS,CNG,1.699,2022-03-02 17:43
+1354712,OMV - Frauenhofen Wiener Straße 6,Wiener Strasse 6,Frauenhofen,3580,48.66569,15.63271,GAS,CNG,1.699,2022-03-02 17:43
+1354753,OMV - Wiener Neudorf IZ NÖ Süd Straße 4 Objekt 9,IZ NOe Sued Strasse 4 Objekt 9,Wiener Neudorf,2351,48.0776,16.3233,GAS,CNG,1.699,2022-03-02 17:43
+1354778,OMV - Wiener Neustadt Wiener Straße 126,Wiener Strasse 126,Wiener Neustadt,2700,47.84322,16.24631,GAS,CNG,1.699,2022-03-02 17:43
+1354782,OMV - Loosdorf Gewerbestraße 8,Gewerbestrasse 8,Loosdorf,3382,48.19,15.409,GAS,CNG,1.699,2022-03-02 17:43
+1354826,OMV - Sankt Pölten Mariazeller Straße 95,Mariazeller Strasse 95,Sankt Poelten,3100,48.18769,15.61753,GAS,CNG,1.699,2022-03-02 17:43
+248020,eni,Braitnerstrasse 62a,Baden,2500,48.001929,16.241614,GAS,CNG,1.089,2022-03-02 17:43
+247819,eni,Feldstrasse 44,Brunn/Geb.,2345,48.122997,16.293216,GAS,CNG,1.098,2022-03-02 17:43
+248017,eni,Oberegging 54,Bergland,3254,48.158477,15.111832,GAS,CNG,1.098,2022-03-02 17:43
+1469766,EVM - Biomethan Tankstelle,Energiestraße 9,Margarethen am Moos,2433,48.047635,16.605493,GAS,CNG,1.15,2022-03-02 17:43
+33343,Eni Tankstelle,Bundesstrasse 130,Bisamberg,2102,48.332867,16.345122,GAS,CNG,1.299,2022-03-02 17:43
+33363,Shell Tankstelle,Reichsstrasse 14,Poechlarn,3380,48.198073,15.222101,GAS,CNG,1.299,2022-03-02 17:43
+33426,ENI Tankstelle,Lanzendorfer Strasse GST 471/1,Achau,2481,48.0907,16.4113,GAS,CNG,1.299,2022-03-02 17:43
+391,OMV - Strasshof Hauptstraße 119,Hauptstrasse 119,Strasshof,2231,48.31458,16.6256,GAS,CNG,1.699,2022-03-02 17:43
+33596,AVIA ,Keltenstraße 2,St. Pölten-Ratzersdorf,3100,48.2279934,15.6768304,GAS,CNG,1.699,2022-03-02 17:43
+33598,AVIA,Franz Eigl-Str. 7,Zwettl,3910,48.6028473,15.1854858,GAS,CNG,1.699,2022-03-02 17:43
+33600,AVIA,Prof.Krejci-Graf-Str.2,Gmünd,3950,48.7608669,14.9905661,GAS,CNG,1.699,2022-03-02 17:43
+33609,AVIA,Gewerbeparkstraße 1,Krems,3500,48.4052349,15.6549839,GAS,CNG,1.699,2022-03-02 17:43
+1354712,OMV - Frauenhofen Wiener Straße 6,Wiener Strasse 6,Frauenhofen,3580,48.66569,15.63271,GAS,CNG,1.699,2022-03-02 17:43
+1354753,OMV - Wiener Neudorf IZ NÖ Süd Straße 4 Objekt 9,IZ NOe Sued Strasse 4 Objekt 9,Wiener Neudorf,2351,48.0776,16.3233,GAS,CNG,1.699,2022-03-02 17:43
+1354778,OMV - Wiener Neustadt Wiener Straße 126,Wiener Strasse 126,Wiener Neustadt,2700,47.84322,16.24631,GAS,CNG,1.699,2022-03-02 17:43
+1354782,OMV - Loosdorf Gewerbestraße 8,Gewerbestrasse 8,Loosdorf,3382,48.19,15.409,GAS,CNG,1.699,2022-03-02 17:43
+1354826,OMV - Sankt Pölten Mariazeller Straße 95,Mariazeller Strasse 95,Sankt Poelten,3100,48.18769,15.61753,GAS,CNG,1.699,2022-03-02 17:43
+248020,eni,Braitnerstrasse 62a,Baden,2500,48.001929,16.241614,GAS,CNG,1.089,2022-03-02 17:43
+247819,eni,Feldstrasse 44,Brunn/Geb.,2345,48.122997,16.293216,GAS,CNG,1.098,2022-03-02 17:43
+248017,eni,Oberegging 54,Bergland,3254,48.158477,15.111832,GAS,CNG,1.098,2022-03-02 17:43
+1469766,EVM - Biomethan Tankstelle,Energiestraße 9,Margarethen am Moos,2433,48.047635,16.605493,GAS,CNG,1.15,2022-03-02 17:43
+33343,Eni Tankstelle,Bundesstrasse 130,Bisamberg,2102,48.332867,16.345122,GAS,CNG,1.299,2022-03-02 17:43
+33363,Shell Tankstelle,Reichsstrasse 14,Poechlarn,3380,48.198073,15.222101,GAS,CNG,1.299,2022-03-02 17:43
+33426,ENI Tankstelle,Lanzendorfer Strasse GST 471/1,Achau,2481,48.0907,16.4113,GAS,CNG,1.299,2022-03-02 17:43
+391,OMV - Strasshof Hauptstraße 119,Hauptstrasse 119,Strasshof,2231,48.31458,16.6256,GAS,CNG,1.699,2022-03-02 17:43
+33596,AVIA ,Keltenstraße 2,St. Pölten-Ratzersdorf,3100,48.2279934,15.6768304,GAS,CNG,1.699,2022-03-02 17:43
+33598,AVIA,Franz Eigl-Str. 7,Zwettl,3910,48.6028473,15.1854858,GAS,CNG,1.699,2022-03-02 17:43
+33600,AVIA,Prof.Krejci-Graf-Str.2,Gmünd,3950,48.7608669,14.9905661,GAS,CNG,1.699,2022-03-02 17:43
+33609,AVIA,Gewerbeparkstraße 1,Krems,3500,48.4052349,15.6549839,GAS,CNG,1.699,2022-03-02 17:43
+1354712,OMV - Frauenhofen Wiener Straße 6,Wiener Strasse 6,Frauenhofen,3580,48.66569,15.63271,GAS,CNG,1.699,2022-03-02 17:43
+1354753,OMV - Wiener Neudorf IZ NÖ Süd Straße 4 Objekt 9,IZ NOe Sued Strasse 4 Objekt 9,Wiener Neudorf,2351,48.0776,16.3233,GAS,CNG,1.699,2022-03-02 17:43
+1354778,OMV - Wiener Neustadt Wiener Straße 126,Wiener Strasse 126,Wiener Neustadt,2700,47.84322,16.24631,GAS,CNG,1.699,2022-03-02 17:43
+1354782,OMV - Loosdorf Gewerbestraße 8,Gewerbestrasse 8,Loosdorf,3382,48.19,15.409,GAS,CNG,1.699,2022-03-02 17:43
+1354826,OMV - Sankt Pölten Mariazeller Straße 95,Mariazeller Strasse 95,Sankt Poelten,3100,48.18769,15.61753,GAS,CNG,1.699,2022-03-02 17:43
+248020,eni,Braitnerstrasse 62a,Baden,2500,48.001929,16.241614,GAS,CNG,1.089,2022-03-02 17:43
+247819,eni,Feldstrasse 44,Brunn/Geb.,2345,48.122997,16.293216,GAS,CNG,1.098,2022-03-02 17:43
+248017,eni,Oberegging 54,Bergland,3254,48.158477,15.111832,GAS,CNG,1.098,2022-03-02 17:43
+1469766,EVM - Biomethan Tankstelle,Energiestraße 9,Margarethen am Moos,2433,48.047635,16.605493,GAS,CNG,1.15,2022-03-02 17:43
+33343,Eni Tankstelle,Bundesstrasse 130,Bisamberg,2102,48.332867,16.345122,GAS,CNG,1.299,2022-03-02 17:43
+33363,Shell Tankstelle,Reichsstrasse 14,Poechlarn,3380,48.198073,15.222101,GAS,CNG,1.299,2022-03-02 17:43
+33426,ENI Tankstelle,Lanzendorfer Strasse GST 471/1,Achau,2481,48.0907,16.4113,GAS,CNG,1.299,2022-03-02 17:43
+391,OMV - Strasshof Hauptstraße 119,Hauptstrasse 119,Strasshof,2231,48.31458,16.6256,GAS,CNG,1.699,2022-03-02 17:43
+33596,AVIA ,Keltenstraße 2,St. Pölten-Ratzersdorf,3100,48.2279934,15.6768304,GAS,CNG,1.699,2022-03-02 17:43
+33598,AVIA,Franz Eigl-Str. 7,Zwettl,3910,48.6028473,15.1854858,GAS,CNG,1.699,2022-03-02 17:43
+33600,AVIA,Prof.Krejci-Graf-Str.2,Gmünd,3950,48.7608669,14.9905661,GAS,CNG,1.699,2022-03-02 17:43
+33609,AVIA,Gewerbeparkstraße 1,Krems,3500,48.4052349,15.6549839,GAS,CNG,1.699,2022-03-02 17:43
+1354712,OMV - Frauenhofen Wiener Straße 6,Wiener Strasse 6,Frauenhofen,3580,48.66569,15.63271,GAS,CNG,1.699,2022-03-02 17:43
+1354753,OMV - Wiener Neudorf IZ NÖ Süd Straße 4 Objekt 9,IZ NOe Sued Strasse 4 Objekt 9,Wiener Neudorf,2351,48.0776,16.3233,GAS,CNG,1.699,2022-03-02 17:43
+1354778,OMV - Wiener Neustadt Wiener Straße 126,Wiener Strasse 126,Wiener Neustadt,2700,47.84322,16.24631,GAS,CNG,1.699,2022-03-02 17:43
+1354782,OMV - Loosdorf Gewerbestraße 8,Gewerbestrasse 8,Loosdorf,3382,48.19,15.409,GAS,CNG,1.699,2022-03-02 17:43
+1354826,OMV - Sankt Pölten Mariazeller Straße 95,Mariazeller Strasse 95,Sankt Poelten,3100,48.18769,15.61753,GAS,CNG,1.699,2022-03-02 17:43
+33727,AVIA,Friedrich-Thurner-Straße 21,Ried im Innkreis,4910,48.212154,13.482703,GAS,CNG,1.149,2022-03-02 17:43
+1048950,RAG.ERDGAS.MOBIL,Schwarzmoos 28,Gampern,4851,48.01639,13.57391,GAS,CNG,1.195,2022-03-02 17:43
+1048951,RAG.ERDGAS.MOBIL,Krift 51,Kremsmünster,4550,48.021777,14.121975,GAS,CNG,1.195,2022-03-02 17:43
+27340,Shell Tankstelle,Wiener Bundesstrasse 153,Traun,4050,48.234185,14.23294,GAS,CNG,1.199,2022-03-02 17:43
+33340,Shell Tankstelle,Naarner Strasse 73,Perg,4320,48.239517,14.626021,GAS,CNG,1.199,2022-03-02 17:43
+33352,Shell Tankstelle,Umfahrung-Sued 1,Rohrbach,4150,48.565037,13.985382,GAS,CNG,1.199,2022-03-02 17:43
+33353,Shell Tankstelle,Linzer Strasse 44,Freistadt,4240,48.502303,14.501686,GAS,CNG,1.199,2022-03-02 17:43
+33361,Shell Tankstelle,Hanuschstrasse 128,Linz,4020,48.271603,14.294458,GAS,CNG,1.199,2022-03-02 17:43
+33364,Eni Schwanenstadt,Salzburgerstrasse 41,Schwanenstadt,4690,48.048051,13.761766,GAS,CNG,1.199,2022-03-02 17:43
+171,OMV - Ansfelden Traunuferstraße 108,Traunuferstrasse 108,Ansfelden,4052,48.21607,14.27936,GAS,CNG,1.699,2022-03-02 17:43
+172,OMV - Attnang-Puchheim Salzburger Straße 91,Salzburger Strasse 91,Attnang-Puchheim,4800,48.00541,13.70937,GAS,CNG,1.699,2022-03-02 17:43
+177,OMV - Wels Eisenfeldstraße 2,Eisenfeldstrasse 2,Wels,4600,48.16575,14.0391,GAS,CNG,1.699,2022-03-02 17:43
+228,OMV - Gmunden Bahnhofstraße 42,Bahnhofstrasse 42,Gmunden,4810,47.92428,13.78782,GAS,CNG,1.699,2022-03-02 17:43
+284,OMV - Linz Hafenstraße 8,Hafenstrasse 8,Linz,4020,48.31554,14.30166,GAS,CNG,1.699,2022-03-02 17:43
+461,OMV - Asten An der Bundesstraße 1 ca.1KM,An der Bundesstrasse 1 ca.1KM,Asten,4481,48.22243,14.40833,GAS,CNG,1.699,2022-03-02 17:43
+495,OMV - Braunau Salzburger Straße 99,Salzburger Strasse 99,Braunau,5280,48.24673,13.0403,GAS,CNG,1.699,2022-03-02 17:43
+33727,AVIA,Friedrich-Thurner-Straße 21,Ried im Innkreis,4910,48.212154,13.482703,GAS,CNG,1.149,2022-03-02 17:43
+1048950,RAG.ERDGAS.MOBIL,Schwarzmoos 28,Gampern,4851,48.01639,13.57391,GAS,CNG,1.195,2022-03-02 17:43
+1048951,RAG.ERDGAS.MOBIL,Krift 51,Kremsmünster,4550,48.021777,14.121975,GAS,CNG,1.195,2022-03-02 17:43
+27340,Shell Tankstelle,Wiener Bundesstrasse 153,Traun,4050,48.234185,14.23294,GAS,CNG,1.199,2022-03-02 17:43
+33340,Shell Tankstelle,Naarner Strasse 73,Perg,4320,48.239517,14.626021,GAS,CNG,1.199,2022-03-02 17:43
+33352,Shell Tankstelle,Umfahrung-Sued 1,Rohrbach,4150,48.565037,13.985382,GAS,CNG,1.199,2022-03-02 17:43
+33353,Shell Tankstelle,Linzer Strasse 44,Freistadt,4240,48.502303,14.501686,GAS,CNG,1.199,2022-03-02 17:43
+33361,Shell Tankstelle,Hanuschstrasse 128,Linz,4020,48.271603,14.294458,GAS,CNG,1.199,2022-03-02 17:43
+33364,Eni Schwanenstadt,Salzburgerstrasse 41,Schwanenstadt,4690,48.048051,13.761766,GAS,CNG,1.199,2022-03-02 17:43
+171,OMV - Ansfelden Traunuferstraße 108,Traunuferstrasse 108,Ansfelden,4052,48.21607,14.27936,GAS,CNG,1.699,2022-03-02 17:43
+172,OMV - Attnang-Puchheim Salzburger Straße 91,Salzburger Strasse 91,Attnang-Puchheim,4800,48.00541,13.70937,GAS,CNG,1.699,2022-03-02 17:43
+177,OMV - Wels Eisenfeldstraße 2,Eisenfeldstrasse 2,Wels,4600,48.16575,14.0391,GAS,CNG,1.699,2022-03-02 17:43
+228,OMV - Gmunden Bahnhofstraße 42,Bahnhofstrasse 42,Gmunden,4810,47.92428,13.78782,GAS,CNG,1.699,2022-03-02 17:43
+284,OMV - Linz Hafenstraße 8,Hafenstrasse 8,Linz,4020,48.31554,14.30166,GAS,CNG,1.699,2022-03-02 17:43
+461,OMV - Asten An der Bundesstraße 1 ca.1KM,An der Bundesstrasse 1 ca.1KM,Asten,4481,48.22243,14.40833,GAS,CNG,1.699,2022-03-02 17:43
+495,OMV - Braunau Salzburger Straße 99,Salzburger Strasse 99,Braunau,5280,48.24673,13.0403,GAS,CNG,1.699,2022-03-02 17:43
+33727,AVIA,Friedrich-Thurner-Straße 21,Ried im Innkreis,4910,48.212154,13.482703,GAS,CNG,1.149,2022-03-02 17:43
+1048950,RAG.ERDGAS.MOBIL,Schwarzmoos 28,Gampern,4851,48.01639,13.57391,GAS,CNG,1.195,2022-03-02 17:43
+1048951,RAG.ERDGAS.MOBIL,Krift 51,Kremsmünster,4550,48.021777,14.121975,GAS,CNG,1.195,2022-03-02 17:43
+27340,Shell Tankstelle,Wiener Bundesstrasse 153,Traun,4050,48.234185,14.23294,GAS,CNG,1.199,2022-03-02 17:43
+33340,Shell Tankstelle,Naarner Strasse 73,Perg,4320,48.239517,14.626021,GAS,CNG,1.199,2022-03-02 17:43
+33352,Shell Tankstelle,Umfahrung-Sued 1,Rohrbach,4150,48.565037,13.985382,GAS,CNG,1.199,2022-03-02 17:43
+33353,Shell Tankstelle,Linzer Strasse 44,Freistadt,4240,48.502303,14.501686,GAS,CNG,1.199,2022-03-02 17:43
+33361,Shell Tankstelle,Hanuschstrasse 128,Linz,4020,48.271603,14.294458,GAS,CNG,1.199,2022-03-02 17:43
+33364,Eni Schwanenstadt,Salzburgerstrasse 41,Schwanenstadt,4690,48.048051,13.761766,GAS,CNG,1.199,2022-03-02 17:43
+171,OMV - Ansfelden Traunuferstraße 108,Traunuferstrasse 108,Ansfelden,4052,48.21607,14.27936,GAS,CNG,1.699,2022-03-02 17:43
+172,OMV - Attnang-Puchheim Salzburger Straße 91,Salzburger Strasse 91,Attnang-Puchheim,4800,48.00541,13.70937,GAS,CNG,1.699,2022-03-02 17:43
+177,OMV - Wels Eisenfeldstraße 2,Eisenfeldstrasse 2,Wels,4600,48.16575,14.0391,GAS,CNG,1.699,2022-03-02 17:43
+228,OMV - Gmunden Bahnhofstraße 42,Bahnhofstrasse 42,Gmunden,4810,47.92428,13.78782,GAS,CNG,1.699,2022-03-02 17:43
+284,OMV - Linz Hafenstraße 8,Hafenstrasse 8,Linz,4020,48.31554,14.30166,GAS,CNG,1.699,2022-03-02 17:43
+461,OMV - Asten An der Bundesstraße 1 ca.1KM,An der Bundesstrasse 1 ca.1KM,Asten,4481,48.22243,14.40833,GAS,CNG,1.699,2022-03-02 17:43
+495,OMV - Braunau Salzburger Straße 99,Salzburger Strasse 99,Braunau,5280,48.24673,13.0403,GAS,CNG,1.699,2022-03-02 17:43
+33727,AVIA,Friedrich-Thurner-Straße 21,Ried im Innkreis,4910,48.212154,13.482703,GAS,CNG,1.149,2022-03-02 17:43
+1048950,RAG.ERDGAS.MOBIL,Schwarzmoos 28,Gampern,4851,48.01639,13.57391,GAS,CNG,1.195,2022-03-02 17:43
+1048951,RAG.ERDGAS.MOBIL,Krift 51,Kremsmünster,4550,48.021777,14.121975,GAS,CNG,1.195,2022-03-02 17:43
+27340,Shell Tankstelle,Wiener Bundesstrasse 153,Traun,4050,48.234185,14.23294,GAS,CNG,1.199,2022-03-02 17:43
+33340,Shell Tankstelle,Naarner Strasse 73,Perg,4320,48.239517,14.626021,GAS,CNG,1.199,2022-03-02 17:43
+33352,Shell Tankstelle,Umfahrung-Sued 1,Rohrbach,4150,48.565037,13.985382,GAS,CNG,1.199,2022-03-02 17:43
+33353,Shell Tankstelle,Linzer Strasse 44,Freistadt,4240,48.502303,14.501686,GAS,CNG,1.199,2022-03-02 17:43
+33361,Shell Tankstelle,Hanuschstrasse 128,Linz,4020,48.271603,14.294458,GAS,CNG,1.199,2022-03-02 17:43
+33364,Eni Schwanenstadt,Salzburgerstrasse 41,Schwanenstadt,4690,48.048051,13.761766,GAS,CNG,1.199,2022-03-02 17:43
+171,OMV - Ansfelden Traunuferstraße 108,Traunuferstrasse 108,Ansfelden,4052,48.21607,14.27936,GAS,CNG,1.699,2022-03-02 17:43
+172,OMV - Attnang-Puchheim Salzburger Straße 91,Salzburger Strasse 91,Attnang-Puchheim,4800,48.00541,13.70937,GAS,CNG,1.699,2022-03-02 17:43
+177,OMV - Wels Eisenfeldstraße 2,Eisenfeldstrasse 2,Wels,4600,48.16575,14.0391,GAS,CNG,1.699,2022-03-02 17:43
+228,OMV - Gmunden Bahnhofstraße 42,Bahnhofstrasse 42,Gmunden,4810,47.92428,13.78782,GAS,CNG,1.699,2022-03-02 17:43
+284,OMV - Linz Hafenstraße 8,Hafenstrasse 8,Linz,4020,48.31554,14.30166,GAS,CNG,1.699,2022-03-02 17:43
+461,OMV - Asten An der Bundesstraße 1 ca.1KM,An der Bundesstrasse 1 ca.1KM,Asten,4481,48.22243,14.40833,GAS,CNG,1.699,2022-03-02 17:43
+495,OMV - Braunau Salzburger Straße 99,Salzburger Strasse 99,Braunau,5280,48.24673,13.0403,GAS,CNG,1.699,2022-03-02 17:43
+33727,AVIA,Friedrich-Thurner-Straße 21,Ried im Innkreis,4910,48.212154,13.482703,GAS,CNG,1.149,2022-03-02 17:43
+1048950,RAG.ERDGAS.MOBIL,Schwarzmoos 28,Gampern,4851,48.01639,13.57391,GAS,CNG,1.195,2022-03-02 17:43
+1048951,RAG.ERDGAS.MOBIL,Krift 51,Kremsmünster,4550,48.021777,14.121975,GAS,CNG,1.195,2022-03-02 17:43
+27340,Shell Tankstelle,Wiener Bundesstrasse 153,Traun,4050,48.234185,14.23294,GAS,CNG,1.199,2022-03-02 17:43
+33340,Shell Tankstelle,Naarner Strasse 73,Perg,4320,48.239517,14.626021,GAS,CNG,1.199,2022-03-02 17:43
+33352,Shell Tankstelle,Umfahrung-Sued 1,Rohrbach,4150,48.565037,13.985382,GAS,CNG,1.199,2022-03-02 17:43
+33353,Shell Tankstelle,Linzer Strasse 44,Freistadt,4240,48.502303,14.501686,GAS,CNG,1.199,2022-03-02 17:43
+33361,Shell Tankstelle,Hanuschstrasse 128,Linz,4020,48.271603,14.294458,GAS,CNG,1.199,2022-03-02 17:43
+33364,Eni Schwanenstadt,Salzburgerstrasse 41,Schwanenstadt,4690,48.048051,13.761766,GAS,CNG,1.199,2022-03-02 17:43
+171,OMV - Ansfelden Traunuferstraße 108,Traunuferstrasse 108,Ansfelden,4052,48.21607,14.27936,GAS,CNG,1.699,2022-03-02 17:43
+172,OMV - Attnang-Puchheim Salzburger Straße 91,Salzburger Strasse 91,Attnang-Puchheim,4800,48.00541,13.70937,GAS,CNG,1.699,2022-03-02 17:43
+177,OMV - Wels Eisenfeldstraße 2,Eisenfeldstrasse 2,Wels,4600,48.16575,14.0391,GAS,CNG,1.699,2022-03-02 17:43
+228,OMV - Gmunden Bahnhofstraße 42,Bahnhofstrasse 42,Gmunden,4810,47.92428,13.78782,GAS,CNG,1.699,2022-03-02 17:43
+284,OMV - Linz Hafenstraße 8,Hafenstrasse 8,Linz,4020,48.31554,14.30166,GAS,CNG,1.699,2022-03-02 17:43
+461,OMV - Asten An der Bundesstraße 1 ca.1KM,An der Bundesstrasse 1 ca.1KM,Asten,4481,48.22243,14.40833,GAS,CNG,1.699,2022-03-02 17:43
+495,OMV - Braunau Salzburger Straße 99,Salzburger Strasse 99,Braunau,5280,48.24673,13.0403,GAS,CNG,1.699,2022-03-02 17:43
+33727,AVIA,Friedrich-Thurner-Straße 21,Ried im Innkreis,4910,48.212154,13.482703,GAS,CNG,1.149,2022-03-02 17:43
+1048950,RAG.ERDGAS.MOBIL,Schwarzmoos 28,Gampern,4851,48.01639,13.57391,GAS,CNG,1.195,2022-03-02 17:43
+1048951,RAG.ERDGAS.MOBIL,Krift 51,Kremsmünster,4550,48.021777,14.121975,GAS,CNG,1.195,2022-03-02 17:43
+27340,Shell Tankstelle,Wiener Bundesstrasse 153,Traun,4050,48.234185,14.23294,GAS,CNG,1.199,2022-03-02 17:43
+33340,Shell Tankstelle,Naarner Strasse 73,Perg,4320,48.239517,14.626021,GAS,CNG,1.199,2022-03-02 17:43
+33352,Shell Tankstelle,Umfahrung-Sued 1,Rohrbach,4150,48.565037,13.985382,GAS,CNG,1.199,2022-03-02 17:43
+33353,Shell Tankstelle,Linzer Strasse 44,Freistadt,4240,48.502303,14.501686,GAS,CNG,1.199,2022-03-02 17:43
+33361,Shell Tankstelle,Hanuschstrasse 128,Linz,4020,48.271603,14.294458,GAS,CNG,1.199,2022-03-02 17:43
+33364,Eni Schwanenstadt,Salzburgerstrasse 41,Schwanenstadt,4690,48.048051,13.761766,GAS,CNG,1.199,2022-03-02 17:43
+171,OMV - Ansfelden Traunuferstraße 108,Traunuferstrasse 108,Ansfelden,4052,48.21607,14.27936,GAS,CNG,1.699,2022-03-02 17:43
+172,OMV - Attnang-Puchheim Salzburger Straße 91,Salzburger Strasse 91,Attnang-Puchheim,4800,48.00541,13.70937,GAS,CNG,1.699,2022-03-02 17:43
+177,OMV - Wels Eisenfeldstraße 2,Eisenfeldstrasse 2,Wels,4600,48.16575,14.0391,GAS,CNG,1.699,2022-03-02 17:43
+228,OMV - Gmunden Bahnhofstraße 42,Bahnhofstrasse 42,Gmunden,4810,47.92428,13.78782,GAS,CNG,1.699,2022-03-02 17:43
+284,OMV - Linz Hafenstraße 8,Hafenstrasse 8,Linz,4020,48.31554,14.30166,GAS,CNG,1.699,2022-03-02 17:43
+461,OMV - Asten An der Bundesstraße 1 ca.1KM,An der Bundesstrasse 1 ca.1KM,Asten,4481,48.22243,14.40833,GAS,CNG,1.699,2022-03-02 17:43
+495,OMV - Braunau Salzburger Straße 99,Salzburger Strasse 99,Braunau,5280,48.24673,13.0403,GAS,CNG,1.699,2022-03-02 17:43
+33727,AVIA,Friedrich-Thurner-Straße 21,Ried im Innkreis,4910,48.212154,13.482703,GAS,CNG,1.149,2022-03-02 17:43
+1048950,RAG.ERDGAS.MOBIL,Schwarzmoos 28,Gampern,4851,48.01639,13.57391,GAS,CNG,1.195,2022-03-02 17:43
+1048951,RAG.ERDGAS.MOBIL,Krift 51,Kremsmünster,4550,48.021777,14.121975,GAS,CNG,1.195,2022-03-02 17:43
+27340,Shell Tankstelle,Wiener Bundesstrasse 153,Traun,4050,48.234185,14.23294,GAS,CNG,1.199,2022-03-02 17:43
+33340,Shell Tankstelle,Naarner Strasse 73,Perg,4320,48.239517,14.626021,GAS,CNG,1.199,2022-03-02 17:43
+33352,Shell Tankstelle,Umfahrung-Sued 1,Rohrbach,4150,48.565037,13.985382,GAS,CNG,1.199,2022-03-02 17:43
+33353,Shell Tankstelle,Linzer Strasse 44,Freistadt,4240,48.502303,14.501686,GAS,CNG,1.199,2022-03-02 17:43
+33361,Shell Tankstelle,Hanuschstrasse 128,Linz,4020,48.271603,14.294458,GAS,CNG,1.199,2022-03-02 17:43
+33364,Eni Schwanenstadt,Salzburgerstrasse 41,Schwanenstadt,4690,48.048051,13.761766,GAS,CNG,1.199,2022-03-02 17:43
+171,OMV - Ansfelden Traunuferstraße 108,Traunuferstrasse 108,Ansfelden,4052,48.21607,14.27936,GAS,CNG,1.699,2022-03-02 17:43
+172,OMV - Attnang-Puchheim Salzburger Straße 91,Salzburger Strasse 91,Attnang-Puchheim,4800,48.00541,13.70937,GAS,CNG,1.699,2022-03-02 17:43
+177,OMV - Wels Eisenfeldstraße 2,Eisenfeldstrasse 2,Wels,4600,48.16575,14.0391,GAS,CNG,1.699,2022-03-02 17:43
+228,OMV - Gmunden Bahnhofstraße 42,Bahnhofstrasse 42,Gmunden,4810,47.92428,13.78782,GAS,CNG,1.699,2022-03-02 17:43
+284,OMV - Linz Hafenstraße 8,Hafenstrasse 8,Linz,4020,48.31554,14.30166,GAS,CNG,1.699,2022-03-02 17:43
+461,OMV - Asten An der Bundesstraße 1 ca.1KM,An der Bundesstrasse 1 ca.1KM,Asten,4481,48.22243,14.40833,GAS,CNG,1.699,2022-03-02 17:43
+495,OMV - Braunau Salzburger Straße 99,Salzburger Strasse 99,Braunau,5280,48.24673,13.0403,GAS,CNG,1.699,2022-03-02 17:43
+33727,AVIA,Friedrich-Thurner-Straße 21,Ried im Innkreis,4910,48.212154,13.482703,GAS,CNG,1.149,2022-03-02 17:43
+1048950,RAG.ERDGAS.MOBIL,Schwarzmoos 28,Gampern,4851,48.01639,13.57391,GAS,CNG,1.195,2022-03-02 17:43
+1048951,RAG.ERDGAS.MOBIL,Krift 51,Kremsmünster,4550,48.021777,14.121975,GAS,CNG,1.195,2022-03-02 17:43
+27340,Shell Tankstelle,Wiener Bundesstrasse 153,Traun,4050,48.234185,14.23294,GAS,CNG,1.199,2022-03-02 17:43
+33340,Shell Tankstelle,Naarner Strasse 73,Perg,4320,48.239517,14.626021,GAS,CNG,1.199,2022-03-02 17:43
+33352,Shell Tankstelle,Umfahrung-Sued 1,Rohrbach,4150,48.565037,13.985382,GAS,CNG,1.199,2022-03-02 17:43
+33353,Shell Tankstelle,Linzer Strasse 44,Freistadt,4240,48.502303,14.501686,GAS,CNG,1.199,2022-03-02 17:43
+33361,Shell Tankstelle,Hanuschstrasse 128,Linz,4020,48.271603,14.294458,GAS,CNG,1.199,2022-03-02 17:43
+33364,Eni Schwanenstadt,Salzburgerstrasse 41,Schwanenstadt,4690,48.048051,13.761766,GAS,CNG,1.199,2022-03-02 17:43
+171,OMV - Ansfelden Traunuferstraße 108,Traunuferstrasse 108,Ansfelden,4052,48.21607,14.27936,GAS,CNG,1.699,2022-03-02 17:43
+172,OMV - Attnang-Puchheim Salzburger Straße 91,Salzburger Strasse 91,Attnang-Puchheim,4800,48.00541,13.70937,GAS,CNG,1.699,2022-03-02 17:43
+177,OMV - Wels Eisenfeldstraße 2,Eisenfeldstrasse 2,Wels,4600,48.16575,14.0391,GAS,CNG,1.699,2022-03-02 17:43
+228,OMV - Gmunden Bahnhofstraße 42,Bahnhofstrasse 42,Gmunden,4810,47.92428,13.78782,GAS,CNG,1.699,2022-03-02 17:43
+284,OMV - Linz Hafenstraße 8,Hafenstrasse 8,Linz,4020,48.31554,14.30166,GAS,CNG,1.699,2022-03-02 17:43
+461,OMV - Asten An der Bundesstraße 1 ca.1KM,An der Bundesstrasse 1 ca.1KM,Asten,4481,48.22243,14.40833,GAS,CNG,1.699,2022-03-02 17:43
+495,OMV - Braunau Salzburger Straße 99,Salzburger Strasse 99,Braunau,5280,48.24673,13.0403,GAS,CNG,1.699,2022-03-02 17:43
+33727,AVIA,Friedrich-Thurner-Straße 21,Ried im Innkreis,4910,48.212154,13.482703,GAS,CNG,1.149,2022-03-02 17:43
+1048950,RAG.ERDGAS.MOBIL,Schwarzmoos 28,Gampern,4851,48.01639,13.57391,GAS,CNG,1.195,2022-03-02 17:43
+1048951,RAG.ERDGAS.MOBIL,Krift 51,Kremsmünster,4550,48.021777,14.121975,GAS,CNG,1.195,2022-03-02 17:43
+27340,Shell Tankstelle,Wiener Bundesstrasse 153,Traun,4050,48.234185,14.23294,GAS,CNG,1.199,2022-03-02 17:43
+33340,Shell Tankstelle,Naarner Strasse 73,Perg,4320,48.239517,14.626021,GAS,CNG,1.199,2022-03-02 17:43
+33352,Shell Tankstelle,Umfahrung-Sued 1,Rohrbach,4150,48.565037,13.985382,GAS,CNG,1.199,2022-03-02 17:43
+33353,Shell Tankstelle,Linzer Strasse 44,Freistadt,4240,48.502303,14.501686,GAS,CNG,1.199,2022-03-02 17:43
+33361,Shell Tankstelle,Hanuschstrasse 128,Linz,4020,48.271603,14.294458,GAS,CNG,1.199,2022-03-02 17:43
+33364,Eni Schwanenstadt,Salzburgerstrasse 41,Schwanenstadt,4690,48.048051,13.761766,GAS,CNG,1.199,2022-03-02 17:43
+171,OMV - Ansfelden Traunuferstraße 108,Traunuferstrasse 108,Ansfelden,4052,48.21607,14.27936,GAS,CNG,1.699,2022-03-02 17:43
+172,OMV - Attnang-Puchheim Salzburger Straße 91,Salzburger Strasse 91,Attnang-Puchheim,4800,48.00541,13.70937,GAS,CNG,1.699,2022-03-02 17:43
+177,OMV - Wels Eisenfeldstraße 2,Eisenfeldstrasse 2,Wels,4600,48.16575,14.0391,GAS,CNG,1.699,2022-03-02 17:43
+228,OMV - Gmunden Bahnhofstraße 42,Bahnhofstrasse 42,Gmunden,4810,47.92428,13.78782,GAS,CNG,1.699,2022-03-02 17:43
+284,OMV - Linz Hafenstraße 8,Hafenstrasse 8,Linz,4020,48.31554,14.30166,GAS,CNG,1.699,2022-03-02 17:43
+461,OMV - Asten An der Bundesstraße 1 ca.1KM,An der Bundesstrasse 1 ca.1KM,Asten,4481,48.22243,14.40833,GAS,CNG,1.699,2022-03-02 17:43
+495,OMV - Braunau Salzburger Straße 99,Salzburger Strasse 99,Braunau,5280,48.24673,13.0403,GAS,CNG,1.699,2022-03-02 17:43
+33727,AVIA,Friedrich-Thurner-Straße 21,Ried im Innkreis,4910,48.212154,13.482703,GAS,CNG,1.149,2022-03-02 17:43
+1048950,RAG.ERDGAS.MOBIL,Schwarzmoos 28,Gampern,4851,48.01639,13.57391,GAS,CNG,1.195,2022-03-02 17:43
+1048951,RAG.ERDGAS.MOBIL,Krift 51,Kremsmünster,4550,48.021777,14.121975,GAS,CNG,1.195,2022-03-02 17:43
+27340,Shell Tankstelle,Wiener Bundesstrasse 153,Traun,4050,48.234185,14.23294,GAS,CNG,1.199,2022-03-02 17:43
+33340,Shell Tankstelle,Naarner Strasse 73,Perg,4320,48.239517,14.626021,GAS,CNG,1.199,2022-03-02 17:43
+33352,Shell Tankstelle,Umfahrung-Sued 1,Rohrbach,4150,48.565037,13.985382,GAS,CNG,1.199,2022-03-02 17:43
+33353,Shell Tankstelle,Linzer Strasse 44,Freistadt,4240,48.502303,14.501686,GAS,CNG,1.199,2022-03-02 17:43
+33361,Shell Tankstelle,Hanuschstrasse 128,Linz,4020,48.271603,14.294458,GAS,CNG,1.199,2022-03-02 17:43
+33364,Eni Schwanenstadt,Salzburgerstrasse 41,Schwanenstadt,4690,48.048051,13.761766,GAS,CNG,1.199,2022-03-02 17:43
+171,OMV - Ansfelden Traunuferstraße 108,Traunuferstrasse 108,Ansfelden,4052,48.21607,14.27936,GAS,CNG,1.699,2022-03-02 17:43
+172,OMV - Attnang-Puchheim Salzburger Straße 91,Salzburger Strasse 91,Attnang-Puchheim,4800,48.00541,13.70937,GAS,CNG,1.699,2022-03-02 17:43
+177,OMV - Wels Eisenfeldstraße 2,Eisenfeldstrasse 2,Wels,4600,48.16575,14.0391,GAS,CNG,1.699,2022-03-02 17:43
+228,OMV - Gmunden Bahnhofstraße 42,Bahnhofstrasse 42,Gmunden,4810,47.92428,13.78782,GAS,CNG,1.699,2022-03-02 17:43
+284,OMV - Linz Hafenstraße 8,Hafenstrasse 8,Linz,4020,48.31554,14.30166,GAS,CNG,1.699,2022-03-02 17:43
+461,OMV - Asten An der Bundesstraße 1 ca.1KM,An der Bundesstrasse 1 ca.1KM,Asten,4481,48.22243,14.40833,GAS,CNG,1.699,2022-03-02 17:43
+495,OMV - Braunau Salzburger Straße 99,Salzburger Strasse 99,Braunau,5280,48.24673,13.0403,GAS,CNG,1.699,2022-03-02 17:43
+33727,AVIA,Friedrich-Thurner-Straße 21,Ried im Innkreis,4910,48.212154,13.482703,GAS,CNG,1.149,2022-03-02 17:43
+1048950,RAG.ERDGAS.MOBIL,Schwarzmoos 28,Gampern,4851,48.01639,13.57391,GAS,CNG,1.195,2022-03-02 17:43
+1048951,RAG.ERDGAS.MOBIL,Krift 51,Kremsmünster,4550,48.021777,14.121975,GAS,CNG,1.195,2022-03-02 17:43
+27340,Shell Tankstelle,Wiener Bundesstrasse 153,Traun,4050,48.234185,14.23294,GAS,CNG,1.199,2022-03-02 17:43
+33340,Shell Tankstelle,Naarner Strasse 73,Perg,4320,48.239517,14.626021,GAS,CNG,1.199,2022-03-02 17:43
+33352,Shell Tankstelle,Umfahrung-Sued 1,Rohrbach,4150,48.565037,13.985382,GAS,CNG,1.199,2022-03-02 17:43
+33353,Shell Tankstelle,Linzer Strasse 44,Freistadt,4240,48.502303,14.501686,GAS,CNG,1.199,2022-03-02 17:43
+33361,Shell Tankstelle,Hanuschstrasse 128,Linz,4020,48.271603,14.294458,GAS,CNG,1.199,2022-03-02 17:43
+33364,Eni Schwanenstadt,Salzburgerstrasse 41,Schwanenstadt,4690,48.048051,13.761766,GAS,CNG,1.199,2022-03-02 17:43
+171,OMV - Ansfelden Traunuferstraße 108,Traunuferstrasse 108,Ansfelden,4052,48.21607,14.27936,GAS,CNG,1.699,2022-03-02 17:43
+172,OMV - Attnang-Puchheim Salzburger Straße 91,Salzburger Strasse 91,Attnang-Puchheim,4800,48.00541,13.70937,GAS,CNG,1.699,2022-03-02 17:43
+177,OMV - Wels Eisenfeldstraße 2,Eisenfeldstrasse 2,Wels,4600,48.16575,14.0391,GAS,CNG,1.699,2022-03-02 17:43
+228,OMV - Gmunden Bahnhofstraße 42,Bahnhofstrasse 42,Gmunden,4810,47.92428,13.78782,GAS,CNG,1.699,2022-03-02 17:43
+284,OMV - Linz Hafenstraße 8,Hafenstrasse 8,Linz,4020,48.31554,14.30166,GAS,CNG,1.699,2022-03-02 17:43
+461,OMV - Asten An der Bundesstraße 1 ca.1KM,An der Bundesstrasse 1 ca.1KM,Asten,4481,48.22243,14.40833,GAS,CNG,1.699,2022-03-02 17:43
+495,OMV - Braunau Salzburger Straße 99,Salzburger Strasse 99,Braunau,5280,48.24673,13.0403,GAS,CNG,1.699,2022-03-02 17:43
+33727,AVIA,Friedrich-Thurner-Straße 21,Ried im Innkreis,4910,48.212154,13.482703,GAS,CNG,1.149,2022-03-02 17:43
+1048950,RAG.ERDGAS.MOBIL,Schwarzmoos 28,Gampern,4851,48.01639,13.57391,GAS,CNG,1.195,2022-03-02 17:43
+1048951,RAG.ERDGAS.MOBIL,Krift 51,Kremsmünster,4550,48.021777,14.121975,GAS,CNG,1.195,2022-03-02 17:43
+27340,Shell Tankstelle,Wiener Bundesstrasse 153,Traun,4050,48.234185,14.23294,GAS,CNG,1.199,2022-03-02 17:43
+33340,Shell Tankstelle,Naarner Strasse 73,Perg,4320,48.239517,14.626021,GAS,CNG,1.199,2022-03-02 17:43
+33352,Shell Tankstelle,Umfahrung-Sued 1,Rohrbach,4150,48.565037,13.985382,GAS,CNG,1.199,2022-03-02 17:43
+33353,Shell Tankstelle,Linzer Strasse 44,Freistadt,4240,48.502303,14.501686,GAS,CNG,1.199,2022-03-02 17:43
+33361,Shell Tankstelle,Hanuschstrasse 128,Linz,4020,48.271603,14.294458,GAS,CNG,1.199,2022-03-02 17:43
+33364,Eni Schwanenstadt,Salzburgerstrasse 41,Schwanenstadt,4690,48.048051,13.761766,GAS,CNG,1.199,2022-03-02 17:43
+171,OMV - Ansfelden Traunuferstraße 108,Traunuferstrasse 108,Ansfelden,4052,48.21607,14.27936,GAS,CNG,1.699,2022-03-02 17:43
+172,OMV - Attnang-Puchheim Salzburger Straße 91,Salzburger Strasse 91,Attnang-Puchheim,4800,48.00541,13.70937,GAS,CNG,1.699,2022-03-02 17:43
+177,OMV - Wels Eisenfeldstraße 2,Eisenfeldstrasse 2,Wels,4600,48.16575,14.0391,GAS,CNG,1.699,2022-03-02 17:43
+228,OMV - Gmunden Bahnhofstraße 42,Bahnhofstrasse 42,Gmunden,4810,47.92428,13.78782,GAS,CNG,1.699,2022-03-02 17:43
+284,OMV - Linz Hafenstraße 8,Hafenstrasse 8,Linz,4020,48.31554,14.30166,GAS,CNG,1.699,2022-03-02 17:43
+461,OMV - Asten An der Bundesstraße 1 ca.1KM,An der Bundesstrasse 1 ca.1KM,Asten,4481,48.22243,14.40833,GAS,CNG,1.699,2022-03-02 17:43
+495,OMV - Braunau Salzburger Straße 99,Salzburger Strasse 99,Braunau,5280,48.24673,13.0403,GAS,CNG,1.699,2022-03-02 17:43
+33727,AVIA,Friedrich-Thurner-Straße 21,Ried im Innkreis,4910,48.212154,13.482703,GAS,CNG,1.149,2022-03-02 17:43
+1048950,RAG.ERDGAS.MOBIL,Schwarzmoos 28,Gampern,4851,48.01639,13.57391,GAS,CNG,1.195,2022-03-02 17:43
+1048951,RAG.ERDGAS.MOBIL,Krift 51,Kremsmünster,4550,48.021777,14.121975,GAS,CNG,1.195,2022-03-02 17:43
+27340,Shell Tankstelle,Wiener Bundesstrasse 153,Traun,4050,48.234185,14.23294,GAS,CNG,1.199,2022-03-02 17:43
+33340,Shell Tankstelle,Naarner Strasse 73,Perg,4320,48.239517,14.626021,GAS,CNG,1.199,2022-03-02 17:43
+33352,Shell Tankstelle,Umfahrung-Sued 1,Rohrbach,4150,48.565037,13.985382,GAS,CNG,1.199,2022-03-02 17:43
+33353,Shell Tankstelle,Linzer Strasse 44,Freistadt,4240,48.502303,14.501686,GAS,CNG,1.199,2022-03-02 17:43
+33361,Shell Tankstelle,Hanuschstrasse 128,Linz,4020,48.271603,14.294458,GAS,CNG,1.199,2022-03-02 17:43
+33364,Eni Schwanenstadt,Salzburgerstrasse 41,Schwanenstadt,4690,48.048051,13.761766,GAS,CNG,1.199,2022-03-02 17:43
+171,OMV - Ansfelden Traunuferstraße 108,Traunuferstrasse 108,Ansfelden,4052,48.21607,14.27936,GAS,CNG,1.699,2022-03-02 17:43
+172,OMV - Attnang-Puchheim Salzburger Straße 91,Salzburger Strasse 91,Attnang-Puchheim,4800,48.00541,13.70937,GAS,CNG,1.699,2022-03-02 17:43
+177,OMV - Wels Eisenfeldstraße 2,Eisenfeldstrasse 2,Wels,4600,48.16575,14.0391,GAS,CNG,1.699,2022-03-02 17:43
+228,OMV - Gmunden Bahnhofstraße 42,Bahnhofstrasse 42,Gmunden,4810,47.92428,13.78782,GAS,CNG,1.699,2022-03-02 17:43
+284,OMV - Linz Hafenstraße 8,Hafenstrasse 8,Linz,4020,48.31554,14.30166,GAS,CNG,1.699,2022-03-02 17:43
+461,OMV - Asten An der Bundesstraße 1 ca.1KM,An der Bundesstrasse 1 ca.1KM,Asten,4481,48.22243,14.40833,GAS,CNG,1.699,2022-03-02 17:43
+495,OMV - Braunau Salzburger Straße 99,Salzburger Strasse 99,Braunau,5280,48.24673,13.0403,GAS,CNG,1.699,2022-03-02 17:43
+33727,AVIA,Friedrich-Thurner-Straße 21,Ried im Innkreis,4910,48.212154,13.482703,GAS,CNG,1.149,2022-03-02 17:43
+1048950,RAG.ERDGAS.MOBIL,Schwarzmoos 28,Gampern,4851,48.01639,13.57391,GAS,CNG,1.195,2022-03-02 17:43
+1048951,RAG.ERDGAS.MOBIL,Krift 51,Kremsmünster,4550,48.021777,14.121975,GAS,CNG,1.195,2022-03-02 17:43
+27340,Shell Tankstelle,Wiener Bundesstrasse 153,Traun,4050,48.234185,14.23294,GAS,CNG,1.199,2022-03-02 17:43
+33340,Shell Tankstelle,Naarner Strasse 73,Perg,4320,48.239517,14.626021,GAS,CNG,1.199,2022-03-02 17:43
+33352,Shell Tankstelle,Umfahrung-Sued 1,Rohrbach,4150,48.565037,13.985382,GAS,CNG,1.199,2022-03-02 17:43
+33353,Shell Tankstelle,Linzer Strasse 44,Freistadt,4240,48.502303,14.501686,GAS,CNG,1.199,2022-03-02 17:43
+33361,Shell Tankstelle,Hanuschstrasse 128,Linz,4020,48.271603,14.294458,GAS,CNG,1.199,2022-03-02 17:43
+33364,Eni Schwanenstadt,Salzburgerstrasse 41,Schwanenstadt,4690,48.048051,13.761766,GAS,CNG,1.199,2022-03-02 17:43
+171,OMV - Ansfelden Traunuferstraße 108,Traunuferstrasse 108,Ansfelden,4052,48.21607,14.27936,GAS,CNG,1.699,2022-03-02 17:43
+172,OMV - Attnang-Puchheim Salzburger Straße 91,Salzburger Strasse 91,Attnang-Puchheim,4800,48.00541,13.70937,GAS,CNG,1.699,2022-03-02 17:43
+177,OMV - Wels Eisenfeldstraße 2,Eisenfeldstrasse 2,Wels,4600,48.16575,14.0391,GAS,CNG,1.699,2022-03-02 17:43
+228,OMV - Gmunden Bahnhofstraße 42,Bahnhofstrasse 42,Gmunden,4810,47.92428,13.78782,GAS,CNG,1.699,2022-03-02 17:43
+284,OMV - Linz Hafenstraße 8,Hafenstrasse 8,Linz,4020,48.31554,14.30166,GAS,CNG,1.699,2022-03-02 17:43
+461,OMV - Asten An der Bundesstraße 1 ca.1KM,An der Bundesstrasse 1 ca.1KM,Asten,4481,48.22243,14.40833,GAS,CNG,1.699,2022-03-02 17:43
+495,OMV - Braunau Salzburger Straße 99,Salzburger Strasse 99,Braunau,5280,48.24673,13.0403,GAS,CNG,1.699,2022-03-02 17:43
+33727,AVIA,Friedrich-Thurner-Straße 21,Ried im Innkreis,4910,48.212154,13.482703,GAS,CNG,1.149,2022-03-02 17:43
+1048950,RAG.ERDGAS.MOBIL,Schwarzmoos 28,Gampern,4851,48.01639,13.57391,GAS,CNG,1.195,2022-03-02 17:43
+1048951,RAG.ERDGAS.MOBIL,Krift 51,Kremsmünster,4550,48.021777,14.121975,GAS,CNG,1.195,2022-03-02 17:43
+27340,Shell Tankstelle,Wiener Bundesstrasse 153,Traun,4050,48.234185,14.23294,GAS,CNG,1.199,2022-03-02 17:43
+33340,Shell Tankstelle,Naarner Strasse 73,Perg,4320,48.239517,14.626021,GAS,CNG,1.199,2022-03-02 17:43
+33352,Shell Tankstelle,Umfahrung-Sued 1,Rohrbach,4150,48.565037,13.985382,GAS,CNG,1.199,2022-03-02 17:43
+33353,Shell Tankstelle,Linzer Strasse 44,Freistadt,4240,48.502303,14.501686,GAS,CNG,1.199,2022-03-02 17:43
+33361,Shell Tankstelle,Hanuschstrasse 128,Linz,4020,48.271603,14.294458,GAS,CNG,1.199,2022-03-02 17:43
+33364,Eni Schwanenstadt,Salzburgerstrasse 41,Schwanenstadt,4690,48.048051,13.761766,GAS,CNG,1.199,2022-03-02 17:43
+171,OMV - Ansfelden Traunuferstraße 108,Traunuferstrasse 108,Ansfelden,4052,48.21607,14.27936,GAS,CNG,1.699,2022-03-02 17:43
+172,OMV - Attnang-Puchheim Salzburger Straße 91,Salzburger Strasse 91,Attnang-Puchheim,4800,48.00541,13.70937,GAS,CNG,1.699,2022-03-02 17:43
+177,OMV - Wels Eisenfeldstraße 2,Eisenfeldstrasse 2,Wels,4600,48.16575,14.0391,GAS,CNG,1.699,2022-03-02 17:43
+228,OMV - Gmunden Bahnhofstraße 42,Bahnhofstrasse 42,Gmunden,4810,47.92428,13.78782,GAS,CNG,1.699,2022-03-02 17:43
+284,OMV - Linz Hafenstraße 8,Hafenstrasse 8,Linz,4020,48.31554,14.30166,GAS,CNG,1.699,2022-03-02 17:43
+461,OMV - Asten An der Bundesstraße 1 ca.1KM,An der Bundesstrasse 1 ca.1KM,Asten,4481,48.22243,14.40833,GAS,CNG,1.699,2022-03-02 17:43
+495,OMV - Braunau Salzburger Straße 99,Salzburger Strasse 99,Braunau,5280,48.24673,13.0403,GAS,CNG,1.699,2022-03-02 17:43
+33727,AVIA,Friedrich-Thurner-Straße 21,Ried im Innkreis,4910,48.212154,13.482703,GAS,CNG,1.149,2022-03-02 17:43
+1048950,RAG.ERDGAS.MOBIL,Schwarzmoos 28,Gampern,4851,48.01639,13.57391,GAS,CNG,1.195,2022-03-02 17:43
+1048951,RAG.ERDGAS.MOBIL,Krift 51,Kremsmünster,4550,48.021777,14.121975,GAS,CNG,1.195,2022-03-02 17:43
+27340,Shell Tankstelle,Wiener Bundesstrasse 153,Traun,4050,48.234185,14.23294,GAS,CNG,1.199,2022-03-02 17:43
+33340,Shell Tankstelle,Naarner Strasse 73,Perg,4320,48.239517,14.626021,GAS,CNG,1.199,2022-03-02 17:43
+33352,Shell Tankstelle,Umfahrung-Sued 1,Rohrbach,4150,48.565037,13.985382,GAS,CNG,1.199,2022-03-02 17:43
+33353,Shell Tankstelle,Linzer Strasse 44,Freistadt,4240,48.502303,14.501686,GAS,CNG,1.199,2022-03-02 17:43
+33361,Shell Tankstelle,Hanuschstrasse 128,Linz,4020,48.271603,14.294458,GAS,CNG,1.199,2022-03-02 17:43
+33364,Eni Schwanenstadt,Salzburgerstrasse 41,Schwanenstadt,4690,48.048051,13.761766,GAS,CNG,1.199,2022-03-02 17:43
+171,OMV - Ansfelden Traunuferstraße 108,Traunuferstrasse 108,Ansfelden,4052,48.21607,14.27936,GAS,CNG,1.699,2022-03-02 17:43
+172,OMV - Attnang-Puchheim Salzburger Straße 91,Salzburger Strasse 91,Attnang-Puchheim,4800,48.00541,13.70937,GAS,CNG,1.699,2022-03-02 17:43
+177,OMV - Wels Eisenfeldstraße 2,Eisenfeldstrasse 2,Wels,4600,48.16575,14.0391,GAS,CNG,1.699,2022-03-02 17:43
+228,OMV - Gmunden Bahnhofstraße 42,Bahnhofstrasse 42,Gmunden,4810,47.92428,13.78782,GAS,CNG,1.699,2022-03-02 17:43
+284,OMV - Linz Hafenstraße 8,Hafenstrasse 8,Linz,4020,48.31554,14.30166,GAS,CNG,1.699,2022-03-02 17:43
+461,OMV - Asten An der Bundesstraße 1 ca.1KM,An der Bundesstrasse 1 ca.1KM,Asten,4481,48.22243,14.40833,GAS,CNG,1.699,2022-03-02 17:43
+495,OMV - Braunau Salzburger Straße 99,Salzburger Strasse 99,Braunau,5280,48.24673,13.0403,GAS,CNG,1.699,2022-03-02 17:43
+33727,AVIA,Friedrich-Thurner-Straße 21,Ried im Innkreis,4910,48.212154,13.482703,GAS,CNG,1.149,2022-03-02 17:43
+1048950,RAG.ERDGAS.MOBIL,Schwarzmoos 28,Gampern,4851,48.01639,13.57391,GAS,CNG,1.195,2022-03-02 17:43
+1048951,RAG.ERDGAS.MOBIL,Krift 51,Kremsmünster,4550,48.021777,14.121975,GAS,CNG,1.195,2022-03-02 17:43
+27340,Shell Tankstelle,Wiener Bundesstrasse 153,Traun,4050,48.234185,14.23294,GAS,CNG,1.199,2022-03-02 17:43
+33340,Shell Tankstelle,Naarner Strasse 73,Perg,4320,48.239517,14.626021,GAS,CNG,1.199,2022-03-02 17:43
+33352,Shell Tankstelle,Umfahrung-Sued 1,Rohrbach,4150,48.565037,13.985382,GAS,CNG,1.199,2022-03-02 17:43
+33353,Shell Tankstelle,Linzer Strasse 44,Freistadt,4240,48.502303,14.501686,GAS,CNG,1.199,2022-03-02 17:43
+33361,Shell Tankstelle,Hanuschstrasse 128,Linz,4020,48.271603,14.294458,GAS,CNG,1.199,2022-03-02 17:43
+33364,Eni Schwanenstadt,Salzburgerstrasse 41,Schwanenstadt,4690,48.048051,13.761766,GAS,CNG,1.199,2022-03-02 17:43
+171,OMV - Ansfelden Traunuferstraße 108,Traunuferstrasse 108,Ansfelden,4052,48.21607,14.27936,GAS,CNG,1.699,2022-03-02 17:43
+172,OMV - Attnang-Puchheim Salzburger Straße 91,Salzburger Strasse 91,Attnang-Puchheim,4800,48.00541,13.70937,GAS,CNG,1.699,2022-03-02 17:43
+177,OMV - Wels Eisenfeldstraße 2,Eisenfeldstrasse 2,Wels,4600,48.16575,14.0391,GAS,CNG,1.699,2022-03-02 17:43
+228,OMV - Gmunden Bahnhofstraße 42,Bahnhofstrasse 42,Gmunden,4810,47.92428,13.78782,GAS,CNG,1.699,2022-03-02 17:43
+284,OMV - Linz Hafenstraße 8,Hafenstrasse 8,Linz,4020,48.31554,14.30166,GAS,CNG,1.699,2022-03-02 17:43
+461,OMV - Asten An der Bundesstraße 1 ca.1KM,An der Bundesstrasse 1 ca.1KM,Asten,4481,48.22243,14.40833,GAS,CNG,1.699,2022-03-02 17:43
+495,OMV - Braunau Salzburger Straße 99,Salzburger Strasse 99,Braunau,5280,48.24673,13.0403,GAS,CNG,1.699,2022-03-02 17:43
+33727,AVIA,Friedrich-Thurner-Straße 21,Ried im Innkreis,4910,48.212154,13.482703,GAS,CNG,1.149,2022-03-02 17:43
+1048950,RAG.ERDGAS.MOBIL,Schwarzmoos 28,Gampern,4851,48.01639,13.57391,GAS,CNG,1.195,2022-03-02 17:43
+1048951,RAG.ERDGAS.MOBIL,Krift 51,Kremsmünster,4550,48.021777,14.121975,GAS,CNG,1.195,2022-03-02 17:43
+27340,Shell Tankstelle,Wiener Bundesstrasse 153,Traun,4050,48.234185,14.23294,GAS,CNG,1.199,2022-03-02 17:43
+33340,Shell Tankstelle,Naarner Strasse 73,Perg,4320,48.239517,14.626021,GAS,CNG,1.199,2022-03-02 17:43
+33352,Shell Tankstelle,Umfahrung-Sued 1,Rohrbach,4150,48.565037,13.985382,GAS,CNG,1.199,2022-03-02 17:43
+33353,Shell Tankstelle,Linzer Strasse 44,Freistadt,4240,48.502303,14.501686,GAS,CNG,1.199,2022-03-02 17:43
+33361,Shell Tankstelle,Hanuschstrasse 128,Linz,4020,48.271603,14.294458,GAS,CNG,1.199,2022-03-02 17:43
+33364,Eni Schwanenstadt,Salzburgerstrasse 41,Schwanenstadt,4690,48.048051,13.761766,GAS,CNG,1.199,2022-03-02 17:43
+171,OMV - Ansfelden Traunuferstraße 108,Traunuferstrasse 108,Ansfelden,4052,48.21607,14.27936,GAS,CNG,1.699,2022-03-02 17:43
+172,OMV - Attnang-Puchheim Salzburger Straße 91,Salzburger Strasse 91,Attnang-Puchheim,4800,48.00541,13.70937,GAS,CNG,1.699,2022-03-02 17:43
+177,OMV - Wels Eisenfeldstraße 2,Eisenfeldstrasse 2,Wels,4600,48.16575,14.0391,GAS,CNG,1.699,2022-03-02 17:43
+228,OMV - Gmunden Bahnhofstraße 42,Bahnhofstrasse 42,Gmunden,4810,47.92428,13.78782,GAS,CNG,1.699,2022-03-02 17:43
+284,OMV - Linz Hafenstraße 8,Hafenstrasse 8,Linz,4020,48.31554,14.30166,GAS,CNG,1.699,2022-03-02 17:43
+461,OMV - Asten An der Bundesstraße 1 ca.1KM,An der Bundesstrasse 1 ca.1KM,Asten,4481,48.22243,14.40833,GAS,CNG,1.699,2022-03-02 17:43
+495,OMV - Braunau Salzburger Straße 99,Salzburger Strasse 99,Braunau,5280,48.24673,13.0403,GAS,CNG,1.699,2022-03-02 17:43
+33727,AVIA,Friedrich-Thurner-Straße 21,Ried im Innkreis,4910,48.212154,13.482703,GAS,CNG,1.149,2022-03-02 17:43
+1048950,RAG.ERDGAS.MOBIL,Schwarzmoos 28,Gampern,4851,48.01639,13.57391,GAS,CNG,1.195,2022-03-02 17:43
+1048951,RAG.ERDGAS.MOBIL,Krift 51,Kremsmünster,4550,48.021777,14.121975,GAS,CNG,1.195,2022-03-02 17:43
+27340,Shell Tankstelle,Wiener Bundesstrasse 153,Traun,4050,48.234185,14.23294,GAS,CNG,1.199,2022-03-02 17:43
+33340,Shell Tankstelle,Naarner Strasse 73,Perg,4320,48.239517,14.626021,GAS,CNG,1.199,2022-03-02 17:43
+33352,Shell Tankstelle,Umfahrung-Sued 1,Rohrbach,4150,48.565037,13.985382,GAS,CNG,1.199,2022-03-02 17:43
+33353,Shell Tankstelle,Linzer Strasse 44,Freistadt,4240,48.502303,14.501686,GAS,CNG,1.199,2022-03-02 17:43
+33361,Shell Tankstelle,Hanuschstrasse 128,Linz,4020,48.271603,14.294458,GAS,CNG,1.199,2022-03-02 17:43
+33364,Eni Schwanenstadt,Salzburgerstrasse 41,Schwanenstadt,4690,48.048051,13.761766,GAS,CNG,1.199,2022-03-02 17:43
+171,OMV - Ansfelden Traunuferstraße 108,Traunuferstrasse 108,Ansfelden,4052,48.21607,14.27936,GAS,CNG,1.699,2022-03-02 17:43
+172,OMV - Attnang-Puchheim Salzburger Straße 91,Salzburger Strasse 91,Attnang-Puchheim,4800,48.00541,13.70937,GAS,CNG,1.699,2022-03-02 17:43
+177,OMV - Wels Eisenfeldstraße 2,Eisenfeldstrasse 2,Wels,4600,48.16575,14.0391,GAS,CNG,1.699,2022-03-02 17:43
+228,OMV - Gmunden Bahnhofstraße 42,Bahnhofstrasse 42,Gmunden,4810,47.92428,13.78782,GAS,CNG,1.699,2022-03-02 17:43
+284,OMV - Linz Hafenstraße 8,Hafenstrasse 8,Linz,4020,48.31554,14.30166,GAS,CNG,1.699,2022-03-02 17:43
+461,OMV - Asten An der Bundesstraße 1 ca.1KM,An der Bundesstrasse 1 ca.1KM,Asten,4481,48.22243,14.40833,GAS,CNG,1.699,2022-03-02 17:43
+495,OMV - Braunau Salzburger Straße 99,Salzburger Strasse 99,Braunau,5280,48.24673,13.0403,GAS,CNG,1.699,2022-03-02 17:43
+7694,BP,Bundesstraße 2,St. Johann,5600,47.3343734,13.189367,GAS,CNG,1.093,2022-03-02 17:43
+6176,FILLUP 24 h - 5500,Molkereistraße 10,Bischofshofen,5500,47.4132863025724,13.2183000160912,GAS,CNG,1.104,2022-03-02 17:43
+27339,Lagerhaus-Tankstelle 24 h mit Waschportal,Neumarkterstrasse 1,Strasswalchen,5204,47.9568802,13.2352561,GAS,CNG,1.104,2022-03-02 17:43
+33475,Shell Liefering,Muenchner Bundesstrasse 137,Salzburg,5020,47.833221,12.998107,GAS,CNG,1.104,2022-03-02 17:43
+247923,eni,Zeller Bundesstrasse 1a,Saalfelden,5760,47.427965,12.842227,GAS,CNG,1.104,2022-03-02 17:43
+247935,eni,Schallmooser Hauptstrasse 54,Salzburg,5020,47.807711,13.062374,GAS,CNG,1.104,2022-03-02 17:43
+247939,eni,Urstein Nord 15,Puch bei Hallein,5412,47.732187,13.086187,GAS,CNG,1.104,2022-03-02 17:43
+428033,Shell Oberndorf/Sbg,Salzburger Strasse 4,Oberndorf bei Salzburg,5110,47.935624,12.94659,GAS,CNG,1.104,2022-03-02 17:43
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",Strobl,5350,47.713120721929556,13.486561730101547,GAS,CNG,1.104,2022-03-02 17:43
+410,OMV - Golling an der Salzach Autobahn Golling Ost 31,Autobahn Golling Ost 31,Golling an der Salzach,5440,47.58396,13.1575,GAS,CNG,1.799,2022-03-02 17:43
+7694,BP,Bundesstraße 2,St. Johann,5600,47.3343734,13.189367,GAS,CNG,1.093,2022-03-02 17:43
+6176,FILLUP 24 h - 5500,Molkereistraße 10,Bischofshofen,5500,47.4132863025724,13.2183000160912,GAS,CNG,1.104,2022-03-02 17:43
+27339,Lagerhaus-Tankstelle 24 h mit Waschportal,Neumarkterstrasse 1,Strasswalchen,5204,47.9568802,13.2352561,GAS,CNG,1.104,2022-03-02 17:43
+33475,Shell Liefering,Muenchner Bundesstrasse 137,Salzburg,5020,47.833221,12.998107,GAS,CNG,1.104,2022-03-02 17:43
+247923,eni,Zeller Bundesstrasse 1a,Saalfelden,5760,47.427965,12.842227,GAS,CNG,1.104,2022-03-02 17:43
+247935,eni,Schallmooser Hauptstrasse 54,Salzburg,5020,47.807711,13.062374,GAS,CNG,1.104,2022-03-02 17:43
+247939,eni,Urstein Nord 15,Puch bei Hallein,5412,47.732187,13.086187,GAS,CNG,1.104,2022-03-02 17:43
+428033,Shell Oberndorf/Sbg,Salzburger Strasse 4,Oberndorf bei Salzburg,5110,47.935624,12.94659,GAS,CNG,1.104,2022-03-02 17:43
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",Strobl,5350,47.713120721929556,13.486561730101547,GAS,CNG,1.104,2022-03-02 17:43
+410,OMV - Golling an der Salzach Autobahn Golling Ost 31,Autobahn Golling Ost 31,Golling an der Salzach,5440,47.58396,13.1575,GAS,CNG,1.799,2022-03-02 17:43
+7694,BP,Bundesstraße 2,St. Johann,5600,47.3343734,13.189367,GAS,CNG,1.093,2022-03-02 17:43
+6176,FILLUP 24 h - 5500,Molkereistraße 10,Bischofshofen,5500,47.4132863025724,13.2183000160912,GAS,CNG,1.104,2022-03-02 17:43
+27339,Lagerhaus-Tankstelle 24 h mit Waschportal,Neumarkterstrasse 1,Strasswalchen,5204,47.9568802,13.2352561,GAS,CNG,1.104,2022-03-02 17:43
+33475,Shell Liefering,Muenchner Bundesstrasse 137,Salzburg,5020,47.833221,12.998107,GAS,CNG,1.104,2022-03-02 17:43
+247923,eni,Zeller Bundesstrasse 1a,Saalfelden,5760,47.427965,12.842227,GAS,CNG,1.104,2022-03-02 17:43
+247935,eni,Schallmooser Hauptstrasse 54,Salzburg,5020,47.807711,13.062374,GAS,CNG,1.104,2022-03-02 17:43
+247939,eni,Urstein Nord 15,Puch bei Hallein,5412,47.732187,13.086187,GAS,CNG,1.104,2022-03-02 17:43
+428033,Shell Oberndorf/Sbg,Salzburger Strasse 4,Oberndorf bei Salzburg,5110,47.935624,12.94659,GAS,CNG,1.104,2022-03-02 17:43
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",Strobl,5350,47.713120721929556,13.486561730101547,GAS,CNG,1.104,2022-03-02 17:43
+410,OMV - Golling an der Salzach Autobahn Golling Ost 31,Autobahn Golling Ost 31,Golling an der Salzach,5440,47.58396,13.1575,GAS,CNG,1.799,2022-03-02 17:43
+7694,BP,Bundesstraße 2,St. Johann,5600,47.3343734,13.189367,GAS,CNG,1.093,2022-03-02 17:43
+6176,FILLUP 24 h - 5500,Molkereistraße 10,Bischofshofen,5500,47.4132863025724,13.2183000160912,GAS,CNG,1.104,2022-03-02 17:43
+27339,Lagerhaus-Tankstelle 24 h mit Waschportal,Neumarkterstrasse 1,Strasswalchen,5204,47.9568802,13.2352561,GAS,CNG,1.104,2022-03-02 17:43
+33475,Shell Liefering,Muenchner Bundesstrasse 137,Salzburg,5020,47.833221,12.998107,GAS,CNG,1.104,2022-03-02 17:43
+247923,eni,Zeller Bundesstrasse 1a,Saalfelden,5760,47.427965,12.842227,GAS,CNG,1.104,2022-03-02 17:43
+247935,eni,Schallmooser Hauptstrasse 54,Salzburg,5020,47.807711,13.062374,GAS,CNG,1.104,2022-03-02 17:43
+247939,eni,Urstein Nord 15,Puch bei Hallein,5412,47.732187,13.086187,GAS,CNG,1.104,2022-03-02 17:43
+428033,Shell Oberndorf/Sbg,Salzburger Strasse 4,Oberndorf bei Salzburg,5110,47.935624,12.94659,GAS,CNG,1.104,2022-03-02 17:43
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",Strobl,5350,47.713120721929556,13.486561730101547,GAS,CNG,1.104,2022-03-02 17:43
+410,OMV - Golling an der Salzach Autobahn Golling Ost 31,Autobahn Golling Ost 31,Golling an der Salzach,5440,47.58396,13.1575,GAS,CNG,1.799,2022-03-02 17:43
+7694,BP,Bundesstraße 2,St. Johann,5600,47.3343734,13.189367,GAS,CNG,1.093,2022-03-02 17:43
+6176,FILLUP 24 h - 5500,Molkereistraße 10,Bischofshofen,5500,47.4132863025724,13.2183000160912,GAS,CNG,1.104,2022-03-02 17:43
+27339,Lagerhaus-Tankstelle 24 h mit Waschportal,Neumarkterstrasse 1,Strasswalchen,5204,47.9568802,13.2352561,GAS,CNG,1.104,2022-03-02 17:43
+33475,Shell Liefering,Muenchner Bundesstrasse 137,Salzburg,5020,47.833221,12.998107,GAS,CNG,1.104,2022-03-02 17:43
+247923,eni,Zeller Bundesstrasse 1a,Saalfelden,5760,47.427965,12.842227,GAS,CNG,1.104,2022-03-02 17:43
+247935,eni,Schallmooser Hauptstrasse 54,Salzburg,5020,47.807711,13.062374,GAS,CNG,1.104,2022-03-02 17:43
+247939,eni,Urstein Nord 15,Puch bei Hallein,5412,47.732187,13.086187,GAS,CNG,1.104,2022-03-02 17:43
+428033,Shell Oberndorf/Sbg,Salzburger Strasse 4,Oberndorf bei Salzburg,5110,47.935624,12.94659,GAS,CNG,1.104,2022-03-02 17:43
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",Strobl,5350,47.713120721929556,13.486561730101547,GAS,CNG,1.104,2022-03-02 17:43
+410,OMV - Golling an der Salzach Autobahn Golling Ost 31,Autobahn Golling Ost 31,Golling an der Salzach,5440,47.58396,13.1575,GAS,CNG,1.799,2022-03-02 17:43
+7694,BP,Bundesstraße 2,St. Johann,5600,47.3343734,13.189367,GAS,CNG,1.093,2022-03-02 17:43
+6176,FILLUP 24 h - 5500,Molkereistraße 10,Bischofshofen,5500,47.4132863025724,13.2183000160912,GAS,CNG,1.104,2022-03-02 17:43
+27339,Lagerhaus-Tankstelle 24 h mit Waschportal,Neumarkterstrasse 1,Strasswalchen,5204,47.9568802,13.2352561,GAS,CNG,1.104,2022-03-02 17:43
+33475,Shell Liefering,Muenchner Bundesstrasse 137,Salzburg,5020,47.833221,12.998107,GAS,CNG,1.104,2022-03-02 17:43
+247923,eni,Zeller Bundesstrasse 1a,Saalfelden,5760,47.427965,12.842227,GAS,CNG,1.104,2022-03-02 17:43
+247935,eni,Schallmooser Hauptstrasse 54,Salzburg,5020,47.807711,13.062374,GAS,CNG,1.104,2022-03-02 17:43
+247939,eni,Urstein Nord 15,Puch bei Hallein,5412,47.732187,13.086187,GAS,CNG,1.104,2022-03-02 17:43
+428033,Shell Oberndorf/Sbg,Salzburger Strasse 4,Oberndorf bei Salzburg,5110,47.935624,12.94659,GAS,CNG,1.104,2022-03-02 17:43
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",Strobl,5350,47.713120721929556,13.486561730101547,GAS,CNG,1.104,2022-03-02 17:43
+410,OMV - Golling an der Salzach Autobahn Golling Ost 31,Autobahn Golling Ost 31,Golling an der Salzach,5440,47.58396,13.1575,GAS,CNG,1.799,2022-03-02 17:43
+7694,BP,Bundesstraße 2,St. Johann,5600,47.3343734,13.189367,GAS,CNG,1.093,2022-03-02 17:43
+6176,FILLUP 24 h - 5500,Molkereistraße 10,Bischofshofen,5500,47.4132863025724,13.2183000160912,GAS,CNG,1.104,2022-03-02 17:43
+27339,Lagerhaus-Tankstelle 24 h mit Waschportal,Neumarkterstrasse 1,Strasswalchen,5204,47.9568802,13.2352561,GAS,CNG,1.104,2022-03-02 17:43
+33475,Shell Liefering,Muenchner Bundesstrasse 137,Salzburg,5020,47.833221,12.998107,GAS,CNG,1.104,2022-03-02 17:43
+247923,eni,Zeller Bundesstrasse 1a,Saalfelden,5760,47.427965,12.842227,GAS,CNG,1.104,2022-03-02 17:43
+247935,eni,Schallmooser Hauptstrasse 54,Salzburg,5020,47.807711,13.062374,GAS,CNG,1.104,2022-03-02 17:43
+247939,eni,Urstein Nord 15,Puch bei Hallein,5412,47.732187,13.086187,GAS,CNG,1.104,2022-03-02 17:43
+428033,Shell Oberndorf/Sbg,Salzburger Strasse 4,Oberndorf bei Salzburg,5110,47.935624,12.94659,GAS,CNG,1.104,2022-03-02 17:43
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",Strobl,5350,47.713120721929556,13.486561730101547,GAS,CNG,1.104,2022-03-02 17:43
+410,OMV - Golling an der Salzach Autobahn Golling Ost 31,Autobahn Golling Ost 31,Golling an der Salzach,5440,47.58396,13.1575,GAS,CNG,1.799,2022-03-02 17:43
+33472,Stadtwerke Leoben,Kerpelystraße 34,Leoben,8700,47.3746958,15.0823166,GAS,CNG,1.049,2022-03-02 17:43
+247997,eni,Wiener Strasse 304,Graz,8051,47.098039,15.404107,GAS,CNG,1.079,2022-03-02 17:43
+248004,eni,Pirching 97,Hofstätten a. d. Raab,8200,47.089452,15.73237,GAS,CNG,1.089,2022-03-02 17:43
+248005,eni,Gewerbepark Nord Nr. 11,Gralla,8431,46.80548,15.56009,GAS,CNG,1.098,2022-03-02 17:43
+1338037,Turmöl Quick,Fabrikgasse 29,Graz,8020,47.0591358,15.4265899,GAS,CNG,1.129,2022-03-02 17:43
+428035,Shell Lannach,Radlpass Strasse 26,Lannach,8502,46.949105,15.337384,GAS,CNG,1.199,2022-03-02 17:43
+7843,eni,Markt Hartmannsdorf 297,Markt Hartmannsdorf,8311,47.05449,15.84083,GAS,CNG,1.239,2022-03-02 17:43
+1038732,ENI,Gesäusestraße,Liezen,8940,47.5593257,14.2532636,GAS,CNG,1.25,2022-03-02 17:43
+488,OMV - Graz Straßganger Straße 436,Strassganger Strasse 436,Graz,8054,47.03326,15.39896,GAS,CNG,1.699,2022-03-02 17:43
+1473929,Turmöl Judenburg,Burggasse 42,Judenburg,8750,47.16888851208108,14.65430780513867,GAS,CNG,1.699,2022-03-02 17:43
+33472,Stadtwerke Leoben,Kerpelystraße 34,Leoben,8700,47.3746958,15.0823166,GAS,CNG,1.049,2022-03-02 17:43
+247997,eni,Wiener Strasse 304,Graz,8051,47.098039,15.404107,GAS,CNG,1.079,2022-03-02 17:43
+248004,eni,Pirching 97,Hofstätten a. d. Raab,8200,47.089452,15.73237,GAS,CNG,1.089,2022-03-02 17:43
+248005,eni,Gewerbepark Nord Nr. 11,Gralla,8431,46.80548,15.56009,GAS,CNG,1.098,2022-03-02 17:43
+1338037,Turmöl Quick,Fabrikgasse 29,Graz,8020,47.0591358,15.4265899,GAS,CNG,1.129,2022-03-02 17:43
+428035,Shell Lannach,Radlpass Strasse 26,Lannach,8502,46.949105,15.337384,GAS,CNG,1.199,2022-03-02 17:43
+7843,eni,Markt Hartmannsdorf 297,Markt Hartmannsdorf,8311,47.05449,15.84083,GAS,CNG,1.239,2022-03-02 17:43
+1038732,ENI,Gesäusestraße,Liezen,8940,47.5593257,14.2532636,GAS,CNG,1.25,2022-03-02 17:43
+488,OMV - Graz Straßganger Straße 436,Strassganger Strasse 436,Graz,8054,47.03326,15.39896,GAS,CNG,1.699,2022-03-02 17:43
+1473929,Turmöl Judenburg,Burggasse 42,Judenburg,8750,47.16888851208108,14.65430780513867,GAS,CNG,1.699,2022-03-02 17:43
+33472,Stadtwerke Leoben,Kerpelystraße 34,Leoben,8700,47.3746958,15.0823166,GAS,CNG,1.049,2022-03-02 17:43
+247997,eni,Wiener Strasse 304,Graz,8051,47.098039,15.404107,GAS,CNG,1.079,2022-03-02 17:43
+248004,eni,Pirching 97,Hofstätten a. d. Raab,8200,47.089452,15.73237,GAS,CNG,1.089,2022-03-02 17:43
+248005,eni,Gewerbepark Nord Nr. 11,Gralla,8431,46.80548,15.56009,GAS,CNG,1.098,2022-03-02 17:43
+1338037,Turmöl Quick,Fabrikgasse 29,Graz,8020,47.0591358,15.4265899,GAS,CNG,1.129,2022-03-02 17:43
+428035,Shell Lannach,Radlpass Strasse 26,Lannach,8502,46.949105,15.337384,GAS,CNG,1.199,2022-03-02 17:43
+7843,eni,Markt Hartmannsdorf 297,Markt Hartmannsdorf,8311,47.05449,15.84083,GAS,CNG,1.239,2022-03-02 17:43
+1038732,ENI,Gesäusestraße,Liezen,8940,47.5593257,14.2532636,GAS,CNG,1.25,2022-03-02 17:43
+488,OMV - Graz Straßganger Straße 436,Strassganger Strasse 436,Graz,8054,47.03326,15.39896,GAS,CNG,1.699,2022-03-02 17:43
+1473929,Turmöl Judenburg,Burggasse 42,Judenburg,8750,47.16888851208108,14.65430780513867,GAS,CNG,1.699,2022-03-02 17:43
+33472,Stadtwerke Leoben,Kerpelystraße 34,Leoben,8700,47.3746958,15.0823166,GAS,CNG,1.049,2022-03-02 17:43
+247997,eni,Wiener Strasse 304,Graz,8051,47.098039,15.404107,GAS,CNG,1.079,2022-03-02 17:43
+248004,eni,Pirching 97,Hofstätten a. d. Raab,8200,47.089452,15.73237,GAS,CNG,1.089,2022-03-02 17:43
+248005,eni,Gewerbepark Nord Nr. 11,Gralla,8431,46.80548,15.56009,GAS,CNG,1.098,2022-03-02 17:43
+1338037,Turmöl Quick,Fabrikgasse 29,Graz,8020,47.0591358,15.4265899,GAS,CNG,1.129,2022-03-02 17:43
+428035,Shell Lannach,Radlpass Strasse 26,Lannach,8502,46.949105,15.337384,GAS,CNG,1.199,2022-03-02 17:43
+7843,eni,Markt Hartmannsdorf 297,Markt Hartmannsdorf,8311,47.05449,15.84083,GAS,CNG,1.239,2022-03-02 17:43
+1038732,ENI,Gesäusestraße,Liezen,8940,47.5593257,14.2532636,GAS,CNG,1.25,2022-03-02 17:43
+488,OMV - Graz Straßganger Straße 436,Strassganger Strasse 436,Graz,8054,47.03326,15.39896,GAS,CNG,1.699,2022-03-02 17:43
+1473929,Turmöl Judenburg,Burggasse 42,Judenburg,8750,47.16888851208108,14.65430780513867,GAS,CNG,1.699,2022-03-02 17:43
+33472,Stadtwerke Leoben,Kerpelystraße 34,Leoben,8700,47.3746958,15.0823166,GAS,CNG,1.049,2022-03-02 17:43
+247997,eni,Wiener Strasse 304,Graz,8051,47.098039,15.404107,GAS,CNG,1.079,2022-03-02 17:43
+248004,eni,Pirching 97,Hofstätten a. d. Raab,8200,47.089452,15.73237,GAS,CNG,1.089,2022-03-02 17:43
+248005,eni,Gewerbepark Nord Nr. 11,Gralla,8431,46.80548,15.56009,GAS,CNG,1.098,2022-03-02 17:43
+1338037,Turmöl Quick,Fabrikgasse 29,Graz,8020,47.0591358,15.4265899,GAS,CNG,1.129,2022-03-02 17:43
+428035,Shell Lannach,Radlpass Strasse 26,Lannach,8502,46.949105,15.337384,GAS,CNG,1.199,2022-03-02 17:43
+7843,eni,Markt Hartmannsdorf 297,Markt Hartmannsdorf,8311,47.05449,15.84083,GAS,CNG,1.239,2022-03-02 17:43
+1038732,ENI,Gesäusestraße,Liezen,8940,47.5593257,14.2532636,GAS,CNG,1.25,2022-03-02 17:43
+488,OMV - Graz Straßganger Straße 436,Strassganger Strasse 436,Graz,8054,47.03326,15.39896,GAS,CNG,1.699,2022-03-02 17:43
+1473929,Turmöl Judenburg,Burggasse 42,Judenburg,8750,47.16888851208108,14.65430780513867,GAS,CNG,1.699,2022-03-02 17:43
+33472,Stadtwerke Leoben,Kerpelystraße 34,Leoben,8700,47.3746958,15.0823166,GAS,CNG,1.049,2022-03-02 17:43
+247997,eni,Wiener Strasse 304,Graz,8051,47.098039,15.404107,GAS,CNG,1.079,2022-03-02 17:43
+248004,eni,Pirching 97,Hofstätten a. d. Raab,8200,47.089452,15.73237,GAS,CNG,1.089,2022-03-02 17:43
+248005,eni,Gewerbepark Nord Nr. 11,Gralla,8431,46.80548,15.56009,GAS,CNG,1.098,2022-03-02 17:43
+1338037,Turmöl Quick,Fabrikgasse 29,Graz,8020,47.0591358,15.4265899,GAS,CNG,1.129,2022-03-02 17:43
+428035,Shell Lannach,Radlpass Strasse 26,Lannach,8502,46.949105,15.337384,GAS,CNG,1.199,2022-03-02 17:43
+7843,eni,Markt Hartmannsdorf 297,Markt Hartmannsdorf,8311,47.05449,15.84083,GAS,CNG,1.239,2022-03-02 17:43
+1038732,ENI,Gesäusestraße,Liezen,8940,47.5593257,14.2532636,GAS,CNG,1.25,2022-03-02 17:43
+488,OMV - Graz Straßganger Straße 436,Strassganger Strasse 436,Graz,8054,47.03326,15.39896,GAS,CNG,1.699,2022-03-02 17:43
+1473929,Turmöl Judenburg,Burggasse 42,Judenburg,8750,47.16888851208108,14.65430780513867,GAS,CNG,1.699,2022-03-02 17:43
+33472,Stadtwerke Leoben,Kerpelystraße 34,Leoben,8700,47.3746958,15.0823166,GAS,CNG,1.049,2022-03-02 17:43
+247997,eni,Wiener Strasse 304,Graz,8051,47.098039,15.404107,GAS,CNG,1.079,2022-03-02 17:43
+248004,eni,Pirching 97,Hofstätten a. d. Raab,8200,47.089452,15.73237,GAS,CNG,1.089,2022-03-02 17:43
+248005,eni,Gewerbepark Nord Nr. 11,Gralla,8431,46.80548,15.56009,GAS,CNG,1.098,2022-03-02 17:43
+1338037,Turmöl Quick,Fabrikgasse 29,Graz,8020,47.0591358,15.4265899,GAS,CNG,1.129,2022-03-02 17:43
+428035,Shell Lannach,Radlpass Strasse 26,Lannach,8502,46.949105,15.337384,GAS,CNG,1.199,2022-03-02 17:43
+7843,eni,Markt Hartmannsdorf 297,Markt Hartmannsdorf,8311,47.05449,15.84083,GAS,CNG,1.239,2022-03-02 17:43
+1038732,ENI,Gesäusestraße,Liezen,8940,47.5593257,14.2532636,GAS,CNG,1.25,2022-03-02 17:43
+488,OMV - Graz Straßganger Straße 436,Strassganger Strasse 436,Graz,8054,47.03326,15.39896,GAS,CNG,1.699,2022-03-02 17:43
+1473929,Turmöl Judenburg,Burggasse 42,Judenburg,8750,47.16888851208108,14.65430780513867,GAS,CNG,1.699,2022-03-02 17:43
+33472,Stadtwerke Leoben,Kerpelystraße 34,Leoben,8700,47.3746958,15.0823166,GAS,CNG,1.049,2022-03-02 17:43
+247997,eni,Wiener Strasse 304,Graz,8051,47.098039,15.404107,GAS,CNG,1.079,2022-03-02 17:43
+248004,eni,Pirching 97,Hofstätten a. d. Raab,8200,47.089452,15.73237,GAS,CNG,1.089,2022-03-02 17:43
+248005,eni,Gewerbepark Nord Nr. 11,Gralla,8431,46.80548,15.56009,GAS,CNG,1.098,2022-03-02 17:43
+1338037,Turmöl Quick,Fabrikgasse 29,Graz,8020,47.0591358,15.4265899,GAS,CNG,1.129,2022-03-02 17:43
+428035,Shell Lannach,Radlpass Strasse 26,Lannach,8502,46.949105,15.337384,GAS,CNG,1.199,2022-03-02 17:43
+7843,eni,Markt Hartmannsdorf 297,Markt Hartmannsdorf,8311,47.05449,15.84083,GAS,CNG,1.239,2022-03-02 17:43
+1038732,ENI,Gesäusestraße,Liezen,8940,47.5593257,14.2532636,GAS,CNG,1.25,2022-03-02 17:43
+488,OMV - Graz Straßganger Straße 436,Strassganger Strasse 436,Graz,8054,47.03326,15.39896,GAS,CNG,1.699,2022-03-02 17:43
+1473929,Turmöl Judenburg,Burggasse 42,Judenburg,8750,47.16888851208108,14.65430780513867,GAS,CNG,1.699,2022-03-02 17:43
+33472,Stadtwerke Leoben,Kerpelystraße 34,Leoben,8700,47.3746958,15.0823166,GAS,CNG,1.049,2022-03-02 17:43
+247997,eni,Wiener Strasse 304,Graz,8051,47.098039,15.404107,GAS,CNG,1.079,2022-03-02 17:43
+248004,eni,Pirching 97,Hofstätten a. d. Raab,8200,47.089452,15.73237,GAS,CNG,1.089,2022-03-02 17:43
+248005,eni,Gewerbepark Nord Nr. 11,Gralla,8431,46.80548,15.56009,GAS,CNG,1.098,2022-03-02 17:43
+1338037,Turmöl Quick,Fabrikgasse 29,Graz,8020,47.0591358,15.4265899,GAS,CNG,1.129,2022-03-02 17:43
+428035,Shell Lannach,Radlpass Strasse 26,Lannach,8502,46.949105,15.337384,GAS,CNG,1.199,2022-03-02 17:43
+7843,eni,Markt Hartmannsdorf 297,Markt Hartmannsdorf,8311,47.05449,15.84083,GAS,CNG,1.239,2022-03-02 17:43
+1038732,ENI,Gesäusestraße,Liezen,8940,47.5593257,14.2532636,GAS,CNG,1.25,2022-03-02 17:43
+488,OMV - Graz Straßganger Straße 436,Strassganger Strasse 436,Graz,8054,47.03326,15.39896,GAS,CNG,1.699,2022-03-02 17:43
+1473929,Turmöl Judenburg,Burggasse 42,Judenburg,8750,47.16888851208108,14.65430780513867,GAS,CNG,1.699,2022-03-02 17:43
+33472,Stadtwerke Leoben,Kerpelystraße 34,Leoben,8700,47.3746958,15.0823166,GAS,CNG,1.049,2022-03-02 17:43
+247997,eni,Wiener Strasse 304,Graz,8051,47.098039,15.404107,GAS,CNG,1.079,2022-03-02 17:43
+248004,eni,Pirching 97,Hofstätten a. d. Raab,8200,47.089452,15.73237,GAS,CNG,1.089,2022-03-02 17:43
+248005,eni,Gewerbepark Nord Nr. 11,Gralla,8431,46.80548,15.56009,GAS,CNG,1.098,2022-03-02 17:43
+1338037,Turmöl Quick,Fabrikgasse 29,Graz,8020,47.0591358,15.4265899,GAS,CNG,1.129,2022-03-02 17:43
+428035,Shell Lannach,Radlpass Strasse 26,Lannach,8502,46.949105,15.337384,GAS,CNG,1.199,2022-03-02 17:43
+7843,eni,Markt Hartmannsdorf 297,Markt Hartmannsdorf,8311,47.05449,15.84083,GAS,CNG,1.239,2022-03-02 17:43
+1038732,ENI,Gesäusestraße,Liezen,8940,47.5593257,14.2532636,GAS,CNG,1.25,2022-03-02 17:43
+488,OMV - Graz Straßganger Straße 436,Strassganger Strasse 436,Graz,8054,47.03326,15.39896,GAS,CNG,1.699,2022-03-02 17:43
+1473929,Turmöl Judenburg,Burggasse 42,Judenburg,8750,47.16888851208108,14.65430780513867,GAS,CNG,1.699,2022-03-02 17:43
+33472,Stadtwerke Leoben,Kerpelystraße 34,Leoben,8700,47.3746958,15.0823166,GAS,CNG,1.049,2022-03-02 17:43
+247997,eni,Wiener Strasse 304,Graz,8051,47.098039,15.404107,GAS,CNG,1.079,2022-03-02 17:43
+248004,eni,Pirching 97,Hofstätten a. d. Raab,8200,47.089452,15.73237,GAS,CNG,1.089,2022-03-02 17:43
+248005,eni,Gewerbepark Nord Nr. 11,Gralla,8431,46.80548,15.56009,GAS,CNG,1.098,2022-03-02 17:43
+1338037,Turmöl Quick,Fabrikgasse 29,Graz,8020,47.0591358,15.4265899,GAS,CNG,1.129,2022-03-02 17:43
+428035,Shell Lannach,Radlpass Strasse 26,Lannach,8502,46.949105,15.337384,GAS,CNG,1.199,2022-03-02 17:43
+7843,eni,Markt Hartmannsdorf 297,Markt Hartmannsdorf,8311,47.05449,15.84083,GAS,CNG,1.239,2022-03-02 17:43
+1038732,ENI,Gesäusestraße,Liezen,8940,47.5593257,14.2532636,GAS,CNG,1.25,2022-03-02 17:43
+488,OMV - Graz Straßganger Straße 436,Strassganger Strasse 436,Graz,8054,47.03326,15.39896,GAS,CNG,1.699,2022-03-02 17:43
+1473929,Turmöl Judenburg,Burggasse 42,Judenburg,8750,47.16888851208108,14.65430780513867,GAS,CNG,1.699,2022-03-02 17:43
+33472,Stadtwerke Leoben,Kerpelystraße 34,Leoben,8700,47.3746958,15.0823166,GAS,CNG,1.049,2022-03-02 17:43
+247997,eni,Wiener Strasse 304,Graz,8051,47.098039,15.404107,GAS,CNG,1.079,2022-03-02 17:43
+248004,eni,Pirching 97,Hofstätten a. d. Raab,8200,47.089452,15.73237,GAS,CNG,1.089,2022-03-02 17:43
+248005,eni,Gewerbepark Nord Nr. 11,Gralla,8431,46.80548,15.56009,GAS,CNG,1.098,2022-03-02 17:43
+1338037,Turmöl Quick,Fabrikgasse 29,Graz,8020,47.0591358,15.4265899,GAS,CNG,1.129,2022-03-02 17:43
+428035,Shell Lannach,Radlpass Strasse 26,Lannach,8502,46.949105,15.337384,GAS,CNG,1.199,2022-03-02 17:43
+7843,eni,Markt Hartmannsdorf 297,Markt Hartmannsdorf,8311,47.05449,15.84083,GAS,CNG,1.239,2022-03-02 17:43
+1038732,ENI,Gesäusestraße,Liezen,8940,47.5593257,14.2532636,GAS,CNG,1.25,2022-03-02 17:43
+488,OMV - Graz Straßganger Straße 436,Strassganger Strasse 436,Graz,8054,47.03326,15.39896,GAS,CNG,1.699,2022-03-02 17:43
+1473929,Turmöl Judenburg,Burggasse 42,Judenburg,8750,47.16888851208108,14.65430780513867,GAS,CNG,1.699,2022-03-02 17:43
+33472,Stadtwerke Leoben,Kerpelystraße 34,Leoben,8700,47.3746958,15.0823166,GAS,CNG,1.049,2022-03-02 17:43
+247997,eni,Wiener Strasse 304,Graz,8051,47.098039,15.404107,GAS,CNG,1.079,2022-03-02 17:43
+248004,eni,Pirching 97,Hofstätten a. d. Raab,8200,47.089452,15.73237,GAS,CNG,1.089,2022-03-02 17:43
+248005,eni,Gewerbepark Nord Nr. 11,Gralla,8431,46.80548,15.56009,GAS,CNG,1.098,2022-03-02 17:43
+1338037,Turmöl Quick,Fabrikgasse 29,Graz,8020,47.0591358,15.4265899,GAS,CNG,1.129,2022-03-02 17:43
+428035,Shell Lannach,Radlpass Strasse 26,Lannach,8502,46.949105,15.337384,GAS,CNG,1.199,2022-03-02 17:43
+7843,eni,Markt Hartmannsdorf 297,Markt Hartmannsdorf,8311,47.05449,15.84083,GAS,CNG,1.239,2022-03-02 17:43
+1038732,ENI,Gesäusestraße,Liezen,8940,47.5593257,14.2532636,GAS,CNG,1.25,2022-03-02 17:43
+488,OMV - Graz Straßganger Straße 436,Strassganger Strasse 436,Graz,8054,47.03326,15.39896,GAS,CNG,1.699,2022-03-02 17:43
+1473929,Turmöl Judenburg,Burggasse 42,Judenburg,8750,47.16888851208108,14.65430780513867,GAS,CNG,1.699,2022-03-02 17:43
+33472,Stadtwerke Leoben,Kerpelystraße 34,Leoben,8700,47.3746958,15.0823166,GAS,CNG,1.049,2022-03-02 17:43
+247997,eni,Wiener Strasse 304,Graz,8051,47.098039,15.404107,GAS,CNG,1.079,2022-03-02 17:43
+248004,eni,Pirching 97,Hofstätten a. d. Raab,8200,47.089452,15.73237,GAS,CNG,1.089,2022-03-02 17:43
+248005,eni,Gewerbepark Nord Nr. 11,Gralla,8431,46.80548,15.56009,GAS,CNG,1.098,2022-03-02 17:43
+1338037,Turmöl Quick,Fabrikgasse 29,Graz,8020,47.0591358,15.4265899,GAS,CNG,1.129,2022-03-02 17:43
+428035,Shell Lannach,Radlpass Strasse 26,Lannach,8502,46.949105,15.337384,GAS,CNG,1.199,2022-03-02 17:43
+7843,eni,Markt Hartmannsdorf 297,Markt Hartmannsdorf,8311,47.05449,15.84083,GAS,CNG,1.239,2022-03-02 17:43
+1038732,ENI,Gesäusestraße,Liezen,8940,47.5593257,14.2532636,GAS,CNG,1.25,2022-03-02 17:43
+488,OMV - Graz Straßganger Straße 436,Strassganger Strasse 436,Graz,8054,47.03326,15.39896,GAS,CNG,1.699,2022-03-02 17:43
+1473929,Turmöl Judenburg,Burggasse 42,Judenburg,8750,47.16888851208108,14.65430780513867,GAS,CNG,1.699,2022-03-02 17:43
+7724,BP,Reichenauer Straße 149,Innsbruck,6020,47.2738154,11.4281608,GAS,CNG,0.979,2022-03-02 17:43
+1059610,ENI,Amraser See 64,Innsbruck,6020,47.2634138,11.4333943,GAS,CNG,0.979,2022-03-02 17:43
+1470867,ENI Stumm ,Gewerbegebiet 6,Stumm ,6275,47.29034628764583,11.88055119320892,GAS,CNG,0.979,2022-03-02 17:43
+33715,AVIA,Schlitters 27c,Schlitters,6262,47.3811223,11.8341075,GAS,CNG,1.046,2022-03-02 17:43
+4073,Freie Tankstelle,Dr. Hans Bachmannstrasse 51a,Kundl,6250,47.4733396,11.9790487,GAS,CNG,1.059,2022-03-02 17:43
+3071,Gutmann ENI Tankstelle,Fürstenweg 87,Innsbruck,6020,47.2622324066577,11.3727536634174,GAS,CNG,1.146,2022-03-02 17:43
+3080,Gutmann ENI Tankstelle,Sellrainer Straße 2,Kematen,6175,47.2623643,11.2637622,GAS,CNG,1.146,2022-03-02 17:43
+3081,Gutmann ENI Tankstelle,Bundesstraße 14,Mils,6068,47.2813456,11.5340622,GAS,CNG,1.146,2022-03-02 17:43
+3085,Gutmann ENI Tankstelle,Ambergstraße 40,Ötztal ,6430,47.2316892,10.8531181,GAS,CNG,1.146,2022-03-02 17:43
+3088,Gutmann ENI Tankstelle,Gewerbestraße 2,Prutz,6522,47.0914553,10.6671344,GAS,CNG,1.146,2022-03-02 17:43
+3093,Gutmann ENI Tankstelle,Industriestraße 12,Vomp,6134,47.3510889,11.7004781,GAS,CNG,1.146,2022-03-02 17:43
+4050,Gutmann ENI Tankstelle+TANKAUTOMAT,Bahnhofstraße 11,Oberndorf,6372,47.4964984,12.3882226,GAS,CNG,1.146,2022-03-02 17:43
+4158,Disk,Hauptstraße 18,Zams,6511,47.1541793,10.5844558,GAS,CNG,1.146,2022-03-02 17:43
+6612,ENI,Dorf 23d,Wiesing,6210,47.4034807,11.8032194,GAS,CNG,1.146,2022-03-02 17:43
+34002,Thrainer,Audorfer Straße 41,Niederndorf,6342,47.6488703,12.1965438,GAS,CNG,1.146,2022-03-02 17:43
+247915,eni,Innsbruckerstrasse 29,Brixlegg,6230,47.43262,11.87891,GAS,CNG,1.146,2022-03-02 17:43
+789150,WT Telfs,Hans-Liebherr-Strasse 33,Telfs,6410,47.3140345,11.1001827,GAS,CNG,1.146,2022-03-02 17:43
+1113701,Gutmann Eni Tankstelle,Stubaitalstrasse 10,Mieders,6142,47.160059,11.368108,GAS,CNG,1.146,2022-03-02 17:43
+7724,BP,Reichenauer Straße 149,Innsbruck,6020,47.2738154,11.4281608,GAS,CNG,0.979,2022-03-02 17:43
+1059610,ENI,Amraser See 64,Innsbruck,6020,47.2634138,11.4333943,GAS,CNG,0.979,2022-03-02 17:43
+1470867,ENI Stumm ,Gewerbegebiet 6,Stumm ,6275,47.29034628764583,11.88055119320892,GAS,CNG,0.979,2022-03-02 17:43
+33715,AVIA,Schlitters 27c,Schlitters,6262,47.3811223,11.8341075,GAS,CNG,1.046,2022-03-02 17:43
+4073,Freie Tankstelle,Dr. Hans Bachmannstrasse 51a,Kundl,6250,47.4733396,11.9790487,GAS,CNG,1.059,2022-03-02 17:43
+3071,Gutmann ENI Tankstelle,Fürstenweg 87,Innsbruck,6020,47.2622324066577,11.3727536634174,GAS,CNG,1.146,2022-03-02 17:43
+3080,Gutmann ENI Tankstelle,Sellrainer Straße 2,Kematen,6175,47.2623643,11.2637622,GAS,CNG,1.146,2022-03-02 17:43
+3081,Gutmann ENI Tankstelle,Bundesstraße 14,Mils,6068,47.2813456,11.5340622,GAS,CNG,1.146,2022-03-02 17:43
+3085,Gutmann ENI Tankstelle,Ambergstraße 40,Ötztal ,6430,47.2316892,10.8531181,GAS,CNG,1.146,2022-03-02 17:43
+3088,Gutmann ENI Tankstelle,Gewerbestraße 2,Prutz,6522,47.0914553,10.6671344,GAS,CNG,1.146,2022-03-02 17:43
+3093,Gutmann ENI Tankstelle,Industriestraße 12,Vomp,6134,47.3510889,11.7004781,GAS,CNG,1.146,2022-03-02 17:43
+4050,Gutmann ENI Tankstelle+TANKAUTOMAT,Bahnhofstraße 11,Oberndorf,6372,47.4964984,12.3882226,GAS,CNG,1.146,2022-03-02 17:43
+4158,Disk,Hauptstraße 18,Zams,6511,47.1541793,10.5844558,GAS,CNG,1.146,2022-03-02 17:43
+6612,ENI,Dorf 23d,Wiesing,6210,47.4034807,11.8032194,GAS,CNG,1.146,2022-03-02 17:43
+34002,Thrainer,Audorfer Straße 41,Niederndorf,6342,47.6488703,12.1965438,GAS,CNG,1.146,2022-03-02 17:43
+247915,eni,Innsbruckerstrasse 29,Brixlegg,6230,47.43262,11.87891,GAS,CNG,1.146,2022-03-02 17:43
+789150,WT Telfs,Hans-Liebherr-Strasse 33,Telfs,6410,47.3140345,11.1001827,GAS,CNG,1.146,2022-03-02 17:43
+1113701,Gutmann Eni Tankstelle,Stubaitalstrasse 10,Mieders,6142,47.160059,11.368108,GAS,CNG,1.146,2022-03-02 17:43
+7724,BP,Reichenauer Straße 149,Innsbruck,6020,47.2738154,11.4281608,GAS,CNG,0.979,2022-03-02 17:43
+1059610,ENI,Amraser See 64,Innsbruck,6020,47.2634138,11.4333943,GAS,CNG,0.979,2022-03-02 17:43
+1470867,ENI Stumm ,Gewerbegebiet 6,Stumm ,6275,47.29034628764583,11.88055119320892,GAS,CNG,0.979,2022-03-02 17:43
+33715,AVIA,Schlitters 27c,Schlitters,6262,47.3811223,11.8341075,GAS,CNG,1.046,2022-03-02 17:43
+4073,Freie Tankstelle,Dr. Hans Bachmannstrasse 51a,Kundl,6250,47.4733396,11.9790487,GAS,CNG,1.059,2022-03-02 17:43
+3071,Gutmann ENI Tankstelle,Fürstenweg 87,Innsbruck,6020,47.2622324066577,11.3727536634174,GAS,CNG,1.146,2022-03-02 17:43
+3080,Gutmann ENI Tankstelle,Sellrainer Straße 2,Kematen,6175,47.2623643,11.2637622,GAS,CNG,1.146,2022-03-02 17:43
+3081,Gutmann ENI Tankstelle,Bundesstraße 14,Mils,6068,47.2813456,11.5340622,GAS,CNG,1.146,2022-03-02 17:43
+3085,Gutmann ENI Tankstelle,Ambergstraße 40,Ötztal ,6430,47.2316892,10.8531181,GAS,CNG,1.146,2022-03-02 17:43
+3088,Gutmann ENI Tankstelle,Gewerbestraße 2,Prutz,6522,47.0914553,10.6671344,GAS,CNG,1.146,2022-03-02 17:43
+3093,Gutmann ENI Tankstelle,Industriestraße 12,Vomp,6134,47.3510889,11.7004781,GAS,CNG,1.146,2022-03-02 17:43
+4050,Gutmann ENI Tankstelle+TANKAUTOMAT,Bahnhofstraße 11,Oberndorf,6372,47.4964984,12.3882226,GAS,CNG,1.146,2022-03-02 17:43
+4158,Disk,Hauptstraße 18,Zams,6511,47.1541793,10.5844558,GAS,CNG,1.146,2022-03-02 17:43
+6612,ENI,Dorf 23d,Wiesing,6210,47.4034807,11.8032194,GAS,CNG,1.146,2022-03-02 17:43
+34002,Thrainer,Audorfer Straße 41,Niederndorf,6342,47.6488703,12.1965438,GAS,CNG,1.146,2022-03-02 17:43
+247915,eni,Innsbruckerstrasse 29,Brixlegg,6230,47.43262,11.87891,GAS,CNG,1.146,2022-03-02 17:43
+789150,WT Telfs,Hans-Liebherr-Strasse 33,Telfs,6410,47.3140345,11.1001827,GAS,CNG,1.146,2022-03-02 17:43
+1113701,Gutmann Eni Tankstelle,Stubaitalstrasse 10,Mieders,6142,47.160059,11.368108,GAS,CNG,1.146,2022-03-02 17:43
+7724,BP,Reichenauer Straße 149,Innsbruck,6020,47.2738154,11.4281608,GAS,CNG,0.979,2022-03-02 17:43
+1059610,ENI,Amraser See 64,Innsbruck,6020,47.2634138,11.4333943,GAS,CNG,0.979,2022-03-02 17:43
+1470867,ENI Stumm ,Gewerbegebiet 6,Stumm ,6275,47.29034628764583,11.88055119320892,GAS,CNG,0.979,2022-03-02 17:43
+33715,AVIA,Schlitters 27c,Schlitters,6262,47.3811223,11.8341075,GAS,CNG,1.046,2022-03-02 17:43
+4073,Freie Tankstelle,Dr. Hans Bachmannstrasse 51a,Kundl,6250,47.4733396,11.9790487,GAS,CNG,1.059,2022-03-02 17:43
+3071,Gutmann ENI Tankstelle,Fürstenweg 87,Innsbruck,6020,47.2622324066577,11.3727536634174,GAS,CNG,1.146,2022-03-02 17:43
+3080,Gutmann ENI Tankstelle,Sellrainer Straße 2,Kematen,6175,47.2623643,11.2637622,GAS,CNG,1.146,2022-03-02 17:43
+3081,Gutmann ENI Tankstelle,Bundesstraße 14,Mils,6068,47.2813456,11.5340622,GAS,CNG,1.146,2022-03-02 17:43
+3085,Gutmann ENI Tankstelle,Ambergstraße 40,Ötztal ,6430,47.2316892,10.8531181,GAS,CNG,1.146,2022-03-02 17:43
+3088,Gutmann ENI Tankstelle,Gewerbestraße 2,Prutz,6522,47.0914553,10.6671344,GAS,CNG,1.146,2022-03-02 17:43
+3093,Gutmann ENI Tankstelle,Industriestraße 12,Vomp,6134,47.3510889,11.7004781,GAS,CNG,1.146,2022-03-02 17:43
+4050,Gutmann ENI Tankstelle+TANKAUTOMAT,Bahnhofstraße 11,Oberndorf,6372,47.4964984,12.3882226,GAS,CNG,1.146,2022-03-02 17:43
+4158,Disk,Hauptstraße 18,Zams,6511,47.1541793,10.5844558,GAS,CNG,1.146,2022-03-02 17:43
+6612,ENI,Dorf 23d,Wiesing,6210,47.4034807,11.8032194,GAS,CNG,1.146,2022-03-02 17:43
+34002,Thrainer,Audorfer Straße 41,Niederndorf,6342,47.6488703,12.1965438,GAS,CNG,1.146,2022-03-02 17:43
+247915,eni,Innsbruckerstrasse 29,Brixlegg,6230,47.43262,11.87891,GAS,CNG,1.146,2022-03-02 17:43
+789150,WT Telfs,Hans-Liebherr-Strasse 33,Telfs,6410,47.3140345,11.1001827,GAS,CNG,1.146,2022-03-02 17:43
+1113701,Gutmann Eni Tankstelle,Stubaitalstrasse 10,Mieders,6142,47.160059,11.368108,GAS,CNG,1.146,2022-03-02 17:43
+7724,BP,Reichenauer Straße 149,Innsbruck,6020,47.2738154,11.4281608,GAS,CNG,0.979,2022-03-02 17:43
+1059610,ENI,Amraser See 64,Innsbruck,6020,47.2634138,11.4333943,GAS,CNG,0.979,2022-03-02 17:43
+1470867,ENI Stumm ,Gewerbegebiet 6,Stumm ,6275,47.29034628764583,11.88055119320892,GAS,CNG,0.979,2022-03-02 17:43
+33715,AVIA,Schlitters 27c,Schlitters,6262,47.3811223,11.8341075,GAS,CNG,1.046,2022-03-02 17:43
+4073,Freie Tankstelle,Dr. Hans Bachmannstrasse 51a,Kundl,6250,47.4733396,11.9790487,GAS,CNG,1.059,2022-03-02 17:43
+3071,Gutmann ENI Tankstelle,Fürstenweg 87,Innsbruck,6020,47.2622324066577,11.3727536634174,GAS,CNG,1.146,2022-03-02 17:43
+3080,Gutmann ENI Tankstelle,Sellrainer Straße 2,Kematen,6175,47.2623643,11.2637622,GAS,CNG,1.146,2022-03-02 17:43
+3081,Gutmann ENI Tankstelle,Bundesstraße 14,Mils,6068,47.2813456,11.5340622,GAS,CNG,1.146,2022-03-02 17:43
+3085,Gutmann ENI Tankstelle,Ambergstraße 40,Ötztal ,6430,47.2316892,10.8531181,GAS,CNG,1.146,2022-03-02 17:43
+3088,Gutmann ENI Tankstelle,Gewerbestraße 2,Prutz,6522,47.0914553,10.6671344,GAS,CNG,1.146,2022-03-02 17:43
+3093,Gutmann ENI Tankstelle,Industriestraße 12,Vomp,6134,47.3510889,11.7004781,GAS,CNG,1.146,2022-03-02 17:43
+4050,Gutmann ENI Tankstelle+TANKAUTOMAT,Bahnhofstraße 11,Oberndorf,6372,47.4964984,12.3882226,GAS,CNG,1.146,2022-03-02 17:43
+4158,Disk,Hauptstraße 18,Zams,6511,47.1541793,10.5844558,GAS,CNG,1.146,2022-03-02 17:43
+6612,ENI,Dorf 23d,Wiesing,6210,47.4034807,11.8032194,GAS,CNG,1.146,2022-03-02 17:43
+34002,Thrainer,Audorfer Straße 41,Niederndorf,6342,47.6488703,12.1965438,GAS,CNG,1.146,2022-03-02 17:43
+247915,eni,Innsbruckerstrasse 29,Brixlegg,6230,47.43262,11.87891,GAS,CNG,1.146,2022-03-02 17:43
+789150,WT Telfs,Hans-Liebherr-Strasse 33,Telfs,6410,47.3140345,11.1001827,GAS,CNG,1.146,2022-03-02 17:43
+1113701,Gutmann Eni Tankstelle,Stubaitalstrasse 10,Mieders,6142,47.160059,11.368108,GAS,CNG,1.146,2022-03-02 17:43
+7724,BP,Reichenauer Straße 149,Innsbruck,6020,47.2738154,11.4281608,GAS,CNG,0.979,2022-03-02 17:43
+1059610,ENI,Amraser See 64,Innsbruck,6020,47.2634138,11.4333943,GAS,CNG,0.979,2022-03-02 17:43
+1470867,ENI Stumm ,Gewerbegebiet 6,Stumm ,6275,47.29034628764583,11.88055119320892,GAS,CNG,0.979,2022-03-02 17:43
+33715,AVIA,Schlitters 27c,Schlitters,6262,47.3811223,11.8341075,GAS,CNG,1.046,2022-03-02 17:43
+4073,Freie Tankstelle,Dr. Hans Bachmannstrasse 51a,Kundl,6250,47.4733396,11.9790487,GAS,CNG,1.059,2022-03-02 17:43
+3071,Gutmann ENI Tankstelle,Fürstenweg 87,Innsbruck,6020,47.2622324066577,11.3727536634174,GAS,CNG,1.146,2022-03-02 17:43
+3080,Gutmann ENI Tankstelle,Sellrainer Straße 2,Kematen,6175,47.2623643,11.2637622,GAS,CNG,1.146,2022-03-02 17:43
+3081,Gutmann ENI Tankstelle,Bundesstraße 14,Mils,6068,47.2813456,11.5340622,GAS,CNG,1.146,2022-03-02 17:43
+3085,Gutmann ENI Tankstelle,Ambergstraße 40,Ötztal ,6430,47.2316892,10.8531181,GAS,CNG,1.146,2022-03-02 17:43
+3088,Gutmann ENI Tankstelle,Gewerbestraße 2,Prutz,6522,47.0914553,10.6671344,GAS,CNG,1.146,2022-03-02 17:43
+3093,Gutmann ENI Tankstelle,Industriestraße 12,Vomp,6134,47.3510889,11.7004781,GAS,CNG,1.146,2022-03-02 17:43
+4050,Gutmann ENI Tankstelle+TANKAUTOMAT,Bahnhofstraße 11,Oberndorf,6372,47.4964984,12.3882226,GAS,CNG,1.146,2022-03-02 17:43
+4158,Disk,Hauptstraße 18,Zams,6511,47.1541793,10.5844558,GAS,CNG,1.146,2022-03-02 17:43
+6612,ENI,Dorf 23d,Wiesing,6210,47.4034807,11.8032194,GAS,CNG,1.146,2022-03-02 17:43
+34002,Thrainer,Audorfer Straße 41,Niederndorf,6342,47.6488703,12.1965438,GAS,CNG,1.146,2022-03-02 17:43
+247915,eni,Innsbruckerstrasse 29,Brixlegg,6230,47.43262,11.87891,GAS,CNG,1.146,2022-03-02 17:43
+789150,WT Telfs,Hans-Liebherr-Strasse 33,Telfs,6410,47.3140345,11.1001827,GAS,CNG,1.146,2022-03-02 17:43
+1113701,Gutmann Eni Tankstelle,Stubaitalstrasse 10,Mieders,6142,47.160059,11.368108,GAS,CNG,1.146,2022-03-02 17:43
+7724,BP,Reichenauer Straße 149,Innsbruck,6020,47.2738154,11.4281608,GAS,CNG,0.979,2022-03-02 17:43
+1059610,ENI,Amraser See 64,Innsbruck,6020,47.2634138,11.4333943,GAS,CNG,0.979,2022-03-02 17:43
+1470867,ENI Stumm ,Gewerbegebiet 6,Stumm ,6275,47.29034628764583,11.88055119320892,GAS,CNG,0.979,2022-03-02 17:43
+33715,AVIA,Schlitters 27c,Schlitters,6262,47.3811223,11.8341075,GAS,CNG,1.046,2022-03-02 17:43
+4073,Freie Tankstelle,Dr. Hans Bachmannstrasse 51a,Kundl,6250,47.4733396,11.9790487,GAS,CNG,1.059,2022-03-02 17:43
+3071,Gutmann ENI Tankstelle,Fürstenweg 87,Innsbruck,6020,47.2622324066577,11.3727536634174,GAS,CNG,1.146,2022-03-02 17:43
+3080,Gutmann ENI Tankstelle,Sellrainer Straße 2,Kematen,6175,47.2623643,11.2637622,GAS,CNG,1.146,2022-03-02 17:43
+3081,Gutmann ENI Tankstelle,Bundesstraße 14,Mils,6068,47.2813456,11.5340622,GAS,CNG,1.146,2022-03-02 17:43
+3085,Gutmann ENI Tankstelle,Ambergstraße 40,Ötztal ,6430,47.2316892,10.8531181,GAS,CNG,1.146,2022-03-02 17:43
+3088,Gutmann ENI Tankstelle,Gewerbestraße 2,Prutz,6522,47.0914553,10.6671344,GAS,CNG,1.146,2022-03-02 17:43
+3093,Gutmann ENI Tankstelle,Industriestraße 12,Vomp,6134,47.3510889,11.7004781,GAS,CNG,1.146,2022-03-02 17:43
+4050,Gutmann ENI Tankstelle+TANKAUTOMAT,Bahnhofstraße 11,Oberndorf,6372,47.4964984,12.3882226,GAS,CNG,1.146,2022-03-02 17:43
+4158,Disk,Hauptstraße 18,Zams,6511,47.1541793,10.5844558,GAS,CNG,1.146,2022-03-02 17:43
+6612,ENI,Dorf 23d,Wiesing,6210,47.4034807,11.8032194,GAS,CNG,1.146,2022-03-02 17:43
+34002,Thrainer,Audorfer Straße 41,Niederndorf,6342,47.6488703,12.1965438,GAS,CNG,1.146,2022-03-02 17:43
+247915,eni,Innsbruckerstrasse 29,Brixlegg,6230,47.43262,11.87891,GAS,CNG,1.146,2022-03-02 17:43
+789150,WT Telfs,Hans-Liebherr-Strasse 33,Telfs,6410,47.3140345,11.1001827,GAS,CNG,1.146,2022-03-02 17:43
+1113701,Gutmann Eni Tankstelle,Stubaitalstrasse 10,Mieders,6142,47.160059,11.368108,GAS,CNG,1.146,2022-03-02 17:43
+7724,BP,Reichenauer Straße 149,Innsbruck,6020,47.2738154,11.4281608,GAS,CNG,0.979,2022-03-02 17:43
+1059610,ENI,Amraser See 64,Innsbruck,6020,47.2634138,11.4333943,GAS,CNG,0.979,2022-03-02 17:43
+1470867,ENI Stumm ,Gewerbegebiet 6,Stumm ,6275,47.29034628764583,11.88055119320892,GAS,CNG,0.979,2022-03-02 17:43
+33715,AVIA,Schlitters 27c,Schlitters,6262,47.3811223,11.8341075,GAS,CNG,1.046,2022-03-02 17:43
+4073,Freie Tankstelle,Dr. Hans Bachmannstrasse 51a,Kundl,6250,47.4733396,11.9790487,GAS,CNG,1.059,2022-03-02 17:43
+3071,Gutmann ENI Tankstelle,Fürstenweg 87,Innsbruck,6020,47.2622324066577,11.3727536634174,GAS,CNG,1.146,2022-03-02 17:43
+3080,Gutmann ENI Tankstelle,Sellrainer Straße 2,Kematen,6175,47.2623643,11.2637622,GAS,CNG,1.146,2022-03-02 17:43
+3081,Gutmann ENI Tankstelle,Bundesstraße 14,Mils,6068,47.2813456,11.5340622,GAS,CNG,1.146,2022-03-02 17:43
+3085,Gutmann ENI Tankstelle,Ambergstraße 40,Ötztal ,6430,47.2316892,10.8531181,GAS,CNG,1.146,2022-03-02 17:43
+3088,Gutmann ENI Tankstelle,Gewerbestraße 2,Prutz,6522,47.0914553,10.6671344,GAS,CNG,1.146,2022-03-02 17:43
+3093,Gutmann ENI Tankstelle,Industriestraße 12,Vomp,6134,47.3510889,11.7004781,GAS,CNG,1.146,2022-03-02 17:43
+4050,Gutmann ENI Tankstelle+TANKAUTOMAT,Bahnhofstraße 11,Oberndorf,6372,47.4964984,12.3882226,GAS,CNG,1.146,2022-03-02 17:43
+4158,Disk,Hauptstraße 18,Zams,6511,47.1541793,10.5844558,GAS,CNG,1.146,2022-03-02 17:43
+6612,ENI,Dorf 23d,Wiesing,6210,47.4034807,11.8032194,GAS,CNG,1.146,2022-03-02 17:43
+34002,Thrainer,Audorfer Straße 41,Niederndorf,6342,47.6488703,12.1965438,GAS,CNG,1.146,2022-03-02 17:43
+247915,eni,Innsbruckerstrasse 29,Brixlegg,6230,47.43262,11.87891,GAS,CNG,1.146,2022-03-02 17:43
+789150,WT Telfs,Hans-Liebherr-Strasse 33,Telfs,6410,47.3140345,11.1001827,GAS,CNG,1.146,2022-03-02 17:43
+1113701,Gutmann Eni Tankstelle,Stubaitalstrasse 10,Mieders,6142,47.160059,11.368108,GAS,CNG,1.146,2022-03-02 17:43
+7724,BP,Reichenauer Straße 149,Innsbruck,6020,47.2738154,11.4281608,GAS,CNG,0.979,2022-03-02 17:43
+1059610,ENI,Amraser See 64,Innsbruck,6020,47.2634138,11.4333943,GAS,CNG,0.979,2022-03-02 17:43
+1470867,ENI Stumm ,Gewerbegebiet 6,Stumm ,6275,47.29034628764583,11.88055119320892,GAS,CNG,0.979,2022-03-02 17:43
+33715,AVIA,Schlitters 27c,Schlitters,6262,47.3811223,11.8341075,GAS,CNG,1.046,2022-03-02 17:43
+4073,Freie Tankstelle,Dr. Hans Bachmannstrasse 51a,Kundl,6250,47.4733396,11.9790487,GAS,CNG,1.059,2022-03-02 17:43
+3071,Gutmann ENI Tankstelle,Fürstenweg 87,Innsbruck,6020,47.2622324066577,11.3727536634174,GAS,CNG,1.146,2022-03-02 17:43
+3080,Gutmann ENI Tankstelle,Sellrainer Straße 2,Kematen,6175,47.2623643,11.2637622,GAS,CNG,1.146,2022-03-02 17:43
+3081,Gutmann ENI Tankstelle,Bundesstraße 14,Mils,6068,47.2813456,11.5340622,GAS,CNG,1.146,2022-03-02 17:43
+3085,Gutmann ENI Tankstelle,Ambergstraße 40,Ötztal ,6430,47.2316892,10.8531181,GAS,CNG,1.146,2022-03-02 17:43
+3088,Gutmann ENI Tankstelle,Gewerbestraße 2,Prutz,6522,47.0914553,10.6671344,GAS,CNG,1.146,2022-03-02 17:43
+3093,Gutmann ENI Tankstelle,Industriestraße 12,Vomp,6134,47.3510889,11.7004781,GAS,CNG,1.146,2022-03-02 17:43
+4050,Gutmann ENI Tankstelle+TANKAUTOMAT,Bahnhofstraße 11,Oberndorf,6372,47.4964984,12.3882226,GAS,CNG,1.146,2022-03-02 17:43
+4158,Disk,Hauptstraße 18,Zams,6511,47.1541793,10.5844558,GAS,CNG,1.146,2022-03-02 17:43
+6612,ENI,Dorf 23d,Wiesing,6210,47.4034807,11.8032194,GAS,CNG,1.146,2022-03-02 17:43
+34002,Thrainer,Audorfer Straße 41,Niederndorf,6342,47.6488703,12.1965438,GAS,CNG,1.146,2022-03-02 17:43
+247915,eni,Innsbruckerstrasse 29,Brixlegg,6230,47.43262,11.87891,GAS,CNG,1.146,2022-03-02 17:43
+789150,WT Telfs,Hans-Liebherr-Strasse 33,Telfs,6410,47.3140345,11.1001827,GAS,CNG,1.146,2022-03-02 17:43
+1113701,Gutmann Eni Tankstelle,Stubaitalstrasse 10,Mieders,6142,47.160059,11.368108,GAS,CNG,1.146,2022-03-02 17:43
+7724,BP,Reichenauer Straße 149,Innsbruck,6020,47.2738154,11.4281608,GAS,CNG,0.979,2022-03-02 17:43
+1059610,ENI,Amraser See 64,Innsbruck,6020,47.2634138,11.4333943,GAS,CNG,0.979,2022-03-02 17:43
+1470867,ENI Stumm ,Gewerbegebiet 6,Stumm ,6275,47.29034628764583,11.88055119320892,GAS,CNG,0.979,2022-03-02 17:43
+33715,AVIA,Schlitters 27c,Schlitters,6262,47.3811223,11.8341075,GAS,CNG,1.046,2022-03-02 17:43
+4073,Freie Tankstelle,Dr. Hans Bachmannstrasse 51a,Kundl,6250,47.4733396,11.9790487,GAS,CNG,1.059,2022-03-02 17:43
+3071,Gutmann ENI Tankstelle,Fürstenweg 87,Innsbruck,6020,47.2622324066577,11.3727536634174,GAS,CNG,1.146,2022-03-02 17:43
+3080,Gutmann ENI Tankstelle,Sellrainer Straße 2,Kematen,6175,47.2623643,11.2637622,GAS,CNG,1.146,2022-03-02 17:43
+3081,Gutmann ENI Tankstelle,Bundesstraße 14,Mils,6068,47.2813456,11.5340622,GAS,CNG,1.146,2022-03-02 17:43
+3085,Gutmann ENI Tankstelle,Ambergstraße 40,Ötztal ,6430,47.2316892,10.8531181,GAS,CNG,1.146,2022-03-02 17:43
+3088,Gutmann ENI Tankstelle,Gewerbestraße 2,Prutz,6522,47.0914553,10.6671344,GAS,CNG,1.146,2022-03-02 17:43
+3093,Gutmann ENI Tankstelle,Industriestraße 12,Vomp,6134,47.3510889,11.7004781,GAS,CNG,1.146,2022-03-02 17:43
+4050,Gutmann ENI Tankstelle+TANKAUTOMAT,Bahnhofstraße 11,Oberndorf,6372,47.4964984,12.3882226,GAS,CNG,1.146,2022-03-02 17:43
+4158,Disk,Hauptstraße 18,Zams,6511,47.1541793,10.5844558,GAS,CNG,1.146,2022-03-02 17:43
+6612,ENI,Dorf 23d,Wiesing,6210,47.4034807,11.8032194,GAS,CNG,1.146,2022-03-02 17:43
+34002,Thrainer,Audorfer Straße 41,Niederndorf,6342,47.6488703,12.1965438,GAS,CNG,1.146,2022-03-02 17:43
+247915,eni,Innsbruckerstrasse 29,Brixlegg,6230,47.43262,11.87891,GAS,CNG,1.146,2022-03-02 17:43
+789150,WT Telfs,Hans-Liebherr-Strasse 33,Telfs,6410,47.3140345,11.1001827,GAS,CNG,1.146,2022-03-02 17:43
+1113701,Gutmann Eni Tankstelle,Stubaitalstrasse 10,Mieders,6142,47.160059,11.368108,GAS,CNG,1.146,2022-03-02 17:43
+247944,eni,Langgasse 118a,Rankweil,6830,47.27182,9.61785,GAS,CNG,0.975,2022-03-02 17:43
+247946,eni,Schwefel 70a,Dornbirn,6850,47.42974,9.73995,GAS,CNG,0.975,2022-03-02 17:43
+247947,eni,Rheinstrasse 20,Bregenz-Hard,6971,47.488611,9.702186,GAS,CNG,0.975,2022-03-02 17:43
+34814,,Schweizerstraße 45,Altach,6844,47.3528442,9.6348561,GAS,CNG,0.995,2022-03-02 17:43
+4051,Gutmann ENI Tankstelle,Gutenbergstraße 6,Schwarzach,6858,47.440047,9.756718,GAS,CNG,1.146,2022-03-02 17:43
+1354851,OMV - Lustenau Hagstraße 27,Hagstrasse 27,Lustenau,6890,47.44937,9.66475,GAS,CNG,1.649,2022-03-02 17:43
+1354855,OMV - Frastanz Feldkircher Straße 47,Feldkircher Strasse 47,Frastanz,6820,47.22452,9.61744,GAS,CNG,1.649,2022-03-02 17:43
+1354863,OMV - Bregenz Arlbergstraße 135,Arlbergstrasse 135,Bregenz,6900,47.48778,9.73324,GAS,CNG,1.649,2022-03-02 17:43
+247944,eni,Langgasse 118a,Rankweil,6830,47.27182,9.61785,GAS,CNG,0.975,2022-03-02 17:43
+247946,eni,Schwefel 70a,Dornbirn,6850,47.42974,9.73995,GAS,CNG,0.975,2022-03-02 17:43
+247947,eni,Rheinstrasse 20,Bregenz-Hard,6971,47.488611,9.702186,GAS,CNG,0.975,2022-03-02 17:43
+34814,,Schweizerstraße 45,Altach,6844,47.3528442,9.6348561,GAS,CNG,0.995,2022-03-02 17:43
+4051,Gutmann ENI Tankstelle,Gutenbergstraße 6,Schwarzach,6858,47.440047,9.756718,GAS,CNG,1.146,2022-03-02 17:43
+1354851,OMV - Lustenau Hagstraße 27,Hagstrasse 27,Lustenau,6890,47.44937,9.66475,GAS,CNG,1.649,2022-03-02 17:43
+1354855,OMV - Frastanz Feldkircher Straße 47,Feldkircher Strasse 47,Frastanz,6820,47.22452,9.61744,GAS,CNG,1.649,2022-03-02 17:43
+1354863,OMV - Bregenz Arlbergstraße 135,Arlbergstrasse 135,Bregenz,6900,47.48778,9.73324,GAS,CNG,1.649,2022-03-02 17:43
+247944,eni,Langgasse 118a,Rankweil,6830,47.27182,9.61785,GAS,CNG,0.975,2022-03-02 17:43
+247946,eni,Schwefel 70a,Dornbirn,6850,47.42974,9.73995,GAS,CNG,0.975,2022-03-02 17:43
+247947,eni,Rheinstrasse 20,Bregenz-Hard,6971,47.488611,9.702186,GAS,CNG,0.975,2022-03-02 17:43
+34814,,Schweizerstraße 45,Altach,6844,47.3528442,9.6348561,GAS,CNG,0.995,2022-03-02 17:43
+4051,Gutmann ENI Tankstelle,Gutenbergstraße 6,Schwarzach,6858,47.440047,9.756718,GAS,CNG,1.146,2022-03-02 17:43
+1354851,OMV - Lustenau Hagstraße 27,Hagstrasse 27,Lustenau,6890,47.44937,9.66475,GAS,CNG,1.649,2022-03-02 17:43
+1354855,OMV - Frastanz Feldkircher Straße 47,Feldkircher Strasse 47,Frastanz,6820,47.22452,9.61744,GAS,CNG,1.649,2022-03-02 17:43
+1354863,OMV - Bregenz Arlbergstraße 135,Arlbergstrasse 135,Bregenz,6900,47.48778,9.73324,GAS,CNG,1.649,2022-03-02 17:43
+247944,eni,Langgasse 118a,Rankweil,6830,47.27182,9.61785,GAS,CNG,0.975,2022-03-02 17:43
+247946,eni,Schwefel 70a,Dornbirn,6850,47.42974,9.73995,GAS,CNG,0.975,2022-03-02 17:43
+247947,eni,Rheinstrasse 20,Bregenz-Hard,6971,47.488611,9.702186,GAS,CNG,0.975,2022-03-02 17:43
+34814,,Schweizerstraße 45,Altach,6844,47.3528442,9.6348561,GAS,CNG,0.995,2022-03-02 17:43
+4051,Gutmann ENI Tankstelle,Gutenbergstraße 6,Schwarzach,6858,47.440047,9.756718,GAS,CNG,1.146,2022-03-02 17:43
+1354851,OMV - Lustenau Hagstraße 27,Hagstrasse 27,Lustenau,6890,47.44937,9.66475,GAS,CNG,1.649,2022-03-02 17:43
+1354855,OMV - Frastanz Feldkircher Straße 47,Feldkircher Strasse 47,Frastanz,6820,47.22452,9.61744,GAS,CNG,1.649,2022-03-02 17:43
+1354863,OMV - Bregenz Arlbergstraße 135,Arlbergstrasse 135,Bregenz,6900,47.48778,9.73324,GAS,CNG,1.649,2022-03-02 17:43
+247944,eni,Langgasse 118a,Rankweil,6830,47.27182,9.61785,GAS,CNG,0.975,2022-03-02 17:43
+247946,eni,Schwefel 70a,Dornbirn,6850,47.42974,9.73995,GAS,CNG,0.975,2022-03-02 17:43
+247947,eni,Rheinstrasse 20,Bregenz-Hard,6971,47.488611,9.702186,GAS,CNG,0.975,2022-03-02 17:43
+34814,,Schweizerstraße 45,Altach,6844,47.3528442,9.6348561,GAS,CNG,0.995,2022-03-02 17:43
+4051,Gutmann ENI Tankstelle,Gutenbergstraße 6,Schwarzach,6858,47.440047,9.756718,GAS,CNG,1.146,2022-03-02 17:43
+1354851,OMV - Lustenau Hagstraße 27,Hagstrasse 27,Lustenau,6890,47.44937,9.66475,GAS,CNG,1.649,2022-03-02 17:43
+1354855,OMV - Frastanz Feldkircher Straße 47,Feldkircher Strasse 47,Frastanz,6820,47.22452,9.61744,GAS,CNG,1.649,2022-03-02 17:43
+1354863,OMV - Bregenz Arlbergstraße 135,Arlbergstrasse 135,Bregenz,6900,47.48778,9.73324,GAS,CNG,1.649,2022-03-02 17:43
+1261240,Turmöl,Engerthstrasse 146,Wien,1200,48.233836,16.3910922,GAS,CNG,1.179,2022-03-02 17:43
+27348,IQ Tankstelle,Gadnergasse 12,Wien,1110,48.164827,16.410579,GAS,CNG,1.299,2022-03-02 17:43
+33348,Shell Tankstelle,Siemensstrasse 105b,Wien,1210,48.266989,16.428849,GAS,CNG,1.299,2022-03-02 17:43
+334,OMV - Wien Sterngasse 13,Sterngasse 13,Wien,1230,48.14891,16.33836,GAS,CNG,1.699,2022-03-02 17:43
+1354891,OMV - Wien Adalbert Stifter-Straße 67,Adalbert Stifter-Strasse 67,Wien,1200,48.24309,16.37535,GAS,CNG,1.699,2022-03-02 17:43
+1354914,OMV - Wien Breitenleer Straße Ost B302 112,Breitenleer Strasse Ost B302 112,Wien,1220,48.25141,16.47211,GAS,CNG,1.699,2022-03-02 17:43
+1354916,OMV - Wien Hirschstettner Straße 34,Hirschstettner Strasse 34,Wien,1220,48.24285,16.45645,GAS,CNG,1.699,2022-03-02 17:43
+1354918,OMV - Wien Brünner Straße 172,Bruenner Strasse 172,Wien,1210,48.28114,16.41181,GAS,CNG,1.699,2022-03-02 17:43
+1354920,OMV - Wien Brunner Straße 77-79,Brunner Strasse 77-79,Wien,1230,48.13342,16.29849,GAS,CNG,1.699,2022-03-02 17:43
+1354929,OMV - Wien Laaer Berg-Straße 240,Laaer Berg-Strasse 240,Wien,1100,48.14818,16.39664,GAS,CNG,1.699,2022-03-02 17:43
+1354937,OMV - Wien Groß-Enzersdorfer Straße 24-26,Gross-Enzersdorfer Strasse 24-26,Wien,1220,48.21686,16.49345,GAS,CNG,1.699,2022-03-02 17:43
+1261240,Turmöl,Engerthstrasse 146,Wien,1200,48.233836,16.3910922,GAS,CNG,1.179,2022-03-02 17:44
+27348,IQ Tankstelle,Gadnergasse 12,Wien,1110,48.164827,16.410579,GAS,CNG,1.299,2022-03-02 17:44
+33348,Shell Tankstelle,Siemensstrasse 105b,Wien,1210,48.266989,16.428849,GAS,CNG,1.299,2022-03-02 17:44
+334,OMV - Wien Sterngasse 13,Sterngasse 13,Wien,1230,48.14891,16.33836,GAS,CNG,1.699,2022-03-02 17:44
+1354891,OMV - Wien Adalbert Stifter-Straße 67,Adalbert Stifter-Strasse 67,Wien,1200,48.24309,16.37535,GAS,CNG,1.699,2022-03-02 17:44
+1354914,OMV - Wien Breitenleer Straße Ost B302 112,Breitenleer Strasse Ost B302 112,Wien,1220,48.25141,16.47211,GAS,CNG,1.699,2022-03-02 17:44
+1354916,OMV - Wien Hirschstettner Straße 34,Hirschstettner Strasse 34,Wien,1220,48.24285,16.45645,GAS,CNG,1.699,2022-03-02 17:44
+1354918,OMV - Wien Brünner Straße 172,Bruenner Strasse 172,Wien,1210,48.28114,16.41181,GAS,CNG,1.699,2022-03-02 17:44
+1354920,OMV - Wien Brunner Straße 77-79,Brunner Strasse 77-79,Wien,1230,48.13342,16.29849,GAS,CNG,1.699,2022-03-02 17:44
+1354929,OMV - Wien Laaer Berg-Straße 240,Laaer Berg-Strasse 240,Wien,1100,48.14818,16.39664,GAS,CNG,1.699,2022-03-02 17:44
+1354937,OMV - Wien Groß-Enzersdorfer Straße 24-26,Gross-Enzersdorfer Strasse 24-26,Wien,1220,48.21686,16.49345,GAS,CNG,1.699,2022-03-02 17:44
+1261240,Turmöl,Engerthstrasse 146,Wien,1200,48.233836,16.3910922,GAS,CNG,1.179,2022-03-02 17:44
+27348,IQ Tankstelle,Gadnergasse 12,Wien,1110,48.164827,16.410579,GAS,CNG,1.299,2022-03-02 17:44
+33348,Shell Tankstelle,Siemensstrasse 105b,Wien,1210,48.266989,16.428849,GAS,CNG,1.299,2022-03-02 17:44
+334,OMV - Wien Sterngasse 13,Sterngasse 13,Wien,1230,48.14891,16.33836,GAS,CNG,1.699,2022-03-02 17:44
+1354891,OMV - Wien Adalbert Stifter-Straße 67,Adalbert Stifter-Strasse 67,Wien,1200,48.24309,16.37535,GAS,CNG,1.699,2022-03-02 17:44
+1354914,OMV - Wien Breitenleer Straße Ost B302 112,Breitenleer Strasse Ost B302 112,Wien,1220,48.25141,16.47211,GAS,CNG,1.699,2022-03-02 17:44
+1354916,OMV - Wien Hirschstettner Straße 34,Hirschstettner Strasse 34,Wien,1220,48.24285,16.45645,GAS,CNG,1.699,2022-03-02 17:44
+1354918,OMV - Wien Brünner Straße 172,Bruenner Strasse 172,Wien,1210,48.28114,16.41181,GAS,CNG,1.699,2022-03-02 17:44
+1354920,OMV - Wien Brunner Straße 77-79,Brunner Strasse 77-79,Wien,1230,48.13342,16.29849,GAS,CNG,1.699,2022-03-02 17:44
+1354929,OMV - Wien Laaer Berg-Straße 240,Laaer Berg-Strasse 240,Wien,1100,48.14818,16.39664,GAS,CNG,1.699,2022-03-02 17:44
+1354937,OMV - Wien Groß-Enzersdorfer Straße 24-26,Gross-Enzersdorfer Strasse 24-26,Wien,1220,48.21686,16.49345,GAS,CNG,1.699,2022-03-02 17:44
+1261240,Turmöl,Engerthstrasse 146,Wien,1200,48.233836,16.3910922,GAS,CNG,1.179,2022-03-02 17:44
+27348,IQ Tankstelle,Gadnergasse 12,Wien,1110,48.164827,16.410579,GAS,CNG,1.299,2022-03-02 17:44
+33348,Shell Tankstelle,Siemensstrasse 105b,Wien,1210,48.266989,16.428849,GAS,CNG,1.299,2022-03-02 17:44
+334,OMV - Wien Sterngasse 13,Sterngasse 13,Wien,1230,48.14891,16.33836,GAS,CNG,1.699,2022-03-02 17:44
+1354891,OMV - Wien Adalbert Stifter-Straße 67,Adalbert Stifter-Strasse 67,Wien,1200,48.24309,16.37535,GAS,CNG,1.699,2022-03-02 17:44
+1354914,OMV - Wien Breitenleer Straße Ost B302 112,Breitenleer Strasse Ost B302 112,Wien,1220,48.25141,16.47211,GAS,CNG,1.699,2022-03-02 17:44
+1354916,OMV - Wien Hirschstettner Straße 34,Hirschstettner Strasse 34,Wien,1220,48.24285,16.45645,GAS,CNG,1.699,2022-03-02 17:44
+1354918,OMV - Wien Brünner Straße 172,Bruenner Strasse 172,Wien,1210,48.28114,16.41181,GAS,CNG,1.699,2022-03-02 17:44
+1354920,OMV - Wien Brunner Straße 77-79,Brunner Strasse 77-79,Wien,1230,48.13342,16.29849,GAS,CNG,1.699,2022-03-02 17:44
+1354929,OMV - Wien Laaer Berg-Straße 240,Laaer Berg-Strasse 240,Wien,1100,48.14818,16.39664,GAS,CNG,1.699,2022-03-02 17:44
+1354937,OMV - Wien Groß-Enzersdorfer Straße 24-26,Gross-Enzersdorfer Strasse 24-26,Wien,1220,48.21686,16.49345,GAS,CNG,1.699,2022-03-02 17:44
+1261240,Turmöl,Engerthstrasse 146,Wien,1200,48.233836,16.3910922,GAS,CNG,1.179,2022-03-02 17:44
+27348,IQ Tankstelle,Gadnergasse 12,Wien,1110,48.164827,16.410579,GAS,CNG,1.299,2022-03-02 17:44
+33348,Shell Tankstelle,Siemensstrasse 105b,Wien,1210,48.266989,16.428849,GAS,CNG,1.299,2022-03-02 17:44
+334,OMV - Wien Sterngasse 13,Sterngasse 13,Wien,1230,48.14891,16.33836,GAS,CNG,1.699,2022-03-02 17:44
+1354891,OMV - Wien Adalbert Stifter-Straße 67,Adalbert Stifter-Strasse 67,Wien,1200,48.24309,16.37535,GAS,CNG,1.699,2022-03-02 17:44
+1354914,OMV - Wien Breitenleer Straße Ost B302 112,Breitenleer Strasse Ost B302 112,Wien,1220,48.25141,16.47211,GAS,CNG,1.699,2022-03-02 17:44
+1354916,OMV - Wien Hirschstettner Straße 34,Hirschstettner Strasse 34,Wien,1220,48.24285,16.45645,GAS,CNG,1.699,2022-03-02 17:44
+1354918,OMV - Wien Brünner Straße 172,Bruenner Strasse 172,Wien,1210,48.28114,16.41181,GAS,CNG,1.699,2022-03-02 17:44
+1354920,OMV - Wien Brunner Straße 77-79,Brunner Strasse 77-79,Wien,1230,48.13342,16.29849,GAS,CNG,1.699,2022-03-02 17:44
+1354929,OMV - Wien Laaer Berg-Straße 240,Laaer Berg-Strasse 240,Wien,1100,48.14818,16.39664,GAS,CNG,1.699,2022-03-02 17:44
+1354937,OMV - Wien Groß-Enzersdorfer Straße 24-26,Gross-Enzersdorfer Strasse 24-26,Wien,1220,48.21686,16.49345,GAS,CNG,1.699,2022-03-02 17:44
+1261240,Turmöl,Engerthstrasse 146,Wien,1200,48.233836,16.3910922,GAS,CNG,1.179,2022-03-02 17:44
+27348,IQ Tankstelle,Gadnergasse 12,Wien,1110,48.164827,16.410579,GAS,CNG,1.299,2022-03-02 17:44
+33348,Shell Tankstelle,Siemensstrasse 105b,Wien,1210,48.266989,16.428849,GAS,CNG,1.299,2022-03-02 17:44
+334,OMV - Wien Sterngasse 13,Sterngasse 13,Wien,1230,48.14891,16.33836,GAS,CNG,1.699,2022-03-02 17:44
+1354891,OMV - Wien Adalbert Stifter-Straße 67,Adalbert Stifter-Strasse 67,Wien,1200,48.24309,16.37535,GAS,CNG,1.699,2022-03-02 17:44
+1354914,OMV - Wien Breitenleer Straße Ost B302 112,Breitenleer Strasse Ost B302 112,Wien,1220,48.25141,16.47211,GAS,CNG,1.699,2022-03-02 17:44
+1354916,OMV - Wien Hirschstettner Straße 34,Hirschstettner Strasse 34,Wien,1220,48.24285,16.45645,GAS,CNG,1.699,2022-03-02 17:44
+1354918,OMV - Wien Brünner Straße 172,Bruenner Strasse 172,Wien,1210,48.28114,16.41181,GAS,CNG,1.699,2022-03-02 17:44
+1354920,OMV - Wien Brunner Straße 77-79,Brunner Strasse 77-79,Wien,1230,48.13342,16.29849,GAS,CNG,1.699,2022-03-02 17:44
+1354929,OMV - Wien Laaer Berg-Straße 240,Laaer Berg-Strasse 240,Wien,1100,48.14818,16.39664,GAS,CNG,1.699,2022-03-02 17:44
+1354937,OMV - Wien Groß-Enzersdorfer Straße 24-26,Gross-Enzersdorfer Strasse 24-26,Wien,1220,48.21686,16.49345,GAS,CNG,1.699,2022-03-02 17:44
+1261240,Turmöl,Engerthstrasse 146,Wien,1200,48.233836,16.3910922,GAS,CNG,1.179,2022-03-02 17:44
+27348,IQ Tankstelle,Gadnergasse 12,Wien,1110,48.164827,16.410579,GAS,CNG,1.299,2022-03-02 17:44
+33348,Shell Tankstelle,Siemensstrasse 105b,Wien,1210,48.266989,16.428849,GAS,CNG,1.299,2022-03-02 17:44
+334,OMV - Wien Sterngasse 13,Sterngasse 13,Wien,1230,48.14891,16.33836,GAS,CNG,1.699,2022-03-02 17:44
+1354891,OMV - Wien Adalbert Stifter-Straße 67,Adalbert Stifter-Strasse 67,Wien,1200,48.24309,16.37535,GAS,CNG,1.699,2022-03-02 17:44
+1354914,OMV - Wien Breitenleer Straße Ost B302 112,Breitenleer Strasse Ost B302 112,Wien,1220,48.25141,16.47211,GAS,CNG,1.699,2022-03-02 17:44
+1354916,OMV - Wien Hirschstettner Straße 34,Hirschstettner Strasse 34,Wien,1220,48.24285,16.45645,GAS,CNG,1.699,2022-03-02 17:44
+1354918,OMV - Wien Brünner Straße 172,Bruenner Strasse 172,Wien,1210,48.28114,16.41181,GAS,CNG,1.699,2022-03-02 17:44
+1354920,OMV - Wien Brunner Straße 77-79,Brunner Strasse 77-79,Wien,1230,48.13342,16.29849,GAS,CNG,1.699,2022-03-02 17:44
+1354929,OMV - Wien Laaer Berg-Straße 240,Laaer Berg-Strasse 240,Wien,1100,48.14818,16.39664,GAS,CNG,1.699,2022-03-02 17:44
+1354937,OMV - Wien Groß-Enzersdorfer Straße 24-26,Gross-Enzersdorfer Strasse 24-26,Wien,1220,48.21686,16.49345,GAS,CNG,1.699,2022-03-02 17:44
+1261240,Turmöl,Engerthstrasse 146,Wien,1200,48.233836,16.3910922,GAS,CNG,1.179,2022-03-02 17:44
+27348,IQ Tankstelle,Gadnergasse 12,Wien,1110,48.164827,16.410579,GAS,CNG,1.299,2022-03-02 17:44
+33348,Shell Tankstelle,Siemensstrasse 105b,Wien,1210,48.266989,16.428849,GAS,CNG,1.299,2022-03-02 17:44
+334,OMV - Wien Sterngasse 13,Sterngasse 13,Wien,1230,48.14891,16.33836,GAS,CNG,1.699,2022-03-02 17:44
+1354891,OMV - Wien Adalbert Stifter-Straße 67,Adalbert Stifter-Strasse 67,Wien,1200,48.24309,16.37535,GAS,CNG,1.699,2022-03-02 17:44
+1354914,OMV - Wien Breitenleer Straße Ost B302 112,Breitenleer Strasse Ost B302 112,Wien,1220,48.25141,16.47211,GAS,CNG,1.699,2022-03-02 17:44
+1354916,OMV - Wien Hirschstettner Straße 34,Hirschstettner Strasse 34,Wien,1220,48.24285,16.45645,GAS,CNG,1.699,2022-03-02 17:44
+1354918,OMV - Wien Brünner Straße 172,Bruenner Strasse 172,Wien,1210,48.28114,16.41181,GAS,CNG,1.699,2022-03-02 17:44
+1354920,OMV - Wien Brunner Straße 77-79,Brunner Strasse 77-79,Wien,1230,48.13342,16.29849,GAS,CNG,1.699,2022-03-02 17:44
+1354929,OMV - Wien Laaer Berg-Straße 240,Laaer Berg-Strasse 240,Wien,1100,48.14818,16.39664,GAS,CNG,1.699,2022-03-02 17:44
+1354937,OMV - Wien Groß-Enzersdorfer Straße 24-26,Gross-Enzersdorfer Strasse 24-26,Wien,1220,48.21686,16.49345,GAS,CNG,1.699,2022-03-02 17:44
+1261240,Turmöl,Engerthstrasse 146,Wien,1200,48.233836,16.3910922,GAS,CNG,1.179,2022-03-02 17:44
+27348,IQ Tankstelle,Gadnergasse 12,Wien,1110,48.164827,16.410579,GAS,CNG,1.299,2022-03-02 17:44
+33348,Shell Tankstelle,Siemensstrasse 105b,Wien,1210,48.266989,16.428849,GAS,CNG,1.299,2022-03-02 17:44
+334,OMV - Wien Sterngasse 13,Sterngasse 13,Wien,1230,48.14891,16.33836,GAS,CNG,1.699,2022-03-02 17:44
+1354891,OMV - Wien Adalbert Stifter-Straße 67,Adalbert Stifter-Strasse 67,Wien,1200,48.24309,16.37535,GAS,CNG,1.699,2022-03-02 17:44
+1354914,OMV - Wien Breitenleer Straße Ost B302 112,Breitenleer Strasse Ost B302 112,Wien,1220,48.25141,16.47211,GAS,CNG,1.699,2022-03-02 17:44
+1354916,OMV - Wien Hirschstettner Straße 34,Hirschstettner Strasse 34,Wien,1220,48.24285,16.45645,GAS,CNG,1.699,2022-03-02 17:44
+1354918,OMV - Wien Brünner Straße 172,Bruenner Strasse 172,Wien,1210,48.28114,16.41181,GAS,CNG,1.699,2022-03-02 17:44
+1354920,OMV - Wien Brunner Straße 77-79,Brunner Strasse 77-79,Wien,1230,48.13342,16.29849,GAS,CNG,1.699,2022-03-02 17:44
+1354929,OMV - Wien Laaer Berg-Straße 240,Laaer Berg-Strasse 240,Wien,1100,48.14818,16.39664,GAS,CNG,1.699,2022-03-02 17:44
+1354937,OMV - Wien Groß-Enzersdorfer Straße 24-26,Gross-Enzersdorfer Strasse 24-26,Wien,1220,48.21686,16.49345,GAS,CNG,1.699,2022-03-02 17:44
+1261240,Turmöl,Engerthstrasse 146,Wien,1200,48.233836,16.3910922,GAS,CNG,1.179,2022-03-02 17:44
+27348,IQ Tankstelle,Gadnergasse 12,Wien,1110,48.164827,16.410579,GAS,CNG,1.299,2022-03-02 17:44
+33348,Shell Tankstelle,Siemensstrasse 105b,Wien,1210,48.266989,16.428849,GAS,CNG,1.299,2022-03-02 17:44
+334,OMV - Wien Sterngasse 13,Sterngasse 13,Wien,1230,48.14891,16.33836,GAS,CNG,1.699,2022-03-02 17:44
+1354891,OMV - Wien Adalbert Stifter-Straße 67,Adalbert Stifter-Strasse 67,Wien,1200,48.24309,16.37535,GAS,CNG,1.699,2022-03-02 17:44
+1354914,OMV - Wien Breitenleer Straße Ost B302 112,Breitenleer Strasse Ost B302 112,Wien,1220,48.25141,16.47211,GAS,CNG,1.699,2022-03-02 17:44
+1354916,OMV - Wien Hirschstettner Straße 34,Hirschstettner Strasse 34,Wien,1220,48.24285,16.45645,GAS,CNG,1.699,2022-03-02 17:44
+1354918,OMV - Wien Brünner Straße 172,Bruenner Strasse 172,Wien,1210,48.28114,16.41181,GAS,CNG,1.699,2022-03-02 17:44
+1354920,OMV - Wien Brunner Straße 77-79,Brunner Strasse 77-79,Wien,1230,48.13342,16.29849,GAS,CNG,1.699,2022-03-02 17:44
+1354929,OMV - Wien Laaer Berg-Straße 240,Laaer Berg-Strasse 240,Wien,1100,48.14818,16.39664,GAS,CNG,1.699,2022-03-02 17:44
+1354937,OMV - Wien Groß-Enzersdorfer Straße 24-26,Gross-Enzersdorfer Strasse 24-26,Wien,1220,48.21686,16.49345,GAS,CNG,1.699,2022-03-02 17:44
+1261240,Turmöl,Engerthstrasse 146,Wien,1200,48.233836,16.3910922,GAS,CNG,1.179,2022-03-02 17:44
+27348,IQ Tankstelle,Gadnergasse 12,Wien,1110,48.164827,16.410579,GAS,CNG,1.299,2022-03-02 17:44
+33348,Shell Tankstelle,Siemensstrasse 105b,Wien,1210,48.266989,16.428849,GAS,CNG,1.299,2022-03-02 17:44
+334,OMV - Wien Sterngasse 13,Sterngasse 13,Wien,1230,48.14891,16.33836,GAS,CNG,1.699,2022-03-02 17:44
+1354891,OMV - Wien Adalbert Stifter-Straße 67,Adalbert Stifter-Strasse 67,Wien,1200,48.24309,16.37535,GAS,CNG,1.699,2022-03-02 17:44
+1354914,OMV - Wien Breitenleer Straße Ost B302 112,Breitenleer Strasse Ost B302 112,Wien,1220,48.25141,16.47211,GAS,CNG,1.699,2022-03-02 17:44
+1354916,OMV - Wien Hirschstettner Straße 34,Hirschstettner Strasse 34,Wien,1220,48.24285,16.45645,GAS,CNG,1.699,2022-03-02 17:44
+1354918,OMV - Wien Brünner Straße 172,Bruenner Strasse 172,Wien,1210,48.28114,16.41181,GAS,CNG,1.699,2022-03-02 17:44
+1354920,OMV - Wien Brunner Straße 77-79,Brunner Strasse 77-79,Wien,1230,48.13342,16.29849,GAS,CNG,1.699,2022-03-02 17:44
+1354929,OMV - Wien Laaer Berg-Straße 240,Laaer Berg-Strasse 240,Wien,1100,48.14818,16.39664,GAS,CNG,1.699,2022-03-02 17:44
+1354937,OMV - Wien Groß-Enzersdorfer Straße 24-26,Gross-Enzersdorfer Strasse 24-26,Wien,1220,48.21686,16.49345,GAS,CNG,1.699,2022-03-02 17:44
+1261240,Turmöl,Engerthstrasse 146,Wien,1200,48.233836,16.3910922,GAS,CNG,1.179,2022-03-02 17:44
+27348,IQ Tankstelle,Gadnergasse 12,Wien,1110,48.164827,16.410579,GAS,CNG,1.299,2022-03-02 17:44
+33348,Shell Tankstelle,Siemensstrasse 105b,Wien,1210,48.266989,16.428849,GAS,CNG,1.299,2022-03-02 17:44
+334,OMV - Wien Sterngasse 13,Sterngasse 13,Wien,1230,48.14891,16.33836,GAS,CNG,1.699,2022-03-02 17:44
+1354891,OMV - Wien Adalbert Stifter-Straße 67,Adalbert Stifter-Strasse 67,Wien,1200,48.24309,16.37535,GAS,CNG,1.699,2022-03-02 17:44
+1354914,OMV - Wien Breitenleer Straße Ost B302 112,Breitenleer Strasse Ost B302 112,Wien,1220,48.25141,16.47211,GAS,CNG,1.699,2022-03-02 17:44
+1354916,OMV - Wien Hirschstettner Straße 34,Hirschstettner Strasse 34,Wien,1220,48.24285,16.45645,GAS,CNG,1.699,2022-03-02 17:44
+1354918,OMV - Wien Brünner Straße 172,Bruenner Strasse 172,Wien,1210,48.28114,16.41181,GAS,CNG,1.699,2022-03-02 17:44
+1354920,OMV - Wien Brunner Straße 77-79,Brunner Strasse 77-79,Wien,1230,48.13342,16.29849,GAS,CNG,1.699,2022-03-02 17:44
+1354929,OMV - Wien Laaer Berg-Straße 240,Laaer Berg-Strasse 240,Wien,1100,48.14818,16.39664,GAS,CNG,1.699,2022-03-02 17:44
+1354937,OMV - Wien Groß-Enzersdorfer Straße 24-26,Gross-Enzersdorfer Strasse 24-26,Wien,1220,48.21686,16.49345,GAS,CNG,1.699,2022-03-02 17:44
+1261240,Turmöl,Engerthstrasse 146,Wien,1200,48.233836,16.3910922,GAS,CNG,1.179,2022-03-02 17:44
+27348,IQ Tankstelle,Gadnergasse 12,Wien,1110,48.164827,16.410579,GAS,CNG,1.299,2022-03-02 17:44
+33348,Shell Tankstelle,Siemensstrasse 105b,Wien,1210,48.266989,16.428849,GAS,CNG,1.299,2022-03-02 17:44
+334,OMV - Wien Sterngasse 13,Sterngasse 13,Wien,1230,48.14891,16.33836,GAS,CNG,1.699,2022-03-02 17:44
+1354891,OMV - Wien Adalbert Stifter-Straße 67,Adalbert Stifter-Strasse 67,Wien,1200,48.24309,16.37535,GAS,CNG,1.699,2022-03-02 17:44
+1354914,OMV - Wien Breitenleer Straße Ost B302 112,Breitenleer Strasse Ost B302 112,Wien,1220,48.25141,16.47211,GAS,CNG,1.699,2022-03-02 17:44
+1354916,OMV - Wien Hirschstettner Straße 34,Hirschstettner Strasse 34,Wien,1220,48.24285,16.45645,GAS,CNG,1.699,2022-03-02 17:44
+1354918,OMV - Wien Brünner Straße 172,Bruenner Strasse 172,Wien,1210,48.28114,16.41181,GAS,CNG,1.699,2022-03-02 17:44
+1354920,OMV - Wien Brunner Straße 77-79,Brunner Strasse 77-79,Wien,1230,48.13342,16.29849,GAS,CNG,1.699,2022-03-02 17:44
+1354929,OMV - Wien Laaer Berg-Straße 240,Laaer Berg-Strasse 240,Wien,1100,48.14818,16.39664,GAS,CNG,1.699,2022-03-02 17:44
+1354937,OMV - Wien Groß-Enzersdorfer Straße 24-26,Gross-Enzersdorfer Strasse 24-26,Wien,1220,48.21686,16.49345,GAS,CNG,1.699,2022-03-02 17:44
+1261240,Turmöl,Engerthstrasse 146,Wien,1200,48.233836,16.3910922,GAS,CNG,1.179,2022-03-02 17:44
+27348,IQ Tankstelle,Gadnergasse 12,Wien,1110,48.164827,16.410579,GAS,CNG,1.299,2022-03-02 17:44
+33348,Shell Tankstelle,Siemensstrasse 105b,Wien,1210,48.266989,16.428849,GAS,CNG,1.299,2022-03-02 17:44
+334,OMV - Wien Sterngasse 13,Sterngasse 13,Wien,1230,48.14891,16.33836,GAS,CNG,1.699,2022-03-02 17:44
+1354891,OMV - Wien Adalbert Stifter-Straße 67,Adalbert Stifter-Strasse 67,Wien,1200,48.24309,16.37535,GAS,CNG,1.699,2022-03-02 17:44
+1354914,OMV - Wien Breitenleer Straße Ost B302 112,Breitenleer Strasse Ost B302 112,Wien,1220,48.25141,16.47211,GAS,CNG,1.699,2022-03-02 17:44
+1354916,OMV - Wien Hirschstettner Straße 34,Hirschstettner Strasse 34,Wien,1220,48.24285,16.45645,GAS,CNG,1.699,2022-03-02 17:44
+1354918,OMV - Wien Brünner Straße 172,Bruenner Strasse 172,Wien,1210,48.28114,16.41181,GAS,CNG,1.699,2022-03-02 17:44
+1354920,OMV - Wien Brunner Straße 77-79,Brunner Strasse 77-79,Wien,1230,48.13342,16.29849,GAS,CNG,1.699,2022-03-02 17:44
+1354929,OMV - Wien Laaer Berg-Straße 240,Laaer Berg-Strasse 240,Wien,1100,48.14818,16.39664,GAS,CNG,1.699,2022-03-02 17:44
+1354937,OMV - Wien Groß-Enzersdorfer Straße 24-26,Gross-Enzersdorfer Strasse 24-26,Wien,1220,48.21686,16.49345,GAS,CNG,1.699,2022-03-02 17:44
+1261240,Turmöl,Engerthstrasse 146,Wien,1200,48.233836,16.3910922,GAS,CNG,1.179,2022-03-02 17:44
+27348,IQ Tankstelle,Gadnergasse 12,Wien,1110,48.164827,16.410579,GAS,CNG,1.299,2022-03-02 17:44
+33348,Shell Tankstelle,Siemensstrasse 105b,Wien,1210,48.266989,16.428849,GAS,CNG,1.299,2022-03-02 17:44
+334,OMV - Wien Sterngasse 13,Sterngasse 13,Wien,1230,48.14891,16.33836,GAS,CNG,1.699,2022-03-02 17:44
+1354891,OMV - Wien Adalbert Stifter-Straße 67,Adalbert Stifter-Strasse 67,Wien,1200,48.24309,16.37535,GAS,CNG,1.699,2022-03-02 17:44
+1354914,OMV - Wien Breitenleer Straße Ost B302 112,Breitenleer Strasse Ost B302 112,Wien,1220,48.25141,16.47211,GAS,CNG,1.699,2022-03-02 17:44
+1354916,OMV - Wien Hirschstettner Straße 34,Hirschstettner Strasse 34,Wien,1220,48.24285,16.45645,GAS,CNG,1.699,2022-03-02 17:44
+1354918,OMV - Wien Brünner Straße 172,Bruenner Strasse 172,Wien,1210,48.28114,16.41181,GAS,CNG,1.699,2022-03-02 17:44
+1354920,OMV - Wien Brunner Straße 77-79,Brunner Strasse 77-79,Wien,1230,48.13342,16.29849,GAS,CNG,1.699,2022-03-02 17:44
+1354929,OMV - Wien Laaer Berg-Straße 240,Laaer Berg-Strasse 240,Wien,1100,48.14818,16.39664,GAS,CNG,1.699,2022-03-02 17:44
+1354937,OMV - Wien Groß-Enzersdorfer Straße 24-26,Gross-Enzersdorfer Strasse 24-26,Wien,1220,48.21686,16.49345,GAS,CNG,1.699,2022-03-02 17:44
+1261240,Turmöl,Engerthstrasse 146,Wien,1200,48.233836,16.3910922,GAS,CNG,1.179,2022-03-02 17:44
+27348,IQ Tankstelle,Gadnergasse 12,Wien,1110,48.164827,16.410579,GAS,CNG,1.299,2022-03-02 17:44
+33348,Shell Tankstelle,Siemensstrasse 105b,Wien,1210,48.266989,16.428849,GAS,CNG,1.299,2022-03-02 17:44
+334,OMV - Wien Sterngasse 13,Sterngasse 13,Wien,1230,48.14891,16.33836,GAS,CNG,1.699,2022-03-02 17:44
+1354891,OMV - Wien Adalbert Stifter-Straße 67,Adalbert Stifter-Strasse 67,Wien,1200,48.24309,16.37535,GAS,CNG,1.699,2022-03-02 17:44
+1354914,OMV - Wien Breitenleer Straße Ost B302 112,Breitenleer Strasse Ost B302 112,Wien,1220,48.25141,16.47211,GAS,CNG,1.699,2022-03-02 17:44
+1354916,OMV - Wien Hirschstettner Straße 34,Hirschstettner Strasse 34,Wien,1220,48.24285,16.45645,GAS,CNG,1.699,2022-03-02 17:44
+1354918,OMV - Wien Brünner Straße 172,Bruenner Strasse 172,Wien,1210,48.28114,16.41181,GAS,CNG,1.699,2022-03-02 17:44
+1354920,OMV - Wien Brunner Straße 77-79,Brunner Strasse 77-79,Wien,1230,48.13342,16.29849,GAS,CNG,1.699,2022-03-02 17:44
+1354929,OMV - Wien Laaer Berg-Straße 240,Laaer Berg-Strasse 240,Wien,1100,48.14818,16.39664,GAS,CNG,1.699,2022-03-02 17:44
+1354937,OMV - Wien Groß-Enzersdorfer Straße 24-26,Gross-Enzersdorfer Strasse 24-26,Wien,1220,48.21686,16.49345,GAS,CNG,1.699,2022-03-02 17:44
+1261240,Turmöl,Engerthstrasse 146,Wien,1200,48.233836,16.3910922,GAS,CNG,1.179,2022-03-02 17:44
+27348,IQ Tankstelle,Gadnergasse 12,Wien,1110,48.164827,16.410579,GAS,CNG,1.299,2022-03-02 17:44
+33348,Shell Tankstelle,Siemensstrasse 105b,Wien,1210,48.266989,16.428849,GAS,CNG,1.299,2022-03-02 17:44
+334,OMV - Wien Sterngasse 13,Sterngasse 13,Wien,1230,48.14891,16.33836,GAS,CNG,1.699,2022-03-02 17:44
+1354891,OMV - Wien Adalbert Stifter-Straße 67,Adalbert Stifter-Strasse 67,Wien,1200,48.24309,16.37535,GAS,CNG,1.699,2022-03-02 17:44
+1354914,OMV - Wien Breitenleer Straße Ost B302 112,Breitenleer Strasse Ost B302 112,Wien,1220,48.25141,16.47211,GAS,CNG,1.699,2022-03-02 17:44
+1354916,OMV - Wien Hirschstettner Straße 34,Hirschstettner Strasse 34,Wien,1220,48.24285,16.45645,GAS,CNG,1.699,2022-03-02 17:44
+1354918,OMV - Wien Brünner Straße 172,Bruenner Strasse 172,Wien,1210,48.28114,16.41181,GAS,CNG,1.699,2022-03-02 17:44
+1354920,OMV - Wien Brunner Straße 77-79,Brunner Strasse 77-79,Wien,1230,48.13342,16.29849,GAS,CNG,1.699,2022-03-02 17:44
+1354929,OMV - Wien Laaer Berg-Straße 240,Laaer Berg-Strasse 240,Wien,1100,48.14818,16.39664,GAS,CNG,1.699,2022-03-02 17:44
+1354937,OMV - Wien Groß-Enzersdorfer Straße 24-26,Gross-Enzersdorfer Strasse 24-26,Wien,1220,48.21686,16.49345,GAS,CNG,1.699,2022-03-02 17:44
+1261240,Turmöl,Engerthstrasse 146,Wien,1200,48.233836,16.3910922,GAS,CNG,1.179,2022-03-02 17:44
+27348,IQ Tankstelle,Gadnergasse 12,Wien,1110,48.164827,16.410579,GAS,CNG,1.299,2022-03-02 17:44
+33348,Shell Tankstelle,Siemensstrasse 105b,Wien,1210,48.266989,16.428849,GAS,CNG,1.299,2022-03-02 17:44
+334,OMV - Wien Sterngasse 13,Sterngasse 13,Wien,1230,48.14891,16.33836,GAS,CNG,1.699,2022-03-02 17:44
+1354891,OMV - Wien Adalbert Stifter-Straße 67,Adalbert Stifter-Strasse 67,Wien,1200,48.24309,16.37535,GAS,CNG,1.699,2022-03-02 17:44
+1354914,OMV - Wien Breitenleer Straße Ost B302 112,Breitenleer Strasse Ost B302 112,Wien,1220,48.25141,16.47211,GAS,CNG,1.699,2022-03-02 17:44
+1354916,OMV - Wien Hirschstettner Straße 34,Hirschstettner Strasse 34,Wien,1220,48.24285,16.45645,GAS,CNG,1.699,2022-03-02 17:44
+1354918,OMV - Wien Brünner Straße 172,Bruenner Strasse 172,Wien,1210,48.28114,16.41181,GAS,CNG,1.699,2022-03-02 17:44
+1354920,OMV - Wien Brunner Straße 77-79,Brunner Strasse 77-79,Wien,1230,48.13342,16.29849,GAS,CNG,1.699,2022-03-02 17:44
+1354929,OMV - Wien Laaer Berg-Straße 240,Laaer Berg-Strasse 240,Wien,1100,48.14818,16.39664,GAS,CNG,1.699,2022-03-02 17:44
+1354937,OMV - Wien Groß-Enzersdorfer Straße 24-26,Gross-Enzersdorfer Strasse 24-26,Wien,1220,48.21686,16.49345,GAS,CNG,1.699,2022-03-02 17:44
+1261240,Turmöl,Engerthstrasse 146,Wien,1200,48.233836,16.3910922,GAS,CNG,1.179,2022-03-02 17:44
+27348,IQ Tankstelle,Gadnergasse 12,Wien,1110,48.164827,16.410579,GAS,CNG,1.299,2022-03-02 17:44
+33348,Shell Tankstelle,Siemensstrasse 105b,Wien,1210,48.266989,16.428849,GAS,CNG,1.299,2022-03-02 17:44
+334,OMV - Wien Sterngasse 13,Sterngasse 13,Wien,1230,48.14891,16.33836,GAS,CNG,1.699,2022-03-02 17:44
+1354891,OMV - Wien Adalbert Stifter-Straße 67,Adalbert Stifter-Strasse 67,Wien,1200,48.24309,16.37535,GAS,CNG,1.699,2022-03-02 17:44
+1354914,OMV - Wien Breitenleer Straße Ost B302 112,Breitenleer Strasse Ost B302 112,Wien,1220,48.25141,16.47211,GAS,CNG,1.699,2022-03-02 17:44
+1354916,OMV - Wien Hirschstettner Straße 34,Hirschstettner Strasse 34,Wien,1220,48.24285,16.45645,GAS,CNG,1.699,2022-03-02 17:44
+1354918,OMV - Wien Brünner Straße 172,Bruenner Strasse 172,Wien,1210,48.28114,16.41181,GAS,CNG,1.699,2022-03-02 17:44
+1354920,OMV - Wien Brunner Straße 77-79,Brunner Strasse 77-79,Wien,1230,48.13342,16.29849,GAS,CNG,1.699,2022-03-02 17:44
+1354929,OMV - Wien Laaer Berg-Straße 240,Laaer Berg-Strasse 240,Wien,1100,48.14818,16.39664,GAS,CNG,1.699,2022-03-02 17:44
+1354937,OMV - Wien Groß-Enzersdorfer Straße 24-26,Gross-Enzersdorfer Strasse 24-26,Wien,1220,48.21686,16.49345,GAS,CNG,1.699,2022-03-02 17:44
+1261240,Turmöl,Engerthstrasse 146,Wien,1200,48.233836,16.3910922,GAS,CNG,1.179,2022-03-02 17:44
+27348,IQ Tankstelle,Gadnergasse 12,Wien,1110,48.164827,16.410579,GAS,CNG,1.299,2022-03-02 17:44
+33348,Shell Tankstelle,Siemensstrasse 105b,Wien,1210,48.266989,16.428849,GAS,CNG,1.299,2022-03-02 17:44
+334,OMV - Wien Sterngasse 13,Sterngasse 13,Wien,1230,48.14891,16.33836,GAS,CNG,1.699,2022-03-02 17:44
+1354891,OMV - Wien Adalbert Stifter-Straße 67,Adalbert Stifter-Strasse 67,Wien,1200,48.24309,16.37535,GAS,CNG,1.699,2022-03-02 17:44
+1354914,OMV - Wien Breitenleer Straße Ost B302 112,Breitenleer Strasse Ost B302 112,Wien,1220,48.25141,16.47211,GAS,CNG,1.699,2022-03-02 17:44
+1354916,OMV - Wien Hirschstettner Straße 34,Hirschstettner Strasse 34,Wien,1220,48.24285,16.45645,GAS,CNG,1.699,2022-03-02 17:44
+1354918,OMV - Wien Brünner Straße 172,Bruenner Strasse 172,Wien,1210,48.28114,16.41181,GAS,CNG,1.699,2022-03-02 17:44
+1354920,OMV - Wien Brunner Straße 77-79,Brunner Strasse 77-79,Wien,1230,48.13342,16.29849,GAS,CNG,1.699,2022-03-02 17:44
+1354929,OMV - Wien Laaer Berg-Straße 240,Laaer Berg-Strasse 240,Wien,1100,48.14818,16.39664,GAS,CNG,1.699,2022-03-02 17:44
+1354937,OMV - Wien Groß-Enzersdorfer Straße 24-26,Gross-Enzersdorfer Strasse 24-26,Wien,1220,48.21686,16.49345,GAS,CNG,1.699,2022-03-02 17:44
+1261240,Turmöl,Engerthstrasse 146,Wien,1200,48.233836,16.3910922,GAS,CNG,1.179,2022-03-02 17:44
+27348,IQ Tankstelle,Gadnergasse 12,Wien,1110,48.164827,16.410579,GAS,CNG,1.299,2022-03-02 17:44
+33348,Shell Tankstelle,Siemensstrasse 105b,Wien,1210,48.266989,16.428849,GAS,CNG,1.299,2022-03-02 17:44
+334,OMV - Wien Sterngasse 13,Sterngasse 13,Wien,1230,48.14891,16.33836,GAS,CNG,1.699,2022-03-02 17:44
+1354891,OMV - Wien Adalbert Stifter-Straße 67,Adalbert Stifter-Strasse 67,Wien,1200,48.24309,16.37535,GAS,CNG,1.699,2022-03-02 17:44
+1354914,OMV - Wien Breitenleer Straße Ost B302 112,Breitenleer Strasse Ost B302 112,Wien,1220,48.25141,16.47211,GAS,CNG,1.699,2022-03-02 17:44
+1354916,OMV - Wien Hirschstettner Straße 34,Hirschstettner Strasse 34,Wien,1220,48.24285,16.45645,GAS,CNG,1.699,2022-03-02 17:44
+1354918,OMV - Wien Brünner Straße 172,Bruenner Strasse 172,Wien,1210,48.28114,16.41181,GAS,CNG,1.699,2022-03-02 17:44
+1354920,OMV - Wien Brunner Straße 77-79,Brunner Strasse 77-79,Wien,1230,48.13342,16.29849,GAS,CNG,1.699,2022-03-02 17:44
+1354929,OMV - Wien Laaer Berg-Straße 240,Laaer Berg-Strasse 240,Wien,1100,48.14818,16.39664,GAS,CNG,1.699,2022-03-02 17:44
+1354937,OMV - Wien Groß-Enzersdorfer Straße 24-26,Gross-Enzersdorfer Strasse 24-26,Wien,1220,48.21686,16.49345,GAS,CNG,1.699,2022-03-02 17:44
+1261240,Turmöl,Engerthstrasse 146,Wien,1200,48.233836,16.3910922,GAS,CNG,1.179,2022-03-02 17:44
+27348,IQ Tankstelle,Gadnergasse 12,Wien,1110,48.164827,16.410579,GAS,CNG,1.299,2022-03-02 17:44
+33348,Shell Tankstelle,Siemensstrasse 105b,Wien,1210,48.266989,16.428849,GAS,CNG,1.299,2022-03-02 17:44
+334,OMV - Wien Sterngasse 13,Sterngasse 13,Wien,1230,48.14891,16.33836,GAS,CNG,1.699,2022-03-02 17:44
+1354891,OMV - Wien Adalbert Stifter-Straße 67,Adalbert Stifter-Strasse 67,Wien,1200,48.24309,16.37535,GAS,CNG,1.699,2022-03-02 17:44
+1354914,OMV - Wien Breitenleer Straße Ost B302 112,Breitenleer Strasse Ost B302 112,Wien,1220,48.25141,16.47211,GAS,CNG,1.699,2022-03-02 17:44
+1354916,OMV - Wien Hirschstettner Straße 34,Hirschstettner Strasse 34,Wien,1220,48.24285,16.45645,GAS,CNG,1.699,2022-03-02 17:44
+1354918,OMV - Wien Brünner Straße 172,Bruenner Strasse 172,Wien,1210,48.28114,16.41181,GAS,CNG,1.699,2022-03-02 17:44
+1354920,OMV - Wien Brunner Straße 77-79,Brunner Strasse 77-79,Wien,1230,48.13342,16.29849,GAS,CNG,1.699,2022-03-02 17:44
+1354929,OMV - Wien Laaer Berg-Straße 240,Laaer Berg-Strasse 240,Wien,1100,48.14818,16.39664,GAS,CNG,1.699,2022-03-02 17:44
+1354937,OMV - Wien Groß-Enzersdorfer Straße 24-26,Gross-Enzersdorfer Strasse 24-26,Wien,1220,48.21686,16.49345,GAS,CNG,1.699,2022-03-02 17:44
+1261240,Turmöl,Engerthstrasse 146,Wien,1200,48.233836,16.3910922,GAS,CNG,1.179,2022-03-02 17:44
+27348,IQ Tankstelle,Gadnergasse 12,Wien,1110,48.164827,16.410579,GAS,CNG,1.299,2022-03-02 17:44
+33348,Shell Tankstelle,Siemensstrasse 105b,Wien,1210,48.266989,16.428849,GAS,CNG,1.299,2022-03-02 17:44
+334,OMV - Wien Sterngasse 13,Sterngasse 13,Wien,1230,48.14891,16.33836,GAS,CNG,1.699,2022-03-02 17:44
+1354891,OMV - Wien Adalbert Stifter-Straße 67,Adalbert Stifter-Strasse 67,Wien,1200,48.24309,16.37535,GAS,CNG,1.699,2022-03-02 17:44
+1354914,OMV - Wien Breitenleer Straße Ost B302 112,Breitenleer Strasse Ost B302 112,Wien,1220,48.25141,16.47211,GAS,CNG,1.699,2022-03-02 17:44
+1354916,OMV - Wien Hirschstettner Straße 34,Hirschstettner Strasse 34,Wien,1220,48.24285,16.45645,GAS,CNG,1.699,2022-03-02 17:44
+1354918,OMV - Wien Brünner Straße 172,Bruenner Strasse 172,Wien,1210,48.28114,16.41181,GAS,CNG,1.699,2022-03-02 17:44
+1354920,OMV - Wien Brunner Straße 77-79,Brunner Strasse 77-79,Wien,1230,48.13342,16.29849,GAS,CNG,1.699,2022-03-02 17:44
+1354929,OMV - Wien Laaer Berg-Straße 240,Laaer Berg-Strasse 240,Wien,1100,48.14818,16.39664,GAS,CNG,1.699,2022-03-02 17:44
+1354937,OMV - Wien Groß-Enzersdorfer Straße 24-26,Gross-Enzersdorfer Strasse 24-26,Wien,1220,48.21686,16.49345,GAS,CNG,1.699,2022-03-02 17:44
+1261240,Turmöl,Engerthstrasse 146,Wien,1200,48.233836,16.3910922,GAS,CNG,1.179,2022-03-02 17:44
+27348,IQ Tankstelle,Gadnergasse 12,Wien,1110,48.164827,16.410579,GAS,CNG,1.299,2022-03-02 17:44
+33348,Shell Tankstelle,Siemensstrasse 105b,Wien,1210,48.266989,16.428849,GAS,CNG,1.299,2022-03-02 17:44
+334,OMV - Wien Sterngasse 13,Sterngasse 13,Wien,1230,48.14891,16.33836,GAS,CNG,1.699,2022-03-02 17:44
+1354891,OMV - Wien Adalbert Stifter-Straße 67,Adalbert Stifter-Strasse 67,Wien,1200,48.24309,16.37535,GAS,CNG,1.699,2022-03-02 17:44
+1354914,OMV - Wien Breitenleer Straße Ost B302 112,Breitenleer Strasse Ost B302 112,Wien,1220,48.25141,16.47211,GAS,CNG,1.699,2022-03-02 17:44
+1354916,OMV - Wien Hirschstettner Straße 34,Hirschstettner Strasse 34,Wien,1220,48.24285,16.45645,GAS,CNG,1.699,2022-03-02 17:44
+1354918,OMV - Wien Brünner Straße 172,Bruenner Strasse 172,Wien,1210,48.28114,16.41181,GAS,CNG,1.699,2022-03-02 17:44
+1354920,OMV - Wien Brunner Straße 77-79,Brunner Strasse 77-79,Wien,1230,48.13342,16.29849,GAS,CNG,1.699,2022-03-02 17:44
+1354929,OMV - Wien Laaer Berg-Straße 240,Laaer Berg-Strasse 240,Wien,1100,48.14818,16.39664,GAS,CNG,1.699,2022-03-02 17:44
+1354937,OMV - Wien Groß-Enzersdorfer Straße 24-26,Gross-Enzersdorfer Strasse 24-26,Wien,1220,48.21686,16.49345,GAS,CNG,1.699,2022-03-02 17:44
+1261240,Turmöl,Engerthstrasse 146,Wien,1200,48.233836,16.3910922,GAS,CNG,1.179,2022-03-02 17:44
+27348,IQ Tankstelle,Gadnergasse 12,Wien,1110,48.164827,16.410579,GAS,CNG,1.299,2022-03-02 17:44
+33348,Shell Tankstelle,Siemensstrasse 105b,Wien,1210,48.266989,16.428849,GAS,CNG,1.299,2022-03-02 17:44
+334,OMV - Wien Sterngasse 13,Sterngasse 13,Wien,1230,48.14891,16.33836,GAS,CNG,1.699,2022-03-02 17:44
+1354891,OMV - Wien Adalbert Stifter-Straße 67,Adalbert Stifter-Strasse 67,Wien,1200,48.24309,16.37535,GAS,CNG,1.699,2022-03-02 17:44
+1354914,OMV - Wien Breitenleer Straße Ost B302 112,Breitenleer Strasse Ost B302 112,Wien,1220,48.25141,16.47211,GAS,CNG,1.699,2022-03-02 17:44
+1354916,OMV - Wien Hirschstettner Straße 34,Hirschstettner Strasse 34,Wien,1220,48.24285,16.45645,GAS,CNG,1.699,2022-03-02 17:44
+1354918,OMV - Wien Brünner Straße 172,Bruenner Strasse 172,Wien,1210,48.28114,16.41181,GAS,CNG,1.699,2022-03-02 17:44
+1354920,OMV - Wien Brunner Straße 77-79,Brunner Strasse 77-79,Wien,1230,48.13342,16.29849,GAS,CNG,1.699,2022-03-02 17:44
+1354929,OMV - Wien Laaer Berg-Straße 240,Laaer Berg-Strasse 240,Wien,1100,48.14818,16.39664,GAS,CNG,1.699,2022-03-02 17:44
+1354937,OMV - Wien Groß-Enzersdorfer Straße 24-26,Gross-Enzersdorfer Strasse 24-26,Wien,1220,48.21686,16.49345,GAS,CNG,1.699,2022-03-02 17:44
