@@ -27,9 +27,8 @@ jobs:
           pip install -e .
       - name: Run data crawler
         run: |
-          ls -l
-          agp
-          ls -l data
+          agp --vienna
+          agp --austria
       - name: Commit files
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"

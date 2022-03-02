@@ -1,3 +1,5 @@
+import argparse
+
 from oidafuel.datatypes import FuelType
 
 from agp import __version__
@@ -8,20 +10,50 @@ from agp.core import (
 )
 
 
+def parse_arguments():
+    parser = argparse.ArgumentParser(
+        description="Python client retrieve austrian gas prices"
+    )
+
+    parser.add_argument(
+        "--version", action="version", version="%(prog)s {}".format(__version__)
+    )
+
+    parser.add_argument(
+        "--vienna",
+        help="Retrieve gas prices for all regions of vienna",
+        action="store_true",
+    )
+    parser.add_argument(
+        "--austria",
+        help="Retrieve gas prices for all regions of austria",
+        action="store_true",
+    )
+
+    return parser.parse_args()
+
+
 def main():
-    print(f"Austrian Gas Prices v{__version__}")
+    args = parse_arguments()
+
+    print(f"Austrian Gas Prices (agp), v{__version__}\n")
 
     fuel_types = (FuelType.SUPER_95, FuelType.DIESEL, FuelType.CNG_ERDGAS)
 
-    for fuel_type in fuel_types:
-        prices = get_gas_prices_vienna(fuel_type)
-        file_name = f"vienna_{fuel_type}.csv"
-        save_gas_prices_to_file(prices, file_name)
+    if args.vienna:
+        print("== Vienna ==")
+        for fuel_type in fuel_types:
+            prices = get_gas_prices_vienna(fuel_type)
+            file_name = f"vienna_{fuel_type}.csv"
+            save_gas_prices_to_file(prices, file_name)
+            print()
 
-    for fuel_type in fuel_types:
-        prices = get_gas_prices_austria(fuel_type)
-        file_name = f"austria_{fuel_type}.csv"
-        save_gas_prices_to_file(prices, file_name)
+    if args.austria:
+        print("== Vienna ==")
+        for fuel_type in fuel_types:
+            prices = get_gas_prices_austria(fuel_type)
+            file_name = f"austria_{fuel_type}.csv"
+            save_gas_prices_to_file(prices, file_name)
 
 
 if __name__ == "__main__":

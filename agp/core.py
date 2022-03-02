@@ -34,7 +34,7 @@ def get_gas_prices_austria(fuel_type: FuelType) -> list[GasPrice]:
     gas_prices = []
     for region in regions:
         print(
-            f"{region.name} ({region.region_code}) "
+            f"Checking {region.name} ({region.region_code}) "
             f"for {fuel_type_names[fuel_type]} prices...",
             end="",
         )
