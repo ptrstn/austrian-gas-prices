@@ -89,6 +89,7 @@ station_id,name,address,city,postal_code,latitude,longitude
 6070,TANKEnergie Ringgarage,Untere Viaduktgasse 47-49,Wien,1030,48.2066605,16.3873229
 6074,Turmöl-Tankstelle beim Interspar,Industriezeile 78,Linz,4020,48.3004302,14.3206244
 6083,Turmöl Quick,Währinger Gürtel 116,Wien,1090,48.2266238,16.3504673
+6174,TROPPER-GRINSCHGL - KFZ-Prüffstelle,Kronnersdorf 16,Straden,8345,46.8054956,15.8500188
 6176,FILLUP 24 h - 5500,Molkereistraße 10,Bischofshofen,5500,47.4132863025724,13.2183000160912
 6176,FILLUP 24 h - 5500,Molkereistraße 10,Bischofshofen,5500,47.4132863025724,13.2183000160912
 6221,Lagerhaus-Genol,Weinberggasse 1,Podersdorf,7141,47.8565454,16.8368875
@@ -253,6 +254,7 @@ station_id,name,address,city,postal_code,latitude,longitude
 36268,OMV - Laakirchen Reiterholz 3,Reiterholz 3,Laakirchen,4663,48.00466,13.85405
 36271,avanti - Wien Simmeringer Hauptstraße 5,Simmeringer Hauptstrasse 5,Wien,1110,48.18388,16.4059
 36946,Landkauf Bund,Wieden 35,Straden,8345,46.8085675,15.8704039
+37006,,Industriestraße 17,Feldkirchen,9560,46.7215632,14.1021638
 37470,Deutsch-Griffen,Göschelsberg 17,Deutsch-Griffen,9572,46.8493966,14.0861215
 38009,Landesprodukte Scheiber,Jakling 6,St. Andrä,9433,46.7585275,14.8463902
 38026,avanti - Wien Julius Ficker Straße 77,Julius Ficker Strasse 77,Wien,1210,48.26672,16.44859
@@ -334,6 +336,7 @@ station_id,name,address,city,postal_code,latitude,longitude
 255985,123tanken.at - Tankstellenbetriebs & Service GmbH,Rotensterngasse 25,Wien,1020,48.2172366,16.3844335
 259032,Diskont Tankstelle,"Gewerbestraße 2 (""Am Hofer Parkplatz"")",Traisen,3160,48.049897,15.612339
 274360,Müller Tankstellen GesmbH,Bundesstraße 15,St. Konrad,4817,47.9107899,13.90395
+277894,Shell Austria,HIRSCHSTETTNERSTRASSE 24,WIEN,1220,48.24412,16.45453
 294806,eni,Gersthofer Strasse Nr. 2b,Wien,1180,48.226999,16.326521
 294886,eni,Brennerautobahn Ost Tal,Matrei,6143,47.14072,11.44653
 297720,AVIA Xpress (Automaten-Tankstelle),Rieder Straße 17,Mettmach,4931,48.172218,13.347336
@@ -547,8 +550,8 @@ station_id,name,address,city,postal_code,latitude,longitude
 1471267,Tankshop Sabotnig,Plescherken 62 a,Keutschach/See,9074,46.58772169917432,14.141038821702509
 1471508,Eni Hartberg,Ressevarstraße 50,Hartberg,8230,47.2825361,15.9754875
 1471848,Glocknertankstelle,"Pockhorn, 29",Heiligenblut,9844,47.02351163016087,12.862333834713704
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",Strobl,5350,47.713120721929556,13.486561730101547
 1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",Strobl,5350,47.71312072192956,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",Strobl,5350,47.713120721929556,13.486561730101547
 1472047,Tankstelle 2 Löwen,Igo-Etrich Straße,Kapfenberg,8605,47.466246623852925,15.337758981543928
 1472147,Turmöl Quick,Altmannsdorfer Straße 96,Wien,1120,48.1618,16.31747
 1472247,Gutmann Shell,Au 171,See,6553,47.0826756,10.4641687
