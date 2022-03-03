@@ -70,6 +70,7 @@ station_id,name,address,city,postal_code,latitude,longitude
 4073,Freie Tankstelle,Dr. Hans Bachmannstrasse 51a,Kundl,6250,47.4733396,11.9790487
 4073,Freie Tankstelle,Dr. Hans Bachmannstrasse 51a,Kundl,6250,47.4733396,11.9790487
 4098,Turmöl Quick,Innerrotte 50,St. Jakob,9963,46.9151971,12.3338164
+4104,Turmöl Quick,Triglavstraße 1,Villach,9500,46.5939688,13.8435871
 4158,Disk,Hauptstraße 18,Zams,6511,47.1541793,10.5844558
 4158,Disk,Hauptstraße 18,Zams,6511,47.1541793,10.5844558
 4196,RHD Richard Hofer Diskont,Wörther Strasse 73,Wörth,2640,47.6737717,15.969825
@@ -635,6 +636,7 @@ station_id,name,address,city,postal_code,latitude,longitude
 1471267,Tankshop Sabotnig,Plescherken 62 a,Keutschach/See,9074,46.58772169917432,14.141038821702509
 1471508,Eni Hartberg,Ressevarstraße 50,Hartberg,8230,47.2825361,15.9754875
 1471848,Glocknertankstelle,"Pockhorn, 29",Heiligenblut,9844,47.02351163016087,12.862333834713704
+1471927,Turmöl Quick,St. Martiner Straße 124,Villach,9500,46.62518,13.82178
 1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",Strobl,5350,47.713120721929556,13.486561730101547
 1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",Strobl,5350,47.71312072192956,13.486561730101547
 1472008,FS Tankstelle,Donaufelderstr.128,Wien,1210,48.25236,16.42563
