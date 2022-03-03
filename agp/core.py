@@ -101,8 +101,17 @@ def update_dataframes(
     unique_df1_ids = df1[sort_column].unique()
     unique_df2_ids = df2[sort_column].unique()
 
-    assert len(unique_df1_ids) == len(df1)
-    assert len(unique_df2_ids) == len(df2)
+    try:
+        assert len(unique_df1_ids) == len(df1)
+        assert len(unique_df2_ids) == len(df2)
+    except AssertionError as e:
+        duplicates1 = df1[df1.station_id.duplicated()]
+        duplicates2 = df2[df2.station_id.duplicated()]
+        print("Duplicates 1:")
+        print(duplicates1)
+        print("Duplicates 2:")
+        print(duplicates2)
+        raise e
 
     df = pandas.concat([df1, df2])
     df.sort_values(sort_column, inplace=True)
