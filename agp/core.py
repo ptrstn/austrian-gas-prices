@@ -5,6 +5,7 @@ import pandas
 from oidafuel.core import GasPrice, get_gas_stations_by_region, GasStationInfo
 from oidafuel.datatypes import FuelType, GasStation
 from oidafuel.econtrol import get_regions
+from pandas import DataFrame
 
 DATA_PATH = Path("data")
 
@@ -78,6 +79,40 @@ def save_gas_prices_to_file(gas_prices: list[GasPrice], file_name: Union[str, Pa
     dataframe.to_csv(**kwargs)
 
 
+def update_dataframes(
+    original_df: DataFrame, new_df: DataFrame, sort_column
+) -> DataFrame:
+    columns1 = list(original_df)
+    columns2 = list(new_df)
+    try:
+        assert columns1 == columns2
+    except AssertionError as e:
+        if len(original_df) == 0:
+            original_df = DataFrame(columns=columns2)
+        else:
+            raise e
+
+    df1 = original_df.sort_values(sort_column)
+    df2 = new_df.sort_values(sort_column)
+
+    assert len(df1) == len(original_df)
+    assert len(df2) == len(new_df)
+
+    unique_df1_ids = df1[sort_column].unique()
+    unique_df2_ids = df2[sort_column].unique()
+
+    assert len(unique_df1_ids) == len(df1)
+    assert len(unique_df2_ids) == len(df2)
+
+    df = pandas.concat([df1, df2])
+    df.sort_values(sort_column, inplace=True)
+    df.drop_duplicates(sort_column, inplace=True)
+
+    assert len(df) >= len(df1)
+    assert len(df) >= len(df2)
+    return df
+
+
 def update_gas_stations_file(
     gas_stations: list[GasStation],
     file_name: Union[str, Path] = "gas_stations.csv",
@@ -89,11 +124,8 @@ def update_gas_stations_file(
     infos = [GasStationInfo.from_gas_station(station) for station in gas_stations]
 
     new_dataframe = pandas.DataFrame(infos)
-    old_dataframe = pandas.read_csv(file_path) if file_path.exists() else new_dataframe
-    df = (
-        pandas.concat([old_dataframe, new_dataframe])
-        .drop_duplicates()
-        .sort_values("station_id")
-    )
 
+    old_dataframe = pandas.read_csv(file_path) if file_path.exists() else DataFrame()
+
+    df = update_dataframes(old_dataframe, new_dataframe, "station_id")
     df.to_csv(file_path, index=False)
