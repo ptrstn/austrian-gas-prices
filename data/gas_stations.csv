@@ -100,8 +100,12 @@ station_id,name,address,city,postal_code,latitude,longitude
 6232,Lagerhaus-Genol,Bahnstraße 115,Wallern,7151,47.7351682,16.9296436
 6325,Walter,Unterauersbach 8,Unterauersbach,8342,46.86577,15.77547
 6397,GENOL - Lagerhaus,Bahnstraße 21,Pottenstein,2563,47.963018,16.0883929
+6399,GENOL - Lagerhaus,Neusiedlerstraße 4,Pernitz,2763,47.8942212,15.9548225
+6405,GENOL - Lagerhaus,Winzerstraße 382,Winzendorf,2722,47.8129554,16.1124555
 6407,Freie Tankstelle Nockenstein,Wolfgangseestraße 35,Koppl,5023,47.8203145,13.1112882
+6408,GENOL - Lagerhaus,Lokalbahnstraße 13,Neunkirchen,2620,47.7248325,16.0828276
 6412,GENOL - Lagerhaus,Sägemühle 2,Krumbach,2851,47.5032608,16.2044289
+6422,GENOL - Lagerhaus,Ofenbachstraße,Lanzenkirchen,2821,47.742137,16.240472
 6441,Torrefina Gmbh.,Schottenfeldgasse 94,Wien,1070,48.2071479,16.343487
 6444,GENOL - Lagerhaus,Wienerstraße 95a,Wr. Neustadt,2700,47.8296057,16.2439872
 6453,GENOL - Lagerhaus,Lagerhausstraße 1,Thomasberg,2842,47.6028673,16.1186639
@@ -155,6 +159,7 @@ station_id,name,address,city,postal_code,latitude,longitude
 30238,Lohberger,Ödenburger Straße 14 ,Wien,1210,48.27539596984909,16.397716999053955
 30243,BP,Lustenauerstrasse 92,Dornbirn,6850,47.41248,9.7145355
 30246,BP,Handelskai 90,Wien,1200,48.2430922,16.3843336
+30268,eni Hochhauser,Ketzergasse 111,Wien,1230,48.1277241,16.3055531
 33290,Aspöck - Freie Tankstelle,Obeltsham 29,Gaspoltshofen,4673,48.1351055,13.7281924
 33291,Diesel-Benzin-Diskont Groiss ,Josef-Jessernigg-Straße 3,Stockerau,2000,48.387907,16.232125
 33319,Shell,Fischanger 161,Langen,6932,47.5155039,9.8437537
