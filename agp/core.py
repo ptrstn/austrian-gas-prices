@@ -152,6 +152,9 @@ def update_gas_stations_file(
     file_path = data_path / file_name
 
     infos = [GasStationInfo.from_gas_station(station) for station in gas_stations]
+    # Drop duplicates, that can happen when two different regions return
+    # the same gas station for different times (+-1 Minute) or different fuel types
+    infos = list(dict.fromkeys(infos))
 
     new_dataframe = pandas.DataFrame(infos)
     old_dataframe = read_gas_stations_file(file_name, data_path)
