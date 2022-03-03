@@ -1,12 +1,14 @@
 import argparse
 
+from oidafuel.core import gas_stations_to_gas_prices
 from oidafuel.datatypes import FuelType
 
 from agp import __version__
 from agp.core import (
-    get_gas_prices_vienna,
     save_gas_prices_to_file,
-    get_gas_prices_austria,
+    get_gas_stations_vienna,
+    get_gas_stations_austria,
+    update_gas_stations_file,
 )
 
 
@@ -43,7 +45,9 @@ def main():
     if args.vienna:
         print("== Vienna ==")
         for fuel_type in fuel_types:
-            prices = get_gas_prices_vienna(fuel_type)
+            stations = get_gas_stations_vienna(fuel_type)
+            update_gas_stations_file(stations)
+            prices = gas_stations_to_gas_prices(stations)
             file_name = f"vienna_{fuel_type}.csv"
             save_gas_prices_to_file(prices, file_name)
             print()
@@ -51,7 +55,9 @@ def main():
     if args.austria:
         print("== Vienna ==")
         for fuel_type in fuel_types:
-            prices = get_gas_prices_austria(fuel_type)
+            stations = get_gas_stations_austria(fuel_type)
+            update_gas_stations_file(stations)
+            prices = gas_stations_to_gas_prices(stations)
             file_name = f"austria_{fuel_type}.csv"
             save_gas_prices_to_file(prices, file_name)
 
