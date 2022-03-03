@@ -437,6 +437,7 @@ station_id,name,address,city,postal_code,latitude,longitude
 544226,Diskont Tankstelle,"Gnaserstraße 26 (""Am Hofer Parkplatz"")",Feldbach,8330,46.953682,15.869513
 592851,eni,Marktstraße 19,Großarl,5611,47.2428529,13.2059728
 605978,Turmöl Gold,Steinamangerstrasse 8,Pinkafeld,7423,47.3635786,16.1251255
+621238,OIL! Tankstelle,B 314 / B 179,Bichlbach,6621,47.4229,10.7829
 621248,OIL! Tankstelle,Schusterbergweg 84,Innsbruck,6020,47.2769,11.432
 621283,OIL! Tankstelle,Himberger Strasse 50,Wien,1100,48.1365,16.3835
 621285,OIL! Tankstelle,Laxenburger Strasse 244,Wien,1230,48.1388,16.358
@@ -492,6 +493,7 @@ station_id,name,address,city,postal_code,latitude,longitude
 1317406,Turmöl,Wimbergstrasse 27,St.Peter am Wimberg,4171,48.5017483,14.0766343
 1338037,Turmöl Quick,Fabrikgasse 29,Graz,8020,47.0591358,15.4265899
 1338037,Turmöl Quick,Fabrikgasse 29,Graz,8020,47.0591358,15.4265899
+1339976,Turmöl Quick,Klagenfurterstraße 21,Moosburg,9062,46.6589993,14.1769673
 1354660,JET TANKSTELLE,RAUTENWEG 9,WIEN,1220,48.263651,16.459702
 1354663,JET TANKSTELLE,NEILREICHGASSE 39,WIEN,1100,48.174287,16.365643
 1354667,JET TANKSTELLE,SIMMERINGER HAUPTSTRASSE 275,WIEN,1110,48.159966,16.43266
