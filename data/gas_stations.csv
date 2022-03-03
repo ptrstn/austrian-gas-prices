@@ -201,6 +201,7 @@ station_id,name,address,city,postal_code,latitude,longitude
 33609,AVIA,Gewerbeparkstraße 1,Krems,3500,48.4052349,15.6549839
 33609,AVIA,Gewerbeparkstraße 1,Krems,3500,48.4052349,15.6549839
 33629,Gusenbauer - Ihr starker Partner,Hauptstraße 32,Mönchdorf,4281,48.3606782,14.7918203
+33708,AVIA XPress (unser Service: Luft und Wasser),Hauptstraße 25,Neubau,2125,48.4985214,16.5169696
 33715,AVIA,Schlitters 27c,Schlitters,6262,47.3811223,11.8341075
 33715,AVIA,Schlitters 27c,Schlitters,6262,47.3811223,11.8341075
 33727,AVIA,Friedrich-Thurner-Straße 21,Ried im Innkreis,4910,48.212154,13.482703
@@ -261,6 +262,7 @@ station_id,name,address,city,postal_code,latitude,longitude
 34988,Reinpold Tankstelle Scharnitz,Innsbruckerstraße 464,Scharnitz,6108,47.3879114,11.2609853
 35026,Mössmer Transporte,Gewerbestraße 1,Volders,6111,47.2899507,11.5734834
 35066,Mitterecker GmbH,Andorfer Strasse 13,Zell an der Pram,4755,48.3191684,13.62668
+35466,,Payerstetten 6,Leiben,3652,48.2496835,15.2480109
 35567,BP,Franz Josefskai/Morzinpl ,Wien,1010,48.2123537,16.3743119
 35574,BP,Nonntaler Hauptstrasse 65 ,Salzburg,5020,47.7844906,13.0525391
 35578,BP,Lustenauer Strasse 112a ,Hohenems,6845,47.373695,9.677582
