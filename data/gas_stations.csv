@@ -236,6 +236,7 @@ station_id,name,address,city,postal_code,latitude,longitude
 34528,Karl Bors GmbH,Ober Hauptstr. 63,Tadten,7162,47.7654592,16.9832483
 34545,Freie Tankstelle,Hasnerstraße 128,Wien ,1160,48.2116586,16.3102334
 34547,Moser Tankstelle Feldkirchen,Oberglan-Gewerbestr. 1,Feldkirchen,9560,46.694667,14.125671
+34558,Grübler Thomas Dieseltankstelle,Böcksteiner Bundesstraße 15,Bad Gastein,5640,47.1054555,13.1342715
 34561,Johannes Pferschinger,St.Urbanstraße 2,Fels/Wagram,3481,48.4383789,15.8176601
 34570,Lagerhaus,10. Oktoberstrasse 9,Grafenstein,9131,46.6218093,14.4489482
 34587,Tankstelle Pernsteiner - Tankautomat mit Bankomat,Hauptstraße 9,Kirchberg ob der Donau,4131,48.444348,13.938993
@@ -300,6 +301,7 @@ station_id,name,address,city,postal_code,latitude,longitude
 36106,ENI Rüf,Bersbuch 401,Andelsbuch,6866,47.3979731,9.853856
 36268,OMV - Laakirchen Reiterholz 3,Reiterholz 3,Laakirchen,4663,48.00466,13.85405
 36271,avanti - Wien Simmeringer Hauptstraße 5,Simmeringer Hauptstrasse 5,Wien,1110,48.18388,16.4059
+36806,Koidl Discounttankstelle,Gewerbering West 5,Mittersill,5730,47.2778885,12.4536911
 36946,Landkauf Bund,Wieden 35,Straden,8345,46.8085675,15.8704039
 37006,,Industriestraße 17,Feldkirchen,9560,46.7215632,14.1021638
 37470,Deutsch-Griffen,Göschelsberg 17,Deutsch-Griffen,9572,46.8493966,14.0861215
