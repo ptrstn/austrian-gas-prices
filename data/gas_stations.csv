@@ -456,6 +456,7 @@ station_id,name,address,city,postal_code,latitude,longitude
 793706,Petschl Tankstelle,Josef-Petschl-Straße 1,Perg,4320,48.25254,14.596074
 810034,Diesel Prommegger St. Michael,Gewerbestraße 649,St. Michael,5582,47.0968149,13.6314642
 819631,"""M3 TANKSTELLE"" PUCHBERG ",SCHNEEBERG 29,PUCHBERG AM SCHNEEBERG,2734,47.7887601,15.9091111
+910999,A1 Tankstelle Waidring,Loferer Bundesstraße 1,Waidring,6384,47.5864172,12.5849435
 931254,Turmöl,Altmannsdorferstraße 150,Wien,1230,48.1547657,16.3193503
 981384,Diskont Nissan Feichtinger,Eisenbirn 10,Münzkirchen,4792,48.4738875,13.5610313
 1004230,Tankstelle Holzgethan,Marktstraße 39,Warth,2831,47.6471798,16.1264914
@@ -527,6 +528,7 @@ station_id,name,address,city,postal_code,latitude,longitude
 1354790,JET TANKSTELLE,GEWERBEPARK 12,ELIXHAUSEN,5161,47.871096,13.065989
 1354794,JET TANKSTELLE,KETZERGASSE 208,WIEN,1230,48.130709,16.289516
 1354817,JET TANKSTELLE,GASTEINER STRASSE 72,BISCHOFSHOFEN,5500,47.406171,13.217781
+1354818,avanti - Ruprechtshofen Hauptstraße 24,Hauptstrasse 24,Ruprechtshofen,3244,48.13974,15.28193
 1354821,JET TANKSTELLE,KAISER FRANZ JOSEF STRASSE 40,HOHENEMS,6845,47.35725,9.68315
 1354822,OMV - Eisenstadt Mattersburger Straße 28,Mattersburger Strasse 28,Eisenstadt,7000,47.83317,16.52318
 1354822,OMV - Eisenstadt Mattersburger Straße 28,Mattersburger Strasse 28,Eisenstadt,7000,47.83317,16.52318
@@ -603,6 +605,7 @@ station_id,name,address,city,postal_code,latitude,longitude
 1467606,JET TANKSTELLE,GEWERBESTRASSE 19,ALKOVEN,4072,48.28957,14.130639
 1467627,AVIA-Tankstelle Stock,Vorderlanersbach 5,Tux,6293,47.160297,11.7587452
 1467697,Petschl / Riegler Tankstelle,Neudorf 36,Pabneukirchen,4363,48.331486,14.832237
+1467986,PINK Sparen beim Fahren,33. Straße 1,Kematen an der Ybbs,3331,48.027572,14.768701
 1468126,BP,Breitenfurterstr. 112,Wien,1120,48.160527,16.309543
 1468186,TS Lind Wings,Rennsteinerstraße 34,Villach,9500,46.6237261,13.8435376
 1468726, AVIA Xpress (Automaten-Tankstelle),10.-Oktober-Straße 29,Feldkirchen in Kärnten,9560,46.722217,14.098879
@@ -648,6 +651,7 @@ station_id,name,address,city,postal_code,latitude,longitude
 1473468,Diskont Tankstelle,"Garnei 208 (""Hofer-Parkplatz"")",Kuchl,5431,47.638523,13.137367
 1473491,Turmöl,Pragerstraße 155,Wien,1210,48.276582,16.388104
 1473508,Diskont Tankstelle,"Alpenstrasse 102 (""Hofer-Parkplatz"")",Anif,5081,47.7382713,13.0508116
+1473548,Turmöl Quick,Bundesstraße 65,Bodensdorf,9551,46.67948,13.96843
 1473551,Turmöl,Krottenbachstraße 233,Wien,1190,48.2456615,16.3164295
 1473588,Diskont Tankstelle,"Wiener Bundesstrasse 3 (""Am Hofer Parkplatz"")",Hallwang,5300,47.830196,13.083057
 1473750,BP,Gewerbegebiet 1,Heiterwang,6611,47.435845,10.767215
