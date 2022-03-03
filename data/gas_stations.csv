@@ -200,6 +200,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 35721,BP,Dresdnerstrasse 8 ,1200,Wien,48.2408605,16.3748223
 35743,BP,Hernalser Hauptstr.32-34 ,1170,Wien,48.2173667,16.3382721
 35750,BP,Handelskai 276-280 ,1020,Wien,48.2165742,16.4171484
+35754,BP,Krottenbachstr. 17 ,1190,Wien,48.2403021,16.3418194
 35762,BP,Margaretenguertel 43-45 ,1050,Wien,48.1796472,16.3517548
 35780,BP,Arsenalstrasse 5b ,1030,Wien,48.1776167,16.3929526
 36106,ENI Rüf,Bersbuch 401,6866,Andelsbuch,47.3979731,9.853856
@@ -223,6 +224,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 43866,Turmöl Quick,Bundesstraße 33,9560,Untere Glan,46.7337805,14.1558516
 44686,avanti - Pinkafeld Wiener Straße 8,Wiener Strasse 8,7423,Pinkafeld,47.3744,16.12554
 85913,TURMTANKSTELLE,Irrsdorfer Bachstraße Nr. 47,5204,Straßwalchen,47.967945,13.276355
+101593,OMV - Sankt Johann im Pongau Wagrainer Straße 11,Wagrainer Strasse 11,5600,Sankt Johann im Pongau,47.34862,13.20651
 108726,Wema  GmbH,Zeihenbühl 435,6951,Lingenau,47.4495768,9.9046295
 182629,ENI AUSTRIA,Altenmarkt Nr.81,8934,Altenmarkt bei St.Gallen,47.7193299,14.6540434
 208629,,Willersdorferstrasse 67,8061,St. Radegund bei Graz,47.1918522,15.5028483
@@ -231,6 +233,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 247819,eni,Feldstrasse 44,2345,Brunn/Geb.,48.122997,16.293216
 247896,eni,Handelskai 388a,1020,Wien,48.2032,16.4358
 247897,eni,Oberzellergasse 2a,1030,Wien,48.193838,16.396971
+247903,eni,Raxstr./Windtenstrasse vis a vis 31,1100,Wien,48.1676,16.3551
 247905,eni24,Felberstraße vis a vis 102,1150,Wien,48.193432,16.321006
 247915,eni,Innsbruckerstrasse 29,6230,Brixlegg,47.43262,11.87891
 247915,eni,Innsbruckerstrasse 29,6230,Brixlegg,47.43262,11.87891
@@ -247,9 +250,11 @@ station_id,name,address,postal_code,city,latitude,longitude
 247947,eni,Rheinstrasse 20,6971,Bregenz-Hard,47.488611,9.702186
 247947,eni,Rheinstrasse 20,6971,Bregenz-Hard,47.488611,9.702186
 247970,eni,Huttengasse 73-75,1160,Wien,48.21114,16.31069
+247971,eni,Grenzackerstrasse 6-8,1100,Wien,48.163473,16.377225
 247976,eni,Bonygasse /Ruckergasse,1120,Wien,48.179079,16.326542
 247977,eni,Althanstrasse 14,1090,Wien,48.229354,16.358291
 247978,eni,Jägerstrasse 60,1200,Wien,48.235,16.37054
+247989,eni,Asamerstraße 3 /  Gewerbepark,4655,Vorchdorf,48.010868,13.924406
 247997,eni,Wiener Strasse 304,8051,Graz,47.098039,15.404107
 247997,eni,Wiener Strasse 304,8051,Graz,47.098039,15.404107
 248004,eni,Pirching 97,8200,Hofstätten a. d. Raab,47.089452,15.73237
@@ -261,6 +266,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 248020,eni,Braitnerstrasse 62a,2500,Baden,48.001929,16.241614
 248020,eni,Braitnerstrasse 62a,2500,Baden,48.001929,16.241614
 255985,123tanken.at - Tankstellenbetriebs & Service GmbH,Rotensterngasse 25,1020,Wien,48.2172366,16.3844335
+275370,Shell St.Johann,Niederhofen 4,6380,St.Johann in Tirol,47.53285999,12.43707995
 294806,eni,Gersthofer Strasse Nr. 2b,1180,Wien,48.226999,16.326521
 307172,Shell Austria,GRINZINGERSTRASSE 137,1190,WIEN,48.25463,16.36399
 395309,Shell Austria,DONAUSTADTSTRASSE 37C,1220,WIEN,48.22704,16.44498
@@ -293,6 +299,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 789150,WT Telfs,Hans-Liebherr-Strasse 33,6410,Telfs,47.3140345,11.1001827
 810034,Diesel Prommegger St. Michael,Gewerbestraße 649,5582,St. Michael,47.0968149,13.6314642
 910999,A1 Tankstelle Waidring,Loferer Bundesstraße 1,6384,Waidring,47.5864172,12.5849435
+931254,Turmöl,Altmannsdorferstraße 150,1230,Wien,48.1547657,16.3193503
 1038732,ENI,Gesäusestraße,8940,Liezen,47.5593257,14.2532636
 1038732,ENI,Gesäusestraße,8940,Liezen,47.5593257,14.2532636
 1048950,RAG.ERDGAS.MOBIL,Schwarzmoos 28,4851,Gampern,48.01639,13.57391
@@ -309,6 +316,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1128824,Diskont Tankstelle,"Burgenlandstraße /B50 (""Hofer Parkplatz"")",7344,Stoob,47.514537,16.487473
 1131667,AWI-Diskont Bedienungstankstelle,Sternwartestraße 23,1180,Wien,48.2295664,16.3462611
 1168600,LMEnergy Express,Almteilweg 1,6706,Bürs,47.151467,9.810635
+1172639,SB-Tankstelle Zauner,Jagern 18,4761,Enzenkirchen,48.37648,13.63102
 1178939,"TurboStopp, Freie Tankstelle",Gerlos 297,6281,Gerlos,47.2286462,12.0479962
 1248127,Diskont Tankstelle,"Shuttleworthstraße 11 (""Hofer-Parkplatz"")",1210,Wien,48.271488,16.407684
 1250795,KMG Klagenfurt Mobil GmbH,Kirchengasse 69,9020,Klagenfurt am Wörthersee,46.6101948,14.318457399999945
@@ -399,6 +407,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1468726, AVIA Xpress (Automaten-Tankstelle),10.-Oktober-Straße 29,9560,Feldkirchen in Kärnten,46.722217,14.098879
 1468800,Welog - Landespartner des Burgenlands,Obere Hauptstraße 230,7535,St. Michael im Burgenland,47.136327,16.272085
 1468806,DISKONT TANKSTELLE WIEN 22,Erzherzog-Karl-Straße 12,1220,Wien,48.238192,16.432431
+1469126,Turmöl Quick,Breitenfurterstraße 473,1230,Wien,48.137832,16.257546
 1469406,JET TANKSTELLE,PRAGERSTRASSE 138,1210,WIEN,48.278186,16.388013
 1469506,Turmöl Quick,Hardtmuthgasse 51,1100,Wien,48.170174,16.370448
 1469546,avanti - Wien Jedletzbergerstraße 7,Jedletzbergerstrasse 7,1110,Wien,48.17054,16.45797
@@ -413,10 +422,12 @@ station_id,name,address,postal_code,city,latitude,longitude
 1470867,ENI Stumm ,Gewerbegebiet 6,6275,Stumm ,47.29034628764583,11.88055119320892
 1471267,Tankshop Sabotnig,Plescherken 62 a,9074,Keutschach/See,46.58772169917432,14.141038821702509
 1471927,Turmöl Quick,St. Martiner Straße 124,9500,Villach,46.62518,13.82178
+1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
 1472147,Turmöl Quick,Altmannsdorfer Straße 96,1120,Wien,48.1618,16.31747
 1472407,Diskont Tankstelle,"Kärntner Straße 27 (""Hofer-Parkplatz"")",9500,Villach,46.59742,13.83869
+1472687,JET TANKSTELLE,ERMELINDE-KOCH-STRASSE 2,9560,FELDKIRCHEN,46.73206,14.09377
 1473128,Diskont Tankstelle,"Wien Breitenfurter Strasse 261 (""Hofer-Parkplatz"")",1230,Wien,48.1506803,16.3016662
 1473491,Turmöl,Pragerstraße 155,1210,Wien,48.276582,16.388104
 1473551,Turmöl,Krottenbachstraße 233,1190,Wien,48.2456615,16.3164295
