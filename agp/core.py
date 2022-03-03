@@ -15,6 +15,16 @@ fuel_type_names = {
     FuelType.CNG_ERDGAS: "CNG-Erdgas",
 }
 
+GAS_STATION_DTYPES = {
+    "station_id": "int64",
+    "name": "str",
+    "address": "str",
+    "postal_code": "str",
+    "city": "str",
+    "latitude": "float64",
+    "longitude": "float64",
+}
+
 
 def get_gas_stations_austria(fuel_type: FuelType) -> list[GasStation]:
     regions = get_regions()
@@ -84,13 +94,9 @@ def update_dataframes(
 ) -> DataFrame:
     columns1 = list(original_df)
     columns2 = list(new_df)
-    try:
-        assert columns1 == columns2
-    except AssertionError as e:
-        if len(original_df) == 0:
-            original_df = DataFrame(columns=columns2)
-        else:
-            raise e
+
+    assert columns1 == columns2
+    assert (original_df.dtypes == new_df.dtypes).all()
 
     df1 = original_df.sort_values(sort_column)
     df2 = new_df.sort_values(sort_column)
@@ -122,6 +128,21 @@ def update_dataframes(
     return df
 
 
+def read_gas_stations_file(
+    file_name: Union[str, Path] = "gas_stations.csv",
+    data_path: Path = DATA_PATH,
+):
+    file_path = data_path / file_name
+
+    if file_path.exists():
+        return pandas.read_csv(file_path, dtype=GAS_STATION_DTYPES)
+    else:
+        data = {
+            key: pandas.Series(dtype=value) for key, value in GAS_STATION_DTYPES.items()
+        }
+        return DataFrame(data)
+
+
 def update_gas_stations_file(
     gas_stations: list[GasStation],
     file_name: Union[str, Path] = "gas_stations.csv",
@@ -133,8 +154,7 @@ def update_gas_stations_file(
     infos = [GasStationInfo.from_gas_station(station) for station in gas_stations]
 
     new_dataframe = pandas.DataFrame(infos)
-
-    old_dataframe = pandas.read_csv(file_path) if file_path.exists() else DataFrame()
+    old_dataframe = read_gas_stations_file(file_name, data_path)
 
     df = update_dataframes(old_dataframe, new_dataframe, "station_id")
     df.to_csv(file_path, index=False)
