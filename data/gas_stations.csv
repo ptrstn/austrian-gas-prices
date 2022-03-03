@@ -162,6 +162,7 @@ station_id,name,address,city,postal_code,latitude,longitude
 30268,eni Hochhauser,Ketzergasse 111,Wien,1230,48.1277241,16.3055531
 33290,Aspöck - Freie Tankstelle,Obeltsham 29,Gaspoltshofen,4673,48.1351055,13.7281924
 33291,Diesel-Benzin-Diskont Groiss ,Josef-Jessernigg-Straße 3,Stockerau,2000,48.387907,16.232125
+33305,Urschitz,Faakerseestraße 20,Finkenstein,9584,46.5611325,13.9150633
 33319,Shell,Fischanger 161,Langen,6932,47.5155039,9.8437537
 33340,Shell Tankstelle,Naarner Strasse 73,Perg,4320,48.239517,14.626021
 33340,Shell Tankstelle,Naarner Strasse 73,Perg,4320,48.239517,14.626021
@@ -240,6 +241,7 @@ station_id,name,address,city,postal_code,latitude,longitude
 34521,www.voegel-trans.at,Säge 156,Doren,6933,47.49052893,9.85336304
 34522,Turmöl SB Tankstelle SHALABI Asim ,Waldeggstraße 44,Linz ,4020,48.288119,14.287634
 34528,Karl Bors GmbH,Ober Hauptstr. 63,Tadten,7162,47.7654592,16.9832483
+34530,E N I  ,Dorfstraße 97,Bad Kleinkirchheim,9546,46.8144526,13.8006346
 34545,Freie Tankstelle,Hasnerstraße 128,Wien ,1160,48.2116586,16.3102334
 34547,Moser Tankstelle Feldkirchen,Oberglan-Gewerbestr. 1,Feldkirchen,9560,46.694667,14.125671
 34558,Grübler Thomas Dieseltankstelle,Böcksteiner Bundesstraße 15,Bad Gastein,5640,47.1054555,13.1342715
@@ -631,6 +633,7 @@ station_id,name,address,city,postal_code,latitude,longitude
 1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",Strobl,5350,47.71312072192956,13.486561730101547
 1472008,FS Tankstelle,Donaufelderstr.128,Wien,1210,48.25236,16.42563
 1472047,Tankstelle 2 Löwen,Igo-Etrich Straße,Kapfenberg,8605,47.466246623852925,15.337758981543928
+1472127,TurboSprit®,Landesstrasse 2,Poggersdorf,9130,46.641242,14.449627
 1472147,Turmöl Quick,Altmannsdorfer Straße 96,Wien,1120,48.1618,16.31747
 1472247,Gutmann Shell,Au 171,See,6553,47.0826756,10.4641687
 1472348,Lagerhaus Tankstelle Sillian,Südtirolerstraße 1 f,Sillian,9920,46.745791,12.408574
