@@ -332,6 +332,7 @@ station_id,name,address,city,postal_code,latitude,longitude
 43486,Wildenhofer Diesel Tankstelle,Gniglerstraße 5-7,Salzburg,5020,47.8157985,13.0497956
 44066,Unser Lagerhaus,Gewerbepark 2,Pfaffenhofen,6405,47.300377,11.072502
 44306,AVIA, Jeding 12,GASPOLTSHOFEN,4673,48.139459,13.732438
+44386,INN-TANK,Breiten 2,Thiersee,6335,47.591636,12.132146
 44686,avanti - Pinkafeld Wiener Straße 8,Wiener Strasse 8,Pinkafeld,7423,47.3744,16.12554
 85913,TURMTANKSTELLE,Irrsdorfer Bachstraße Nr. 47,Straßwalchen,5204,47.967945,13.276355
 101593,OMV - Sankt Johann im Pongau Wagrainer Straße 11,Wagrainer Strasse 11,Sankt Johann im Pongau,5600,47.34862,13.20651
@@ -449,6 +450,7 @@ station_id,name,address,city,postal_code,latitude,longitude
 819631,"""M3 TANKSTELLE"" PUCHBERG ",SCHNEEBERG 29,PUCHBERG AM SCHNEEBERG,2734,47.7887601,15.9091111
 931254,Turmöl,Altmannsdorferstraße 150,Wien,1230,48.1547657,16.3193503
 981384,Diskont Nissan Feichtinger,Eisenbirn 10,Münzkirchen,4792,48.4738875,13.5610313
+1004230,Tankstelle Holzgethan,Marktstraße 39,Warth,2831,47.6471798,16.1264914
 1038732,ENI,Gesäusestraße,Liezen,8940,47.5593257,14.2532636
 1038732,ENI,Gesäusestraße,Liezen,8940,47.5593257,14.2532636
 1048950,RAG.ERDGAS.MOBIL,Schwarzmoos 28,Gampern,4851,48.01639,13.57391
@@ -612,6 +614,7 @@ station_id,name,address,city,postal_code,latitude,longitude
 1470086,Rumpold,Petersplatz 5,St. Peter am Ottersbach,8093,46.79924,15.759666
 1470126,M3 Drautank,Karawankenweg 17,Villach,9500,46.597852,13.850062
 1470206,JET TANKSTELLE,ST. POELTNER STRASSE 1 C,WILHELMSBURG,3150,48.11764,15.608591
+1470266,INN-TANK,Kirchbichlerstr. 21,Langkampfen,6336,47.535122,12.093432
 1470267,Diskont Tankstelle,"Donaufelderstraße 137 (""Hofer-Parkplatz"")",Wien,1210,48.252459,16.427015
 1470867,ENI Stumm ,Gewerbegebiet 6,Stumm ,6275,47.29034628764583,11.88055119320892
 1470867,ENI Stumm ,Gewerbegebiet 6,Stumm ,6275,47.29034628764583,11.88055119320892
