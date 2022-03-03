@@ -57,6 +57,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 6453,GENOL - Lagerhaus,Lagerhausstraße 1,2842,Thomasberg,47.6028673,16.1186639
 6607,Diesel-Klösch,Mostbauerstrasse 3,8530,Deutschlandsberg,46.8271642,15.2361085
 6612,ENI,Dorf 23d,6210,Wiesing,47.4034807,11.8032194
+6684,Genol LGH Waldhausen_(-TKK Abschlag),Markt 94,4391,Waldhausen,48.2722,14.9508179
 7569,Tankstelle Lichtenegg,Hauptstraße 13,2813,Lichtenegg,47.600766,16.196637
 7611,TK Tankstellen GmbH,Bremschlstrasse 37,6706,Bürs,47.1478021,9.8192284
 7620,Loacker Tours GmbH (Diesel + Super95),Bundesstraße 17,6842,Koblach,47.323657,9.6285154
@@ -90,6 +91,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 33472,Stadtwerke Leoben,Kerpelystraße 34,8700,Leoben,47.3746958,15.0823166
 33475,Shell Liefering,Muenchner Bundesstrasse 137,5020,Salzburg,47.833221,12.998107
 33599,AVIA,Fachmarktzentrum 1,7011,Siegendorf,47.7735234,16.529095
+33618,Freie Tankstelle,Markt 11,4363,Pabneukirchen,48.320395,14.8172248
 33701,AVIA XPress (unser Service: Luft und Wasser),Nr. 2,3383,Hürm,48.1565262,15.4131142
 33708,AVIA XPress (unser Service: Luft und Wasser),Hauptstraße 25,2125,Neubau,48.4985214,16.5169696
 33715,AVIA,Schlitters 27c,6262,Schlitters,47.3811223,11.8341075
@@ -211,6 +213,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 450004,Shell Austria,SCHWEFEL 40,6850,DORNBIRN-SCHWEFEL,47.4256,9.7414
 450523,Shell Austria,PFENNINGGELDG 2/ECKE HERBSTSTRASSE,1160,WIEN,48.20786,16.31328
 450524,Shell Austria,WAGRAMERSTRASSE 14,1220,WIEN,48.23367,16.42036
+493332,Turmöl Quick,Gmundnerstr. 35,4663,Laakirchen,47.975562,13.8203361
 508146,Easy Tank,Strötting 1,4716,Hofkirchen/Tr.,48.222328,13.732715
 624870,Turmöl Quick,Weitmoserstr. 1,5630,Bad Hofgastein,47.1571884,13.1072403
 665616,avanti - Rum Siemensstraße 1,Siemensstrasse 1,6063,Rum,47.27753,11.45756
@@ -317,6 +320,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1374746,Turmöl Quick,Salzachtalstraße 16,5400,Hallein,47.6822599,13.1004595
 1463026,Diskont Tankstelle,"35. Straße 2 (""Hofer Parkplatz"") ",3331,Kematen an der Ybbs,48.037782,14.778013
 1467380,avanti - Dornbirn Lustenauer Straße 24,Lustenauer Strasse 24,6850,Dornbirn,47.40698,9.73476
+1467506,Eni Laakirchen,Johannes Humer-Straße,4663,Laakirchen,48.005425,13.845045
 1467528,GENOL-Lagerhaustankstelle - Horitschon,Hauptstrasse 99,7312,HORITSCHON,47.591404,16.539313
 1467529,GENOL-Lagerhaustankstelle - Baumgarten,Wr. Neustädterstrasse 16,7021,BAUMGARTEN,47.7397191,16.4972385
 1467530,GENOL-Lagerhaustankstelle - Stöttera,Hauptstrasse 76,7023,STÖTTERA,47.769764,16.463945
