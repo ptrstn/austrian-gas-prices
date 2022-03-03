@@ -220,6 +220,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 42228,Johann Meusburger GmbH,Zeihenbühl 396,6951,Lingenau,47.4491221,9.90622
 42646,avanti - Strass im Zillertal Bundesstraße 107,Bundesstrasse 107,6261,Strass im Zillertal,47.39793,11.81625
 43426,JP MENNEL,Hof 331,6951,Lingenau,47.4499378,9.9233926
+43866,Turmöl Quick,Bundesstraße 33,9560,Untere Glan,46.7337805,14.1558516
 44686,avanti - Pinkafeld Wiener Straße 8,Wiener Strasse 8,7423,Pinkafeld,47.3744,16.12554
 85913,TURMTANKSTELLE,Irrsdorfer Bachstraße Nr. 47,5204,Straßwalchen,47.967945,13.276355
 108726,Wema  GmbH,Zeihenbühl 435,6951,Lingenau,47.4495768,9.9046295
@@ -395,6 +396,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1467627,AVIA-Tankstelle Stock,Vorderlanersbach 5,6293,Tux,47.160297,11.7587452
 1467986,PINK Sparen beim Fahren,33. Straße 1,3331,Kematen an der Ybbs,48.027572,14.768701
 1468126,BP,Breitenfurterstr. 112,1120,Wien,48.160527,16.309543
+1468726, AVIA Xpress (Automaten-Tankstelle),10.-Oktober-Straße 29,9560,Feldkirchen in Kärnten,46.722217,14.098879
 1468800,Welog - Landespartner des Burgenlands,Obere Hauptstraße 230,7535,St. Michael im Burgenland,47.136327,16.272085
 1468806,DISKONT TANKSTELLE WIEN 22,Erzherzog-Karl-Straße 12,1220,Wien,48.238192,16.432431
 1469406,JET TANKSTELLE,PRAGERSTRASSE 138,1210,WIEN,48.278186,16.388013
