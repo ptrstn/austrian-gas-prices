@@ -96,6 +96,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 30200,Freie Tankstelle,Wimbergeramt 49,4392,Dorfstetten,48.3289445,14.9800423
 30210,Lagerhaus-Tankstelle 24 h,Pflegerstrasse 26,5082,Grödig,47.755252,13.036523
 30230,ENI,Grazer Straße 21,8410,Wildon,46.8900838,15.4979414
+30231,TAC,Taborstraße 102-108 ,1200,Wien,48.2270659,16.3870746
 30246,BP,Handelskai 90,1200,Wien,48.2430922,16.3843336
 30268,eni Hochhauser,Ketzergasse 111,1230,Wien,48.1277241,16.3055531
 33290,Aspöck - Freie Tankstelle,Obeltsham 29,4673,Gaspoltshofen,48.1351055,13.7281924
@@ -107,6 +108,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 33361,Shell Tankstelle,Hanuschstrasse 128,4020,Linz,48.271603,14.294458
 33363,Shell Tankstelle,Reichsstrasse 14,3380,Poechlarn,48.198073,15.222101
 33364,Eni Schwanenstadt,Salzburgerstrasse 41,4690,Schwanenstadt,48.048051,13.761766
+33366,IQ Tankstelle,Hauptstrasse 36,4551,Ried im Traunkreis,48.025668,14.075224
 33426,ENI Tankstelle,Lanzendorfer Strasse GST 471/1,2481,Achau,48.0907,16.4113
 33463,Ford-Levak,Halbenrain 13,8492,Halbenrain,46.7226069,15.9474719
 33472,Stadtwerke Leoben,Kerpelystraße 34,8700,Leoben,47.3746958,15.0823166
@@ -140,10 +142,12 @@ station_id,name,address,postal_code,city,latitude,longitude
 34505,Tankstelle Kaiser,Markt Neuhodis 215,7464,Markt Neuhodis,47.2923738,16.3953544
 34507,Land lebt auf,Sportplatzstraße 1,5113,St. Georgen / Salzburg,47.974007,12.893658
 34522,Turmöl SB Tankstelle SHALABI Asim ,Waldeggstraße 44,4020,Linz ,48.288119,14.287634
+34545,Freie Tankstelle,Hasnerstraße 128,1160,Wien ,48.2116586,16.3102334
 34547,Moser Tankstelle Feldkirchen,Oberglan-Gewerbestr. 1,9560,Feldkirchen,46.694667,14.125671
 34558,Grübler Thomas Dieseltankstelle,Böcksteiner Bundesstraße 15,5640,Bad Gastein,47.1054555,13.1342715
 34587,Tankstelle Pernsteiner - Tankautomat mit Bankomat,Hauptstraße 9,4131,Kirchberg ob der Donau,48.444348,13.938993
 34588,Shell,Kremserstraße 2-4,3470,Kirchberg am Wagram,48.4308585,15.9019522
+34591,SB-Tankstelle,Diesendorf 15,3243,St. Leonhard,48.0925635,15.2496315
 34593,LAGERHAUS   Hopfgarten - Wörgl und Umgebung reg.Gen.m.b.H.,Bahnhofstr. 7,6361,Hopfgarten,47.4526716,12.1517289
 34596,Schildecker-DISKONT,Industriegelände Objekt 2,3435,Pischelsdorf,48.33325905,15.94180584
 34728,"Jedinger, Freie Tankstelle",Frei 3,4682,Geboltskirchen,48.1537941,13.6345045
@@ -152,6 +156,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 34809,IQ-Tankstelle Seiwald,Mauthen 264,9640,Kötschach-Mauthen,46.6656107,12.9976327
 34817,Lagerhaus Tankstelle,Kötschach 153,9640,Kötschach,46.6721177,13.0032407
 34851,Czelecz,Flurgasse 5,8665,Langenwang,47.5647283,15.6144042
+34946,Trötzmüller Garage,Pouthongasse 15 - 17,1150,Wien,48.1992287,16.3298807
 35166,Land lebt auf,Rottenbach Nr. 52,4681,Rottenbach,48.2073704,13.6796379
 35466,,Payerstetten 6,3652,Leiben,48.2496835,15.2480109
 35567,BP,Franz Josefskai/Morzinpl ,1010,Wien,48.2123537,16.3743119
@@ -414,7 +419,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471887,PRORast Loipersdorf,Loipersdorfer Hauptstraße,8282,Bad Loipersdorf,47.00569,16.11257
 1471927,Turmöl Quick,St. Martiner Straße 124,9500,Villach,46.62518,13.82178
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1472047,Tankstelle 2 Löwen,Igo-Etrich Straße,8605,Kapfenberg,47.466246623852925,15.337758981543928
 1472147,Turmöl Quick,Altmannsdorfer Straße 96,1120,Wien,48.1618,16.31747
 1472407,Diskont Tankstelle,"Kärntner Straße 27 (""Hofer-Parkplatz"")",9500,Villach,46.59742,13.83869
