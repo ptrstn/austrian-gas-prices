@@ -6,6 +6,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 181,OMV - Schwarzach Salzburger Straße 52,Salzburger Strasse 52,5620,Schwarzach,47.32019,13.14384
 187,avanti - Kirchdorf in Tirol Innsbrucker Straße 51,Innsbrucker Strasse 51,6383,Kirchdorf in Tirol,47.54417,12.44904
 228,OMV - Gmunden Bahnhofstraße 42,Bahnhofstrasse 42,4810,Gmunden,47.92428,13.78782
+234,avanti - Wien Wagramer Straße 179,Wagramer Strasse 179,1210,Wien,48.25964,16.45031
 257,OMV - Dobl (Kaiserwald) Autobahn A2 (Südautobahn) KM 190,Autobahn A2 (Suedautobahn) KM 190,8143,Dobl (Kaiserwald),46.95939,15.38155
 259,OMV - Oberwart Grazer Straße 123,Grazer Strasse 123,7400,Oberwart,47.28297,16.18523
 276,OMV - Obertrum Salzburger Straße 2,Salzburger Strasse 2,5162,Obertrum,47.93554,13.08069
@@ -547,6 +548,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471927,Turmöl Quick,St. Martiner Straße 124,9500,Villach,46.62518,13.82178
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
 1472047,Tankstelle 2 Löwen,Igo-Etrich Straße,8605,Kapfenberg,47.466246623852925,15.337758981543928
 1472147,Turmöl Quick,Altmannsdorfer Straße 96,1120,Wien,48.1618,16.31747
