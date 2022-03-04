@@ -56,11 +56,13 @@ station_id,name,address,postal_code,city,latitude,longitude
 6221,Lagerhaus-Genol,Weinberggasse 1,7141,Podersdorf,47.8565454,16.8368875
 6225,Lagerhaus-Genol,Andauerstraße 1,7131,Halbturn,47.8702538,16.9760281
 6232,Lagerhaus-Genol,Bahnstraße 115,7151,Wallern,47.7351682,16.9296436
+6325,Walter,Unterauersbach 8,8342,Unterauersbach,46.86577,15.77547
 6399,GENOL - Lagerhaus,Neusiedlerstraße 4,2763,Pernitz,47.8942212,15.9548225
 6405,GENOL - Lagerhaus,Winzerstraße 382,2722,Winzendorf,47.8129554,16.1124555
 6408,GENOL - Lagerhaus,Lokalbahnstraße 13,2620,Neunkirchen,47.7248325,16.0828276
 6412,GENOL - Lagerhaus,Sägemühle 2,2851,Krumbach,47.5032608,16.2044289
 6422,GENOL - Lagerhaus,Ofenbachstraße,2821,Lanzenkirchen,47.742137,16.240472
+6441,Torrefina Gmbh.,Schottenfeldgasse 94,1070,Wien,48.2071479,16.343487
 6444,GENOL - Lagerhaus,Wienerstraße 95a,2700,Wr. Neustadt,47.8296057,16.2439872
 6453,GENOL - Lagerhaus,Lagerhausstraße 1,2842,Thomasberg,47.6028673,16.1186639
 6607,Diesel-Klösch,Mostbauerstrasse 3,8530,Deutschlandsberg,46.8271642,15.2361085
@@ -87,6 +89,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 7866,Freie Tankstelle Haselsberger,Stockach 38 ,6306,Söll,47.5169378,12.1971431
 27322,BP,Erdbergstr 184,1030,Wien,48.1931587,16.4103596
 27327,Lagerhaus-Tankstelle 24 h,Industriestrasse 8,5600,St.Johann,47.352315,13.197842
+27331,Lagerhaus,Voelkermarkterstrasse 27,9150,Bleiburg,46.5928672,14.7947663
 27339,Lagerhaus-Tankstelle 24 h mit Waschportal,Neumarkterstrasse 1,5204,Strasswalchen,47.9568802,13.2352561
 27340,Shell Tankstelle,Wiener Bundesstrasse 153,4050,Traun,48.234185,14.23294
 27348,IQ Tankstelle,Gadnergasse 12,1110,Wien,48.164827,16.410579
@@ -118,6 +121,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 33708,AVIA XPress (unser Service: Luft und Wasser),Hauptstraße 25,2125,Neubau,48.4985214,16.5169696
 33715,AVIA,Schlitters 27c,6262,Schlitters,47.3811223,11.8341075
 33727,AVIA,Friedrich-Thurner-Straße 21,4910,Ried im Innkreis,48.212154,13.482703
+34000,Urban Garage,Antonigasse 81,1170,Wien,48.2246253,16.3326865
 34002,Thrainer,Audorfer Straße 41,6342,Niederndorf,47.6488703,12.1965438
 34016,Baertl GmbH,Stuwerstrasse 41,1020,Wien,48.219051079508,16.4058665626915
 34026,leodiskonttankstelle GmbH,Seidengasse 12,1070,Wien,48.2004272,16.3445982
@@ -292,6 +296,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1172639,SB-Tankstelle Zauner,Jagern 18,4761,Enzenkirchen,48.37648,13.63102
 1199819,masterDIESEL,Vorarlberger Allee 3,1230,Wien,48.1319793,16.3544422
 1248127,Diskont Tankstelle,"Shuttleworthstraße 11 (""Hofer-Parkplatz"")",1210,Wien,48.271488,16.407684
+1250795,KMG Klagenfurt Mobil GmbH,Kirchengasse 69,9020,Klagenfurt am Wörthersee,46.6101948,14.318457399999945
 1261240,Turmöl,Engerthstrasse 146,1200,Wien,48.233836,16.3910922
 1264659,Diskont Tankstelle,"Bundesstraße 6 (""Hofer-Parkplatz"")",6842,Koblach,47.325984,9.629425
 1264660,Turmöl Quick,Eichenstraße 2B,1120,Wien,48.1780142,16.3444115
@@ -376,6 +381,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1467380,avanti - Dornbirn Lustenauer Straße 24,Lustenauer Strasse 24,6850,Dornbirn,47.40698,9.73476
 1467446,Turmöl,Bennoplatz 4,1080,Wien,48.2120591,16.3420486
 1467506,Eni Laakirchen,Johannes Humer-Straße,4663,Laakirchen,48.005425,13.845045
+1467527,Genol-Lagerhaustankstelle - Oberpullendorf,Eisenstädter Strasse 24,7350,OBERPULLENDORF,47.4991041,16.5123905
 1467528,GENOL-Lagerhaustankstelle - Horitschon,Hauptstrasse 99,7312,HORITSCHON,47.591404,16.539313
 1467529,GENOL-Lagerhaustankstelle - Baumgarten,Wr. Neustädterstrasse 16,7021,BAUMGARTEN,47.7397191,16.4972385
 1467530,GENOL-Lagerhaustankstelle - Stöttera,Hauptstrasse 76,7023,STÖTTERA,47.769764,16.463945
