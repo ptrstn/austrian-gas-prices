@@ -215,6 +215,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 450524,Shell Austria,WAGRAMERSTRASSE 14,1220,WIEN,48.23367,16.42036
 493332,Turmöl Quick,Gmundnerstr. 35,4663,Laakirchen,47.975562,13.8203361
 508146,Easy Tank,Strötting 1,4716,Hofkirchen/Tr.,48.222328,13.732715
+592851,eni,Marktstraße 19,5611,Großarl,47.2428529,13.2059728
 624870,Turmöl Quick,Weitmoserstr. 1,5630,Bad Hofgastein,47.1571884,13.1072403
 665616,avanti - Rum Siemensstraße 1,Siemensstrasse 1,6063,Rum,47.27753,11.45756
 716103,Stöckl ,Hauptstrasse 54,7434,Bernstein,47.4064335,16.260999
@@ -328,6 +329,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1467534,GENOL-Lagerhaustankstelle - Grosswarasdorf,Martin Merischstrasse 8,7304,GROSSWARASDORF,47.538084,16.561262
 1467535,GENOL-Lagerhaustankstelle - Lutzmannsburg,Hauptstrasse 3,7361,LUTZMANNSBURG,47.463601,16.632107
 1467536,GENOL-Lagerhaustankstelle - Nikitsch,Hauptstrasse 173,7302,NIKITSCH,47.542616,16.658627
+1467697,Petschl / Riegler Tankstelle,Neudorf 36,4363,Pabneukirchen,48.331486,14.832237
 1467911,Teubl Baustoffe HandelsgesmbH / Autowascharena Fürstenfeld,Körmenderstraße 27,8280,Fürstenfeld,47.053533,16.08086
 1467986,PINK Sparen beim Fahren,33. Straße 1,3331,Kematen an der Ybbs,48.027572,14.768701
 1468110,Diskont Kaier,Wolfsberg 8,8421,Schwarzautal,46.8446231,15.6580187
