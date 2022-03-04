@@ -1,3 +1,4 @@
+from dataclasses import asdict
 from pathlib import Path
 from typing import Union
 
@@ -8,6 +9,10 @@ from oidafuel.econtrol import get_regions
 from pandas import DataFrame
 
 DATA_PATH = Path("data")
+GAS_STATIONS_FILENAME = "gas_stations.csv"
+REGIONS_FILENAME = "regions.csv"
+CITIES_FILENAME = "cities.csv"
+POSTAL_CODES_FILENAME = "postal_codes.csv"
 
 fuel_type_names = {
     FuelType.SUPER_95: "Super 95",
@@ -145,7 +150,7 @@ def read_gas_stations_file(
 
 def update_gas_stations_file(
     gas_stations: list[GasStation],
-    file_name: Union[str, Path] = "gas_stations.csv",
+    file_name: Union[str, Path] = GAS_STATIONS_FILENAME,
     data_path: Path = DATA_PATH,
 ):
     data_path.mkdir(parents=True, exist_ok=True)
@@ -161,3 +166,55 @@ def update_gas_stations_file(
 
     df = update_dataframes(old_dataframe, new_dataframe, "station_id")
     df.to_csv(file_path, index=False)
+
+
+def save_regions(
+    data_path: Path = DATA_PATH,
+):
+    regions = get_regions(include_cities=True)
+    region_list = []
+    city_list = []
+    postal_code_list = []
+
+    for region in regions:
+        region_dict = asdict(region)
+        region_dict.pop("postal_codes")
+        region_dict.pop("cities")
+        region_dict.pop("sub_regions")
+        region_list.append(region_dict)
+
+        for subregion in region.sub_regions:
+            subregion_dict = asdict(subregion)
+            subregion_dict.pop("postal_codes")
+            subregion_dict.pop("cities")
+            subregion_dict.pop("sub_regions")
+            region_list.append(subregion_dict)
+
+            # Zipping postal codes and city names ist not applicable,
+            # because len(postal_codes) != len(city_names) and is ambiguous
+            # Example: Oberösterreich has 407 cities and 410 postal codes
+
+            for city_name in subregion.cities:
+                city_dict = {
+                    "name": city_name,
+                    "region_code": subregion.region_code,
+                    "state_region_code": region.region_code,
+                }
+                city_list.append(city_dict)
+
+            for postal_code in subregion.postal_codes:
+                postal_code_dict = {
+                    "postal_code": postal_code,
+                    "region_code": subregion.region_code,
+                    "state_region_code": region.region_code,
+                }
+                postal_code_list.append(postal_code_dict)
+
+    regions_df = pandas.DataFrame(region_list)
+    city_df = pandas.DataFrame(city_list)
+    postal_code_df = pandas.DataFrame(postal_code_list)
+
+    data_path.mkdir(parents=True, exist_ok=True)
+    regions_df.to_csv(data_path / REGIONS_FILENAME, index=False)
+    city_df.to_csv(data_path / CITIES_FILENAME, index=False)
+    postal_code_df.to_csv(data_path / POSTAL_CODES_FILENAME, index=False)

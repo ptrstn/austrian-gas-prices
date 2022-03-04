@@ -1,0 +1,127 @@
+region_code,region_type,name
+1,BL,Burgenland
+101,PB,Eisenstadt(Stadt)
+102,PB,Rust(Stadt)
+103,PB,Eisenstadt-Umgebung
+104,PB,Güssing
+105,PB,Jennersdorf
+106,PB,Mattersburg
+107,PB,Neusiedl am See
+108,PB,Oberpullendorf
+109,PB,Oberwart
+2,BL,Kärnten
+201,PB,Klagenfurt Stadt
+202,PB,Villach Stadt
+203,PB,Hermagor
+204,PB,Klagenfurt Land
+205,PB,Sankt Veit an der Glan
+206,PB,Spittal an der Drau
+207,PB,Villach Land
+208,PB,Völkermarkt
+209,PB,Wolfsberg
+210,PB,Feldkirchen
+3,BL,Niederösterreich
+301,PB,Krems an der Donau(Stadt)
+302,PB,Sankt Pölten(Stadt)
+303,PB,Waidhofen an der Ybbs(Stadt)
+304,PB,Wiener Neustadt(Stadt)
+305,PB,Amstetten
+306,PB,Baden
+307,PB,Bruck an der Leitha
+308,PB,Gänserndorf
+309,PB,Gmünd
+310,PB,Hollabrunn
+311,PB,Horn
+312,PB,Korneuburg
+313,PB,Krems(Land)
+314,PB,Lilienfeld
+315,PB,Melk
+316,PB,Mistelbach
+317,PB,Mödling
+318,PB,Neunkirchen
+319,PB,Sankt Pölten(Land)
+320,PB,Scheibbs
+321,PB,Tulln
+322,PB,Waidhofen an der Thaya
+323,PB,Wiener Neustadt(Land)
+325,PB,Zwettl
+4,BL,Oberösterreich
+401,PB,Linz(Stadt)
+402,PB,Steyr(Stadt)
+403,PB,Wels(Stadt)
+404,PB,Braunau am Inn
+405,PB,Eferding
+406,PB,Freistadt
+407,PB,Gmunden
+408,PB,Grieskirchen
+409,PB,Kirchdorf an der Krems
+410,PB,Linz-Land
+411,PB,Perg
+412,PB,Ried im Innkreis
+413,PB,Rohrbach
+414,PB,Schärding
+415,PB,Steyr-Land
+416,PB,Urfahr-Umgebung
+417,PB,Vöcklabruck
+418,PB,Wels-Land
+5,BL,Salzburg
+501,PB,Salzburg(Stadt)
+502,PB,Hallein
+503,PB,Salzburg-Umgebung
+504,PB,Sankt Johann im Pongau
+505,PB,Tamsweg
+506,PB,Zell am See
+6,BL,Steiermark
+601,PB,Graz(Stadt)
+603,PB,Deutschlandsberg
+606,PB,Graz-Umgebung
+610,PB,Leibnitz
+611,PB,Leoben
+612,PB,Liezen
+614,PB,Murau
+616,PB,Voitsberg
+617,PB,Weiz
+620,PB,Murtal
+621,PB,Bruck-Mürzzuschlag
+622,PB,Hartberg-Fürstenfeld
+623,PB,Südoststeiermark
+7,BL,Tirol
+701,PB,Innsbruck-Stadt
+702,PB,Imst
+703,PB,Innsbruck-Land
+704,PB,Kitzbühel
+705,PB,Kufstein
+706,PB,Landeck
+707,PB,Lienz
+708,PB,Reutte
+709,PB,Schwaz
+8,BL,Vorarlberg
+801,PB,Bludenz
+802,PB,Bregenz
+803,PB,Dornbirn
+804,PB,Feldkirch
+9,BL,Wien
+900,PB,Wien(Stadt)
+901,PB,"Wien  1.,Innere Stadt"
+902,PB,"Wien  2.,Leopoldstadt"
+903,PB,"Wien  3.,Landstraße"
+904,PB,"Wien  4.,Wieden"
+905,PB,"Wien  5.,Margareten"
+906,PB,"Wien  6.,Mariahilf"
+907,PB,"Wien  7.,Neubau"
+908,PB,"Wien  8.,Josefstadt"
+909,PB,"Wien  9.,Alsergrund"
+910,PB,"Wien 10.,Favoriten"
+911,PB,"Wien 11.,Simmering"
+912,PB,"Wien 12.,Meidling"
+913,PB,"Wien 13.,Hietzing"
+914,PB,"Wien 14.,Penzing"
+915,PB,"Wien 15.,Rudolfsheim-Fünfhaus"
+916,PB,"Wien 16.,Ottakring"
+917,PB,"Wien 17.,Hernals"
+918,PB,"Wien 18.,Währing"
+919,PB,"Wien 19.,Döbling"
+920,PB,"Wien 20.,Brigittenau"
+921,PB,"Wien 21.,Floridsdorf"
+922,PB,"Wien 22.,Donaustadt"
+923,PB,"Wien 23.,Liesing"
