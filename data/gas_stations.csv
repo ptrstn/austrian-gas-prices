@@ -212,6 +212,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 34748,"Schindele, Riefensberg",Meierhof 126,6943,Riefensberg,47.4987605,9.9462056
 34755,ROBINEAU- Automaten-Tankstelle,Untere Hauptstraße 12   Großrust,3123,Obritzberg,48.2717226,15.6149517
 34756,Raststätte Robineau,Kremserstraße 200,3508,Paudorf,48.351732,15.6209153
+34763,Diskonttankstelle Leonhartsberger,Schloßberg 34,4391,Waldhausen,48.2777412,14.9560838
 34764,Huber ,Zellbergeben 16,6277,Zellber,47.2352316,11.8802754
 34787,Shell,Am Stein 388,6883,Au,47.3279328,9.9756882
 34809,IQ-Tankstelle Seiwald,Mauthen 264,9640,Kötschach-Mauthen,46.6656107,12.9976327
@@ -505,6 +506,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1431727,Martin Mosonyi,"Dammweg, 14",7163,Andau,47.767205,17.027824
 1463026,Diskont Tankstelle,"35. Straße 2 (""Hofer Parkplatz"") ",3331,Kematen an der Ybbs,48.037782,14.778013
 1467380,avanti - Dornbirn Lustenauer Straße 24,Lustenauer Strasse 24,6850,Dornbirn,47.40698,9.73476
+1467404,D.Gertl Tankstelle GmbH,x,6241,Radfeld,47.4517224,11.9360568
 1467446,Turmöl,Bennoplatz 4,1080,Wien,48.2120591,16.3420486
 1467506,Eni Laakirchen,Johannes Humer-Straße,4663,Laakirchen,48.005425,13.845045
 1467527,Genol-Lagerhaustankstelle - Oberpullendorf,Eisenstädter Strasse 24,7350,OBERPULLENDORF,47.4991041,16.5123905
@@ -571,6 +573,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1473829,Turmöl,Laaer Bergstraße 207,1100,Wien,48.15160789,16.3968349
 1473830,Turmöl,Absberggasse 26,1100,Wien,48.17106,16.388597
 1473838,Strohmeier Tankstelle,Am Hundsturm 2-4,1050,Wien,48.187799,16.34712
+1473848,Diskont Tankstelle,"Ernstbrunnerstraße 2 (""Hofer Parkplatz"")",2130,Mistelbach,48.5609853,16.5597662
 1473888,Diskont Tankstelle,"Königstetter Strasse 148 (""Hofer-Parkplatz"")",3430,Tulln,48.3193484,16.0829742
 1473929,Turmöl Judenburg,Burggasse 42,8750,Judenburg,47.16888851208108,14.65430780513867
 1473948,Diskont Tankstelle,"Barnabas-Fink-Strasse 1 (""Hofer-Parkplatz"")",6845,Hohenems,47.366974,9.670367
