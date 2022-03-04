@@ -57,8 +57,11 @@ station_id,name,address,postal_code,city,latitude,longitude
 6174,TROPPER-GRINSCHGL - KFZ-Prüffstelle,Kronnersdorf 16,8345,Straden,46.8054956,15.8500188
 6176,FILLUP 24 h - 5500,Molkereistraße 10,5500,Bischofshofen,47.4132863025724,13.2183000160912
 6211,Lagerhaus-Genol,Bundesstraße 29,7093,Jois,47.9649077,16.7972276
+6217,Lagerhaus-Genol,Triftstraße 24,7121,Weiden,47.9276196,16.874917
 6221,Lagerhaus-Genol,Weinberggasse 1,7141,Podersdorf,47.8565454,16.8368875
 6225,Lagerhaus-Genol,Andauerstraße 1,7131,Halbturn,47.8702538,16.9760281
+6226,Lagerhaus-Genol,Rübenplatz 1,7161,St Andrae,47.7806754,16.9475997
+6228,Lagerhaus-Genol,Lagerplatz 2,7162,Tadten,47.7637837,16.9905274
 6232,Lagerhaus-Genol,Bahnstraße 115,7151,Wallern,47.7351682,16.9296436
 6325,Walter,Unterauersbach 8,8342,Unterauersbach,46.86577,15.77547
 6397,GENOL - Lagerhaus,Bahnstraße 21,2563,Pottenstein,47.963018,16.0883929
@@ -96,6 +99,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 7842,Diesel,Lagerhaus Rothenthurn 13,9701,Rothenthurn,46.7606041,13.5803153
 7843,eni,Markt Hartmannsdorf 297,8311,Markt Hartmannsdorf,47.05449,15.84083
 7866,Freie Tankstelle Haselsberger,Stockach 38 ,6306,Söll,47.5169378,12.1971431
+27300,Tankstelle Hirschbeck OG,Hauptstrasse 30,7551,Rohr,47.117957,16.164901
 27322,BP,Erdbergstr 184,1030,Wien,48.1931587,16.4103596
 27327,Lagerhaus-Tankstelle 24 h,Industriestrasse 8,5600,St.Johann,47.352315,13.197842
 27331,Lagerhaus,Voelkermarkterstrasse 27,9150,Bleiburg,46.5928672,14.7947663
@@ -217,6 +221,8 @@ station_id,name,address,postal_code,city,latitude,longitude
 40787,"Frey, Diesel",Tobaj 48,7540,Tobaj,47.08552,16.3084
 41188,Diskont Tankstelle,"Neue Landstraße 74 (""Hofer-Parkplatz"")",4655,Vorchdorf,48.008358,13.920214
 41286,Maroltinger Tankstelle, Maroltingergasse 66,1160,Wien,48.2102455,16.3058551
+41666,Lagerhaus-Genol,Obere Bahngasse 1,7083,Purbach,47.9111388,16.6955227
+41667,Lagerhaus-Genol,Triftsteig 1,7063,Oggau,47.8324242,16.6703781
 41826,Turmöl Quick,Schlossallee 2,1140,Wien,48.1893108,16.314299
 41886,OMV - Lienz Iseltaler Straße 30,Iseltaler Strasse 30,9900,Lienz,46.83172,12.75363
 42086,Marken-Diskont Franz Falk ,Übersbach 124,8362,Übersbach,47.0370799,16.0571029
@@ -231,6 +237,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 101593,OMV - Sankt Johann im Pongau Wagrainer Straße 11,Wagrainer Strasse 11,5600,Sankt Johann im Pongau,47.34862,13.20651
 108726,Wema  GmbH,Zeihenbühl 435,6951,Lingenau,47.4495768,9.9046295
 123126,AVIA ,Brünning 37,4760,Raab,48.3505859,13.6358061
+160060,Autohaus Pannonia,Weisse Kreuz Gasse 44,7132,Frauenkirchen,47.8403848,16.9316544
 208629,,Willersdorferstrasse 67,8061,St. Radegund bei Graz,47.1918522,15.5028483
 232961,All In Tankstelle,Grazerstrasse 45,8062,Kumberg,47.1689413,15.586242
 237857,SB-Tankstelle Schmied im Wald,Gschaid 8,4723,Natternbach,48.4039189,13.6922177
@@ -459,7 +466,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471887,PRORast Loipersdorf,Loipersdorfer Hauptstraße,8282,Bad Loipersdorf,47.00569,16.11257
 1471927,Turmöl Quick,St. Martiner Straße 124,9500,Villach,46.62518,13.82178
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
 1472047,Tankstelle 2 Löwen,Igo-Etrich Straße,8605,Kapfenberg,47.466246623852925,15.337758981543928
 1472147,Turmöl Quick,Altmannsdorfer Straße 96,1120,Wien,48.1618,16.31747
 1472407,Diskont Tankstelle,"Kärntner Straße 27 (""Hofer-Parkplatz"")",9500,Villach,46.59742,13.83869
