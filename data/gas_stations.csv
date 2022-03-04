@@ -287,6 +287,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 42228,Johann Meusburger GmbH,Zeihenbühl 396,6951,Lingenau,47.4491221,9.90622
 42646,avanti - Strass im Zillertal Bundesstraße 107,Bundesstrasse 107,6261,Strass im Zillertal,47.39793,11.81625
 42886,Tanke Blaguss,Industriestraße,7000,Eisenstadt,47.8328353,16.5336044
+42986,Krois Diskont Clever Tanken,Nord 60,9125,Kühnsdorf,46.6246179,14.6334208
 43426,JP MENNEL,Hof 331,6951,Lingenau,47.4499378,9.9233926
 43866,Turmöl Quick,Bundesstraße 33,9560,Untere Glan,46.7337805,14.1558516
 44306,AVIA, Jeding 12,4673,GASPOLTSHOFEN,48.139459,13.732438
@@ -408,6 +409,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1168600,LMEnergy Express,Almteilweg 1,6706,Bürs,47.151467,9.810635
 1172639,SB-Tankstelle Zauner,Jagern 18,4761,Enzenkirchen,48.37648,13.63102
 1178939,"TurboStopp, Freie Tankstelle",Gerlos 297,6281,Gerlos,47.2286462,12.0479962
+1190579,Pollak-Deine Tankstelle,Im Stadtfeld 2,2070,Retz,48.7536887,15.9583799
 1199819,masterDIESEL,Vorarlberger Allee 3,1230,Wien,48.1319793,16.3544422
 1248127,Diskont Tankstelle,"Shuttleworthstraße 11 (""Hofer-Parkplatz"")",1210,Wien,48.271488,16.407684
 1250795,KMG Klagenfurt Mobil GmbH,Kirchengasse 69,9020,Klagenfurt am Wörthersee,46.6101948,14.318457399999945
