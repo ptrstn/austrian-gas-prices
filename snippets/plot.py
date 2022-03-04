@@ -1,18 +1,32 @@
+from pandas import DataFrame
 from plotly import express
-from plotly import graph_objects
+
 import pandas
 
 
-df = pandas.read_csv("data/vienna_SUP.csv")
+vienna_sup = pandas.read_csv("data/vienna_SUP.csv")
+stations = pandas.read_csv("data/gas_stations.csv")
 
-mins = df.groupby(["timestamp"]).min().reset_index()
+data = pandas.merge(vienna_sup, stations)
 
-fig = express.scatter(mins, x="timestamp", y="price")
+df = data[["timestamp", "price", "postal_code"]].copy()
+
+addresses = data[["timestamp", "price", "postal_code", "name", "address"]]
+
+min_prices_per_postal: DataFrame = (
+    df.groupby(["timestamp", "postal_code"])["price"].min().reset_index()
+)
+mins = min_prices_per_postal.merge(addresses)
 
 fig = express.line(
     mins,
     x="timestamp",
     y="price",
+    color="postal_code",
+    title="Minimum Super 95 prices per district",
+    # hover_data=["name", "address"]
 )
-# fig = graph_objects.Figure([graph_objects.Scatter(x=df['timestamp'], y=df['price'])])
+fig.update_traces(mode="markers+lines", hovertemplate=None)
+fig.update_layout(hovermode="x")  # x unified
+
 fig.show()
