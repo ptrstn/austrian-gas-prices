@@ -369,6 +369,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354933,OMV - Wien Leberstraße 112-114,Leberstrasse 112-114,1110,Wien,48.17,16.40953
 1354935,avanti - Wien Simmeringer Hauptstraße 489,Simmeringer Hauptstrasse 489,1110,Wien,48.14844,16.46228
 1354937,OMV - Wien Groß-Enzersdorfer Straße 24-26,Gross-Enzersdorfer Strasse 24-26,1220,Wien,48.21686,16.49345
+1354939,avanti - Wien Prager Straße 270-272,Prager Strasse 270-272,1210,Wien,48.28664,16.38404
 1354941,avanti - Wien Edelsinnstraße 16,Edelsinnstrasse 16,1120,Wien,48.1724,16.31949
 1354942,JET TANKSTELLE,JEDLETZBERGERSTRASSE 18,1110,WIEN,48.168847,16.459643
 1354944,OMV - Wien Triester Straße 38,Triester Strasse 38,1100,Wien,48.1774,16.35653
@@ -390,6 +391,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1467528,GENOL-Lagerhaustankstelle - Horitschon,Hauptstrasse 99,7312,HORITSCHON,47.591404,16.539313
 1467529,GENOL-Lagerhaustankstelle - Baumgarten,Wr. Neustädterstrasse 16,7021,BAUMGARTEN,47.7397191,16.4972385
 1467530,GENOL-Lagerhaustankstelle - Stöttera,Hauptstrasse 76,7023,STÖTTERA,47.769764,16.463945
+1467531,GENOL-Lagerhaustankstelle - Wiesen,Sauerbrunnerstrasse 17,7203,WIESEN,47.7407549,16.337871
 1467532,GENOL-Lagerhaustankstelle - Drassmarkt,Herrschaftsgarten,7372,DRASSMARKT,47.508672,16.619671
 1467534,GENOL-Lagerhaustankstelle - Grosswarasdorf,Martin Merischstrasse 8,7304,GROSSWARASDORF,47.538084,16.561262
 1467535,GENOL-Lagerhaustankstelle - Lutzmannsburg,Hauptstrasse 3,7361,LUTZMANNSBURG,47.463601,16.632107
