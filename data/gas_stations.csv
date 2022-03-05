@@ -157,6 +157,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 33363,Shell Tankstelle,Reichsstrasse 14,3380,Poechlarn,48.198073,15.222101
 33364,Eni Schwanenstadt,Salzburgerstrasse 41,4690,Schwanenstadt,48.048051,13.761766
 33366,IQ Tankstelle,Hauptstrasse 36,4551,Ried im Traunkreis,48.025668,14.075224
+33370,IQ Tankstelle,Kenading,4761,Enzenkirchen,48.4114,13.6347
 33426,ENI Tankstelle,Lanzendorfer Strasse GST 471/1,2481,Achau,48.0907,16.4113
 33461,Diesel,"Unser Lagerhaus Fieberbrunn, Rosenegg 31",6391,Fieberbrunn,47.489121,12.527916
 33463,Ford-Levak,Halbenrain 13,8492,Halbenrain,46.7226069,15.9474719
@@ -301,6 +302,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 40787,"Frey, Diesel",Tobaj 48,7540,Tobaj,47.08552,16.3084
 41188,Diskont Tankstelle,"Neue Landstraße 74 (""Hofer-Parkplatz"")",4655,Vorchdorf,48.008358,13.920214
 41286,Maroltinger Tankstelle, Maroltingergasse 66,1160,Wien,48.2102455,16.3058551
+41587,Disk,Franzensbrückenstrasse 15,1020,Wien,48.2146367,16.3916044
 41666,Lagerhaus-Genol,Obere Bahngasse 1,7083,Purbach,47.9111388,16.6955227
 41667,Lagerhaus-Genol,Triftsteig 1,7063,Oggau,47.8324242,16.6703781
 41826,Turmöl Quick,Schlossallee 2,1140,Wien,48.1893108,16.314299
@@ -601,7 +603,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471887,PRORast Loipersdorf,Loipersdorfer Hauptstraße,8282,Bad Loipersdorf,47.00569,16.11257
 1471927,Turmöl Quick,St. Martiner Straße 124,9500,Villach,46.62518,13.82178
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
