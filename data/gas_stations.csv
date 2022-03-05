@@ -58,6 +58,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 4359,Tanke Blaguss,Wiener Straße 26,7350,Oberpullendorf,47.5086025,16.5037784
 4385,iQ,Kammerbach 36,3683,Yspertal,48.3313114,15.0615705
 4405,Diskont Tankstelle,"Ossiacher see strasse (""Hofer""-Parkplatz)",9521,Treffen,46.652264,13.874552
+4427,PETERSCHELKA Diskont Bedienungstankstelle,Bahnstrasse 2,2214,Auersthal,48.3712274,16.641593
 5093,Turmöl Tankstelle,Margaretenstrasse 28,1040,Wien,48.1962250998788,16.3648216561744
 6052,Turmöl,Grazerstraße 23,8644,Mürzhofen,47.4831657,15.3932053
 6066,ENI AUSTRIA,wilfersdorf 104,8200,gleisdorf,47.1051531,15.6766397
@@ -80,6 +81,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 6232,Lagerhaus-Genol,Bahnstraße 115,7151,Wallern,47.7351682,16.9296436
 6243,i-diskont Menhart - Tankstelle mit Bedienung,Untere Landstraße 288,3511,Furth/G.,48.3769549,15.6103479
 6325,Walter,Unterauersbach 8,8342,Unterauersbach,46.86577,15.77547
+6351,Land lebt auf,Ökodorfstraße 2,3384,Groß Sierning,48.194358,15.461712
 6368,Salchenegger,Leopersdorf 21,8650,Kindberg,47.493491,15.428084
 6397,GENOL - Lagerhaus,Bahnstraße 21,2563,Pottenstein,47.963018,16.0883929
 6399,GENOL - Lagerhaus,Neusiedlerstraße 4,2763,Pernitz,47.8942212,15.9548225
@@ -324,6 +326,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 80483,"Picej - SB tanken, TRAFIK, ADEG - Kaufhaus, Hotel",Turnersee Straße 17,9122,St. Primus,46.576943,14.564663
 85913,TURMTANKSTELLE,Irrsdorfer Bachstraße Nr. 47,5204,Straßwalchen,47.967945,13.276355
 86254,Eni,Kremser Landstraße 33,3452,Heiligeneich,48.3044998,15.8911152
+94423,SOCAR Deutschkreutz,Hauptstraße 85,7301,Deutschkreutz,47.597633,16.627819
 96323,Tankstelle Gradwohl,Grazerstrasse 34,8101,Gratkorn,47.1300093,15.3422736
 101593,OMV - Sankt Johann im Pongau Wagrainer Straße 11,Wagrainer Strasse 11,5600,Sankt Johann im Pongau,47.34862,13.20651
 108726,Wema  GmbH,Zeihenbühl 435,6951,Lingenau,47.4495768,9.9046295
@@ -610,7 +613,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471887,PRORast Loipersdorf,Loipersdorfer Hauptstraße,8282,Bad Loipersdorf,47.00569,16.11257
 1471927,Turmöl Quick,St. Martiner Straße 124,9500,Villach,46.62518,13.82178
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
