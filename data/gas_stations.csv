@@ -453,6 +453,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1093770,AVIA Xpress (Automaten-Tankstelle),Hauptstraße 34,4675,Weibern,48.181118,13.698211
 1110070,Turmöl Quick,Hauptstraße 78,7341,Markt Sankt Martin,47.5591137,16.4324706
 1113150,Diskont Tankstelle,"Herrenau 2 (""Hofer-Parkplatz"")",6706,Bürs,47.152981,9.814188
+1113151,Diskont Tankstelle,"Lastenstrasse 1 (""Hofer-Parkplatz"")",9800,Spittal an der Drau,46.787236,13.517817
 1113701,Gutmann Eni Tankstelle,Stubaitalstrasse 10,6142,Mieders,47.160059,11.368108
 1115118,AUTO HUBER GmbH,Bundesstraße 191,8783,Gaishorn/See,47.489883,14.5271668
 1128824,Diskont Tankstelle,"Burgenlandstraße /B50 (""Hofer Parkplatz"")",7344,Stoob,47.514537,16.487473
@@ -467,6 +468,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1190579,Pollak-Deine Tankstelle,Im Stadtfeld 2,2070,Retz,48.7536887,15.9583799
 1199819,masterDIESEL,Vorarlberger Allee 3,1230,Wien,48.1319793,16.3544422
 1248127,Diskont Tankstelle,"Shuttleworthstraße 11 (""Hofer-Parkplatz"")",1210,Wien,48.271488,16.407684
+1249027,Turmöl Quick,Frauentaler Straße 76,8530,Deutschlandsberg,46.8187066,15.2274847
 1250795,KMG Klagenfurt Mobil GmbH,Kirchengasse 69,9020,Klagenfurt am Wörthersee,46.6101948,14.318457399999945
 1261240,Turmöl,Engerthstrasse 146,1200,Wien,48.233836,16.3910922
 1264659,Diskont Tankstelle,"Bundesstraße 6 (""Hofer-Parkplatz"")",6842,Koblach,47.325984,9.629425
@@ -631,6 +633,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1472147,Turmöl Quick,Altmannsdorfer Straße 96,1120,Wien,48.1618,16.31747
 1472167,Strohmeier Tankstelle,Am Hundsturm 2-4,1050,Wien,48.18770411709912,16.347106271499914
 1472407,Diskont Tankstelle,"Kärntner Straße 27 (""Hofer-Parkplatz"")",9500,Villach,46.59742,13.83869
+1472469,BP Express,Hauptstraße 30,9871,Seeboden,46.816626615483926,13.510082828893102
 1472647,Turmöl Quick,Drautal Bundesstraße 4,9990,Lienz,46.82868,12.80849
 1472667,Horvath,58,8293,Wörth an der Lafnitz,47.21177493586743,16.082845663465502
 1472687,JET TANKSTELLE,ERMELINDE-KOCH-STRASSE 2,9560,FELDKIRCHEN,46.73206,14.09377
