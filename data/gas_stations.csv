@@ -280,6 +280,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 35758,BP,Triesterstrasse 68 ,1100,Wien,48.16565603,16.34673579
 35762,BP,Margaretenguertel 43-45 ,1050,Wien,48.1796472,16.3517548
 35768,BP,Altmannsdorferstr.117 ,1120,Wien,48.1609065,16.3184664
+35769,BP,Erzherzog Karlstr. 253 ,1220,Wien,48.2204444,16.48015387
 35774,BP,Altmannsdorferstr.94 ,1120,Wien,48.1623607,16.3172305
 35780,BP,Arsenalstrasse 5b ,1030,Wien,48.1776167,16.3929526
 36008,Diskonttankstelle Gamsjäger,Betriebsgebiet Greiling,3107,St. Pölten,48.257599,15.641141
@@ -535,6 +536,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354902,JET TANKSTELLE,SCHWEFEL 44 A,6850,DORNBIRN,47.426673,9.741176
 1354907,OMV - Wien Wientalstraße/Auhofbrücke 40,Wientalstrasse/Auhofbruecke 40,1140,Wien,48.20186,16.23616
 1354908,OMV - Wien Gunoldstraße 7 / Muthgasse 1,Gunoldstrasse 7 / Muthgasse 1 ,1190,Wien,48.24531,16.36578
+1354910,OMV - Wien Hütteldorfer Straße 216b,Huetteldorfer Strasse 216b,1140,Wien,48.19788,16.27994
 1354911,JET TANKSTELLE,ERNSTBRUNNER STRASSE 5,2130,MISTELBACH,48.560874,16.561675
 1354914,OMV - Wien Breitenleer Straße Ost B302 112,Breitenleer Strasse Ost B302 112,1220,Wien,48.25141,16.47211
 1354916,OMV - Wien Hirschstettner Straße 34,Hirschstettner Strasse 34,1220,Wien,48.24285,16.45645
