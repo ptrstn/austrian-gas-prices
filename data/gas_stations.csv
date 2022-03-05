@@ -357,6 +357,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 247971,eni,Grenzackerstrasse 6-8,1100,Wien,48.163473,16.377225
 247972,eni,Rautenweg 13,1220,Wien,48.263207,16.461068
 247973,eni,Donaustadtstrasse 43,1220,Wien,48.222678,16.44443
+247974,eni,Biberhaufenweg 115,1220,Wien,48.202378,16.473838
 247976,eni,Bonygasse /Ruckergasse,1120,Wien,48.179079,16.326542
 247977,eni,Althanstrasse 14,1090,Wien,48.229354,16.358291
 247978,eni,Jägerstrasse 60,1200,Wien,48.235,16.37054
@@ -603,7 +604,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471887,PRORast Loipersdorf,Loipersdorfer Hauptstraße,8282,Bad Loipersdorf,47.00569,16.11257
 1471927,Turmöl Quick,St. Martiner Straße 124,9500,Villach,46.62518,13.82178
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
