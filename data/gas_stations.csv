@@ -42,6 +42,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 4050,Gutmann ENI Tankstelle+TANKAUTOMAT,Bahnhofstraße 11,6372,Oberndorf,47.4964984,12.3882226
 4051,Gutmann ENI Tankstelle,Gutenbergstraße 6,6858,Schwarzach,47.440047,9.756718
 4073,Freie Tankstelle,Dr. Hans Bachmannstrasse 51a,6250,Kundl,47.4733396,11.9790487
+4101,Turmöl Quick,Millstätterstraße 21,9545,Radenthein,46.7983963,13.6962295
 4104,Turmöl Quick,Triglavstraße 1,9500,Villach,46.5939688,13.8435871
 4114,,Halleiner Landesstraße 30,5061,Elsbethen,47.7548456,13.0872532
 4158,Disk,Hauptstraße 18,6511,Zams,47.1541793,10.5844558
@@ -592,6 +593,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1467568,Pamer GmbH,Fabrikweg 26,2424,Zurndorf,47.9805003,17.0059708
 1467569,Pamer GmbH,Scheunengasse 2,2425, Nickelsdorf,47.9386394,17.07018
 1467627,AVIA-Tankstelle Stock,Vorderlanersbach 5,6293,Tux,47.160297,11.7587452
+1467628,Turmöl Quick,Wiedweg 29,9564,Patergassen,46.8176748,13.8601095
 1467697,Petschl / Riegler Tankstelle,Neudorf 36,4363,Pabneukirchen,48.331486,14.832237
 1467911,Teubl Baustoffe HandelsgesmbH / Autowascharena Fürstenfeld,Körmenderstraße 27,8280,Fürstenfeld,47.053533,16.08086
 1467986,PINK Sparen beim Fahren,33. Straße 1,3331,Kematen an der Ybbs,48.027572,14.768701
