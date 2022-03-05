@@ -545,6 +545,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354895,avanti - Wien Nordbahnstraße 1,Nordbahnstrasse 1,1020,Wien,48.22912,16.38852
 1354901,avanti - Wien Gaussplatz 1,Gaussplatz 1,1020,Wien,48.22588,16.3708
 1354902,JET TANKSTELLE,SCHWEFEL 44 A,6850,DORNBIRN,47.426673,9.741176
+1354906,JET TANKSTELLE,RADLPASSSTRASSE 10,8510,STAINZ,46.888042,15.259575
 1354907,OMV - Wien Wientalstraße/Auhofbrücke 40,Wientalstrasse/Auhofbruecke 40,1140,Wien,48.20186,16.23616
 1354908,OMV - Wien Gunoldstraße 7 / Muthgasse 1,Gunoldstrasse 7 / Muthgasse 1 ,1190,Wien,48.24531,16.36578
 1354910,OMV - Wien Hütteldorfer Straße 216b,Huetteldorfer Strasse 216b,1140,Wien,48.19788,16.27994
@@ -592,6 +593,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1467536,GENOL-Lagerhaustankstelle - Nikitsch,Hauptstrasse 173,7302,NIKITSCH,47.542616,16.658627
 1467568,Pamer GmbH,Fabrikweg 26,2424,Zurndorf,47.9805003,17.0059708
 1467569,Pamer GmbH,Scheunengasse 2,2425, Nickelsdorf,47.9386394,17.07018
+1467607,JET TANKSTELLE,FRAUENTALER STRASSE 97,8530,DEUTSCHLANDSBERG,46.821138,15.233346
 1467627,AVIA-Tankstelle Stock,Vorderlanersbach 5,6293,Tux,47.160297,11.7587452
 1467628,Turmöl Quick,Wiedweg 29,9564,Patergassen,46.8176748,13.8601095
 1467697,Petschl / Riegler Tankstelle,Neudorf 36,4363,Pabneukirchen,48.331486,14.832237
@@ -627,7 +629,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471887,PRORast Loipersdorf,Loipersdorfer Hauptstraße,8282,Bad Loipersdorf,47.00569,16.11257
 1471927,Turmöl Quick,St. Martiner Straße 124,9500,Villach,46.62518,13.82178
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
