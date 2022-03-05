@@ -20,6 +20,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 410,OMV - Golling an der Salzach Autobahn Golling Ost 31,Autobahn Golling Ost 31,5440,Golling an der Salzach,47.58396,13.1575
 450,OMV - Wolfsberg Klagenfurter Straße 16,Klagenfurter Strasse 16,9400,Wolfsberg,46.82775,14.83911
 453,avanti - Alkoven Strass 16,Strass 16,4072,Alkoven,48.28792,14.07613
+457,avanti - Marchtrenk Welser Straße 53,Welser Strasse 53,4614,Marchtrenk,48.18954,14.09827
 459,avanti - Thalgau Salzburger Straße 49,Salzburger Strasse 49,5303,Thalgau,47.84126,13.24865
 461,OMV - Asten An der Bundesstraße 1 ca.1KM,An der Bundesstrasse 1 ca.1KM,4481,Asten,48.22243,14.40833
 482,OMV - Stockerau Autobahn A 22,Autobahn A 22 ,2000,Stockerau,48.38086,16.20408
@@ -52,6 +53,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 4306,Diskont Gras,Bundesstraße 24,2851,Krumbach,47.5197166,16.1928661
 4311,TURMÖL powered by boesch energy,Hernalser Hauptstrasse 173-175,1170,Wien,48.2231967,16.3157915
 4313,TURMÖL powered by boesch energy,Baldiagasse 14a,1160,Wien,48.215105,16.3244884
+4327,Diskont Tankstelle,"Malvenstrasse 3 (""Hofer-Parkplatz"")",4600,Wels West,48.1433978,13.9709846
 4330,Hausberger Nahversorgung,Hiesbach 95,3365,Allhartsberg,48.028834,14.838248
 4340,Diskont Tankstelle,"Bundesstrasse 23 (""Hofer-Parkplatz"")",5600,St. Johann,47.3569941,13.1971638
 4342,Diskont Tankstelle,"Hermann-Gmeiner-Strasse 14 (""Hofer-Parkplatz"")",9990,Nussdorf,46.8275812,12.8150528
@@ -183,6 +185,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 33629,Gusenbauer - Ihr starker Partner,Hauptstraße 32,4281,Mönchdorf,48.3606782,14.7918203
 33634,Essmeister Diskont,Hauptstrasse 5,3373,Kemmelbach,48.154907,15.092447
 33635,Essmeister Diskont,Bahnhofstrasse 5,3372,Blindenmarkt,48.125481,14.981425
+33663,Turmöl Quick,Sportplatzstraße 1,4642,Sattledt,48.0756825,14.0466785
 33700,AVIA mit Bedienung,Kremser Straße 37,3462,Absdorf,48.4004098,15.9737878
 33701,AVIA XPress (unser Service: Luft und Wasser),Nr. 2,3383,Hürm,48.1565262,15.4131142
 33708,AVIA XPress (unser Service: Luft und Wasser),Hauptstraße 25,2125,Neubau,48.4985214,16.5169696
@@ -308,6 +311,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 40406, LMEnergy Express,Bundesstraße 2,5600,St. Johann,47.3343734,13.189367
 40426,SCHWÄRZLER,Zeihenbühl 422,6951,Lingenau,47.4491533,9.9048504
 40486,Eurowag,Kammer 44,4981,Reichersberg,48.3108247,13.4202842
+40766,AVIA Xpress,Reitschulgasse 9,4600,Wels,48.1670468,14.0346315
 40786,Diskont Diesel,Hainfeld 68,8262,Ilz,47.08102,15.9682
 40787,"Frey, Diesel",Tobaj 48,7540,Tobaj,47.08552,16.3084
 41188,Diskont Tankstelle,"Neue Landstraße 74 (""Hofer-Parkplatz"")",4655,Vorchdorf,48.008358,13.920214
@@ -341,6 +345,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 160060,Autohaus Pannonia,Weisse Kreuz Gasse 44,7132,Frauenkirchen,47.8403848,16.9316544
 182629,ENI AUSTRIA,Altenmarkt Nr.81,8934,Altenmarkt bei St.Gallen,47.7193299,14.6540434
 208629,,Willersdorferstrasse 67,8061,St. Radegund bei Graz,47.1918522,15.5028483
+215302,Turmöl Quick,Linzerstraße 92a,4600,Wels,48.165209,14.043058
 223334,Land lebt auf,Hauptstraße 53,3142,Perschling,48.259959,15.800892
 232961,All In Tankstelle,Grazerstrasse 45,8062,Kumberg,47.1689413,15.586242
 237857,SB-Tankstelle Schmied im Wald,Gschaid 8,4723,Natternbach,48.4039189,13.6922177
@@ -631,6 +636,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1470006,Plöckinger KG,"Staufstraße, 3",4083,Haibach ob der Donau,48.40810469142028,13.91798805936413
 1470026,M3 St. Lorenzen,Mühlweg 13,8642,St. Lorenzen,47.470052,15.351639
 1470126,M3 Drautank,Karawankenweg 17,9500,Villach,46.597852,13.850062
+1470186,Diskont Tankstelle,"Dalistraße 2 (""Hofer-Parkplatz"")",4600,Wels,48.183581,14.025047
 1470267,Diskont Tankstelle,"Donaufelderstraße 137 (""Hofer-Parkplatz"")",1210,Wien,48.252459,16.427015
 1470767,Pürrer Trans GmbH.,Weißes Kreuz 100,2851,Krumbach,47.541153,16.154808
 1470867,ENI Stumm ,Gewerbegebiet 6,6275,Stumm ,47.29034628764583,11.88055119320892
@@ -670,6 +676,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1473838,Strohmeier Tankstelle,Am Hundsturm 2-4,1050,Wien,48.187799,16.34712
 1473848,Diskont Tankstelle,"Ernstbrunnerstraße 2 (""Hofer Parkplatz"")",2130,Mistelbach,48.5609853,16.5597662
 1473888,Diskont Tankstelle,"Königstetter Strasse 148 (""Hofer-Parkplatz"")",3430,Tulln,48.3193484,16.0829742
+1473908,Turmöl Quick,Welser Straße 70,4623,Gunskirchen,48.1378,13.9568
 1473929,Turmöl Judenburg,Burggasse 42,8750,Judenburg,47.16888851208108,14.65430780513867
 1473948,Diskont Tankstelle,"Barnabas-Fink-Strasse 1 (""Hofer-Parkplatz"")",6845,Hohenems,47.366974,9.670367
 1474028,Diskont Tankstelle ,"Schörflinger Strasse 20 (""Am Hofer Parkplatz"")",4844,Regau,47.981721,13.698792
