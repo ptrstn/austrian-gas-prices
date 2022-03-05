@@ -468,6 +468,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1178939,"TurboStopp, Freie Tankstelle",Gerlos 297,6281,Gerlos,47.2286462,12.0479962
 1190579,Pollak-Deine Tankstelle,Im Stadtfeld 2,2070,Retz,48.7536887,15.9583799
 1199819,masterDIESEL,Vorarlberger Allee 3,1230,Wien,48.1319793,16.3544422
+1200719,Treibstoffparadies,Radlpassstraße 2,8530,Deutschlandsberg,46.8286937,15.2382304
 1248127,Diskont Tankstelle,"Shuttleworthstraße 11 (""Hofer-Parkplatz"")",1210,Wien,48.271488,16.407684
 1249027,Turmöl Quick,Frauentaler Straße 76,8530,Deutschlandsberg,46.8187066,15.2274847
 1250795,KMG Klagenfurt Mobil GmbH,Kirchengasse 69,9020,Klagenfurt am Wörthersee,46.6101948,14.318457399999945
@@ -629,7 +630,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471887,PRORast Loipersdorf,Loipersdorfer Hauptstraße,8282,Bad Loipersdorf,47.00569,16.11257
 1471927,Turmöl Quick,St. Martiner Straße 124,9500,Villach,46.62518,13.82178
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
