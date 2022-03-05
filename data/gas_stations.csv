@@ -365,6 +365,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 247972,eni,Rautenweg 13,1220,Wien,48.263207,16.461068
 247973,eni,Donaustadtstrasse 43,1220,Wien,48.222678,16.44443
 247974,eni,Biberhaufenweg 115,1220,Wien,48.202378,16.473838
+247975,eni,Breitenfurter Strasse 325-327,1230,Wien,48.14312,16.29248
 247976,eni,Bonygasse /Ruckergasse,1120,Wien,48.179079,16.326542
 247977,eni,Althanstrasse 14,1090,Wien,48.229354,16.358291
 247978,eni,Jägerstrasse 60,1200,Wien,48.235,16.37054
@@ -379,6 +380,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 275370,Shell St.Johann,Niederhofen 4,6380,St.Johann in Tirol,47.53285999,12.43707995
 277894,Shell Austria,HIRSCHSTETTNERSTRASSE 24,1220,WIEN,48.24412,16.45453
 294796,eni,Leopoldauerstrasse 180,1210,Wien,48.2624,16.4359
+294802,eni,Breitenfurterstrasse 215,1230,Wien,48.156939,16.305341
 294806,eni,Gersthofer Strasse Nr. 2b,1180,Wien,48.226999,16.326521
 294886,eni,Brennerautobahn Ost Tal,6143,Matrei,47.14072,11.44653
 297720,AVIA Xpress (Automaten-Tankstelle),Rieder Straße 17,4931,Mettmach,48.172218,13.347336
