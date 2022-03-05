@@ -29,6 +29,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1111, Tankstelle Braunstingl,Drasenhofen 330,2165,Drasenhofen,48.7510538,16.6487938
 1116,Treibstoffparadies,Grazerstraße 2,8522,Gr. St. Florian,46.8242704,15.3179707
 1135,NNB BRUNNENTANKSTELLE,Brunnengasse 4,1160,WIEN,48.20462,16.334813
+1146,Heppner & Oberndorfer Bedienungstankstelle,Lastenstraße 11,4623,Gunskirchen,48.1323355,13.944564
 2070,freie Tankstelle,Hirschegg 50,8584,Hirschegg,47.0201138,14.9572875
 2075,"Autohaus Trummer, freie Tankstelle",Gnas 120,8342,Gnas,46.8706748,15.8259354
 2098,Deine Tankstelle,Égelsdorf 14,8261,Sinabelkirchen,47.1208582,15.8132125
@@ -116,6 +117,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 7644,Gruber Diesel,Industriepark 1,8772,Traboch - Timmersdorf,47.3724078,14.9887659
 7645,Plose A Oil,Innstrasse 13,6122,Fritzens,47.3012592,11.5923631
 7646,TURMÖL,Wolfgangseestr. 21,5330,Fuschl am See,47.7957313,13.304742
+7670,DIEWO Diskonttankstelle,Siggstrasse 2,4611,Buchkirchen,48.2260233,14.0280795
 7685,Diskonttankstelle Jandl,Dassanowskyweg 12,1220,Wien,48.2660299,16.4620288
 7690,Amort Tankstelle,Zugspitzstraße 19,6632,Ehrwald,47.4104444,10.9156661
 7694,BP,Bundesstraße 2,5600,St. Johann,47.3343734,13.189367
@@ -345,6 +347,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 247819,eni,Feldstrasse 44,2345,Brunn/Geb.,48.122997,16.293216
 247846,eni,Lustenauerstrasse 52,6850,Dornbirn,47.4104,9.72079
 247851,eni24,Villacherstrasse 44,9800,Spittal/Drau,46.7919,13.5083
+247873,eni,Bahnhofstrasse 37,3370,Ybbs an der Donau,48.16341,15.099241
 247891,eni,Italiener Strasse 57,9500,Villach,46.603335,13.840528
 247896,eni,Handelskai 388a,1020,Wien,48.2032,16.4358
 247897,eni,Oberzellergasse 2a,1030,Wien,48.193838,16.396971
@@ -390,6 +393,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 294806,eni,Gersthofer Strasse Nr. 2b,1180,Wien,48.226999,16.326521
 294886,eni,Brennerautobahn Ost Tal,6143,Matrei,47.14072,11.44653
 297720,AVIA Xpress (Automaten-Tankstelle),Rieder Straße 17,4931,Mettmach,48.172218,13.347336
+303612,Diskont Tankstelle,"Ybbsstrasse 70  (""Hofer Parkplatz"")",3300,Amstetten ,48.114269,14.869259
 307172,Shell Austria,GRINZINGERSTRASSE 137,1190,WIEN,48.25463,16.36399
 370714,Shell Austria,AM KAISERMUEHLENDAMM 140,1220,WIEN,48.20715,16.44691
 384864,Shell Austria,ACHENSEE-STRASSE 2,6200,JENBACH,47.3885,11.77445
@@ -493,6 +497,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354672,JET TANKSTELLE,OBERLAAERSTR. 276,1230,WIEN,48.146913,16.366831
 1354673,OMV - Innsbruck Andechsstraße 83,Andechsstrasse 83,6020,Innsbruck,47.26531,11.42629
 1354676,JET TANKSTELLE,MÜNCHER STRASSE 54,6130,SCHWAZ,47.353777,11.708531
+1354677,avanti - Landeck Innstrasse 38,Innstrasse 38,6500,Landeck,47.14163,10.56352
 1354679,avanti - Wörgl Salzburger Straße 48,Salzburger Strasse 48,6300,Woergl,47.49011,12.0728
 1354685,JET TANKSTELLE,KARAWANKENWEG 18,9500,VILLACH,46.59817,13.848953
 1354702,JET TANKSTELLE,HIRSCHSTETTNERSTRASSE 52,1220,WIEN,48.238087,16.460684
@@ -500,6 +505,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354711,JET TANKSTELLE,LUSTENAUERSTRASSE 2,6840,GÖTZIS,47.344695,9.656679
 1354712,OMV - Frauenhofen Wiener Straße 6,Wiener Strasse 6,3580,Frauenhofen,48.66569,15.63271
 1354713,SCHNELL UND GUENSTIG TANKSTELLE,INDUSTRIEPARKSTRASSE 1,2130,MISTELBACH,48.560945,16.576985
+1354717,JET TANKSTELLE,BAHNHOFSTR. 26,6500,LANDECK,47.150185,10.581303
 1354721,JET TANKSTELLE,LINZER STRASSE 453,1140,WIEN,48.203103,16.244262
 1354727,JET TANKSTELLE,KÄRNTNERSTRASSE 88,9900,LIENZ,46.831014,12.783933
 1354728,avanti - Poysdorf Wiener Straße 63,Wiener Strasse 63,2170,Poysdorf,48.65948,16.62935
@@ -512,6 +518,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354753,OMV - Wiener Neudorf IZ NÖ Süd Straße 4 Objekt 9,IZ NOe Sued Strasse 4 Objekt 9,2351,Wiener Neudorf,48.0776,16.3233
 1354760,JET TANKSTELLE,BADSTUBENWEG 90,9500,VILLACH,46.631499,13.824641
 1354769,JET TANKSTELLE,SIMMERINGER HAUPTSTRASSE 336,1110,WIEN,48.147379,16.463011
+1354775,JET TANKSTELLE,ALPENSTRASSE 165,5020,SALZBURG,47.765882,13.071171
 1354777,JET TANKSTELLE,GRINDELSTRASSE 16,6890,LUSTENAU,47.419549,9.659337
 1354778,OMV - Wiener Neustadt Wiener Straße 126,Wiener Strasse 126,2700,Wiener Neustadt,47.84322,16.24631
 1354779,JET TANKSTELLE,HIETZINGER KAI 99,1130,WIEN,48.19022,16.289543
@@ -521,6 +528,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354793,avanti - Gaweinstal Brünner Straße 35,Bruenner Strasse 35,2191,Gaweinstal,48.48222,16.59312
 1354794,JET TANKSTELLE,KETZERGASSE 208,1230,WIEN,48.130709,16.289516
 1354805,avanti - Ybbs Bahnhofstraße 13,Bahnhofstrasse 13,3370,Ybbs,48.17039,15.08587
+1354807,avanti - Amstetten Wiener Straße 60,Wiener Strasse 60,3300,Amstetten,48.12263,14.88932
 1354810,avanti - Mitterau An der Bundesstraße 1,An der Bundesstrasse 1,3385,Mitterau,48.1976,15.48346
 1354817,JET TANKSTELLE,GASTEINER STRASSE 72,5500,BISCHOFSHOFEN,47.406171,13.217781
 1354818,avanti - Ruprechtshofen Hauptstraße 24,Hauptstrasse 24,3244,Ruprechtshofen,48.13974,15.28193
@@ -562,6 +570,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354933,OMV - Wien Leberstraße 112-114,Leberstrasse 112-114,1110,Wien,48.17,16.40953
 1354935,avanti - Wien Simmeringer Hauptstraße 489,Simmeringer Hauptstrasse 489,1110,Wien,48.14844,16.46228
 1354937,OMV - Wien Groß-Enzersdorfer Straße 24-26,Gross-Enzersdorfer Strasse 24-26,1220,Wien,48.21686,16.49345
+1354938,JET TANKSTELLE,AN DER WESTUMFAHRUNG 32,4810,GMUNDEN,47.934574,13.786489
 1354939,avanti - Wien Prager Straße 270-272,Prager Strasse 270-272,1210,Wien,48.28664,16.38404
 1354941,avanti - Wien Edelsinnstraße 16,Edelsinnstrasse 16,1120,Wien,48.1724,16.31949
 1354942,JET TANKSTELLE,JEDLETZBERGERSTRASSE 18,1110,WIEN,48.168847,16.459643
@@ -573,6 +582,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354953,avanti - Wien Guldengasse 13,Guldengasse 13,1140,Wien,48.1953,16.28135
 1354954,JET TANKSTELLE,RAXSTRASSE 5,1100,WIEN,48.165249,16.365198
 1354955,avanti - Wien Heiligenstädter Straße 196,Heiligenstaedter Strasse 196,1190,Wien,48.28511,16.34549
+1354956,JET TANKSTELLE,ÜBERLÄNDSTRASSE 2,3442,LANGENROHR,48.318436,16.02148
 1354957,avanti - Wien Neuhaufenstraße 148,Neuhaufenstrasse 148,1220,Wien,48.21808,16.44649
 1355334,Diskont Tankstelle,"Badstubenweg 80 (""Hofer-Parkplatz"")",9500,Villach,46.631153,13.8226038
 1374746,Turmöl Quick,Salzachtalstraße 16,5400,Hallein,47.6822599,13.1004595
@@ -645,6 +655,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1473027,EnergieBox,Bahnhofsiedlung 87,2042,Grund,48.64475,16.04857
 1473128,Diskont Tankstelle,"Wien Breitenfurter Strasse 261 (""Hofer-Parkplatz"")",1230,Wien,48.1506803,16.3016662
 1473288,Direct,Liese Prokop-Straße 2,3180,Lilienfeld,48.01419,15.5965
+1473369,Turmöl,Bahnhofstraße 46,4810,Gmunden,47.92534,13.7871
 1473409,Turmöl,Salzburgerstraße 90,5500,Bischofshofen,47.424963,13.214529
 1473468,Diskont Tankstelle,"Garnei 208 (""Hofer-Parkplatz"")",5431,Kuchl,47.638523,13.137367
 1473491,Turmöl,Pragerstraße 155,1210,Wien,48.276582,16.388104
