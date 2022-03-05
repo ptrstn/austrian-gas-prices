@@ -343,6 +343,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 237857,SB-Tankstelle Schmied im Wald,Gschaid 8,4723,Natternbach,48.4039189,13.6922177
 247819,eni,Feldstrasse 44,2345,Brunn/Geb.,48.122997,16.293216
 247846,eni,Lustenauerstrasse 52,6850,Dornbirn,47.4104,9.72079
+247851,eni24,Villacherstrasse 44,9800,Spittal/Drau,46.7919,13.5083
 247891,eni,Italiener Strasse 57,9500,Villach,46.603335,13.840528
 247896,eni,Handelskai 388a,1020,Wien,48.2032,16.4358
 247897,eni,Oberzellergasse 2a,1030,Wien,48.193838,16.396971
