@@ -261,6 +261,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 35066,Mitterecker GmbH,Andorfer Strasse 13,4755,Zell an der Pram,48.3191684,13.62668
 35166,Land lebt auf,Rottenbach Nr. 52,4681,Rottenbach,48.2073704,13.6796379
 35466,,Payerstetten 6,3652,Leiben,48.2496835,15.2480109
+35506,Turmöl Quick,Zeltenschlagstraße 2,8700,Leoben,47.3789195,15.0887587
 35567,BP,Franz Josefskai/Morzinpl ,1010,Wien,48.2123537,16.3743119
 35575,BP,Imlau  65 ,5452,Imlau,47.465526,13.197606
 35576,BP,Zillertalstr. 35 ,6263,Fuegen,47.345526,11.852875
@@ -328,6 +329,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 41587,Disk,Franzensbrückenstrasse 15,1020,Wien,48.2146367,16.3916044
 41666,Lagerhaus-Genol,Obere Bahngasse 1,7083,Purbach,47.9111388,16.6955227
 41667,Lagerhaus-Genol,Triftsteig 1,7063,Oggau,47.8324242,16.6703781
+41726,Diskont Tankstelle,"Kärntner Straße 92 (""Hofer Parkplatz"")",8700,Leoben,47.382529,15.105815
 41826,Turmöl Quick,Schlossallee 2,1140,Wien,48.1893108,16.314299
 41886,OMV - Lienz Iseltaler Straße 30,Iseltaler Strasse 30,9900,Lienz,46.83172,12.75363
 42086,Marken-Diskont Franz Falk ,Übersbach 124,8362,Übersbach,47.0370799,16.0571029
@@ -642,6 +644,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1468110,Diskont Kaier,Wolfsberg 8,8421,Schwarzautal,46.8446231,15.6580187
 1468126,BP,Breitenfurterstr. 112,1120,Wien,48.160527,16.309543
 1468186,TS Lind Wings,Rennsteinerstraße 34,9500,Villach,46.6237261,13.8435376
+1468468,Turmöl Quick,Gewerbepark 2a,8792,St. Peter-Freienstein,47.395417,15.037011
 1468726, AVIA Xpress (Automaten-Tankstelle),10.-Oktober-Straße 29,9560,Feldkirchen in Kärnten,46.722217,14.098879
 1468800,Welog - Landespartner des Burgenlands,Obere Hauptstraße 230,7535,St. Michael im Burgenland,47.136327,16.272085
 1468806,DISKONT TANKSTELLE WIEN 22,Erzherzog-Karl-Straße 12,1220,Wien,48.238192,16.432431
