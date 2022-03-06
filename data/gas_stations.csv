@@ -299,6 +299,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 36268,OMV - Laakirchen Reiterholz 3,Reiterholz 3,4663,Laakirchen,48.00466,13.85405
 36271,avanti - Wien Simmeringer Hauptstraße 5,Simmeringer Hauptstrasse 5,1110,Wien,48.18388,16.4059
 36728,avanti - Fürstenfeld Körmender Straße 30,Koermender Strasse 30,8280,Fuerstenfeld,47.04909,16.08948
+36766,avanti - Ebensee Hauptstraße 21,Hauptstrasse 21,4802,Ebensee,47.81255,13.77331
 36946,Landkauf Bund,Wieden 35,8345,Straden,46.8085675,15.8704039
 37006,,Industriestraße 17,9560,Feldkirchen,46.7215632,14.1021638
 37470,Deutsch-Griffen,Göschelsberg 17,9572,Deutsch-Griffen,46.8493966,14.0861215
@@ -652,7 +653,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471927,Turmöl Quick,St. Martiner Straße 124,9500,Villach,46.62518,13.82178
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
@@ -670,6 +671,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1473369,Turmöl,Bahnhofstraße 46,4810,Gmunden,47.92534,13.7871
 1473409,Turmöl,Salzburgerstraße 90,5500,Bischofshofen,47.424963,13.214529
 1473468,Diskont Tankstelle,"Garnei 208 (""Hofer-Parkplatz"")",5431,Kuchl,47.638523,13.137367
+1473480,Turmöl,Eggersdorferstraße 6,3300,Amstetten,48.1217651,14.8729951
 1473491,Turmöl,Pragerstraße 155,1210,Wien,48.276582,16.388104
 1473508,Diskont Tankstelle,"Alpenstrasse 102 (""Hofer-Parkplatz"")",5081,Anif,47.7382713,13.0508116
 1473548,Turmöl Quick,Bundesstraße 65,9551,Bodensdorf,46.67948,13.96843
