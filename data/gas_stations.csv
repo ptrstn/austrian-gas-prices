@@ -622,6 +622,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1467628,Turmöl Quick,Wiedweg 29,9564,Patergassen,46.8176748,13.8601095
 1467697,Petschl / Riegler Tankstelle,Neudorf 36,4363,Pabneukirchen,48.331486,14.832237
 1467911,Teubl Baustoffe HandelsgesmbH / Autowascharena Fürstenfeld,Körmenderstraße 27,8280,Fürstenfeld,47.053533,16.08086
+1467928,Turmöl Quick,Wachaustraße 13,3500,Krems,48.412242,15.608987
 1467986,PINK Sparen beim Fahren,33. Straße 1,3331,Kematen an der Ybbs,48.027572,14.768701
 1468110,Diskont Kaier,Wolfsberg 8,8421,Schwarzautal,46.8446231,15.6580187
 1468126,BP,Breitenfurterstr. 112,1120,Wien,48.160527,16.309543
@@ -655,7 +656,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471927,Turmöl Quick,St. Martiner Straße 124,9500,Villach,46.62518,13.82178
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
