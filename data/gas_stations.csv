@@ -181,6 +181,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 33569,Freie Tankstelle,Ausserhalbach 37,3163,Rohrbach,48.025409,15.722101
 33576,E. Tschuchnigg ,Nr. 140,8511,St. Stefan,46.928711,15.253208
 33596,AVIA ,Keltenstraße 2,3100,St. Pölten-Ratzersdorf,48.2279934,15.6768304
+33597,AVIA XPress (unser Service: Luft und Wasser),Wollsberg 37,4652,Steinerkirchen,48.0779136,13.999056
 33598,AVIA,Franz Eigl-Str. 7,3910,Zwettl,48.6028473,15.1854858
 33599,AVIA,Fachmarktzentrum 1,7011,Siegendorf,47.7735234,16.529095
 33600,AVIA,Prof.Krejci-Graf-Str.2,3950,Gmünd,48.7608669,14.9905661
@@ -651,6 +652,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1469026,Direct,Tullner Straße 15a,3442,Asparn,48.322172,16.025357
 1469126,Turmöl Quick,Breitenfurterstraße 473,1230,Wien,48.137832,16.257546
 1469206,AVIA ,Stöckl-Allee 15,4755,Zell an der Pram,48.310872,13.629899
+1469347,Turmöl Quick,Landstraße 25,4652,Steinerkirchen,48.079328,13.96139
 1469406,JET TANKSTELLE,PRAGERSTRASSE 138,1210,WIEN,48.278186,16.388013
 1469506,Turmöl Quick,Hardtmuthgasse 51,1100,Wien,48.170174,16.370448
 1469546,avanti - Wien Jedletzbergerstraße 7,Jedletzbergerstrasse 7,1110,Wien,48.17054,16.45797
@@ -687,6 +689,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1472647,Turmöl Quick,Drautal Bundesstraße 4,9990,Lienz,46.82868,12.80849
 1472667,Horvath,58,8293,Wörth an der Lafnitz,47.21177493586743,16.082845663465502
 1472687,JET TANKSTELLE,ERMELINDE-KOCH-STRASSE 2,9560,FELDKIRCHEN,46.73206,14.09377
+1472948,SARA1 ENERGY,Industriestraße-Nord 1,2601,Sollenau,47.90763,16.25316
 1473027,EnergieBox,Bahnhofsiedlung 87,2042,Grund,48.64475,16.04857
 1473128,Diskont Tankstelle,"Wien Breitenfurter Strasse 261 (""Hofer-Parkplatz"")",1230,Wien,48.1506803,16.3016662
 1473288,Direct,Liese Prokop-Straße 2,3180,Lilienfeld,48.01419,15.5965
