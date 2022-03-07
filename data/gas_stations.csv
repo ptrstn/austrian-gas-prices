@@ -65,6 +65,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 4344,Diskont Tankstelle,"Gmeinstrasse 4 (""Hofer-Parkplatz"")",8055,Graz,47.0298178,15.4381637
 4348,eni,Floragasse 7a,1040,Wien,48.1943861,16.3680232
 4359,Tanke Blaguss,Wiener Straße 26,7350,Oberpullendorf,47.5086025,16.5037784
+4368,O-Tank,Haupstrasse 23,7032,Sigless,47.7744266,16.3943503
 4385,iQ,Kammerbach 36,3683,Yspertal,48.3313114,15.0615705
 4405,Diskont Tankstelle,"Ossiacher see strasse (""Hofer""-Parkplatz)",9521,Treffen,46.652264,13.874552
 4427,PETERSCHELKA Diskont Bedienungstankstelle,Bahnstrasse 2,2214,Auersthal,48.3712274,16.641593
@@ -538,6 +539,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354727,JET TANKSTELLE,KÄRNTNERSTRASSE 88,9900,LIENZ,46.831014,12.783933
 1354728,avanti - Poysdorf Wiener Straße 63,Wiener Strasse 63,2170,Poysdorf,48.65948,16.62935
 1354731,JET TANKSTELLE,GADNERGASSE 6,1110,WIEN,48.16679,16.410194
+1354741,MAXI TANK TANKSTELLE,GUNSKIRCHNERSTRASSE 7,4600,WELS,48.147172,13.974008
 1354747,JET TANKSTELLE,BUNDESSTRASSE 18,5600,ST JOHANN IM PONGAU,47.350359,13.194386
 1354748,JET TANKSTELLE,HERRENAU 1,6706,BUERS,47.152278,9.814175
 1354749,avanti - Krems an der Donau Bertschingerstraße 6-8,Bertschingerstrasse 6-8,3500,Krems an der Donau,48.40624,15.60365
