@@ -164,6 +164,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 27327,Lagerhaus-Tankstelle 24 h,Industriestrasse 8,5600,St.Johann,47.352315,13.197842
 27331,Lagerhaus,Voelkermarkterstrasse 27,9150,Bleiburg,46.5928672,14.7947663
 27332,Shell,Güssingerstraße 1,7503,Großpetersdorf,47.2301499,16.3225811
+27336,Rickl Mühle,Raggendorfer Straße 1,2221,Groß Schweinbarth,48.4018614,16.6461741
 27339,Lagerhaus-Tankstelle 24 h mit Waschportal,Neumarkterstrasse 1,5204,Strasswalchen,47.9568802,13.2352561
 27340,Shell Tankstelle,Wiener Bundesstrasse 153,4050,Traun,48.234185,14.23294
 27348,IQ Tankstelle,Gadnergasse 12,1110,Wien,48.164827,16.410579
@@ -199,6 +200,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 33470,Shell,Faschinastraße 198,6721,Thüringerberg,47.2157535,9.7936756
 33472,Stadtwerke Leoben,Kerpelystraße 34,8700,Leoben,47.3746958,15.0823166
 33475,Shell Liefering,Muenchner Bundesstrasse 137,5020,Salzburg,47.833221,12.998107
+33513,Agrotech,Bahnstr. 107,2283,Obersiebenbrunn,48.2464132,16.7000799
 33552,Freie Tankstelle,Hüttwinklstraße 12,5661,Rauris,47.1910187,12.9789365
 33559,Shell-Tankstelle  Laugus Silvia,Bundesstr. 149,6642,Stanzach,47.385995,10.561535
 33569,Freie Tankstelle,Ausserhalbach 37,3163,Rohrbach,48.025409,15.722101
@@ -781,7 +783,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471927,Turmöl Quick,St. Martiner Straße 124,9500,Villach,46.62518,13.82178
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
@@ -828,5 +830,24 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474105,eni,Langgasse 118a,6830,Rankweil,47.27182,9.61785
 1474107,eni,Schwefel 70a,6850,Dornbirn,47.42974,9.73995
 1474108,eni,Rheinstrasse 20,6971,Bregenz-Hard,47.488611,9.702186
+1474128,eni,Kärntnerstrasse 84,9900,Lienz,46.83117595,12.78306752
+1474197,eni,Huben 40,9971,Matrei in Osttirol,46.9346,12.575
 1474207,eni,Huttengasse 73-75,1160,Wien,48.21114,16.31069
 1474210,eni,Grenzackerstrasse 6-8,1100,Wien,48.163473,16.377225
+1474212,eni,Rautenweg 13,1220,Wien,48.263207,16.461068
+1474215,eni,Breitenfurter Strasse 325-327,1230,Wien,48.14312,16.29248
+1474217,eni,Bonygasse /Ruckergasse,1120,Wien,48.179079,16.326542
+1474218,eni,Althanstrasse 14,1090,Wien,48.229354,16.358291
+1474219,eni,Jägerstrasse 60,1200,Wien,48.235,16.37054
+1474238,eni,Wiener Strasse 304,8051,Graz,47.098039,15.404107
+1474250,eni,Pirching 97,8200,Hofstätten a. d. Raab,47.089452,15.73237
+1474253,eni,Gewerbepark Nord Nr. 11,8431,Gralla,46.80548,15.56009
+1474268,eni,Oberegging 54,3254,Bergland,48.158477,15.111832
+1474271,eni,Braitnerstrasse 62a,2500,Baden,48.001929,16.241614
+1474279,eni,Handelskai 388a,1020,Wien,48.2032,16.4358
+1474280,eni,Oberzellergasse 2a,1030,Wien,48.193838,16.396971
+1474286,eni,Raxstr./Windtenstrasse vis a vis 31,1100,Wien,48.1676,16.3551
+1474287,eni,Breitenfurterstrasse 215,1230,Wien,48.156939,16.305341
+1474288,eni24,Felberstraße vis a vis 102,1150,Wien,48.193432,16.321006
+1474289,eni,Gersthofer Strasse Nr. 2b,1180,Wien,48.226999,16.326521
+1474290,eni,Krottenbachstrasse 32-34,1190,Wien,48.2407,16.3393
