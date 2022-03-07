@@ -38,6 +38,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 2061,"PINK - so pink, so clever",Reitingerstrasse 1,4641,Steinhaus,48.1039304,14.0397516
 2070,freie Tankstelle,Hirschegg 50,8584,Hirschegg,47.0201138,14.9572875
 2075,"Autohaus Trummer, freie Tankstelle",Gnas 120,8342,Gnas,46.8706748,15.8259354
+2086,Tankstelle Pein Susanne GmbH,Grazerstrasse 55,8480,Mureck,46.7063947,15.7597657
 2098,Deine Tankstelle,Égelsdorf 14,8261,Sinabelkirchen,47.1208582,15.8132125
 3059,TURMÖL,Bundesstraße 50,7373,Piringsdorf,47.4482398,16.4176861
 3063,Karl Scheuch,"Ludwigsdorf, 23",3311,Zeillern,48.1190025,14.8063772
@@ -115,6 +116,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 6607,Diesel-Klösch,Mostbauerstrasse 3,8530,Deutschlandsberg,46.8271642,15.2361085
 6612,ENI,Dorf 23d,6210,Wiesing,47.4034807,11.8032194
 6626,ENI,Wiener Strasse 28-30,7442,Lockenhaus,47.4104932,16.4151537
+6631,Tankstelle Pein Susanne GmbH,Halbenrain 65,8492,Halbenrain,46.720916,15.9515928
 6637,Eni Service Station,Mattseer Landesstr. 4,5161,Elixhausen,47.8596157,13.059111
 6661,Toms Kfz Teile,Wildendürnbach 110,2164,Wildendürnbach,48.756557,16.501615
 6664,Diskont-Tankstelle,Hauptstraße 121,7022,Schattendorf,47.712072,16.512151
@@ -549,6 +551,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 682602,"PINK - so pink, so clever",Welserstraße 5,4701,Bad Schallerbach,48.2275333,13.9257925
 685125,GTS - Günstig Tanken Schmöger ,Körnermarkt 5,3542,Gföhl,48.516035,15.493225
 692206,SPRITINN,Rechte Wienzeile 43,1050,Wien,48.1963317,16.3587045
+692890,Sprit Diskont Thomas Weißenböck-Straßl,Nibelungenstrasse 20,4090,Engelhartszell,48.5017813,13.735886
 716103,Stöckl ,Hauptstrasse 54,7434,Bernstein,47.4064335,16.260999
 761209,Sprint,Triester Str. 328,8055,Graz,47.03297072960908,15.430686098181836
 775695,Waschpark Volders,Alpenstrasse 1,6111,Volders,47.291801,11.574433
