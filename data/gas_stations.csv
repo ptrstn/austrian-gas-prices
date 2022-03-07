@@ -50,6 +50,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 4050,Gutmann ENI Tankstelle+TANKAUTOMAT,Bahnhofstraße 11,6372,Oberndorf,47.4964984,12.3882226
 4051,Gutmann ENI Tankstelle,Gutenbergstraße 6,6858,Schwarzach,47.440047,9.756718
 4073,Freie Tankstelle,Dr. Hans Bachmannstrasse 51a,6250,Kundl,47.4733396,11.9790487
+4092,Shell,Dorfstraße 2,6450,Sölden,46.9757145,11.0111102
 4101,Turmöl Quick,Millstätterstraße 21,9545,Radenthein,46.7983963,13.6962295
 4104,Turmöl Quick,Triglavstraße 1,9500,Villach,46.5939688,13.8435871
 4114,,Halleiner Landesstraße 30,5061,Elsbethen,47.7548456,13.0872532
@@ -103,6 +104,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 6397,GENOL - Lagerhaus,Bahnstraße 21,2563,Pottenstein,47.963018,16.0883929
 6399,GENOL - Lagerhaus,Neusiedlerstraße 4,2763,Pernitz,47.8942212,15.9548225
 6405,GENOL - Lagerhaus,Winzerstraße 382,2722,Winzendorf,47.8129554,16.1124555
+6407,Freie Tankstelle Nockenstein,Wolfgangseestraße 35,5023,Koppl,47.8203145,13.1112882
 6408,GENOL - Lagerhaus,Lokalbahnstraße 13,2620,Neunkirchen,47.7248325,16.0828276
 6412,GENOL - Lagerhaus,Sägemühle 2,2851,Krumbach,47.5032608,16.2044289
 6422,GENOL - Lagerhaus,Ofenbachstraße,2821,Lanzenkirchen,47.742137,16.240472
@@ -115,6 +117,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 6626,ENI,Wiener Strasse 28-30,7442,Lockenhaus,47.4104932,16.4151537
 6637,Eni Service Station,Mattseer Landesstr. 4,5161,Elixhausen,47.8596157,13.059111
 6661,Toms Kfz Teile,Wildendürnbach 110,2164,Wildendürnbach,48.756557,16.501615
+6664,Diskont-Tankstelle,Hauptstraße 121,7022,Schattendorf,47.712072,16.512151
 6673,Beiskammer,Kirchham 18,4656,Kirchham,47.9718766,13.8992497
 6684,Genol LGH Waldhausen_(-TKK Abschlag),Markt 94,4391,Waldhausen,48.2722,14.9508179
 7558,Lagerhaus,Bahnstrasse 3,9330,Treibach/Althofen,46.8654084,14.4650033
@@ -139,10 +142,14 @@ station_id,name,address,postal_code,city,latitude,longitude
 7702,Unser Lagerhaus St. Johann,Bahnhofstraße 28,6380,St. Johann/Tirol,47.5199377,12.4319425
 7704,Shell,Mandlingstraße 8,8974,Mandling,47.40410246,13.57432991
 7706,LMEnergy Express,Salzachtalbundesstraße 111,5081,Anif,47.7313262,13.0641858
+7715,Freie Tankstelle,Hauptstraße 23,4872,Neukirchen a.d.Vöckla,48.041374966167,13.5377759369988
 7724,BP,Reichenauer Straße 149,6020,Innsbruck,47.2738154,11.4281608
+7727,Geist Transporte,Widum 235,6934,Sulzberg,47.5205385,9.9094319
+7730,Geist Transporte,Fahl 125,6934,Sulzberg,47.514998,9.86411
 7734,BP,Montafonerstraße 29,6700,Bludenz,47.140981,9.833898
 7752,Magistrat Stadt Villach,St. Johanner Straße 20,9500,Villach,46.6113273,13.8330066
 7806,Eibl Werner,Gaißau 155,5425,Krispl,47.7120404,13.194849
+7812,Vivod GmbH,Laaberstrasse 1,2384,Breitenfurt,48.1381917,16.2038779
 7818,Posauner Petrol,Klamm 14A,5621,St. Veit im Pongau,47.2976853,13.081528
 7820,car&care Tankstelle Konrad Service-Center,Triester Straße 219,8073,Feldkirchen,46.9938723,15.4548317
 7825,Unser Lagerhaus,Duilestr. 20,6020,Innsbruck,47.2533315,11.3942247
@@ -161,8 +168,10 @@ station_id,name,address,postal_code,city,latitude,longitude
 27340,Shell Tankstelle,Wiener Bundesstrasse 153,4050,Traun,48.234185,14.23294
 27348,IQ Tankstelle,Gadnergasse 12,1110,Wien,48.164827,16.410579
 30200,Freie Tankstelle,Wimbergeramt 49,4392,Dorfstetten,48.3289445,14.9800423
+30202,Lagerhaus-Tankstelle 24 h mit Waschportal,Gewerbestrasse 3,5322,Hof,47.823327,13.200116
 30210,Lagerhaus-Tankstelle 24 h,Pflegerstrasse 26,5082,Grödig,47.755252,13.036523
 30215,Lagerhaus-Tankstelle 24 h,Oberer Markt 15,5661,Rauris,47.221419,12.992052
+30225,Lagerhaus-Tankstelle 24 h,Grossarl 205,5611,Grossarl,47.2315176,13.1985896
 30230,ENI,Grazer Straße 21,8410,Wildon,46.8900838,15.4979414
 30231,TAC,Taborstraße 102-108 ,1200,Wien,48.2270659,16.3870746
 30238,Lohberger,Ödenburger Straße 14 ,1210,Wien,48.27539596984909,16.397716999053955
@@ -190,6 +199,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 33470,Shell,Faschinastraße 198,6721,Thüringerberg,47.2157535,9.7936756
 33472,Stadtwerke Leoben,Kerpelystraße 34,8700,Leoben,47.3746958,15.0823166
 33475,Shell Liefering,Muenchner Bundesstrasse 137,5020,Salzburg,47.833221,12.998107
+33552,Freie Tankstelle,Hüttwinklstraße 12,5661,Rauris,47.1910187,12.9789365
 33559,Shell-Tankstelle  Laugus Silvia,Bundesstr. 149,6642,Stanzach,47.385995,10.561535
 33569,Freie Tankstelle,Ausserhalbach 37,3163,Rohrbach,48.025409,15.722101
 33570,Tankstelle OBERHOFER,Enzersdorf im Thale,2032,Enzersdorf im Thale,48.585692,16.245024
@@ -257,6 +267,8 @@ station_id,name,address,postal_code,city,latitude,longitude
 34592,Marken-Diskont Franz Falk,Oberbuch 9,8274,Buch,47.2339552,15.9964327
 34593,LAGERHAUS   Hopfgarten - Wörgl und Umgebung reg.Gen.m.b.H.,Bahnhofstr. 7,6361,Hopfgarten,47.4526716,12.1517289
 34596,Schildecker-DISKONT,Industriegelände Objekt 2,3435,Pischelsdorf,48.33325905,15.94180584
+34598,Diskonttankstelle Schöllhammer,Bahnhofstraße 92,3350,Stadt Haag,48.096018,14.5880669
+34610,Turmöl,Hauptstraße 94,9632,Kirchbach,46.64273,13.1799
 34706,Autohaus Föttinger GmbH,Seefeld 9,4853,Steinbach am Attersee,47.8407909,13.5474485
 34728,"Jedinger, Freie Tankstelle",Frei 3,4682,Geboltskirchen,48.1537941,13.6345045
 34739,Kuss Autodienst,Christophorusweg 1,9334,Guttaring,46.8799972,14.505802
@@ -365,8 +377,10 @@ station_id,name,address,postal_code,city,latitude,longitude
 42886,Tanke Blaguss,Industriestraße,7000,Eisenstadt,47.8328353,16.5336044
 42986,Krois Diskont Clever Tanken,Nord 60,9125,Kühnsdorf,46.6246179,14.6334208
 43426,JP MENNEL,Hof 331,6951,Lingenau,47.4499378,9.9233926
+43486,Wildenhofer Diesel Tankstelle,Gniglerstraße 5-7,5020,Salzburg,47.8157985,13.0497956
 43586,Shell,Sulmtalstr.45,8451,Heimschuh,46.7645638,15.4944686
 43866,Turmöl Quick,Bundesstraße 33,9560,Untere Glan,46.7337805,14.1558516
+44026,Kerschbaumer Autodienst,Untermarkt 10,9363,Metnitz,46.9808815,14.2196908
 44306,AVIA, Jeding 12,4673,GASPOLTSHOFEN,48.139459,13.732438
 44686,avanti - Pinkafeld Wiener Straße 8,Wiener Strasse 8,7423,Pinkafeld,47.3744,16.12554
 44766,Turmöl Quick,Nachdemsee 12,4813,Altmünster,47.884276,13.771423
@@ -597,6 +611,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354671,avanti - Fügen im Zillertal Zillertalstraße 14,Zillertalstrasse 14,6263,Fuegen im Zillertal,47.35141,11.85149
 1354672,JET TANKSTELLE,OBERLAAERSTR. 276,1230,WIEN,48.146913,16.366831
 1354673,OMV - Innsbruck Andechsstraße 83,Andechsstrasse 83,6020,Innsbruck,47.26531,11.42629
+1354674,JET TANKSTELLE,PIANS 58 D,6551,PIANS,47.131173,10.506121
 1354676,JET TANKSTELLE,MÜNCHER STRASSE 54,6130,SCHWAZ,47.353777,11.708531
 1354677,avanti - Landeck Innstrasse 38,Innstrasse 38,6500,Landeck,47.14163,10.56352
 1354679,avanti - Wörgl Salzburger Straße 48,Salzburger Strasse 48,6300,Woergl,47.49011,12.0728
@@ -635,6 +650,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354794,JET TANKSTELLE,KETZERGASSE 208,1230,WIEN,48.130709,16.289516
 1354805,avanti - Ybbs Bahnhofstraße 13,Bahnhofstrasse 13,3370,Ybbs,48.17039,15.08587
 1354807,avanti - Amstetten Wiener Straße 60,Wiener Strasse 60,3300,Amstetten,48.12263,14.88932
+1354809,JET TANKSTELLE,RHEINSTRASSE 99,6971,HARD,47.47757,9.679413
 1354810,avanti - Mitterau An der Bundesstraße 1,An der Bundesstrasse 1,3385,Mitterau,48.1976,15.48346
 1354813,JET TANKSTELLE,INDUSTRIESTRASSE 19,2540,BAD VÖSLAU,47.976937,16.221098
 1354817,JET TANKSTELLE,GASTEINER STRASSE 72,5500,BISCHOFSHOFEN,47.406171,13.217781
@@ -645,6 +661,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354828,JET TANKSTELLE,WEGSCHEIDGASSE 18,6370,KITZBÜHEL,47.450067,12.391094
 1354832,JET TANKSTELLE,BUNDESSTRASSE 13,5600,ST JOHANN IM PONGAU,47.343479,13.191715
 1354838,SCHNELL UND GUENSTIG TANKSTELLE,BUNDESSTRASSE 34,6063,RUM,47.277562,11.444639
+1354846,JET TANKSTELLE,REICHSSTRASSE 133 A,6800,FELDKIRCH,47.247387,9.610381
 1354849,JET TANKSTELLE,BREITENFURTERSTRASSE 164,1230,WIEN,48.153886,16.301339
 1354851,OMV - Lustenau Hagstraße 27,Hagstrasse 27,6890,Lustenau,47.44937,9.66475
 1354853,OMV - Wolfurt Dornbirner Straße 22,Dornbirner Strasse 22,6922,Wolfurt,47.4541,9.75495
@@ -698,6 +715,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1414526,Turmöl Quick,Grieskirchnerstraße 118,4600,Wels,48.1807644,14.0187608
 1428007,Isbary Bioland,Brunnrotte 7,3212,schwarzenbach,47.946207,15.383815
 1431727,Martin Mosonyi,"Dammweg, 14",7163,Andau,47.767205,17.027824
+1460806,Diskont Tankstelle Langauen ,B100,9500,VILLACH,46.636393,13.814563
 1463026,Diskont Tankstelle,"35. Straße 2 (""Hofer Parkplatz"") ",3331,Kematen an der Ybbs,48.037782,14.778013
 1467380,avanti - Dornbirn Lustenauer Straße 24,Lustenauer Strasse 24,6850,Dornbirn,47.40698,9.73476
 1467404,D.Gertl Tankstelle GmbH,x,6241,Radfeld,47.4517224,11.9360568
@@ -726,6 +744,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1467986,PINK Sparen beim Fahren,33. Straße 1,3331,Kematen an der Ybbs,48.027572,14.768701
 1468110,Diskont Kaier,Wolfsberg 8,8421,Schwarzautal,46.8446231,15.6580187
 1468126,BP,Breitenfurterstr. 112,1120,Wien,48.160527,16.309543
+1468154,eww-Tankstation,Wiesenstrasse 39,4600,Wels,48.16201,14.037198
 1468186,TS Lind Wings,Rennsteinerstraße 34,9500,Villach,46.6237261,13.8435376
 1468468,Turmöl Quick,Gewerbepark 2a,8792,St. Peter-Freienstein,47.395417,15.037011
 1468726, AVIA Xpress (Automaten-Tankstelle),10.-Oktober-Straße 29,9560,Feldkirchen in Kärnten,46.722217,14.098879
@@ -757,6 +776,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471047,Treibstoffparadies,Gewerbepark Ost 1,8504,Preding,46.85349,15.40998
 1471227,Tankstelle Gewerbepark ,Gewerbepark 5,5611,Großarl,47.22868096423599,13.198833790507829
 1471267,Tankshop Sabotnig,Plescherken 62 a,9074,Keutschach/See,46.58772169917432,14.141038821702509
+1471848,Glocknertankstelle,"Pockhorn, 29",9844,Heiligenblut,47.02351163016087,12.862333834713704
 1471887,PRORast Loipersdorf,Loipersdorfer Hauptstraße,8282,Bad Loipersdorf,47.00569,16.11257
 1471927,Turmöl Quick,St. Martiner Straße 124,9500,Villach,46.62518,13.82178
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
@@ -801,3 +821,12 @@ station_id,name,address,postal_code,city,latitude,longitude
 1473948,Diskont Tankstelle,"Barnabas-Fink-Strasse 1 (""Hofer-Parkplatz"")",6845,Hohenems,47.366974,9.670367
 1473968,eni24,Hauptstrasse 38,2351,Wiener Neudorf,48.086212,16.318213
 1474028,Diskont Tankstelle ,"Schörflinger Strasse 20 (""Am Hofer Parkplatz"")",4844,Regau,47.981721,13.698792
+1474081,eni,Innsbruckerstrasse 29,6230,Brixlegg,47.43262,11.87891
+1474089,eni,Zeller Bundesstrasse 1a,5760,Saalfelden,47.427965,12.842227
+1474095,eni,Schallmooser Hauptstrasse 54,5020,Salzburg,47.807711,13.062374
+1474100,eni,Urstein Nord 15,5412,Puch bei Hallein,47.732187,13.086187
+1474105,eni,Langgasse 118a,6830,Rankweil,47.27182,9.61785
+1474107,eni,Schwefel 70a,6850,Dornbirn,47.42974,9.73995
+1474108,eni,Rheinstrasse 20,6971,Bregenz-Hard,47.488611,9.702186
+1474207,eni,Huttengasse 73-75,1160,Wien,48.21114,16.31069
+1474210,eni,Grenzackerstrasse 6-8,1100,Wien,48.163473,16.377225
