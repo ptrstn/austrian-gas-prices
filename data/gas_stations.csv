@@ -74,6 +74,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 4368,O-Tank,Haupstrasse 23,7032,Sigless,47.7744266,16.3943503
 4385,iQ,Kammerbach 36,3683,Yspertal,48.3313114,15.0615705
 4405,Diskont Tankstelle,"Ossiacher see strasse (""Hofer""-Parkplatz)",9521,Treffen,46.652264,13.874552
+4408,ENI,Mureckerstrasse 31,8083,St .Stefan/R,46.9010157,15.7137303
 4427,PETERSCHELKA Diskont Bedienungstankstelle,Bahnstrasse 2,2214,Auersthal,48.3712274,16.641593
 5093,Turmöl Tankstelle,Margaretenstrasse 28,1040,Wien,48.1962250998788,16.3648216561744
 6052,Turmöl,Grazerstraße 23,8644,Mürzhofen,47.4831657,15.3932053
@@ -798,7 +799,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471927,Turmöl Quick,St. Martiner Straße 124,9500,Villach,46.62518,13.82178
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
@@ -838,6 +839,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1473948,Diskont Tankstelle,"Barnabas-Fink-Strasse 1 (""Hofer-Parkplatz"")",6845,Hohenems,47.366974,9.670367
 1473968,eni24,Hauptstrasse 38,2351,Wiener Neudorf,48.086212,16.318213
 1474028,Diskont Tankstelle ,"Schörflinger Strasse 20 (""Am Hofer Parkplatz"")",4844,Regau,47.981721,13.698792
+1474075,eni,Salzburger Strasse 23,6380,St.Johann,47.52709,12.42416
 1474081,eni,Innsbruckerstrasse 29,6230,Brixlegg,47.43262,11.87891
 1474089,eni,Zeller Bundesstrasse 1a,5760,Saalfelden,47.427965,12.842227
 1474095,eni,Schallmooser Hauptstrasse 54,5020,Salzburg,47.807711,13.062374
