@@ -765,6 +765,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1469726,Turmöl Quick,Großreifling 85,8931,Großreifling,47.665699,14.716091
 1469766,EVM - Biomethan Tankstelle,Energiestraße 9,2433,Margarethen am Moos,48.047635,16.605493
 1469786,Lagerhaus Tankstelle Matrei,Seblas 17,9971,Matrei in Osttirol,46.981732797028485,12.549961697284306
+1469807,Turmöl Tankstelle,Obere Hauptstraße 174,7537,Neuberg,47.184775,16.248481
 1469926,MBR Tankstelle GmbH,Bundesstraße 9,8472,Spielfeld,46.695427,15.637917
 1469987,Gerhard Prugger Maltatal Diskont,Malta 175,9854,Malta,46.949817,13.509007
 1470006,Plöckinger KG,"Staufstraße, 3",4083,Haibach ob der Donau,48.40810469142028,13.91798805936413
@@ -783,7 +784,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471927,Turmöl Quick,St. Martiner Straße 124,9500,Villach,46.62518,13.82178
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
@@ -846,6 +847,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474271,eni,Braitnerstrasse 62a,2500,Baden,48.001929,16.241614
 1474279,eni,Handelskai 388a,1020,Wien,48.2032,16.4358
 1474280,eni,Oberzellergasse 2a,1030,Wien,48.193838,16.396971
+1474283,eni,Kaiserebersdorferstrasse 48,1110,Wien,48.167349,16.426899
 1474286,eni,Raxstr./Windtenstrasse vis a vis 31,1100,Wien,48.1676,16.3551
 1474287,eni,Breitenfurterstrasse 215,1230,Wien,48.156939,16.305341
 1474288,eni24,Felberstraße vis a vis 102,1150,Wien,48.193432,16.321006
