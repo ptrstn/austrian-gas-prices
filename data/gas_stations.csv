@@ -395,6 +395,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 43426,JP MENNEL,Hof 331,6951,Lingenau,47.4499378,9.9233926
 43486,Wildenhofer Diesel Tankstelle,Gniglerstraße 5-7,5020,Salzburg,47.8157985,13.0497956
 43586,Shell,Sulmtalstr.45,8451,Heimschuh,46.7645638,15.4944686
+43626,Diskont Tankstelle,"Wiener Straße 54 (""Am Hofer Parkplatz"")",3340,Waidhofen,47.976722,14.754875
 43866,Turmöl Quick,Bundesstraße 33,9560,Untere Glan,46.7337805,14.1558516
 44026,Kerschbaumer Autodienst,Untermarkt 10,9363,Metnitz,46.9808815,14.2196908
 44208,OMV - Haslach an der Mühl Sternwaldstraße 45,Sternwaldstrasse 45,4170,Haslach an der Muehl,48.57546,14.05164
@@ -541,6 +542,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 448121,Shell Austria,LINZER STR 2A,1150,WIEN,48.19039,16.32173
 449653,Shell Austria,LEOPOLDAUERSTRASSE 51,1210,WIEN,48.25993,16.41174
 449827,Shell Austria,OEVERSEESTRASSE 2B,1150,WIEN,48.20186,16.31767
+449829,Shell Austria,ALPENSTRASSE 2,5081,ANIF B.SALZBURG,47.74943,13.06947
 450004,Shell Austria,SCHWEFEL 40,6850,DORNBIRN-SCHWEFEL,47.4256,9.7414
 450350,Shell Austria,DARINGERGASSE 1A,1190,WIEN,48.24722,16.33481
 450523,Shell Austria,PFENNINGGELDG 2/ECKE HERBSTSTRASSE,1160,WIEN,48.20786,16.31328
@@ -866,6 +868,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474207,eni,Huttengasse 73-75,1160,Wien,48.21114,16.31069
 1474210,eni,Grenzackerstrasse 6-8,1100,Wien,48.163473,16.377225
 1474212,eni,Rautenweg 13,1220,Wien,48.263207,16.461068
+1474213,eni,Donaustadtstrasse 43,1220,Wien,48.222678,16.44443
 1474214,eni,Biberhaufenweg 115,1220,Wien,48.202378,16.473838
 1474215,eni,Breitenfurter Strasse 325-327,1230,Wien,48.14312,16.29248
 1474217,eni,Bonygasse /Ruckergasse,1120,Wien,48.179079,16.326542
