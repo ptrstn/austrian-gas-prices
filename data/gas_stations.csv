@@ -290,6 +290,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 34817,Lagerhaus Tankstelle,Kötschach 153,9640,Kötschach,46.6721177,13.0032407
 34828,Stering GmbH,Hitzendorf 134,8151,Hitzendorf,47.0346383,15.3004398
 34851,Czelecz,Flurgasse 5,8665,Langenwang,47.5647283,15.6144042
+34888,GUTSCHE,Wolkersdorf 42,9431,St. Stefan,46.7871055,14.8505684
 34890,Ulli´s Tank-Stelle,Liebenau 129,4252,Liebenau,48.5303994,14.8010066
 34946,Trötzmüller Garage,Pouthongasse 15 - 17,1150,Wien,48.1992287,16.3298807
 35026,Mössmer Transporte,Gewerbestraße 1,6111,Volders,47.2899507,11.5734834
@@ -538,6 +539,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 450523,Shell Austria,PFENNINGGELDG 2/ECKE HERBSTSTRASSE,1160,WIEN,48.20786,16.31328
 450524,Shell Austria,WAGRAMERSTRASSE 14,1220,WIEN,48.23367,16.42036
 450529,Shell Austria,PANZENDORF 134,9919,HEINFELS,46.74968,12.4423
+491817,Deine SB Tankstellen,Kirchbach 113,8082,Kirchbach,46.929099,15.664164
 493332,Turmöl Quick,Gmundnerstr. 35,4663,Laakirchen,47.975562,13.8203361
 497870,Diskont Tankstelle,"Bahnhofstraße 26 (""Hofer Parkplatz"")",3370,Ybss,48.16811,15.086662
 508146,Easy Tank,Strötting 1,4716,Hofkirchen/Tr.,48.222328,13.732715
@@ -796,7 +798,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471927,Turmöl Quick,St. Martiner Straße 124,9500,Villach,46.62518,13.82178
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
@@ -844,6 +846,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474107,eni,Schwefel 70a,6850,Dornbirn,47.42974,9.73995
 1474108,eni,Rheinstrasse 20,6971,Bregenz-Hard,47.488611,9.702186
 1474128,eni,Kärntnerstrasse 84,9900,Lienz,46.83117595,12.78306752
+1474167,eni,Lustenauerstrasse 52,6850,Dornbirn,47.4104,9.72079
 1474197,eni,Huben 40,9971,Matrei in Osttirol,46.9346,12.575
 1474207,eni,Huttengasse 73-75,1160,Wien,48.21114,16.31069
 1474210,eni,Grenzackerstrasse 6-8,1100,Wien,48.163473,16.377225
