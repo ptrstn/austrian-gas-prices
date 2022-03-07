@@ -369,6 +369,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 237857,SB-Tankstelle Schmied im Wald,Gschaid 8,4723,Natternbach,48.4039189,13.6922177
 247819,eni,Feldstrasse 44,2345,Brunn/Geb.,48.122997,16.293216
 247822,eni,Wiener Strasse 52,7423,Pinkafeld,47.379013,16.122093
+247836,eni,Salzachtalstrasse 23,5400,Hallein,47.6797,13.1045
 247846,eni,Lustenauerstrasse 52,6850,Dornbirn,47.4104,9.72079
 247851,eni24,Villacherstrasse 44,9800,Spittal/Drau,46.7919,13.5083
 247873,eni,Bahnhofstrasse 37,3370,Ybbs an der Donau,48.16341,15.099241
@@ -639,6 +640,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1467534,GENOL-Lagerhaustankstelle - Grosswarasdorf,Martin Merischstrasse 8,7304,GROSSWARASDORF,47.538084,16.561262
 1467535,GENOL-Lagerhaustankstelle - Lutzmannsburg,Hauptstrasse 3,7361,LUTZMANNSBURG,47.463601,16.632107
 1467536,GENOL-Lagerhaustankstelle - Nikitsch,Hauptstrasse 173,7302,NIKITSCH,47.542616,16.658627
+1467537,GENOL-Lagerhaustankstelle - Wulkaprodersdorf,Am Bahnhof,7041,WULKAPRODERSDORF,47.81961,16.505585
 1467568,Pamer GmbH,Fabrikweg 26,2424,Zurndorf,47.9805003,17.0059708
 1467569,Pamer GmbH,Scheunengasse 2,2425, Nickelsdorf,47.9386394,17.07018
 1467606,JET TANKSTELLE,GEWERBESTRASSE 19,4072,ALKOVEN,48.28957,14.130639
