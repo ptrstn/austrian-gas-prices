@@ -370,6 +370,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 41188,Diskont Tankstelle,"Neue Landstraße 74 (""Hofer-Parkplatz"")",4655,Vorchdorf,48.008358,13.920214
 41286,Maroltinger Tankstelle, Maroltingergasse 66,1160,Wien,48.2102455,16.3058551
 41587,Disk,Franzensbrückenstrasse 15,1020,Wien,48.2146367,16.3916044
+41588,avanti - Gosau 705, 705,4824,Gosau,47.57958,13.53156
 41666,Lagerhaus-Genol,Obere Bahngasse 1,7083,Purbach,47.9111388,16.6955227
 41667,Lagerhaus-Genol,Triftsteig 1,7063,Oggau,47.8324242,16.6703781
 41726,Diskont Tankstelle,"Kärntner Straße 92 (""Hofer Parkplatz"")",8700,Leoben,47.382529,15.105815
@@ -387,6 +388,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 43586,Shell,Sulmtalstr.45,8451,Heimschuh,46.7645638,15.4944686
 43866,Turmöl Quick,Bundesstraße 33,9560,Untere Glan,46.7337805,14.1558516
 44026,Kerschbaumer Autodienst,Untermarkt 10,9363,Metnitz,46.9808815,14.2196908
+44208,OMV - Haslach an der Mühl Sternwaldstraße 45,Sternwaldstrasse 45,4170,Haslach an der Muehl,48.57546,14.05164
 44246,Turmöl,Oberndorf 81,3820,Raabs,48.8438731,15.4824089
 44306,AVIA, Jeding 12,4673,GASPOLTSHOFEN,48.139459,13.732438
 44686,avanti - Pinkafeld Wiener Straße 8,Wiener Strasse 8,7423,Pinkafeld,47.3744,16.12554
