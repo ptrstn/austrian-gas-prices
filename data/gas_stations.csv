@@ -385,6 +385,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 43586,Shell,Sulmtalstr.45,8451,Heimschuh,46.7645638,15.4944686
 43866,Turmöl Quick,Bundesstraße 33,9560,Untere Glan,46.7337805,14.1558516
 44026,Kerschbaumer Autodienst,Untermarkt 10,9363,Metnitz,46.9808815,14.2196908
+44246,Turmöl,Oberndorf 81,3820,Raabs,48.8438731,15.4824089
 44306,AVIA, Jeding 12,4673,GASPOLTSHOFEN,48.139459,13.732438
 44686,avanti - Pinkafeld Wiener Straße 8,Wiener Strasse 8,7423,Pinkafeld,47.3744,16.12554
 44766,Turmöl Quick,Nachdemsee 12,4813,Altmünster,47.884276,13.771423
@@ -839,6 +840,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474207,eni,Huttengasse 73-75,1160,Wien,48.21114,16.31069
 1474210,eni,Grenzackerstrasse 6-8,1100,Wien,48.163473,16.377225
 1474212,eni,Rautenweg 13,1220,Wien,48.263207,16.461068
+1474214,eni,Biberhaufenweg 115,1220,Wien,48.202378,16.473838
 1474215,eni,Breitenfurter Strasse 325-327,1230,Wien,48.14312,16.29248
 1474217,eni,Bonygasse /Ruckergasse,1120,Wien,48.179079,16.326542
 1474218,eni,Althanstrasse 14,1090,Wien,48.229354,16.358291
