@@ -33,6 +33,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1109,JVG JOHANNA - GARAGE GmbH,Johannagasse 28,1050,Wien,48.1854701,16.3473292
 1111, Tankstelle Braunstingl,Drasenhofen 330,2165,Drasenhofen,48.7510538,16.6487938
 1116,Treibstoffparadies,Grazerstraße 2,8522,Gr. St. Florian,46.8242704,15.3179707
+1117,Wälderhaus,Gfäll 134,6941,Langenegg,47.472489,9.900355
 1135,NNB BRUNNENTANKSTELLE,Brunnengasse 4,1160,WIEN,48.20462,16.334813
 1141,Eybel GmbH BP Tankstelle,Aibl 72,8552,Eibiswald,46.681729,15.229776
 1146,Heppner & Oberndorfer Bedienungstankstelle,Lastenstraße 11,4623,Gunskirchen,48.1323355,13.944564
@@ -56,6 +57,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 4101,Turmöl Quick,Millstätterstraße 21,9545,Radenthein,46.7983963,13.6962295
 4104,Turmöl Quick,Triglavstraße 1,9500,Villach,46.5939688,13.8435871
 4114,,Halleiner Landesstraße 30,5061,Elsbethen,47.7548456,13.0872532
+4117,AP-Kufstein GmbH,Gewerbepark Süd 6,6330,Kufstein,47.566781,12.155927
 4131,Freie Tankstelle,Els 30,3613,Els 30,48.4443299,15.3725413
 4158,Disk,Hauptstraße 18,6511,Zams,47.1541793,10.5844558
 4302,Stöckl,Mariasdorf 51,7433,Mariasdorf,47.363316,16.2407267
@@ -856,8 +858,10 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474105,eni,Langgasse 118a,6830,Rankweil,47.27182,9.61785
 1474107,eni,Schwefel 70a,6850,Dornbirn,47.42974,9.73995
 1474108,eni,Rheinstrasse 20,6971,Bregenz-Hard,47.488611,9.702186
+1474121,eni,Ossiacher Zeile 74,9500,Villach,46.617815,13.860633
 1474128,eni,Kärntnerstrasse 84,9900,Lienz,46.83117595,12.78306752
 1474167,eni,Lustenauerstrasse 52,6850,Dornbirn,47.4104,9.72079
+1474193,eni,Italiener Strasse 57,9500,Villach,46.603335,13.840528
 1474197,eni,Huben 40,9971,Matrei in Osttirol,46.9346,12.575
 1474207,eni,Huttengasse 73-75,1160,Wien,48.21114,16.31069
 1474210,eni,Grenzackerstrasse 6-8,1100,Wien,48.163473,16.377225
