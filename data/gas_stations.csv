@@ -29,6 +29,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 482,OMV - Stockerau Autobahn A 22,Autobahn A 22 ,2000,Stockerau,48.38086,16.20408
 488,OMV - Graz Straßganger Straße 436,Strassganger Strasse 436,8054,Graz,47.03326,15.39896
 495,OMV - Braunau Salzburger Straße 99,Salzburger Strasse 99,5280,Braunau,48.24673,13.0403
+501,avanti - Ort im Innkreis Kammer 19,Kammer 19,4974,Ort im Innkreis,48.31724,13.42524
 1109,JVG JOHANNA - GARAGE GmbH,Johannagasse 28,1050,Wien,48.1854701,16.3473292
 1111, Tankstelle Braunstingl,Drasenhofen 330,2165,Drasenhofen,48.7510538,16.6487938
 1116,Treibstoffparadies,Grazerstraße 2,8522,Gr. St. Florian,46.8242704,15.3179707
@@ -82,6 +83,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 6070,TANKEnergie Ringgarage,Untere Viaduktgasse 47-49,1030,Wien,48.2066605,16.3873229
 6074,Turmöl-Tankstelle beim Interspar,Industriezeile 78,4020,Linz,48.3004302,14.3206244
 6075,Turmöl-Tankstelle Welserstr. 54,Welserstr. 54,4614,Marchtrenk,48.1900558693538,14.099838002891
+6081,Turmöl Quick,Rieder Straße 8,4942,Gurten,48.2392811,13.3481402
 6083,Turmöl Quick,Währinger Gürtel 116,1090,Wien,48.2266238,16.3504673
 6093,Lagerhaus Altmünster,Großalmstraße 24,4813,Altmünster,47.887313,13.760194
 6117,"BELLINGER, freie Tankstelle",Unterschwendt 46,6385,Schwendt bei Kössen,47.6481,12.4044
@@ -328,6 +330,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 35697,BP,Hietzinger Kai 133-135 ,1130,Wien,48.1915759,16.2803217
 35700,BP,Linzer Str. 135-137 ,1140,Wien,48.1933363,16.3017905
 35714,BP,Heiligenstaedterstr.77 ,1190,Wien,48.2438482,16.3613545
+35717,BP,Gaudenzdorfer Guertel 77 ,1120,Wien,48.1875841,16.3394844
 35721,BP,Dresdnerstrasse 8 ,1200,Wien,48.2408605,16.3748223
 35725,BP,Laxenburgerstrasse 2a ,1100,Wien,48.183485,16.373405
 35726,BP,Am Fasangarten 9 ,1120,Wien,48.170747,16.305561
@@ -576,6 +579,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 910999,A1 Tankstelle Waidring,Loferer Bundesstraße 1,6384,Waidring,47.5864172,12.5849435
 931254,Turmöl,Altmannsdorferstraße 150,1230,Wien,48.1547657,16.3193503
 951924,Turmöl Quick,Grazer Straße 33,8510,Stainz,46.8971308,15.2678969
+981384,Diskont Nissan Feichtinger,Eisenbirn 10,4792,Münzkirchen,48.4738875,13.5610313
 1004230,Tankstelle Holzgethan,Marktstraße 39,2831,Warth,47.6471798,16.1264914
 1038732,ENI,Gesäusestraße,8940,Liezen,47.5593257,14.2532636
 1048950,RAG.ERDGAS.MOBIL,Schwarzmoos 28,4851,Gampern,48.01639,13.57391
@@ -628,6 +632,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354672,JET TANKSTELLE,OBERLAAERSTR. 276,1230,WIEN,48.146913,16.366831
 1354673,OMV - Innsbruck Andechsstraße 83,Andechsstrasse 83,6020,Innsbruck,47.26531,11.42629
 1354674,JET TANKSTELLE,PIANS 58 D,6551,PIANS,47.131173,10.506121
+1354675,avanti - Innsbruck Andechsstraße West 86,Andechsstrasse West 86,6020,Innsbruck,47.26533,11.42537
 1354676,JET TANKSTELLE,MÜNCHER STRASSE 54,6130,SCHWAZ,47.353777,11.708531
 1354677,avanti - Landeck Innstrasse 38,Innstrasse 38,6500,Landeck,47.14163,10.56352
 1354679,avanti - Wörgl Salzburger Straße 48,Salzburger Strasse 48,6300,Woergl,47.49011,12.0728
@@ -839,8 +844,11 @@ station_id,name,address,postal_code,city,latitude,longitude
 1473948,Diskont Tankstelle,"Barnabas-Fink-Strasse 1 (""Hofer-Parkplatz"")",6845,Hohenems,47.366974,9.670367
 1473968,eni24,Hauptstrasse 38,2351,Wiener Neudorf,48.086212,16.318213
 1474028,Diskont Tankstelle ,"Schörflinger Strasse 20 (""Am Hofer Parkplatz"")",4844,Regau,47.981721,13.698792
+1474069,eni,Brennerautobahn Ost Tal,6143,Matrei,47.14072,11.44653
+1474071,eni,Brennerautobahn West Berg,6143,Matrei,47.13996,11.44809
 1474075,eni,Salzburger Strasse 23,6380,St.Johann,47.52709,12.42416
 1474081,eni,Innsbruckerstrasse 29,6230,Brixlegg,47.43262,11.87891
+1474087,eni A 12 Inntalautobahn,An der Au 1,6493,Mils bei Imst,47.213166,10.696501
 1474089,eni,Zeller Bundesstrasse 1a,5760,Saalfelden,47.427965,12.842227
 1474095,eni,Schallmooser Hauptstrasse 54,5020,Salzburg,47.807711,13.062374
 1474100,eni,Urstein Nord 15,5412,Puch bei Hallein,47.732187,13.086187
