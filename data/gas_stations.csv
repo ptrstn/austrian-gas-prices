@@ -302,6 +302,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 6323,Genol-Lagerhaus Thermenland Fürstenfeld, Fürstenfeld Jahnstrasse 5,8280,Fürstenfeld,47.0393225,16.0852794
 6325,Walter,Unterauersbach 8,8342,Unterauersbach,46.86577,15.77547
 6326,Genol - Raiffeisenlagerhaus St. Pölten,Mariazeller Strasse 18,3184,Türnitz,47.93719784267224,15.497417449951172
+6327,Genol-Lagerhaus Thermenland Großwilfersdorf,Grosswilfersdorf,8263,Grosswilfersdorf 240,47.0771621,15.9967258
 6350,Diskont Reisinger,Marktplatz 8,4212,Neumarkt,48.427392,14.483693
 6351,Land lebt auf,Ökodorfstraße 2,3384,Groß Sierning,48.194358,15.461712
 6355,GENOL - Lagerhaus,Heidering 1,2471,Gerhaus,48.0580157,16.8444562
@@ -379,8 +380,10 @@ station_id,name,address,postal_code,city,latitude,longitude
 7586,Landestankstelle Rdf. Partner Luisser,Grazer Straße 34,7571,Rudersdorf,47.055172,16.1089281
 7588,IQ-Tankstelle,Texing 15,3242,Texing,48.0481119,15.3226548
 7593,Tankstelle Schaller,Bergwerkstraße 33,6130,Schwaz,47.3596855,11.7227999
+7598,TK Tankstellen GmbH,Straßenhäuser 70,6842,Koblach,47.3096459,9.619797
 7599,Genol,Lichtenau 63,3522,Lichtenau,48.4955077,15.3980561
 7600,Logistik Service GmbH  ,Stahlstr. 35,4030,Linz,48.2716732,14.3242741
+7610,TK Tankstellen GmbH,Studa 3a,6800,Feldkirch,47.2690136,9.6042398
 7611,TK Tankstellen GmbH,Bremschlstrasse 37,6706,Bürs,47.1478021,9.8192284
 7615,Shell,Zwettlerstraße  16,3542,Gföhl,48.5176115,15.4851752
 7616,TK Tankstellen GmbH,Zürs 219,6763,Zürs,47.1714442,10.1627547
@@ -1912,6 +1915,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474217,eni,Bonygasse /Ruckergasse,1120,Wien,48.179079,16.326542
 1474218,eni,Althanstrasse 14,1090,Wien,48.229354,16.358291
 1474219,eni,Jägerstrasse 60,1200,Wien,48.235,16.37054
+1474222,eni,Salzburger Strasse 42,4840,Vöcklabruck,48.004059,13.638663
 1474226,eni,Leitenstrasse 30,4812,Pinsdorf,47.932972,13.777175
 1474227,eni,Linzer Strasse 15,4072,Alkoven,48.28863,14.11781
 1474233,eni,Am Bäckerberg 1a,4490,St. Florian,48.21373,14.402403
@@ -1940,6 +1944,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474294,eni,Märzenkeller 3,8850,Murau,47.113156,14.163099
 1474296,eni,Grazer Vorstadt 11,8570,Voitsberg,47.04799,15.153765
 1474308,Diskont Tankstelle,"Emerich-Berger-Straße 7 (""Hofer Parkplatz"")",3950,Gmünd,48.766005,14.979923
+1474309,Diskont Tankstelle,"Shuttleworthstraße 11 (""Hofer-Parkplatz"")",1210,Wien,48.271488,16.407684
 1474311,Diskont Tankstelle,"Kärntner Straße 27 (""Hofer-Parkplatz"")",9500,Villach,46.59742,13.83869
 1474312,Diskont Tankstelle,"Johann-Steinböck-Strasse 18 (""Hofer-Parkplatz"")",2345,Brunn am Gebirge,48.1053542,16.3087613
 1474313,Diskont Tankstelle,"Grazerstrasse 68 (""Hofer-Parkplatz"")",2604,Theresienfeld,47.8464116,16.24546
