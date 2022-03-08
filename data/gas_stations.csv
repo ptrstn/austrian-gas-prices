@@ -65,6 +65,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1116,Treibstoffparadies,Grazerstraße 2,8522,Gr. St. Florian,46.8242704,15.3179707
 1117,Wälderhaus,Gfäll 134,6941,Langenegg,47.472489,9.900355
 1120,Treibstoffparadies,27.Jänner Straße 12,8430,Leibnitz,46.7837803,15.5426901
+1121,Treibstoffparadies,Grazerstraße 24,8580,Köflach,47.0617793,15.0922186
 1123,Treibstoffparadies,Arenaplatz 6,7210,Mattersburg,47.7483068,16.4192183
 1126,Treibstoffparadies,Wienerstraße 247,8051,Graz,47.0925916,15.4061316
 1131,Hauthaler,Edenaichet Nr. 32,4773,Eggerding,48.3479775,13.4753257
@@ -334,6 +335,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 6671,Turmöl Schmidberger,Linzerstr. 54,4531,Kematen/Krems,48.105947781697,14.189147600194
 6673,Beiskammer,Kirchham 18,4656,Kirchham,47.9718766,13.8992497
 6674,Raiff. Lagerhaus St. Paul,Bahnhofstrasse 21,9470,St. Paul,46.7080112,14.8664272
+6677,Lagerhaus,Rudolfsbahngürtel 22,9020,Klagenfurt,46.6229875,14.3207542
 6684,Genol LGH Waldhausen_(-TKK Abschlag),Markt 94,4391,Waldhausen,48.2722,14.9508179
 6691,Freie Tankstelle,Stanz 108,8653,Stanz,47.4650246,15.5026924
 6694,LAGERHAUS Genol mit Tankkartensystem,Reisenbachstraße,2442,Unterwaltersdorf,47.961063,16.444774
