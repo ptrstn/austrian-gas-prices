@@ -12,6 +12,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 183,OMV - Salzburg Nonntaler Hauptstraße 53a,Nonntaler Hauptstrasse 53a,5020,Salzburg,47.78703,13.05175
 187,avanti - Kirchdorf in Tirol Innsbrucker Straße 51,Innsbrucker Strasse 51,6383,Kirchdorf in Tirol,47.54417,12.44904
 199,OMV - Wörgl Salzburger Straße 55,Salzburger Strasse 55,6300,Woergl,47.49028,12.07354
+212,OMV - Sankt Pölten Dr.Adolf Schärf-Straße 1,Dr.Adolf Schaerf-Strasse 1,3100,Sankt Poelten,48.22376,15.63452
 219,OMV - Pörtschach Hauptstraße 232,Hauptstrasse 232,9210,Poertschach,46.63668,14.13709
 227,avanti - Sankt Florian/Inn Bundesstraße 129,Bundesstrasse 129,4780,Sankt Florian/Inn,48.43865,13.44392
 228,OMV - Gmunden Bahnhofstraße 42,Bahnhofstrasse 42,4810,Gmunden,47.92428,13.78782
@@ -258,6 +259,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 6159,M&S Brennstoffhandels GmbH,Bahnstraße 4,2102,Hagenbrunn,48.332603,16.410223
 6160,M&S Brennstoffhandels GmbH,Mariazellerstr. 110,8624,Au bei Turnau,47.5720344,15.31411
 6162,Schwaighofer Johann,Schattau 70,5442,Rußbach,47.5891118,13.4641191
+6165,Clever Tanken,Aisttalstrasse 34,4311,Schwertberg,48.2740581,14.5776118
 6174,TROPPER-GRINSCHGL - KFZ-Prüffstelle,Kronnersdorf 16,8345,Straden,46.8054956,15.8500188
 6176,FILLUP 24 h - 5500,Molkereistraße 10,5500,Bischofshofen,47.4132863025724,13.2183000160912
 6181,Hirschmugl Diskont-Tankstelle mit Bedienung,Hauptstraße 1,8740,Zeltweg,47.1969991,14.7676879
@@ -690,6 +692,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 34598,Diskonttankstelle Schöllhammer,Bahnhofstraße 92,3350,Stadt Haag,48.096018,14.5880669
 34601,Holzknecht H-Oil Tankstelle Agip Schmierstoffe,Bruggen 352,6444,Längenfeld,47.0234705,10.9964699
 34608,Diskont RENNER,Bahnhofstraße 44,5280,Braunau,48.2579551,13.0493439
+34609,ARTNER,Untere Hauptstraße 1,7410,Loipersdorf-Kitzladen,47.336249,16.077955
 34610,Turmöl,Hauptstraße 94,9632,Kirchbach,46.64273,13.1799
 34612,AVIA Xpress (Automaten-Tankstelle),Wiener Straße 33,4053,Haid,48.197898,14.251821
 34706,Autohaus Föttinger GmbH,Seefeld 9,4853,Steinbach am Attersee,47.8407909,13.5474485
@@ -1480,6 +1483,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354809,JET TANKSTELLE,RHEINSTRASSE 99,6971,HARD,47.47757,9.679413
 1354810,avanti - Mitterau An der Bundesstraße 1,An der Bundesstrasse 1,3385,Mitterau,48.1976,15.48346
 1354811,JET TANKSTELLE,INNSBRUCKER STRASSE 6,6600,REUTTE,47.482517,10.723688
+1354812,OMV - Wiener Neustadt Neudörfler Straße 70,Neudoerfler Strasse 70,2700,Wiener Neustadt,47.8047,16.26798
 1354813,JET TANKSTELLE,INDUSTRIESTRASSE 19,2540,BAD VÖSLAU,47.976937,16.221098
 1354814,avanti - Hainfeld Wiener Straße 24,Wiener Strasse 24,3170,Hainfeld,48.03366,15.77878
 1354815,JET TANKSTELLE,PUNTIGAMERSTRASSE 125,8055,GRAZ,47.03333,15.443682
@@ -1566,6 +1570,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354937,OMV - Wien Groß-Enzersdorfer Straße 24-26,Gross-Enzersdorfer Strasse 24-26,1220,Wien,48.21686,16.49345
 1354938,JET TANKSTELLE,AN DER WESTUMFAHRUNG 32,4810,GMUNDEN,47.934574,13.786489
 1354939,avanti - Wien Prager Straße 270-272,Prager Strasse 270-272,1210,Wien,48.28664,16.38404
+1354940,JET TANKSTELLE,GEWERBESTRASSE 3 A,5310,MONDSEE,47.861448,13.334226
 1354941,avanti - Wien Edelsinnstraße 16,Edelsinnstrasse 16,1120,Wien,48.1724,16.31949
 1354942,JET TANKSTELLE,JEDLETZBERGERSTRASSE 18,1110,WIEN,48.168847,16.459643
 1354943,JET TANKSTELLE,FACHLEUTNERSTRASSE 1,2020,HOLLABRUNN,48.579845,16.073274
@@ -1665,6 +1670,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1469266,Tankstelle Wiesmahr,Schönfelderstraße 31,2284,Untersiebenbrunn,48.2540687,16.752631699999938
 1469286,Rumpold,Badner Straße 15,2542,Kottingbrunn,47.953231,16.22057
 1469306,OIL! Tankstelle,Wiener Strasse 28-30,2000,Stockerau,48.3859,16.2325
+1469346,Turmöl Quick,Dorfstraße 16,4865,Nußdorf,47.886334,13.524077
 1469347,Turmöl Quick,Landstraße 25,4652,Steinerkirchen,48.079328,13.96139
 1469366,JET TANKSTELLE,EBREICHSDORFER STRASSE 14,2512,TRIBUSWINKEL,47.987646,16.286042
 1469386,JET TANKSTELLE,UMFAHRUNGSSTRASSE 7,9100,VÖLKERMARKT,46.663089,14.621814
@@ -1858,6 +1864,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474089,eni,Zeller Bundesstrasse 1a,5760,Saalfelden,47.427965,12.842227
 1474093,eni,Münchner Bundesstrasse 29,5020,Salzburg-Liefg.,47.81956,13.01762
 1474095,eni,Schallmooser Hauptstrasse 54,5020,Salzburg,47.807711,13.062374
+1474096,eni,Salzburger Strasse 34,5550,Radstadt,47.387032,13.451507
 1474098,eni,Niederland 218,5091,Unken,47.65728,12.74273
 1474099,eni,Halleiner Landesstraße 162,5412,Puch-Hallein,47.721915,13.090591
 1474100,eni,Urstein Nord 15,5412,Puch bei Hallein,47.732187,13.086187
