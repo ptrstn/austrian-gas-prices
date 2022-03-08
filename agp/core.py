@@ -33,17 +33,13 @@ GAS_STATION_DTYPES = {
 
 def get_gas_stations_austria(fuel_type: FuelType) -> list[GasStation]:
     regions = get_regions()
-    gas_stations = []
+    gas_stations: list[GasStation] = []
 
     for region in regions:
         print(
             f"Checking {region.name} ({region.region_code}) "
             f"for {fuel_type_names[fuel_type]} prices...",
-            end="",
         )
-        new_stations = get_gas_stations_by_region(region.region_code, fuel_type)
-        print(f"({len(new_stations)} found)")
-        gas_stations.extend(new_stations)
 
         for sub_region in region.sub_regions:
             print(
@@ -52,7 +48,7 @@ def get_gas_stations_austria(fuel_type: FuelType) -> list[GasStation]:
                 f"{fuel_type_names[fuel_type]}...",
                 end="",
             )
-            new_stations = get_gas_stations_by_region(region.region_code, fuel_type)
+            new_stations = get_gas_stations_by_region(sub_region.region_code, fuel_type)
             print(f"({len(new_stations)} found)")
             gas_stations.extend(new_stations)
 
