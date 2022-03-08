@@ -197,6 +197,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 4443,Turmöl Tankstelle,Kärntnerstraße 2,8811,Scheifling,47.1528366,14.4140374
 4447,Turmöl KFZ-Renzl,Franking 17,5131,Franking,48.052796,12.912396
 4448,SOCAR Tankstelle Ruthner,Steyrerstraße 13,3335,Weyer,47.8530266,14.6530957
+5090,AWI-Diskont Bedienungstankstelle,Wienerstraße 22,7053,Hornstein,47.8842953,16.4402099
 5093,Turmöl Tankstelle,Margaretenstrasse 28,1040,Wien,48.1962250998788,16.3648216561744
 5095,Wulz,Obervellach,9821,Obervellach,46.930587,13.207326
 5098,LAGERHAUS Genol mit Tankkartensystem,Sportplatzgasse 2,2443,Leithaprodersdorf,47.9363111,16.4865995
@@ -238,6 +239,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 6148,Genol Landring,Pöllau bei Gleisdorf,8311,Markt Hartmannsdorf,47.067802,15.802105
 6151,Turmöl,Bundesstraße 1,7503,Jabing,47.24862,16.2948446
 6153,Shell Landring Ratten ,Kirchenviertel 201,8673,Ratten,47.478026,15.715528
+6154,Genol Landring,Strallegg 166,8192,Strallegg,47.409517,15.718645
 6156,M&S Brennstoffhandels GmbH,Rudolf Diesel - Straße 1,2000,Stockerau,48.3854558,16.1819647
 6159,M&S Brennstoffhandels GmbH,Bahnstraße 4,2102,Hagenbrunn,48.332603,16.410223
 6160,M&S Brennstoffhandels GmbH,Mariazellerstr. 110,8624,Au bei Turnau,47.5720344,15.31411
@@ -1784,6 +1786,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474075,eni,Salzburger Strasse 23,6380,St.Johann,47.52709,12.42416
 1474076,eni,Gewerbepark Süd 12,6330,Kufstein,47.56627,12.15626
 1474077,eni,Tiroler Strasse 2,6424,Silz,47.269103,10.939677
+1474079,eni,Gewerbegebiet 6,6275,Stumm/Zillertal,47.290311,11.880508
 1474080,eni,Andechsstrasse 69,6020,Innsbruck,47.26667,11.42367
 1474081,eni,Innsbruckerstrasse 29,6230,Brixlegg,47.43262,11.87891
 1474083,eni,Bundesstrasse 4,6460,Imst,47.232412,10.735468
