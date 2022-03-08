@@ -550,6 +550,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 34851,Czelecz,Flurgasse 5,8665,Langenwang,47.5647283,15.6144042
 34888,GUTSCHE,Wolkersdorf 42,9431,St. Stefan,46.7871055,14.8505684
 34890,Ulli´s Tank-Stelle,Liebenau 129,4252,Liebenau,48.5303994,14.8010066
+34928,AVIA mit Bedienung,Kirchenplatz 50,3593,Neupölla,48.64251,15.44644
 34946,Trötzmüller Garage,Pouthongasse 15 - 17,1150,Wien,48.1992287,16.3298807
 35026,Mössmer Transporte,Gewerbestraße 1,6111,Volders,47.2899507,11.5734834
 35066,Mitterecker GmbH,Andorfer Strasse 13,4755,Zell an der Pram,48.3191684,13.62668
@@ -884,6 +885,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 308014,Diskont Tankstelle,"Bundesstraße 28 (""Hofer-Parkplatz"")",8740,Zeltweg,47.19556,14.741117
 308183,Gutmann ENI Tankstelle,Kreckelmoosstraße 5,6600,Reutte,47.4787178,10.7335222
 323678,Hoftankstelle - Stöbermühle,Mühlweg 1,3492,Etsdorf,48.438084,15.741538
+349459,UNSER LAGERHAUS WESTENDORF,BAHNHOFSTRASSE 18,6363,WESTENDORF,47.4416027,12.2238335
 350470,"   SOMA      ""gut und günstig tanken...""",Fischbach 3,8654,Fischbach,47.442903,15.649836
 357034,Turmöl Quick,Judenburger Straße 12,8753,Fohnsdorf,47.2060639,14.6779343
 370714,Shell Austria,AM KAISERMUEHLENDAMM 140,1220,WIEN,48.20715,16.44691
@@ -940,6 +942,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 508146,Easy Tank,Strötting 1,4716,Hofkirchen/Tr.,48.222328,13.732715
 523811,POLAK BEDIENUNGSTANKSTELLE,Bahnstrasse 2,2242,Prottes,48.3860533,16.7380599
 544226,Diskont Tankstelle,"Gnaserstraße 26 (""Am Hofer Parkplatz"")",8330,Feldbach,46.953682,15.869513
+556156,Shell Prutz,Reschen Strasse 2,6522,Prutz,47.078642,10.661713
 556157,Turmöl - Pöllau,Grazer Strasse 292,8225,Pöllau,47.29917,15.83739
 586790,Turmöl Quick,Stallhofen Nr.16,8152,Stallhofen,47.0504691,15.2135246
 592851,eni,Marktstraße 19,5611,Großarl,47.2428529,13.2059728
@@ -1224,6 +1227,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354863,OMV - Bregenz Arlbergstraße 135,Arlbergstrasse 135,6900,Bregenz,47.48778,9.73324
 1354864,JET TANKSTELLE,FRIEDHOFSTRASSE 28,4020,LINZ,48.293683,14.301109
 1354865,OMV - Thüringen Walgaustraße 68,Walgaustrasse 68,6712,Thueringen,47.1993,9.75582
+1354866,JET TANKSTELLE,GINZKEY STRASSE 58,4600,WELS,48.179293,14.062516
 1354870,OMV - Hard Rheinstraße 24,Rheinstrasse 24,6971,Hard,47.48752,9.69962
 1354872,avanti - Lustenau Bahnhofstraße 8,Bahnhofstrasse  8,6890,Lustenau,47.43888,9.65664
 1354873,JET TANKSTELLE,GÖRTSCHITZTALSTR. 20,9020,KLAGENFURT,46.634892,14.370664
@@ -1374,6 +1378,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1469826,"AVIA XPress (SB-Carwash, SB-Sauger, Wasser gratis) ",Hauptstraße 74,2384,Breitenfurt,48.1356658,16.194080999999983
 1469906,Ziegler,Etmißl,8622,Thörl,47.5157998,15.174991
 1469926,MBR Tankstelle GmbH,Bundesstraße 9,8472,Spielfeld,46.695427,15.637917
+1469947,HEIPOIL FUTURE DISKONT,Neunkirchnerstraße  3,2620,Natschbach,47.71172255857658,16.096952727613534
 1469987,Gerhard Prugger Maltatal Diskont,Malta 175,9854,Malta,46.949817,13.509007
 1470006,Plöckinger KG,"Staufstraße, 3",4083,Haibach ob der Donau,48.40810469142028,13.91798805936413
 1470026,M3 St. Lorenzen,Mühlweg 13,8642,St. Lorenzen,47.470052,15.351639
@@ -1406,7 +1411,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
@@ -1514,6 +1519,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474080,eni,Andechsstrasse 69,6020,Innsbruck,47.26667,11.42367
 1474081,eni,Innsbruckerstrasse 29,6230,Brixlegg,47.43262,11.87891
 1474083,eni,Bundesstrasse 4,6460,Imst,47.232412,10.735468
+1474084,eni,Stockach 29a,6653,Bach Im Lechtal,47.260476,10.370189
 1474087,eni A 12 Inntalautobahn,An der Au 1,6493,Mils bei Imst,47.213166,10.696501
 1474088,eni,Alpenstrasse 60,5020,Salzburg,47.78366,13.066648
 1474089,eni,Zeller Bundesstrasse 1a,5760,Saalfelden,47.427965,12.842227
