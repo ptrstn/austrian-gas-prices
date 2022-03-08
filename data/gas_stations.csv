@@ -189,6 +189,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 4372,LH Wies,Am Bahnhof 4,8551,Wies,46.7194003,15.2603069
 4373,LH Trag,Trag 59,8541,Schwanberg,46.7684516,15.2362533
 4385,iQ,Kammerbach 36,3683,Yspertal,48.3313114,15.0615705
+4387,Turmöl Tankstelle WiMMER,Haslau 10,4715,Taufkirchen a.d.Tr.,48.2698808,13.7432926
 4398,Bp,Linzerstraße 52,4780,Schärding,48.4511296,13.4359547
 4405,Diskont Tankstelle,"Ossiacher see strasse (""Hofer""-Parkplatz)",9521,Treffen,46.652264,13.874552
 4408,ENI,Mureckerstrasse 31,8083,St .Stefan/R,46.9010157,15.7137303
@@ -345,6 +346,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 6684,Genol LGH Waldhausen_(-TKK Abschlag),Markt 94,4391,Waldhausen,48.2722,14.9508179
 6691,Freie Tankstelle,Stanz 108,8653,Stanz,47.4650246,15.5026924
 6694,LAGERHAUS Genol mit Tankkartensystem,Reisenbachstraße,2442,Unterwaltersdorf,47.961063,16.444774
+6699,Turmöl Grieskirchen,Industriestrasse 29,4710,Grieskirchen,48.2270184,13.8434641
 7550,Tankstelle Heindl,Mitterbach 4,3193,St. Aegyd am Neuwalde,47.86843,15.593498
 7551,LAGERHAUS Genol mit Tankkartensystem,Untere Hauptstraße,2485,Wimpassing,47.923705,16.435976
 7553,LAGERHAUS Genol mit Tankkartensystem,Trautmannsdorferstraße,2434,Sommerein,47.992693,16.656239
