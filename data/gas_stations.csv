@@ -148,6 +148,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 4156,Disk,Reschenstraße 644,6542,Pfunds,46.9531126,10.5108575
 4157,Disk Tankautomat ,Lochau 378,6555,Kappl,47.063014,10.3807965
 4158,Disk,Hauptstraße 18,6511,Zams,47.1541793,10.5844558
+4163,Disk,Drahtzug 5,6391,Fieberbrunn,47.4839804,12.5349267
 4166,Disk TANKAUTOMAT,Paß Thurn Straße 7,6380,St. Johann,47.5196295,12.4178891
 4168,ENI-Gutmann,Hermann Sander Straße 10,6700,Bludenz,47.1531208,9.8182071
 4172,Disk TANKAUTOMAT,Klostertalerstraße 100,6752,Dalaas,47.123429,10.0052375
@@ -1207,6 +1208,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 685125,GTS - Günstig Tanken Schmöger ,Körnermarkt 5,3542,Gföhl,48.516035,15.493225
 692206,SPRITINN,Rechte Wienzeile 43,1050,Wien,48.1963317,16.3587045
 692890,Sprit Diskont Thomas Weißenböck-Straßl,Nibelungenstrasse 20,4090,Engelhartszell,48.5017813,13.735886
+715094,Speedytankstelle ,Hauptstr. 75,2603,Felixdorf,47.877686,16.235807
 716103,Stöckl ,Hauptstrasse 54,7434,Bernstein,47.4064335,16.260999
 716608,Turmöl Quick,Hammerschmiede 3,4048,Puchenau,48.312442,14.2412365
 725719,F. LEITNER,Industriestraße 1,9463,Reichenfels,47.00204351681318,14.752343555960575
@@ -1243,6 +1245,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 845059,Turmöl Quick,Deutsch Altenburgerstraße 1,2472,Prellenkirchen,48.0768643,16.9466248
 853918,AVIA XPress (unser Service: Luft und Wasser),Gewerbestraße 2,3240,Mank,48.1146419,15.3326377
 862063,"Diesel, Super",Steinamanger Straße,7472,Schachendorf,47.26326,16.4338
+866141,"Diesel, Eurosuper",Ödenburger Strasse 50,7013,Klingenbach,47.75624,16.55126
 874225,Treibstoffparadies ,Zellach 6b,9413,St. Gertraud,46.8580653,14.8530872
 888622,Turmöl Marth,Grazer Strasse 54-56,7540,Güssing,47.0477081,16.3182847
 894715,Lagerhaus Kirnberg GENOL,Pöllabergstrasse 4,3241,Kirnberg,48.0727027,15.3201001
@@ -1265,6 +1268,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1048950,RAG.ERDGAS.MOBIL,Schwarzmoos 28,4851,Gampern,48.01639,13.57391
 1048951,RAG.ERDGAS.MOBIL,Krift 51,4550,Kremsmünster,48.021777,14.121975
 1050694,Turmöl Quick,Wiener Straße 106,2640,Gloggnitz,47.6727758,15.9573163
+1055611,"Diesel, Super","Ödenburger Straße, Einreise aus Ungarn",7013,Klingenbach,47.750796,16.540982
 1058378,IQ Tankstelle,Franz Sauer-Strasse 46 ,5020,Salzburg,47.834666,12.9978364
 1059610,ENI,Amraser See 64,6020,Innsbruck,47.2634138,11.4333943
 1072750,HWK Diesel,Franz-Cervinka-Weg 3,6372,Oberndorf in Tirol,47.4886206,12.3768668
@@ -1701,7 +1705,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
@@ -1712,6 +1716,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1472147,Turmöl Quick,Altmannsdorfer Straße 96,1120,Wien,48.1618,16.31747
 1472167,Strohmeier Tankstelle,Am Hundsturm 2-4,1050,Wien,48.18770411709912,16.347106271499914
 1472207,Turmöl Quick,Grazer Straße 1,9400,Wolfsberg,46.84595,14.84356
+1472267,SOCAR Napplach,Napplach 95,9816,Penk,46.887106,13.267408
 1472307,Turmöl Quick,Bahnhofstraße 27,4722,Peuerbach,48.33844,13.77165
 1472328,Diskont Tankstelle,"Salzburger Siedlung 259 (""Hofer-Parkplatz"")",8970,Schladming,47.390454,13.657405
 1472347,SOCAR Großraming,Eisenstraße 13,4463,Großraming,47.883577,14.54315
@@ -1907,5 +1912,6 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474308,Diskont Tankstelle,"Emerich-Berger-Straße 7 (""Hofer Parkplatz"")",3950,Gmünd,48.766005,14.979923
 1474311,Diskont Tankstelle,"Kärntner Straße 27 (""Hofer-Parkplatz"")",9500,Villach,46.59742,13.83869
 1474312,Diskont Tankstelle,"Johann-Steinböck-Strasse 18 (""Hofer-Parkplatz"")",2345,Brunn am Gebirge,48.1053542,16.3087613
+1474313,Diskont Tankstelle,"Grazerstrasse 68 (""Hofer-Parkplatz"")",2604,Theresienfeld,47.8464116,16.24546
 1474314,Diskont Tankstelle,"Porschestrasse 35 (""Hofer-Parkplatz"")",3100,St. Pölten,48.1740184,15.6184154
 1474315,Diskont Tankstelle,"Industriestrasse 19 (""Hofer""-Parkplatz)",3910,Zwettl,48.6002782,15.1897988
