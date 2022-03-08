@@ -127,6 +127,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 4092,Shell,Dorfstraße 2,6450,Sölden,46.9757145,11.0111102
 4094,Turmöl Quick,Salzburgerstraße 14,5145,Neukirchen/Enknach,48.1787503,13.0508818
 4095,Turmöl Quick,Eberschwang 98,4906,Eberschwang,48.1568483,13.5618253
+4096,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,KLOSTERSTRASSE 2,4451,GARSTEN,48.0222942,14.4047398
 4097,Turmöl Quick,Unterbrunning 7,5270,Mauerkirchen,48.183217,13.1314513
 4098,Turmöl Quick,Innerrotte 50,9963,St. Jakob,46.9151971,12.3338164
 4099,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,LINZERSTRASSE 2,4493,WOLFERN,48.082721,14.3701416
@@ -144,6 +145,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 4131,Freie Tankstelle,Els 30,3613,Els 30,48.4443299,15.3725413
 4134,SUN Bedienungstankstelle,Neusiedlerstraße 15,7082,Donnerskirchen,47.8952783,16.6487855
 4135,OMV ,Wienerstraße 29,2860,Kirchschlag,47.4987588,16.2899594
+4136,Disk TANKAUTOMAT,Langer Weg 8,6020,Innsbruck,47.2655627212236,11.4249757530303
 4142,Turmöl,kärntnerstrasse  20,8580,Köflach,47.0615847,15.079417
 4144,Disk TANKAUTOMAT,Unterdorf 171,6405,Pfaffenhofen,47.3002541,11.0741368
 4149,Disk TANKAUTOMAT,Salzburgerstraße 8,6112,Wattens,47.291649,11.595071
@@ -235,6 +237,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 6085,Turmöl Quick,Kremserstraße 34,3910,Zwettl,48.6053521,15.1781478
 6086,Turmöl Quick,Grazer Vorstadt 70,8570,Voitsberg,47.0446452,15.1588515
 6087,Turmöl Quick,Lindengasse 16,4040,Linz,48.3227485,14.2887706
+6088,Turmöl Quick,Grautschenhof 35,8684,Spital am Semmering,47.6023511,15.7188567
 6090,Stadtwerke Kapfenberg GmbH,Stadtwerkestraße 6,8605,Kapfenberg,47.4473181,15.3010401
 6093,Lagerhaus Altmünster,Großalmstraße 24,4813,Altmünster,47.887313,13.760194
 6095,Diskonttankstelle Zmugg Silvia e.U.,Florianer Str. 73,8522,Groß St. Florian,46.822545,15.2856707
@@ -1319,6 +1322,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1136447,AP-Trading GmbH,Urstein Nord 75,5412,Puch,47.7405295,13.0826309
 1136451,AP-Trading GmbH,Niederfeldweg 9a,6230,Brixlegg,47.4370676,11.8807031
 1136811,SPRITKÖNIG,Elisabethstraße 78,8010,Graz,47.0775241,15.46176
+1139937,avanti - Mürzzuschlag Grazer Straße 79f,Grazer Strasse  79f,8680,Muerzzuschlag ,47.58709,15.65981
 1140459,"TANKSTELLE PREHM, Krennach",Krennach 13,8312,Ottendorf,47.0262052,15.8892822
 1142439,Disk TANKAUTOMAT,Weitraer Straße 109,3950,Gmünd,48.762337,14.970329
 1144580,Diskont Tankstelle,"Mankerstrasse 59 (""Hofer-Parkplatz"")",3380,Pöchlarn,48.19947,15.220914
@@ -1601,6 +1605,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1446426,Turmöl Quick,Hauptstraße 86,4092,Esternberg,48.542477,13.5834969
 1448503,Turmöl Quick,Oggauerstraße 25,7071,Rust,47.8032631,16.6715008
 1448506,Turmöl Quick,Eisenstädter Straße 3,7081,Schützen am Gebirge,47.8510135,16.629086
+1450707,Landforst Mürzzuschlag,Ganztal 1a,8680,Mürzzuschlag,47.591368,15.66314
 1450710,Landforst Scheifling,Murauerstrasse 7,8811,Scheifling,47.153053,14.409831
 1456506,Genol,Gewerbestraße 1,3293,Lunz,47.864063,15.038582
 1457048,Turmöl Quick,Wienerstraße 52,7400,Oberwart,47.292944,16.20678
@@ -1767,6 +1772,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1472767,Rumpold,Hauptstraße 2,8063,Eggersdorf bei Graz,47.12407,15.61067
 1472787,Avia Xpress Kefermarkt,Im Tal 2,4292,Kefermarkt,48.4402601656756,14.536066968607242
 1472847,Rumpold,Waltendorfer Hauptstraße 88,8010,Waltendorf,47.067267,15.482397
+1472867,V&V Nussbaummüller,Losensteinleiten 3,4493,Wolfern,48.11584948801252,14.357099957894384
 1472887,Turmöl Quick,Schlaininger Straße 1,7503,Großpetersdorf,47.24247,16.31264
 1472908,Turmöl Leombach,Leombach 15,4621,Sipbachzell,48.12351,14.093419
 1472947,Turmöl Quick,Rasthausgasse 4,4300,St. Valentin,48.19698,14.52656
