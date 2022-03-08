@@ -19,6 +19,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 254,avanti - Schwechat Bruck-Hainburger Straße 24a,Bruck-Hainburger Strasse 24a,2320,Schwechat,48.1397,16.4855
 257,OMV - Dobl (Kaiserwald) Autobahn A2 (Südautobahn) KM 190,Autobahn A2 (Suedautobahn) KM 190,8143,Dobl (Kaiserwald),46.95939,15.38155
 259,OMV - Oberwart Grazer Straße 123,Grazer Strasse 123,7400,Oberwart,47.28297,16.18523
+263,OMV - Graz Heinrichstraße 91,Heinrichstrasse 91,8010,Graz,47.08178,15.45404
 267,avanti - Klagenfurt Feldkirchnerstraße 275,Feldkirchnerstrasse 275,9020,Klagenfurt,46.65383,14.28047
 269,avanti - Sankt Veit an der Glan Klagenfurter Straße 78,Klagenfurter Strasse 78,9300,Sankt Veit an der Glan,46.76102,14.36625
 276,OMV - Obertrum Salzburger Straße 2,Salzburger Strasse 2,5162,Obertrum,47.93554,13.08069
@@ -37,6 +38,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 381,OMV - Nassereith Fernpaß Bundesstraße 1,Fernpass Bundesstrasse 1,6465,Nassereith,47.3272,10.8198
 391,OMV - Strasshof Hauptstraße 119,Hauptstrasse 119,2231,Strasshof,48.31458,16.6256
 394,avanti - Stegersbach Wiener Straße 3,Wiener Strasse 3,7551,Stegersbach,47.16113,16.16488
+395,OMV - Graz Seebacher Gasse 8,Seebacher Gasse 8,8010,Graz,47.07722,15.45904
 402,avanti - Mauthausen Machlandstraße 5,Machlandstrasse 5,4310,Mauthausen,48.24347,14.53427
 410,OMV - Golling an der Salzach Autobahn Golling Ost 31,Autobahn Golling Ost 31,5440,Golling an der Salzach,47.58396,13.1575
 412,avanti - Steyr Sierninger Straße 178,Sierninger Strasse 178,4400,Steyr,48.04345,14.38747
@@ -888,8 +890,10 @@ station_id,name,address,postal_code,city,latitude,longitude
 42886,Tanke Blaguss,Industriestraße,7000,Eisenstadt,47.8328353,16.5336044
 42967,AVIA Xpress (Automaten-Tankstelle),Ipftal 4,4491,Niederneukirchen,48.1644722,14.3393638
 42986,Krois Diskont Clever Tanken,Nord 60,9125,Kühnsdorf,46.6246179,14.6334208
+43006,SHELL,MILLSTÄTTERSTRASSE 40,9545,RADENTHEIN,46.7993832,13.6876552
 43046,Diskont Tankstelle,"Emerich-Berger-Straße 7 (""Hofer Parkplatz"")",3950,Gmünd,48.766005,14.979923
 43069,IQ Tankstelle,Rannariedlerstrasse 10,4143,Neustift,48.503373,13.755291
+43070,Shell Tankstelle,Ennserstrasse 95,4407,Steyr Gleink,48.081942,14.427105
 43166,Turmöl Quick,Gmünderstraße 28 ,3943,Schrems,48.7929004,15.0628909
 43346,Diskont Tankstelle,"Gewerbepark 2 (""Hofer Parkplatz"")",8811,Scheifling,47.154865,14.415071
 43426,JP MENNEL,Hof 331,6951,Lingenau,47.4499378,9.9233926
@@ -949,6 +953,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 208629,,Willersdorferstrasse 67,8061,St. Radegund bei Graz,47.1918522,15.5028483
 209303,AVIA XPress (unser Service: Luft und Wasser),Großburgstall 44,3580,Horn,48.6764781,15.5855281
 211194,Disk ,Ameisgasse 49-51,1140,Wien,48.1949066,16.2994762
+211195,PINK Sparen beim Fahren,Ziegeleistraße 42,4631,Krenglbach,48.2067254,13.9783181
 213594,Diskont Tankstelle,"Richterstraße 5 (""Hofer-Parkplatz"")",4060,Leonding,48.27194,14.267871
 215302,Turmöl Quick,Linzerstraße 92a,4600,Wels,48.165209,14.043058
 218370,Turmöl Quick,Wienerstraße 56,7551,Stegersbach,47.168488,16.163935
@@ -1451,6 +1456,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354828,JET TANKSTELLE,WEGSCHEIDGASSE 18,6370,KITZBÜHEL,47.450067,12.391094
 1354832,JET TANKSTELLE,BUNDESSTRASSE 13,5600,ST JOHANN IM PONGAU,47.343479,13.191715
 1354834,JET TANKSTELLE,LEOGANGER STRASSE 18 A,5760,SAALFELDEN,47.429818,12.842545
+1354835,avanti - Alland Bundesstraße 11,Bundesstrasse 11,2534,Alland,48.05753,16.08695
 1354836,JET TANKSTELLE,KÄRNTNER STRASSE 58,8720,KNITTELFELD,47.21075,14.817659
 1354838,SCHNELL UND GUENSTIG TANKSTELLE,BUNDESSTRASSE 34,6063,RUM,47.277562,11.444639
 1354839,OMV - Waidhofen an der Ybbs Wiener Straße 2a,Wiener Strasse 2a,3340,Waidhofen an der Ybbs,47.96667,14.76931
@@ -1669,6 +1675,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471807,Socar Ring Rast - Spielberg, Ring Rast Straße 4,8724,Spielberg,47.21047,14.78498
 1471848,Glocknertankstelle,"Pockhorn, 29",9844,Heiligenblut,47.02351163016087,12.862333834713704
 1471887,PRORast Loipersdorf,Loipersdorfer Hauptstraße,8282,Bad Loipersdorf,47.00569,16.11257
+1471907,M3 Braunau,Salzburger Straße 11,5280,Braunau,48.254988,13.036174
 1471927,Turmöl Quick,St. Martiner Straße 124,9500,Villach,46.62518,13.82178
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
@@ -1857,6 +1864,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474271,eni,Braitnerstrasse 62a,2500,Baden,48.001929,16.241614
 1474273,eni,Hauptstrasse 77,3170,Hainfeld,48.03805,15.76293
 1474274,eni,Alfred Fröhlich Strasse 1,2201,Gerasdorf,48.338906,16.464694
+1474278,eni,Wiener Strasse 31,2120,Wolkersdorf,48.378384,16.510479
 1474279,eni,Handelskai 388a,1020,Wien,48.2032,16.4358
 1474280,eni,Oberzellergasse 2a,1030,Wien,48.193838,16.396971
 1474281,eni,Gudrunstrasse 116 - 118,1100,Wien,48.17806,16.37857
