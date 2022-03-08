@@ -63,6 +63,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1114,Wälderhaus,Pelzrain,6870,Bezau,47.37926,9.894218
 1116,Treibstoffparadies,Grazerstraße 2,8522,Gr. St. Florian,46.8242704,15.3179707
 1117,Wälderhaus,Gfäll 134,6941,Langenegg,47.472489,9.900355
+1120,Treibstoffparadies,27.Jänner Straße 12,8430,Leibnitz,46.7837803,15.5426901
 1123,Treibstoffparadies,Arenaplatz 6,7210,Mattersburg,47.7483068,16.4192183
 1126,Treibstoffparadies,Wienerstraße 247,8051,Graz,47.0925916,15.4061316
 1131,Hauthaler,Edenaichet Nr. 32,4773,Eggerding,48.3479775,13.4753257
@@ -376,6 +377,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 7706,LMEnergy Express,Salzachtalbundesstraße 111,5081,Anif,47.7313262,13.0641858
 7711,LMEnergy,Markt 240,5441,Abtenau,47.56657,13.3386575
 7715,Freie Tankstelle,Hauptstraße 23,4872,Neukirchen a.d.Vöckla,48.041374966167,13.5377759369988
+7716,LMEnergy Express,Neuberg 110,5532,Filzmoos,47.4460798,13.4721175
 7717,LMEnergy Express,Moosweg 3,5723,Uttendorf,47.281193,12.5750298
 7720,BP,Amraser-See-Straße 10,6020,Innsbruck,47.2609204,11.4214341
 7724,BP,Reichenauer Straße 149,6020,Innsbruck,47.2738154,11.4281608
@@ -440,6 +442,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 30207,Lagerhaus-Tankstelle,St. Martin 179,5092,St. Martin/Lofer,47.57544,12.70056
 30208,Lagerhaus-Tankstelle,Salzburgerstrasse 40,5301,Eugendorf,47.8579799,13.1201755
 30210,Lagerhaus-Tankstelle 24 h,Pflegerstrasse 26,5082,Grödig,47.755252,13.036523
+30214,Lagerhaus-Tankstelle,Franz-Dückher-Weg 3,5400,Hallein,47.6865408,13.0985329
 30215,Lagerhaus-Tankstelle 24 h,Oberer Markt 15,5661,Rauris,47.221419,12.992052
 30222,Breimann / Bedienungstankstelle,Großinzersdorf Nr.:64,2225,Großinzersdorf,48.52391,16.765695
 30224,Lagerhaus-Tankstelle 24 h,Weyerstrasse 366,5733,Bramberg,47.2642527,12.3283117
@@ -1176,6 +1179,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 735876,Turmöl,Pragerstrasse 3,4240,Freistadt,48.5144615,14.5027188
 750565,Rumpold,Bundesstraße 50,8770,St. Michael,47.350148,15.009137
 754943,Turmöl Quick,Wienerneustädter Straße 65,7033,Pöttsching,47.8067759,16.3620933
+757987,Rumpold,Grazer Straße 79,8662,Mitterdorf im Mürztal,47.531662,15.510317
 761209,Sprint,Triester Str. 328,8055,Graz,47.03297072960908,15.430686098181836
 761714,Turmöl,Schwadorferstraße,2435,Wienerherberg,48.058498,16.5470838
 766270,Rumpold,Kasernstraße 14,8010,Graz,47.052683,15.443402
@@ -1347,6 +1351,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354717,JET TANKSTELLE,BAHNHOFSTR. 26,6500,LANDECK,47.150185,10.581303
 1354719,JET TANKSTELLE,MURFELDSTRASSE 3,8112,GRATWEIN,47.133005,15.322403
 1354721,JET TANKSTELLE,LINZER STRASSE 453,1140,WIEN,48.203103,16.244262
+1354725,JET TANKSTELLE,FISCHERSTRASSE 15,4910,RIED IM INNKREIS,48.199009,13.47368
 1354726,avanti - Horn Riedenburgstraße 2,Riedenburgstrasse 2,3580,Horn,48.66188,15.65477
 1354727,JET TANKSTELLE,KÄRNTNERSTRASSE 88,9900,LIENZ,46.831014,12.783933
 1354728,avanti - Poysdorf Wiener Straße 63,Wiener Strasse 63,2170,Poysdorf,48.65948,16.62935
@@ -1392,6 +1397,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354784,OMV - Oberpullendorf Stoob Süd 6,Stoob Sued 6,7350,Oberpullendorf,47.50957,16.50023
 1354785,JET TANKSTELLE,KREMSER STRASSE 62,3910,ZWETTL,48.605135,15.179447
 1354786,avanti - Bad Vöslau Badner Straße 11,Badner Strasse 11,2540,Bad Voeslau,47.96902,16.21304
+1354787,JET TANKSTELLE,BRUCK HAINBURGER STRASSE 28,2320,SCHWECHAT,48.139011,16.48727
 1354790,JET TANKSTELLE,GEWERBEPARK 12,5161,ELIXHAUSEN,47.871096,13.065989
 1354792,JET TANKSTELLE,STRASSGANGER STRASSE 243,8053,GRAZ,47.046136,15.395232
 1354793,avanti - Gaweinstal Brünner Straße 35,Bruenner Strasse 35,2191,Gaweinstal,48.48222,16.59312
@@ -1841,4 +1847,5 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474296,eni,Grazer Vorstadt 11,8570,Voitsberg,47.04799,15.153765
 1474311,Diskont Tankstelle,"Kärntner Straße 27 (""Hofer-Parkplatz"")",9500,Villach,46.59742,13.83869
 1474312,Diskont Tankstelle,"Johann-Steinböck-Strasse 18 (""Hofer-Parkplatz"")",2345,Brunn am Gebirge,48.1053542,16.3087613
+1474314,Diskont Tankstelle,"Porschestrasse 35 (""Hofer-Parkplatz"")",3100,St. Pölten,48.1740184,15.6184154
 1474315,Diskont Tankstelle,"Industriestrasse 19 (""Hofer""-Parkplatz)",3910,Zwettl,48.6002782,15.1897988
