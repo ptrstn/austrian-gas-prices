@@ -57,6 +57,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 489,OMV - Wolfsberg Grazer Straße 7,Grazer Strasse 7,9400,Wolfsberg,46.84742,14.84422
 492,avanti - Klagenfurt St.Veiter Straße 258,St.Veiter Strasse 258,9020,Klagenfurt,46.65337,14.31387
 495,OMV - Braunau Salzburger Straße 99,Salzburger Strasse 99,5280,Braunau,48.24673,13.0403
+496,OMV - Achenkirch Achenseestraße B181 385a,Achenseestrasse B181 385a,6215,Achenkirch,47.529,11.708
 501,avanti - Ort im Innkreis Kammer 19,Kammer 19,4974,Ort im Innkreis,48.31724,13.42524
 1109,JVG JOHANNA - GARAGE GmbH,Johannagasse 28,1050,Wien,48.1854701,16.3473292
 1111, Tankstelle Braunstingl,Drasenhofen 330,2165,Drasenhofen,48.7510538,16.6487938
@@ -254,6 +255,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 6200,Matzinger GmbH,Wiener Straße 48,3032,Eichgraben,48.1768172,15.9982848
 6202,Genol,Raiffeisenstraße 62,3862,Eisgarn,48.9169877,15.1053708
 6205,Genol,Zwettler Straße 133,3970,Weitra,48.6988542,14.9020769
+6207,,Kirchplatzl 128 a,6105,Leutasch,47.3676511,11.1424589
 6209,Lagerhaus-Genol,Raiffeisenplatz 1,7092,Winden,47.9504353,16.7516472
 6210,Pamer GmbH,Wirtschaftsweg 2,2424,Zurndorf,47.9839221,17.0054015
 6211,Lagerhaus-Genol,Bundesstraße 29,7093,Jois,47.9649077,16.7972276
