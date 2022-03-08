@@ -46,6 +46,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 501,avanti - Ort im Innkreis Kammer 19,Kammer 19,4974,Ort im Innkreis,48.31724,13.42524
 1109,JVG JOHANNA - GARAGE GmbH,Johannagasse 28,1050,Wien,48.1854701,16.3473292
 1111, Tankstelle Braunstingl,Drasenhofen 330,2165,Drasenhofen,48.7510538,16.6487938
+1113,Treibstoffparadies,Bad Gams 5,8524,Bad Gams,46.8695627,15.2233968
 1116,Treibstoffparadies,Grazerstraße 2,8522,Gr. St. Florian,46.8242704,15.3179707
 1117,Wälderhaus,Gfäll 134,6941,Langenegg,47.472489,9.900355
 1123,Treibstoffparadies,Arenaplatz 6,7210,Mattersburg,47.7483068,16.4192183
@@ -161,6 +162,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 6187,Turmöl,Wöranstraße 2,4201,Gramastetten,48.3800171,14.1933142
 6210,Pamer GmbH,Wirtschaftsweg 2,2424,Zurndorf,47.9839221,17.0054015
 6211,Lagerhaus-Genol,Bundesstraße 29,7093,Jois,47.9649077,16.7972276
+6212,Shell-Tankstelle Schermann,Eichbergerstr. 1/1,8234,Rohrbach/L. ,47.391348,15.994549
 6217,Lagerhaus-Genol,Triftstraße 24,7121,Weiden,47.9276196,16.874917
 6221,Lagerhaus-Genol,Weinberggasse 1,7141,Podersdorf,47.8565454,16.8368875
 6222,Genol RLH-Süd-Bgld,RLH Süd   Bahnhofring 11,8380,Jennersdorf,46.9357,16.142414
@@ -474,6 +476,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 35647,BP,Salzburgerstr. ,6380,St. Johann In Tirol,47.5253228,12.4229437
 35651,BP,Reichshofstrasse ,6890,Lustenau,47.424342,9.651639
 35666,BP,St Johannerstrasse ,6370,Kitzbuehel,47.459666,12.386913
+35668,BP,Eisenstrasse 85 ,4451,St. Ulrich/Garsten,48.0011226,14.4100604
 35673,BP,Iseltalerstrasse 25 ,9900,Lienz,46.8285946,12.7566304
 35676,BP,Franzosengraben ,1030,Wien,48.1867771,16.4130517
 35682,BP,Maroltingergasse 5 ,1140,Wien,48.203324,16.3028796
