@@ -384,6 +384,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 7667,Bedienungstankstelle,"Markt 10/1, 3664  Martinsberg",3664,Martinsberg,48.3762477,15.1490331
 7670,DIEWO Diskonttankstelle,Siggstrasse 2,4611,Buchkirchen,48.2260233,14.0280795
 7671,Lagerhaus - Genol,Hornerstrasse  43,3710,Ziersdorf,48.5293754,15.9208267
+7673,Lagerhaus - Genol,Bahnhofstrasse 19,3462,Absdorf,48.4017836,15.9834831
 7685,Diskonttankstelle Jandl,Dassanowskyweg 12,1220,Wien,48.2660299,16.4620288
 7690,Amort Tankstelle,Zugspitzstraße 19,6632,Ehrwald,47.4104444,10.9156661
 7691,BP,Alpenstraße 111,5081,Anif,47.7364617,13.0506985
@@ -572,10 +573,12 @@ station_id,name,address,postal_code,city,latitude,longitude
 33701,AVIA XPress (unser Service: Luft und Wasser),Nr. 2,3383,Hürm,48.1565262,15.4131142
 33705,AVIA XPress (unser Service: Luft und Wasser),Laaben 37,3053,Laaben 37,48.1028132,15.8810816
 33708,AVIA XPress (unser Service: Luft und Wasser),Hauptstraße 25,2125,Neubau,48.4985214,16.5169696
+33713,AVIA,Austraße 26,6200,Jenbach,47.3892748,11.7855675
 33715,AVIA,Schlitters 27c,6262,Schlitters,47.3811223,11.8341075
 33722,AVIA Xpress (Automaten-Tankstelle),Steyrtalstr. 30,4523,Neuzeug,48.046108,14.3329223
 33727,AVIA,Friedrich-Thurner-Straße 21,4910,Ried im Innkreis,48.212154,13.482703
 33729,AVIA,Haslau 29,5241,Maria Schmolln,48.1508193,13.1999703
+33730,AVIA,Landstraße 2,4901,Bruckmühl,48.1056064,13.623153
 33734,AVIA Xpress (Automaten-Tankstelle),Weinzierler Brücke 72,4563,Micheldorf,47.8940558,14.129979
 33764,Deuring,Seestrasse 10,6912,Hörbranz,47.534922,9.7377447
 33765,Land lebt auf Suben Gmbh,Schnelldorf 60,4975,Suben,48.4186387,13.4362911
@@ -1682,7 +1685,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
@@ -1827,6 +1830,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474125,eni,Mauthen 189,9640,Kötschach,46.665507,12.998308
 1474126,eni,Förolach 46,9615,Förolach,46.628684,13.475166
 1474128,eni,Kärntnerstrasse 84,9900,Lienz,46.83117595,12.78306752
+1474129,eni,Stadionstrasse 21,9545,Radenthein,46.798428,13.710362
 1474131,eni,Spielbergstrasse 4,6391,Fieberbrunn,47.4797,12.5389
 1474133,eni,Salurner Strasse 28,6330,Kufstein,47.5764,12.1604
 1474135,eni,Rennweg 20,6020,Innsbruck,47.277037,11.400716
