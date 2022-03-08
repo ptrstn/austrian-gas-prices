@@ -758,11 +758,13 @@ station_id,name,address,postal_code,city,latitude,longitude
 35699,BP,Schubertstrasse 25 ,6330,Kufstein,47.585326,12.161651
 35700,BP,Linzer Str. 135-137 ,1140,Wien,48.1933363,16.3017905
 35701,BP,Wienerstr. 35 ,2191,Gaweinstal,48.4723255,16.5891103
+35704,BP,Alte Poststr.23 ,3341,Ybbsitz,47.9485429,14.896469
 35714,BP,Heiligenstaedterstr.77 ,1190,Wien,48.2438482,16.3613545
 35715,BP,Salzburgerstrasse 401 ,8950,Stainach,47.532428,14.1060393
 35717,BP,Gaudenzdorfer Guertel 77 ,1120,Wien,48.1875841,16.3394844
 35718,BP,Pass Thurn Strasse 17 ,6370,Aurach,47.4184633,12.4214674
 35719,BP,Mariazeller Str.264 ,3100,St. Poelten,48.1574747,15.6141023
+35720,BP,Bundesstrasse 59 ,8770,St. Michael,47.35,15.01
 35721,BP,Dresdnerstrasse 8 ,1200,Wien,48.2408605,16.3748223
 35725,BP,Laxenburgerstrasse 2a ,1100,Wien,48.183485,16.373405
 35726,BP,Am Fasangarten 9 ,1120,Wien,48.170747,16.305561
@@ -1260,6 +1262,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1132043,Diskont Tankstelle,"Strazzegasse 8 / Schönkirchnerstraße (""Hofer Parkplatz"")",2231,Strasshof,48.320866,16.650621
 1132044,Diskont Tankstelle,"Pragerstraße 77 (""Hofer Parkplatz"")",3580,Horn,48.664169,15.640916
 1132409,Turmöl Quick,Hoeflach 109,8350,Fehring,46.9376143,16.0040279
+1136445,AP-Trading GmbH,Bundesstrasse 91,5071,Wals,47.7713395,12.9440879
 1136811,SPRITKÖNIG,Elisabethstraße 78,8010,Graz,47.0775241,15.46176
 1140459,"TANKSTELLE PREHM, Krennach",Krennach 13,8312,Ottendorf,47.0262052,15.8892822
 1142439,Disk TANKAUTOMAT,Weitraer Straße 109,3950,Gmünd,48.762337,14.970329
