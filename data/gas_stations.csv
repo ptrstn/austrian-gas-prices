@@ -83,6 +83,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 2085,BP - Lagerhaus,Scheiblberg 44,4150,Rohrbach,48.5621814,13.9935071
 2086,Tankstelle Pein Susanne GmbH,Grazerstrasse 55,8480,Mureck,46.7063947,15.7597657
 2094,Genol  Lagerhaus Pregarten-Gallneukirchen,Markt Unterweißenbach 204,4273,Unterweißenbach,48.433248,14.780412
+2096,Genol  Lagerhaus Pregarten-Gallneukirchen,Mühlbergstraße 8,4294,St. Leonhard,48.4447808,14.6764956
 2098,Deine Tankstelle,Égelsdorf 14,8261,Sinabelkirchen,47.1208582,15.8132125
 3053,SOCAR Tankstelle,Italiener Straße 44,9500,Villach,46.6075251,13.8414415
 3054,Tankstelle Bauer,Buchtelbar - Bratlalm,8254,Wenigzell,47.42888889,15.779444
@@ -894,6 +895,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 85404,Shell Tankstelle,Antensee 3,2191,Schrick,48.519049,16.617422
 85913,TURMTANKSTELLE,Irrsdorfer Bachstraße Nr. 47,5204,Straßwalchen,47.967945,13.276355
 86254,Eni,Kremser Landstraße 33,3452,Heiligeneich,48.3044998,15.8911152
+94254,AVIA,Weissenbachel 102,7435,Unterkohlstätten,47.3749826,16.3237633
 94423,SOCAR Deutschkreutz,Hauptstraße 85,7301,Deutschkreutz,47.597633,16.627819
 95986,AVIA XPress TS Raml,Linzerstaße 53,4203,Altenberg,48.368323,14.3422474
 96323,Tankstelle Gradwohl,Grazerstrasse 34,8101,Gratkorn,47.1300093,15.3422736
