@@ -88,6 +88,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 2056,Diskonttankstelle,Linzer Straße 29,4280,Königswiesen,48.3942687,14.8289891
 2060,"PINK - so pink, so clever",Falkensteinerstraße 3,4144,Oberkappel,48.5506544,13.7729547
 2061,"PINK - so pink, so clever",Reitingerstrasse 1,4641,Steinhaus,48.1039304,14.0397516
+2062,"PINK - so pink, so clever",Karl-Schachinger-Straße 17,4070,Eferding,48.3001235,14.015287
 2066,Freie Tankstelle (AVIA Treibstoffe),"Tankstelle Knunbauer GmbH, Fronwaldstrasse 17",4784,Schardenberg,48.52244,13.490805
 2070,freie Tankstelle,Hirschegg 50,8584,Hirschegg,47.0201138,14.9572875
 2075,"Autohaus Trummer, freie Tankstelle",Gnas 120,8342,Gnas,46.8706748,15.8259354
@@ -1012,6 +1013,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 42228,Johann Meusburger GmbH,Zeihenbühl 396,6951,Lingenau,47.4491221,9.90622
 42266,Diskont Tankstelle,"Haidäckerstraße 4 (""Hofer Parkplatz"")",7000,Eisenstadt,47.825142,16.532042
 42326,avanti - Griffen, 33,9112,Griffen,46.70256,14.72846
+42386,"PINK - so pink, so clever",Schmiedstraße 29,4070,Eferding,48.3081944,14.0209109
 42526,OMV - Kitzbühel St.Johanner Straße 15a,St.Johanner Strasse 15a,6370,Kitzbuehel,47.45609,12.38639
 42546,Tankstelle Schwarzer,Hauptstrasse 32,8380,Jennersdorf,46.9370322,16.1365588
 42586,avanti - Klagenfurt Kohldorferstraße 101,Kohldorferstrasse 101,9020,Klagenfurt,46.62048,14.26865
@@ -1872,7 +1874,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
