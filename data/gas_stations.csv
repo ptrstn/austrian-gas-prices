@@ -31,6 +31,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 280,OMV - Sankt Michael im Lungau Bundesstraße 112,Bundesstrasse 112,5582,Sankt Michael im Lungau,47.09406,13.67553
 284,OMV - Linz Hafenstraße 8,Hafenstrasse 8,4020,Linz,48.31554,14.30166
 314,OMV - Spittal an der Drau Villacher Straße 50,Villacher Strasse 50,9800,Spittal an der Drau,46.79163,13.50961
+320,OMV - Reith bei Seefeld Krinz 27,Krinz 27,6100,Reith bei Seefeld,47.32402,11.19909
 334,OMV - Wien Sterngasse 13,Sterngasse 13,1230,Wien,48.14891,16.33836
 335,avanti - Orth an der Donau Wiener Straße 76,Wiener Strasse 76,2304,Orth an der Donau,48.14992,16.68739
 351,OMV - Gföhl Langenloiser Straße 85,Langenloiser Strasse 85,3542,Gfoehl,48.51208,15.51044
@@ -1061,6 +1062,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 43046,Diskont Tankstelle,"Emerich-Berger-Straße 7 (""Hofer Parkplatz"")",3950,Gmünd,48.766005,14.979923
 43069,IQ Tankstelle,Rannariedlerstrasse 10,4143,Neustift,48.503373,13.755291
 43070,Shell Tankstelle,Ennserstrasse 95,4407,Steyr Gleink,48.081942,14.427105
+43073,IQ Tankstelle,Donaukraftwerkstrasse 1,2000,Stockerau,48.375765,16.237686
 43166,Turmöl Quick,Gmünderstraße 28 ,3943,Schrems,48.7929004,15.0628909
 43346,Diskont Tankstelle,"Gewerbepark 2 (""Hofer Parkplatz"")",8811,Scheifling,47.154865,14.415071
 43426,JP MENNEL,Hof 331,6951,Lingenau,47.4499378,9.9233926
@@ -1277,6 +1279,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 349459,UNSER LAGERHAUS WESTENDORF,BAHNHOFSTRASSE 18,6363,WESTENDORF,47.4416027,12.2238335
 350470,"   SOMA      ""gut und günstig tanken...""",Fischbach 3,8654,Fischbach,47.442903,15.649836
 357034,Turmöl Quick,Judenburger Straße 12,8753,Fohnsdorf,47.2060639,14.6779343
+365123,Shell Austria,A2/SUEDAUTOBAHN-ZOEBERN,2870,ASPANG,47.542793,16.117515
 370714,Shell Austria,AM KAISERMUEHLENDAMM 140,1220,WIEN,48.20715,16.44691
 384864,Shell Austria,ACHENSEE-STRASSE 2,6200,JENBACH,47.3885,11.77445
 386713,Sprint - Kärntner Straße 30,Kärntner Straße 30,8020,Graz,47.060542316479136,15.421137487628185
