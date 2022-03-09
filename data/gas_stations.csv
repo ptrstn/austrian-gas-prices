@@ -1485,6 +1485,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1248127,Diskont Tankstelle,"Shuttleworthstraße 11 (""Hofer-Parkplatz"")",1210,Wien,48.271488,16.407684
 1249027,Turmöl Quick,Frauentaler Straße 76,8530,Deutschlandsberg,46.8187066,15.2274847
 1250795,KMG Klagenfurt Mobil GmbH,Kirchengasse 69,9020,Klagenfurt am Wörthersee,46.6101948,14.318457399999945
+1254039,Tankstelle Schiefermayr,Steyrstr. 45,4595,Waldneukirchen,47.989963,14.276097
 1261240,Turmöl,Engerthstrasse 146,1200,Wien,48.233836,16.3910922
 1264659,Diskont Tankstelle,"Bundesstraße 6 (""Hofer-Parkplatz"")",6842,Koblach,47.325984,9.629425
 1264660,Turmöl Quick,Eichenstraße 2B,1120,Wien,48.1780142,16.3444115
@@ -1580,6 +1581,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354752,MAXI TANK TANKSTELLE,WALDBADSTRASSE 1,5081,ANIF,47.73775,13.068287
 1354753,OMV - Wiener Neudorf IZ NÖ Süd Straße 4 Objekt 9,IZ NOe Sued Strasse 4 Objekt 9,2351,Wiener Neudorf,48.0776,16.3233
 1354754,MAXI TANK TANKSTELLE,KAPRUNERSTRASSE 52,5671,BRUCK AN DER GLOCKNERSTRASSE,47.288424,12.809409
+1354755,OMV - Eggenburg Stoitzendorferstraße 8,Stoitzendorferstrasse 8,3730,Eggenburg,48.6437,15.82231
 1354760,JET TANKSTELLE,BADSTUBENWEG 90,9500,VILLACH,46.631499,13.824641
 1354761,avanti - Mödling Gabrieler Straße 11-13,Gabrieler Strasse 11-13,2340,Moedling,48.08762,16.29563
 1354762,JET TANKSTELLE,ATTERSEESTRASSE 50,4850,TIMELKAM,47.997352,13.621662
@@ -1873,6 +1875,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471207,Rumpold,Hauptstraße 213,8940,Weissenbach,47.569864,14.210508
 1471227,Tankstelle Gewerbepark ,Gewerbepark 5,5611,Großarl,47.22868096423599,13.198833790507829
 1471267,Tankshop Sabotnig,Plescherken 62 a,9074,Keutschach/See,46.58772169917432,14.141038821702509
+1471508,Eni Hartberg,Ressevarstraße 50,8230,Hartberg,47.2825361,15.9754875
 1471807,Socar Ring Rast - Spielberg, Ring Rast Straße 4,8724,Spielberg,47.21047,14.78498
 1471848,Glocknertankstelle,"Pockhorn, 29",9844,Heiligenblut,47.02351163016087,12.862333834713704
 1471887,PRORast Loipersdorf,Loipersdorfer Hauptstraße,8282,Bad Loipersdorf,47.00569,16.11257
