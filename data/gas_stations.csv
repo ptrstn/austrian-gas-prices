@@ -285,13 +285,18 @@ station_id,name,address,postal_code,city,latitude,longitude
 6102,GENOL-LAGERHAUS,Trölsberg 71,4240,Freistadt,48.4958148,14.4869588
 6105,GENOL-LAGERHAUS,Oswalderstrasse 33,4291,Lasberg,48.4734549,14.5475483
 6107,Genol,Hausbrunnerstrasse 131,2181,Dobermannsdorf,48.604889,16.8245804
+6113,Genol,Bachzeile 1,2191,Gaweinstal,48.4740972,16.5903426
 6116,GENOL-LAGERHAUS,Gusenstrasse 3,4242,Hirschbach,48.4870345,14.4124628
 6117,"BELLINGER, freie Tankstelle",Unterschwendt 46,6385,Schwendt bei Kössen,47.6481,12.4044
+6118,Genol,Grundstück Nr. 76/18,2126,Grafensulz,48.5493354,16.4444155
 6122,GENOL-LAGERHAUS,Hiltschnerstrasse 1,4262,Leopoldschlag,48.6163057,14.4999232
 6124,Genol Landring: Additiv - B0 Diesel ,Pischelsdorf 330,8212,Pischelsdorf,47.17511,15.808612
 6125,Genol,Weitersfeld 265,2084,Weitersfeld,48.7873611,15.8022277
 6126,Genol,Thayapark 1-2,2136,Laa/Thaya,48.7147259,16.3790297
+6129,Genol,Hauptrasse  1,2124,Kreuzstetten,48.4799509,16.4766339
+6133,Genol,Grundstück Nr. 1186/1,2191,Pellendorf,48.487622,16.551847
 6136,Genol,Hauptstrasse 7,2134,Staatz-Kautendorf,48.6742855,16.4887124
+6139,Genol,Hauptstrasse 137,2123,Wolfpassing,48.456473,16.526442
 6140,Genol Landring: Additiv -B0 Diesel ,Schemerlhöhe 142,8302,Schemerlhöhe,47.051572,15.6042
 6143,Genol Landring: Additiv -B0 Diesel ,Stubenberg 68,8223,Stubenberg,47.238369,15.797347
 6144,Genol,Pragerstraße 50,3580,Horn,48.66596776162919,15.637407302856444
@@ -1275,6 +1280,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 307173,Shell Austria,ING.-PESENDORFER STRASSE 1 B,4540,BAD HALL,48.03446,14.21212
 308014,Diskont Tankstelle,"Bundesstraße 28 (""Hofer-Parkplatz"")",8740,Zeltweg,47.19556,14.741117
 308183,Gutmann ENI Tankstelle,Kreckelmoosstraße 5,6600,Reutte,47.4787178,10.7335222
+311212,Brenner,Wagramer Straße 16,2213,Bockfließ,48.3577548,16.600584649999995
 323678,Hoftankstelle - Stöbermühle,Mühlweg 1,3492,Etsdorf,48.438084,15.741538
 349459,UNSER LAGERHAUS WESTENDORF,BAHNHOFSTRASSE 18,6363,WESTENDORF,47.4416027,12.2238335
 350470,"   SOMA      ""gut und günstig tanken...""",Fischbach 3,8654,Fischbach,47.442903,15.649836
@@ -1542,6 +1548,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1325346,IQ,Waidhofnerstraße 3,3842,Thaya,48.8541601,15.2850218
 1329486,Turmöl Quick,Klagenfurterstraße 19,9220,Velden,46.6179668,14.0501651
 1329487,Direct,Mauthausgasse 2,3430,Tulln,48.33217,16.059186
+1331445,IQ Tankautomat Fürstenfeld,Grazer Straße 7,8280,Fuerstenfeld,47.0576297,16.069798
 1333600,Eni Kapfenberg,Wiener Strasse 132,8605,Kapfenberg,47.4545412,15.3178017
 1338037,Turmöl Quick,Fabrikgasse 29,8020,Graz,47.0591358,15.4265899
 1338906,AVIA Xpress (Automaten-Tankstelle),Braunauer Straße 3a,4910,Ried im Innkreis,48.205796,13.482978
