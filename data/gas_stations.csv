@@ -157,6 +157,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 4134,SUN Bedienungstankstelle,Neusiedlerstraße 15,7082,Donnerskirchen,47.8952783,16.6487855
 4135,OMV ,Wienerstraße 29,2860,Kirchschlag,47.4987588,16.2899594
 4136,Disk TANKAUTOMAT,Langer Weg 8,6020,Innsbruck,47.2655627212236,11.4249757530303
+4137,Disk ,Anton Rauch Straße 8,6020,Innsbruck,47.2826206,11.4102173
 4138,Disk,Pembaurstraße 30,6020,Innsbruck,47.2674437,11.4118612
 4139,Disk,Karmelitergasse 17,6020,Innsbruck,47.2583149413082,11.4001345519055
 4140,Disk,Amraser Straße 94,6020,Innsbruck,47.2621079,11.4146134
@@ -248,6 +249,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 6057,Genol Landring: Additiv-B0 Diesel,Unterfladnitz 70,8181,St.Ruprecht/Raab,47.180831,15.665815
 6060,GENOL,Wienerstraße 2,2115,Ernstbrunn,48.5258763,16.3769644
 6063,Pfluger Trans,Oberweidau 10,6343,Erl,47.6762638,12.1847161
+6065,Shell Landring Birkfeld,Bahnhofstraße 18,8190,Birkfeld,47.353874,15.698846
 6066,ENI AUSTRIA,wilfersdorf 104,8200,gleisdorf,47.1051531,15.6766397
 6070,TANKEnergie Ringgarage,Untere Viaduktgasse 47-49,1030,Wien,48.2066605,16.3873229
 6074,Turmöl-Tankstelle beim Interspar,Industriezeile 78,4020,Linz,48.3004302,14.3206244
@@ -283,6 +285,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 6154,Genol Landring,Strallegg 166,8192,Strallegg,47.409517,15.718645
 6155,Genol Landring: Additiv -B0 Diesel ,Umfahrungsstrasse 3,8184,Anger,47.26661,15.702192
 6156,M&S Brennstoffhandels GmbH,Rudolf Diesel - Straße 1,2000,Stockerau,48.3854558,16.1819647
+6158,Genol Landring: Additiv - B0 Diesel ,Ebersdorf 174,8273,Ebersdorf,47.199223,15.95947
 6159,M&S Brennstoffhandels GmbH,Bahnstraße 4,2102,Hagenbrunn,48.332603,16.410223
 6160,M&S Brennstoffhandels GmbH,Mariazellerstr. 110,8624,Au bei Turnau,47.5720344,15.31411
 6161,Genol Landring: Additiv -B0 Diesel ,Prebuch 10,8211,Grosspesendorf,47.160617,15.723983
@@ -1356,6 +1359,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 781247,GT TANKAUTOMAT,Bundesstrasse 20,6156,Gries a. Brenner,47.0443982,11.4833081
 781248,BP Troppacher,Hallerstrasse 164,6020,Innsbruck,47.275473,11.434021
 781249,BP Express,Bundesstrasse,6220,Buch b. Jenbach,47.38314,11.77229
+781250,BP Troppacher,Innsbruckerstrasse 24,6162,Mutters,47.2301666,11.3809711
 789150,WT Telfs,Hans-Liebherr-Strasse 33,6410,Telfs,47.3140345,11.1001827
 791503,Turmöl Quick,Bahnstraße 30,2261,Angern,48.3817953,16.8289382
 793706,Petschl Tankstelle,Josef-Petschl-Straße 1,4320,Perg,48.25254,14.596074
@@ -1824,6 +1828,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1470166,Turmöl Fusch,Zellerfusch 131,5672,Fusch,47.231741,12.825534
 1470186,Diskont Tankstelle,"Dalistraße 2 (""Hofer-Parkplatz"")",4600,Wels,48.183581,14.025047
 1470206,JET TANKSTELLE,ST. POELTNER STRASSE 1 C,3150,WILHELMSBURG,48.11764,15.608591
+1470246,Disk,Salzburgerstrasse 18,6380,St. Johann,47.526113,12.424003
 1470266,INN-TANK,Kirchbichlerstr. 21,6336,Langkampfen,47.535122,12.093432
 1470267,Diskont Tankstelle,"Donaufelderstraße 137 (""Hofer-Parkplatz"")",1210,Wien,48.252459,16.427015
 1470288,Genol,Hauptstraße 117,2126,Ladendorf,48.532292,16.479712
