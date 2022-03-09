@@ -663,6 +663,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 33612,AVIA,Industriestraße 2,3470,Kirchberg am Wagram,48.4251701,15.8974823
 33618,Freie Tankstelle,Markt 11,4363,Pabneukirchen,48.320395,14.8172248
 33625,AVIA mit Bedienung,3665 Bärnkopf 112,3665,Bärnkopf 112,48.390857,15.006573
+33626,AVIA mit Bedienung,,3543,Krumau/Kamp 34,48.590518,15.449781
 33629,Gusenbauer - Ihr starker Partner,Hauptstraße 32,4281,Mönchdorf,48.3606782,14.7918203
 33634,Essmeister Diskont,Hauptstrasse 5,3373,Kemmelbach,48.154907,15.092447
 33635,Essmeister Diskont,Bahnhofstrasse 5,3372,Blindenmarkt,48.125481,14.981425
@@ -1889,7 +1890,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
@@ -2020,6 +2021,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474075,eni,Salzburger Strasse 23,6380,St.Johann,47.52709,12.42416
 1474076,eni,Gewerbepark Süd 12,6330,Kufstein,47.56627,12.15626
 1474077,eni,Tiroler Strasse 2,6424,Silz,47.269103,10.939677
+1474078,eni,Innsbrucker Strasse 36,6300,Wörgl,47.482697,12.058705
 1474079,eni,Gewerbegebiet 6,6275,Stumm/Zillertal,47.290311,11.880508
 1474080,eni,Andechsstrasse 69,6020,Innsbruck,47.26667,11.42367
 1474081,eni,Innsbruckerstrasse 29,6230,Brixlegg,47.43262,11.87891
