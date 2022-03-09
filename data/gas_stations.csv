@@ -1828,6 +1828,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1469806,SHELL,Güssinger Str. 384,7535,St. Michael,47.119516,16.274524
 1469807,Turmöl Tankstelle,Obere Hauptstraße 174,7537,Neuberg,47.184775,16.248481
 1469826,"AVIA XPress (SB-Carwash, SB-Sauger, Wasser gratis) ",Hauptstraße 74,2384,Breitenfurt,48.1356658,16.194080999999983
+1469886,Turmöl Quick,Untere Hauptstraße 87,7100,Neusiedl am See,47.943084,16.850562
 1469906,Ziegler,Etmißl,8622,Thörl,47.5157998,15.174991
 1469926,MBR Tankstelle GmbH,Bundesstraße 9,8472,Spielfeld,46.695427,15.637917
 1469947,HEIPOIL FUTURE DISKONT,Neunkirchnerstraße  3,2620,Natschbach,47.71172255857658,16.096952727613534
@@ -1874,7 +1875,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
@@ -1885,6 +1886,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1472147,Turmöl Quick,Altmannsdorfer Straße 96,1120,Wien,48.1618,16.31747
 1472167,Strohmeier Tankstelle,Am Hundsturm 2-4,1050,Wien,48.18770411709912,16.347106271499914
 1472207,Turmöl Quick,Grazer Straße 1,9400,Wolfsberg,46.84595,14.84356
+1472227,Rumpold,Gewerbepark Süd 6,8121,Deutschfeistritz,47.18578,15.33051
 1472247,Gutmann Shell,Au 171,6553,See,47.0826756,10.4641687
 1472267,SOCAR Napplach,Napplach 95,9816,Penk,46.887106,13.267408
 1472307,Turmöl Quick,Bahnhofstraße 27,4722,Peuerbach,48.33844,13.77165
@@ -1909,6 +1911,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1472747,Turmöl Quick,Bahnhofstraße 26,4150,Rohrbach,48.57763,13.99039
 1472767,Rumpold,Hauptstraße 2,8063,Eggersdorf bei Graz,47.12407,15.61067
 1472787,Avia Xpress Kefermarkt,Im Tal 2,4292,Kefermarkt,48.4402601656756,14.536066968607242
+1472827,Turmöl Quick,Eisenstädter Straße 3,2421,Kittsee,48.0927,17.05908
 1472847,Rumpold,Waltendorfer Hauptstraße 88,8010,Waltendorf,47.067267,15.482397
 1472867,V&V Nussbaummüller,Losensteinleiten 3,4493,Wolfern,48.11584948801252,14.357099957894384
 1472887,Turmöl Quick,Schlaininger Straße 1,7503,Großpetersdorf,47.24247,16.31264
