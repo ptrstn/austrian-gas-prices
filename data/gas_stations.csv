@@ -157,6 +157,9 @@ station_id,name,address,postal_code,city,latitude,longitude
 4134,SUN Bedienungstankstelle,Neusiedlerstraße 15,7082,Donnerskirchen,47.8952783,16.6487855
 4135,OMV ,Wienerstraße 29,2860,Kirchschlag,47.4987588,16.2899594
 4136,Disk TANKAUTOMAT,Langer Weg 8,6020,Innsbruck,47.2655627212236,11.4249757530303
+4138,Disk,Pembaurstraße 30,6020,Innsbruck,47.2674437,11.4118612
+4139,Disk,Karmelitergasse 17,6020,Innsbruck,47.2583149413082,11.4001345519055
+4140,Disk,Amraser Straße 94,6020,Innsbruck,47.2621079,11.4146134
 4142,Turmöl,kärntnerstrasse  20,8580,Köflach,47.0615847,15.079417
 4144,Disk TANKAUTOMAT,Unterdorf 171,6405,Pfaffenhofen,47.3002541,11.0741368
 4149,Disk TANKAUTOMAT,Salzburgerstraße 8,6112,Wattens,47.291649,11.595071
@@ -459,6 +462,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 7700,F4L Petrol,Grossendorf 82,4551,Riied im Traunkreis,48.038725,14.058359
 7702,Unser Lagerhaus St. Johann,Bahnhofstraße 28,6380,St. Johann/Tirol,47.5199377,12.4319425
 7704,Shell,Mandlingstraße 8,8974,Mandling,47.40410246,13.57432991
+7705,LMEnergy Express,Hauptstraße 105,5302,Henndorf,47.9058183,13.193274
 7706,LMEnergy Express,Salzachtalbundesstraße 111,5081,Anif,47.7313262,13.0641858
 7711,LMEnergy,Markt 240,5441,Abtenau,47.56657,13.3386575
 7715,Freie Tankstelle,Hauptstraße 23,4872,Neukirchen a.d.Vöckla,48.041374966167,13.5377759369988
@@ -522,6 +526,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 27339,Lagerhaus-Tankstelle 24 h mit Waschportal,Neumarkterstrasse 1,5204,Strasswalchen,47.9568802,13.2352561
 27340,Shell Tankstelle,Wiener Bundesstrasse 153,4050,Traun,48.234185,14.23294
 27341,ECODROM - 24h Tanken & Car Wellness,Boschstraße 5a,4600,Wels,48.1600429,14.0460357
+27347,Lagerhaus-Tankstelle,Gewerbestraße Ost 1,5722,Niedernsill,47.2843241,12.6471545
 27348,IQ Tankstelle,Gadnergasse 12,1110,Wien,48.164827,16.410579
 30200,Freie Tankstelle,Wimbergeramt 49,4392,Dorfstetten,48.3289445,14.9800423
 30201,Lagerhaus-Tankstelle 24 h ,Gewerbestrasse 12,5671,Bruck,47.2811667,12.8275541
@@ -690,6 +695,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 34321,TURMÖL Tankstelle Schlögl,St. Georgen an der Stiefing 27,8413,St. Georgen an der Stiefing,46.874172,15.580502
 34322,freie Tankstelle,Lödersdorf 54,8334,Lödersdorf,46.9559582,15.9564707
 34335,OMV,Bahnhofstraße 11a,7471,Rechnitz,47.302575,16.4423994
+34337,Autohaus Heinrich GmbH - ENI Tankstelle,Sillian 46,9920,Sillian,46.7510013,12.4260524
 34338,Diskont Tankstelle,Lembach 7,8333,Riegersburg,47.015015,15.9495948
 34340,Gbr. Trippl Transporte GmbH & Co KG,Mariazellerstrasse 89,8605,Kapfenberg,47.4524949,15.266624
 34346,Avia,Hauptplatz 8,2440,Gramatneusiedl,48.0281775,16.4893376
@@ -1849,7 +1855,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
@@ -1860,11 +1866,13 @@ station_id,name,address,postal_code,city,latitude,longitude
 1472147,Turmöl Quick,Altmannsdorfer Straße 96,1120,Wien,48.1618,16.31747
 1472167,Strohmeier Tankstelle,Am Hundsturm 2-4,1050,Wien,48.18770411709912,16.347106271499914
 1472207,Turmöl Quick,Grazer Straße 1,9400,Wolfsberg,46.84595,14.84356
+1472247,Gutmann Shell,Au 171,6553,See,47.0826756,10.4641687
 1472267,SOCAR Napplach,Napplach 95,9816,Penk,46.887106,13.267408
 1472307,Turmöl Quick,Bahnhofstraße 27,4722,Peuerbach,48.33844,13.77165
 1472308,AVIA Xpress (Automaten-Tankstelle),Bahnhofstraße 69,4950,Altheim,48.261989,13.241999
 1472328,Diskont Tankstelle,"Salzburger Siedlung 259 (""Hofer-Parkplatz"")",8970,Schladming,47.390454,13.657405
 1472347,SOCAR Großraming,Eisenstraße 13,4463,Großraming,47.883577,14.54315
+1472348,Lagerhaus Tankstelle Sillian,Südtirolerstraße 1 f,9920,Sillian,46.745791,12.408574
 1472367,SB Center ERHART Graschach,Graschach 36,8543,Sankt Martin im Sulmtal,46.74744,15.32598
 1472389,GENOL,Hauptstraße 345,2275,Bernhardsthal,48.6886798,16.8738908
 1472390,GENOL,Bahnstraße 34,2265,Drösing,48.5385187,16.8961139
