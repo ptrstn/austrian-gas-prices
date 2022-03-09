@@ -697,6 +697,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 34028,Rissbacher Walter GmbH,Innsbrucker Str. 47,6230,Brixlegg,47.4347321,11.8824867
 34031,Greiner Einkaufsmarkt Eichfeld,Eichfeld 64,8480,Mureck,46.7256184,15.7721281
 34032,Autohof Huter GmbH,Stegen 7,6682,Vils,47.5502075,10.6575315
+34310,,Neukirchen 19,3650,Pöggstall,48.2893261,15.1619335
 34316,eni/Zankl GmbH,Jenig 7,9631,Jenig,46.6283556,13.2523853
 34320,freie Tankstelle,Untere Hauptstr. 153,7422,Riedlingsdorf,47.3371468,16.1450365
 34321,TURMÖL Tankstelle Schlögl,St. Georgen an der Stiefing 27,8413,St. Georgen an der Stiefing,46.874172,15.580502
@@ -752,6 +753,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 34547,Moser Tankstelle Feldkirchen,Oberglan-Gewerbestr. 1,9560,Feldkirchen,46.694667,14.125671
 34548,Supantschitsch Wolfgang Turmöl Tankstelle,Greuth 14,9121,Tainach,46.6358199,14.5411675
 34555,AVIA XPress (unser Service: Luft und Wasser),Europastraße,3902,Vitis,48.75864,15.194403
+34557,Tankstelle Grabner,Köppel 74,8251,Bruck / Lafnitz,47.4379623,15.9162258
 34558,Grübler Thomas Dieseltankstelle,Böcksteiner Bundesstraße 15,5640,Bad Gastein,47.1054555,13.1342715
 34561,Johannes Pferschinger,St.Urbanstraße 2,3481,Fels/Wagram,48.4383789,15.8176601
 34563,MOSONYI DISKONT,Mühlgasse 1,7152,Pamhagen,47.700365,16.9078658
@@ -1602,6 +1604,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354798,JET TANKSTELLE,VILLACHER STRASSE 54,9800,SPITTAL,46.791491,13.510506
 1354800,JET TANKSTELLE,WELSER STRASSE 120,4060,LEONDING,48.248588,14.24158
 1354801,avanti - Wiener Neustadt Puchberger Straße 44,Puchberger Strasse 44,2700,Wiener Neustadt,47.8065,16.20603
+1354802,JET TANKSTELLE,HAIDERSTR. 38,4052,ANSFELDEN,48.211344,14.280858
 1354804,JET TANKSTELLE,AM RÖMERFELD 1,4470,ENNS,48.216082,14.463353
 1354805,avanti - Ybbs Bahnhofstraße 13,Bahnhofstrasse 13,3370,Ybbs,48.17039,15.08587
 1354807,avanti - Amstetten Wiener Straße 60,Wiener Strasse 60,3300,Amstetten,48.12263,14.88932
@@ -1692,6 +1695,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354928,JET TANKSTELLE,PUCHBERGER STRASSE 1,2700,WIENER NEUSTADT,47.805343,16.211228
 1354929,OMV - Wien Laaer Berg-Straße 240,Laaer Berg-Strasse 240,1100,Wien,48.14818,16.39664
 1354930,JET TANKSTELLE,LEOPOLDAUERSTRASSE 40,1210,WIEN,48.25895,16.41139
+1354932,JET TANKSTELLE,TRAUNUFERSTRASSE 115,4052,ANSFELDEN,48.213524,14.277629
 1354933,OMV - Wien Leberstraße 112-114,Leberstrasse 112-114,1110,Wien,48.17,16.40953
 1354935,avanti - Wien Simmeringer Hauptstraße 489,Simmeringer Hauptstrasse 489,1110,Wien,48.14844,16.46228
 1354937,OMV - Wien Groß-Enzersdorfer Straße 24-26,Gross-Enzersdorfer Strasse 24-26,1220,Wien,48.21686,16.49345
