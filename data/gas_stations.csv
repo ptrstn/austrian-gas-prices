@@ -458,10 +458,13 @@ station_id,name,address,postal_code,city,latitude,longitude
 7646,TURMÖL,Wolfgangseestr. 21,5330,Fuschl am See,47.7957313,13.304742
 7654,Lagerhaus,Obervellach 164,9821,Obervellach,46.934587,13.193636
 7658,Lagerhaus - Genol,Doktor-Franz-Wilhelm-Straße ,3500,Krems,48.406998,15.641012
+7663,Lagerhaus - Genol,Kirchengasse 3,3552,Lengenfeld,48.4708909,15.5973356
+7666,Lagerhaus - Genol,Gewerbestrasse 8-12,3550,Langenlois,48.4711342,15.6912918
 7667,Bedienungstankstelle,"Markt 10/1, 3664  Martinsberg",3664,Martinsberg,48.3762477,15.1490331
 7670,DIEWO Diskonttankstelle,Siggstrasse 2,4611,Buchkirchen,48.2260233,14.0280795
 7671,Lagerhaus - Genol,Hornerstrasse  43,3710,Ziersdorf,48.5293754,15.9208267
 7673,Lagerhaus - Genol,Bahnhofstrasse 19,3462,Absdorf,48.4017836,15.9834831
+7677,Lagerhaus - Genol,Linke Bahnzeile 2,3494,Gedersdorf,48.4325584,15.6903453
 7685,Diskonttankstelle Jandl,Dassanowskyweg 12,1220,Wien,48.2660299,16.4620288
 7690,Amort Tankstelle,Zugspitzstraße 19,6632,Ehrwald,47.4104444,10.9156661
 7691,BP,Alpenstraße 111,5081,Anif,47.7364617,13.0506985
@@ -1069,6 +1072,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 80314,Turmöl Quick,Schlossberg 202,8463,Leutschach,46.6614397,15.4701057
 80483,"Picej - SB tanken, TRAFIK, ADEG - Kaufhaus, Hotel",Turnersee Straße 17,9122,St. Primus,46.576943,14.564663
 81324,Gutmann ENI TANKAUTOMAT,Lindenweg 21,9754,Steinfeld,46.7532894,13.2474911
+81661,DOPPLER BP Melk,Räcking 3,3390,Melk,48.2300599,15.3309252
 85403,Shell Tankstelle,Radingdorf 9,4210,Unterweitersdorf,48.359101,14.478564
 85404,Shell Tankstelle,Antensee 3,2191,Schrick,48.519049,16.617422
 85913,TURMTANKSTELLE,Irrsdorfer Bachstraße Nr. 47,5204,Straßwalchen,47.967945,13.276355
@@ -1081,6 +1085,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 100404,OMV - Pettneu am Arlberg Schnann-Gewerbezone 150,Schnann-Gewerbezone 150,6574,Pettneu am Arlberg,47.1489,10.3743
 101593,OMV - Sankt Johann im Pongau Wagrainer Straße 11,Wagrainer Strasse 11,5600,Sankt Johann im Pongau,47.34862,13.20651
 108726,Wema  GmbH,Zeihenbühl 435,6951,Lingenau,47.4495768,9.9046295
+112651,AVIA XPress (unser Service: Luft und Wasser),Tavernplatz 9a,3650,Pöggstall,48.317241,15.1978073
 121434,Loistank,Wienerstraße 42,3550,Langenlois,48.4707896,15.6856897
 123126,AVIA ,Brünning 37,4760,Raab,48.3505859,13.6358061
 136701,Turmöl,Hauptstra§e 102,7062,St. Margarethen,47.8034174,16.6139849
@@ -1884,7 +1889,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
