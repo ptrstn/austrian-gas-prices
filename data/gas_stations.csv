@@ -625,6 +625,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 33377,SOCAR Traisen,Mariazeller Straße 6,3160,Traisen,48.056097,15.60524
 33380,SOCAR Stockerau,Eduard-Rösch-Straße 69-73,2000,Stockerau,48.3872641,16.226451
 33384,SOCAR Wien-Altmannsdorferstraße,Altmannsdorfer Straße 200a,1230,Wien,48.1400585,16.3237024
+33390,SOCAR Graz-Grabenstraße,Grabenstraße 166,8010,Graz,47.091185,15.430296
 33396,SOCAR Krumpendorf,Hauptstraße 180,9201,Krumpendorf,46.6266886,14.2080065
 33404,A1 Tankstelle Feistritz im Rosental,Hauptstraße 197,9181,Feistritz im Rosental,46.524677,14.1636058
 33405,A1 Tankstelle Weitensfeld,Kaindorf 27,9344,Weitensfeld,46.8510669,14.1672939
@@ -816,6 +817,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 34737,PITTL - Diesel Hi-Tech,Römerstrasse 229,6072,Lans,47.227809,11.429901
 34738,SB- Tankstelle Knerzl Thomas,Öblarn 172,8960,Öblarn,47.460099,13.9853805
 34739,Kuss Autodienst,Christophorusweg 1,9334,Guttaring,46.8799972,14.505802
+34747,"Schindele, Hörbranz",Seestr. 14a,6912,Hörbranz,47.5333189,9.7393838
 34748,"Schindele, Riefensberg",Meierhof 126,6943,Riefensberg,47.4987605,9.9462056
 34752,Premium Diesel Lechner,Aggsbach Dorf 62,3642,Aggsbach Dorf,48.2932467,15.4146517
 34754,Goldbergertank,Wienerstrasse 13,3730,Eggenburg,48.634186,15.8190106
@@ -1023,6 +1025,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 40766,AVIA Xpress,Reitschulgasse 9,4600,Wels,48.1670468,14.0346315
 40786,Diskont Diesel,Hainfeld 68,8262,Ilz,47.08102,15.9682
 40787,"Frey, Diesel",Tobaj 48,7540,Tobaj,47.08552,16.3084
+40846,OMV - Linz Lunzerstraße,Lunzerstrasse ,4030,Linz,48.25805,14.32992
 40847,avanti - Arzl im Pitztal Dorfstraße 16,Dorfstrasse 16,6471,Arzl im Pitztal,47.21094,10.75935
 40906,Shell Tankstelle,Hauptstrasse 78,6464,Tarrenz,47.260181,10.755312
 40926,Disk TANKAUTOMAT,Seblas 33,9971,Matrei in Osttirol,46.9898422,12.544411
@@ -1282,6 +1285,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 308183,Gutmann ENI Tankstelle,Kreckelmoosstraße 5,6600,Reutte,47.4787178,10.7335222
 311212,Brenner,Wagramer Straße 16,2213,Bockfließ,48.3577548,16.600584649999995
 323678,Hoftankstelle - Stöbermühle,Mühlweg 1,3492,Etsdorf,48.438084,15.741538
+330085,A1-direkt Ried im Innkreis,Riedauer Straße 35,4910,Ried im Innkreis,48.2174061,13.4939519
 349459,UNSER LAGERHAUS WESTENDORF,BAHNHOFSTRASSE 18,6363,WESTENDORF,47.4416027,12.2238335
 350470,"   SOMA      ""gut und günstig tanken...""",Fischbach 3,8654,Fischbach,47.442903,15.649836
 357034,Turmöl Quick,Judenburger Straße 12,8753,Fohnsdorf,47.2060639,14.6779343
@@ -1319,6 +1323,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 437498,Shell Austria,HADIKGASSE 128-134,1140,WIEN,48.190443,16.294513
 447952,Shell Austria,HUETTELBERGSTRASSE 4,1140,WIEN,48.20271,16.25757
 448121,Shell Austria,LINZER STR 2A,1150,WIEN,48.19039,16.32173
+448796,Shell Austria,ETZELSHOFEN 125,4975,SUBEN,48.40061,13.42603
 448798,Shell Austria,ANDIESEN 8,4774,ST. MARIENKIRCHEN,48.39134,13.42525
 448800,Shell Austria,ST.JULIEN-STRASSE 33A,5020,SALZBURG,47.8109,13.04281
 449140,Shell Austria,ZINSGASSE 20,5580,TAMSWEG,47.13165,13.8077
@@ -1840,6 +1845,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1468154,eww-Tankstation,Wiesenstrasse 39,4600,Wels,48.16201,14.037198
 1468186,TS Lind Wings,Rennsteinerstraße 34,9500,Villach,46.6237261,13.8435376
 1468310,Genol,Zogelsdorferstraße 1-5,3730,Eggenburg,48.6369792,15.8183828
+1468346,M3 Energy,Karlauerstraße 42,8020,Graz,47.060424,15.430359
 1468389,LMEnergy Express,Mittersillerstraße 198,5724,Stuhlfelden,47.286688,12.526809
 1468406,M3 Energy,Einödmayergasse 1,8700,Leoben,47.372167,15.085068
 1468468,Turmöl Quick,Gewerbepark 2a,8792,St. Peter-Freienstein,47.395417,15.037011
