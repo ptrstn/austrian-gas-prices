@@ -808,6 +808,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 34821,Shell,Erhardstraße 89,8614,Breitenau,47.383887,15.4786764
 34828,Stering GmbH,Hitzendorf 134,8151,Hitzendorf,47.0346383,15.3004398
 34847,MOSONYI DISKONT,Bahnstrasse 102,7151,Wallern,47.7336482,16.9311461
+34848,"OMV Tankstelle,  Eurotank Sinnesberger",Innsbruckerstrasse 68,6382,Kirchdorf in Tirol,47.5384625,12.4408459
 34849,Lagerhaus,Lastenstraße 4,9300,St.Veit/Glan,46.7624578,14.357769
 34851,Czelecz,Flurgasse 5,8665,Langenwang,47.5647283,15.6144042
 34888,GUTSCHE,Wolkersdorf 42,9431,St. Stefan,46.7871055,14.8505684
@@ -992,6 +993,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 40847,avanti - Arzl im Pitztal Dorfstraße 16,Dorfstrasse 16,6471,Arzl im Pitztal,47.21094,10.75935
 40906,Shell Tankstelle,Hauptstrasse 78,6464,Tarrenz,47.260181,10.755312
 40926,Disk TANKAUTOMAT,Seblas 33,9971,Matrei in Osttirol,46.9898422,12.544411
+40946,avanti - Bad Mitterndorf Bundesstraße 56,Bundesstrasse 56,8983,Bad Mitterndorf,47.5605,13.92111
 41086,Diskont Tankstelle,"Maria-Pfeiffer-straße 8 (""Hofer Parkplatz"")",8055,Seiersberg,47.014834,15.409977
 41188,Diskont Tankstelle,"Neue Landstraße 74 (""Hofer-Parkplatz"")",4655,Vorchdorf,48.008358,13.920214
 41226,F. LEITNER,Puntigamerstrasse 143,8055,Graz,47.03196415085483,15.44083149775306
@@ -1329,6 +1331,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 624365,TOP Tankstelle,Rosaliastraße 1,3493,Hadersdorf,48.4635748,15.723015
 624870,Turmöl Quick,Weitmoserstr. 1,5630,Bad Hofgastein,47.1571884,13.1072403
 628750,AVIA Xpress (Automaten-Tankstelle),Zinsgasse 21,5580,Tamsweg,47.132756,13.80501
+629759,Lagerhaus,Görtschitztalstrasse 146,9064,Magdalensberg,46.6734993,14.4200719
 635479,avanti - Rohr im Kremstal Gewerbestraße 1,Gewerbestrasse 1,4532,Rohr im Kremstal,48.0631,14.19462
 645229,avanti - Oeynhausen Ebreichsdorfer Straße 28,Ebreichsdorfer Strasse 28,2512,Oeynhausen,47.98609,16.29075
 654998,BP,Aiglhofstraße 20,5020,Salzburg,47.8043229,13.0283246
@@ -1936,6 +1939,8 @@ station_id,name,address,postal_code,city,latitude,longitude
 1473271,Turmöl,Villacher Ring 41,9020,Klagenfurt,46.6254895,14.3022627
 1473272,Turmöl,Weitenfeld 5,4048,Puchenau,48.312024,14.228745
 1473288,Direct,Liese Prokop-Straße 2,3180,Lilienfeld,48.01419,15.5965
+1473308,Turmöl,Pichlhof 19,8970,Haus ,47.39591,13.70093
+1473309,Turmöl,Pötschenstraße 145,8990,Bad Aussee,47.61297,13.76646
 1473329,Turmöl,Völkermarkterstraße 55,9300,St. Veit,46.76631,14.37709
 1473330,Turmöl,Bockgasse 30,4020,Linz,48.29105,14.27767
 1473348,Turmöl,Goethestraße 101,4020,Linz,48.297563,14.297993
