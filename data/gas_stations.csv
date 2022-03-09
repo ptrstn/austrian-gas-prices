@@ -122,6 +122,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 3089,Gutmann ENI Tankstelle,Schanz 1a,6632,Ehrwald,47.4322164,10.9185006
 3090,Gutmann ENI Tankstelle,Hauptstraße 20,6600,Höfen,47.4751049,10.6936705
 3091,Gutmann ENI Tankstelle,Schattwald 29,6677,Schattwald,47.5163436,10.4562635
+3092,Gutmann ENI Tankstelle,Achenseestraße 70,6212,Maurach,47.3958708,11.7711734
 3093,Gutmann ENI Tankstelle,Industriestraße 12,6134,Vomp,47.3510889,11.7004781
 3094,Disk TANKAUTOMAT,Angath 47,6321,Angath,47.5066961,12.0661102
 3096,Gutmann ENI Tankstelle+TANKAUTOMAT,Innsbruckerstraße 104,6300,Wörgl,47.47766,12.0454
@@ -558,6 +559,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 30251,ENI ServiceStation Nemeth,Münchnerstraße 75,6100,Seefeld,47.3351862,11.1935562
 30268,eni Hochhauser,Ketzergasse 111,1230,Wien,48.1277241,16.3055531
 30270,eni Hochhauser,Wienerstraße 12,8650,Kindberg,47.5122083,15.4567279
+30271,eni Hochhauser,Grazerstraße 44,8680,Mürzzuschlag,47.5991755,15.6661072
 30274,eni Hochhauser,Ebreichsdorfer Straße 17b,2522,Oberwaltersdorf,47.973359,16.327899
 30275,eni Hochhauser,Semmeringstraße 4,2620,Neunkirchen,47.7261326,16.0731293
 30276,eni Hochhauser,Bundesstraße 2,2632,Wimpassing,47.7043021,16.0350379
@@ -665,6 +667,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 33708,AVIA XPress (unser Service: Luft und Wasser),Hauptstraße 25,2125,Neubau,48.4985214,16.5169696
 33713,AVIA,Austraße 26,6200,Jenbach,47.3892748,11.7855675
 33715,AVIA,Schlitters 27c,6262,Schlitters,47.3811223,11.8341075
+33717,ENI,Mühltal 19,6305,Itter,47.4829762,12.148585
 33722,AVIA Xpress (Automaten-Tankstelle),Steyrtalstr. 30,4523,Neuzeug,48.046108,14.3329223
 33723,AVIA,Steyrer Straße 2,4493,Wolfern,48.0779861,14.3785871
 33727,AVIA,Friedrich-Thurner-Straße 21,4910,Ried im Innkreis,48.212154,13.482703
@@ -792,6 +795,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 34788,AVIA,Imolkam 7,4951,Polling,48.2246461,13.2964671
 34807,Shell Gady,Kärntnerstraße 573,8054,Seiersberg,47.0081845,15.3978213
 34809,IQ-Tankstelle Seiwald,Mauthen 264,9640,Kötschach-Mauthen,46.6656107,12.9976327
+34811,IQ,Am Marktplatz 213a,6290,Mayrhofen,47.1703466,11.866119
 34814,,Schweizerstraße 45,6844,Altach,47.3528442,9.6348561
 34817,Lagerhaus Tankstelle,Kötschach 153,9640,Kötschach,46.6721177,13.0032407
 34818,IQ,Oberegging 14,3254,Bergland,48.1561584,15.1141267
@@ -988,6 +992,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 41286,Maroltinger Tankstelle, Maroltingergasse 66,1160,Wien,48.2102455,16.3058551
 41326,speed-DISKONT-automatic Steyregg/Ort,Linzerstraße 5,4221,Steyregg,48.2840823,14.3684749
 41386,L&S Tankstelle mit Kundenkarte 3 cent/Liter Nachlass,Aumühlweg 13/J1,2544,Leobersdorf,47.9257928,16.1942766
+41526,AVIA Xpress (Automaten-Tankstelle),Hauptstrasse 46,6401,Inzing,47.2706155,11.2028074
 41587,Disk,Franzensbrückenstrasse 15,1020,Wien,48.2146367,16.3916044
 41588,avanti - Gosau 705, 705,4824,Gosau,47.57958,13.53156
 41666,Lagerhaus-Genol,Obere Bahngasse 1,7083,Purbach,47.9111388,16.6955227
@@ -1861,7 +1866,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
