@@ -625,6 +625,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 33290,Aspöck - Freie Tankstelle,Obeltsham 29,4673,Gaspoltshofen,48.1351055,13.7281924
 33291,Diesel-Benzin-Diskont Groiss ,Josef-Jessernigg-Straße 3,2000,Stockerau,48.387907,16.232125
 33305,Urschitz,Faakerseestraße 20,9584,Finkenstein,46.5611325,13.9150633
+33319,Shell,Fischanger 161,6932,Langen,47.5155039,9.8437537
 33321,Genol,Automeile 1,3261,Wolfpassing,48.071871,15.057685
 33336,IQ Tankstelle,Markt 56,4272,Weitersfelden,48.435465,14.781006
 33337,Shell Tankstelle,Hanriederstrasse 9,4134,Putzleinsdorf,48.513842,13.872853
@@ -1178,6 +1179,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 160060,Autohaus Pannonia,Weisse Kreuz Gasse 44,7132,Frauenkirchen,47.8403848,16.9316544
 164925,SHELL,VOCKENBERG 72,8223,STUBENBERG,47.2339646,15.8360242
 182629,ENI AUSTRIA,Altenmarkt Nr.81,8934,Altenmarkt bei St.Gallen,47.7193299,14.6540434
+183814,Shell Mauthausen,Dieselstrasse 1,4310,Mauthausen,48.241051,14.544324
 190342,Shell Goetzis,Dr.-A.-Heinzle Strasse 44,6840,Goetzis,47.33127999,9.637109948
 190511,Turmöl Quick,Wienerstraße 238,4020,Linz,48.27066,14.314689
 190854,AVIA,Obere Hauptstrasse 9,7561,Heiligenkreuz im Lafnitzal,46.9882286,16.2576195
@@ -2044,7 +2046,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
@@ -2277,6 +2279,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474296,eni,Grazer Vorstadt 11,8570,Voitsberg,47.04799,15.153765
 1474308,Diskont Tankstelle,"Emerich-Berger-Straße 7 (""Hofer Parkplatz"")",3950,Gmünd,48.766005,14.979923
 1474309,Diskont Tankstelle,"Shuttleworthstraße 11 (""Hofer-Parkplatz"")",1210,Wien,48.271488,16.407684
+1474310,Diskont Tankstelle,"Salzburger Siedlung 259 (""Hofer-Parkplatz"")",8970,Schladming,47.390454,13.657405
 1474311,Diskont Tankstelle,"Kärntner Straße 27 (""Hofer-Parkplatz"")",9500,Villach,46.59742,13.83869
 1474312,Diskont Tankstelle,"Johann-Steinböck-Strasse 18 (""Hofer-Parkplatz"")",2345,Brunn am Gebirge,48.1053542,16.3087613
 1474313,Diskont Tankstelle,"Grazerstrasse 68 (""Hofer-Parkplatz"")",2604,Theresienfeld,47.8464116,16.24546
