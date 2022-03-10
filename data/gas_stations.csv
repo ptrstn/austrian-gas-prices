@@ -1387,6 +1387,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 650443,avanti - Strasswalchen Salzburger Straße 70,Salzburger Strasse 70,5204,Strasswalchen,47.96971,13.2461
 654998,BP,Aiglhofstraße 20,5020,Salzburg,47.8043229,13.0283246
 660386,Oldtimer Diskont-Automaten,Oldtimerweg 3,3312,Oed,48.117262,14.730169
+665614,avanti - Vösendorf Metro Platz 1,Metro Platz 1,2331,Voesendorf,48.12534,16.32296
 665615,avanti - Langenzersdorf Wiener Straße 176-196,Wiener Strasse 176-196,2103,Langenzersdorf,48.2997,16.37405
 665616,avanti - Rum Siemensstraße 1,Siemensstrasse 1,6063,Rum,47.27753,11.45756
 665785,avanti - Linz Franzosenhausweg 1,Franzosenhausweg 1,4020,Linz,48.24886,14.29472
@@ -1669,6 +1670,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354796,JET TANKSTELLE,STOCKERAUERSTRASSE 108,2100,KORNEUBURG,48.358127,16.31497
 1354797,avanti - Sankt Pölten Wiener Straße 92,Wiener Strasse 92,3100,Sankt Poelten,48.20673,15.64125
 1354798,JET TANKSTELLE,VILLACHER STRASSE 54,9800,SPITTAL,46.791491,13.510506
+1354799,avanti - Vösendorf Schönbrunner Allee 20,Schoenbrunner Allee 20,2331,Voesendorf,48.13078,16.32632
 1354800,JET TANKSTELLE,WELSER STRASSE 120,4060,LEONDING,48.248588,14.24158
 1354801,avanti - Wiener Neustadt Puchberger Straße 44,Puchberger Strasse 44,2700,Wiener Neustadt,47.8065,16.20603
 1354802,JET TANKSTELLE,HAIDERSTR. 38,4052,ANSFELDEN,48.211344,14.280858
