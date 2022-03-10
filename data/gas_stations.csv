@@ -1347,6 +1347,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 308183,Gutmann ENI Tankstelle,Kreckelmoosstraße 5,6600,Reutte,47.4787178,10.7335222
 309865,Sprint - Landforst Knittelfeld,Leobner Strasse 9,8720,Knittelfeld,47.21736836658948,14.83972350115114
 311212,Brenner,Wagramer Straße 16,2213,Bockfließ,48.3577548,16.600584649999995
+319807,A1 Tankstelle Friedberg,Hochstraße 271,8240,Friedberg,47.429269,16.0592633
 323678,Hoftankstelle - Stöbermühle,Mühlweg 1,3492,Etsdorf,48.438084,15.741538
 330085,A1-direkt Ried im Innkreis,Riedauer Straße 35,4910,Ried im Innkreis,48.2174061,13.4939519
 349459,UNSER LAGERHAUS WESTENDORF,BAHNHOFSTRASSE 18,6363,WESTENDORF,47.4416027,12.2238335
@@ -1953,6 +1954,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1468154,eww-Tankstation,Wiesenstrasse 39,4600,Wels,48.16201,14.037198
 1468186,TS Lind Wings,Rennsteinerstraße 34,9500,Villach,46.6237261,13.8435376
 1468206,F. LEITNER,Rathstrasse 1,8295,St.Johann i.d.Haide,47.28049617547305,16.00657404169231
+1468266,avanti - Spielfeld Oberst Perleß Straße 9,Oberst Perless Strasse 9,8471,Spielfeld,46.70673,15.63392
 1468310,Genol,Zogelsdorferstraße 1-5,3730,Eggenburg,48.6369792,15.8183828
 1468346,M3 Energy,Karlauerstraße 42,8020,Graz,47.060424,15.430359
 1468389,LMEnergy Express,Mittersillerstraße 198,5724,Stuhlfelden,47.286688,12.526809
@@ -2053,7 +2055,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
