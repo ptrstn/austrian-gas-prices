@@ -643,13 +643,17 @@ station_id,name,address,postal_code,city,latitude,longitude
 33370,IQ Tankstelle,Kenading,4761,Enzenkirchen,48.4114,13.6347
 33377,SOCAR Traisen,Mariazeller Straße 6,3160,Traisen,48.056097,15.60524
 33380,SOCAR Stockerau,Eduard-Rösch-Straße 69-73,2000,Stockerau,48.3872641,16.226451
+33381,SOCAR Wien-Endresstraße,Endresstraße 69,1230,Wien,48.1486138,16.2777595
+33383,A1 Tankstelle Leoben-II,Kärntner Straße 149,8700,Leoben,47.3783142,15.1024084
 33384,SOCAR Wien-Altmannsdorferstraße,Altmannsdorfer Straße 200a,1230,Wien,48.1400585,16.3237024
+33389,SOCAR Klagenfurt-Pischeldorferstraße,Pischeldorferstraße 155,9020,Klagenfurt,46.6378812,14.3332067
 33390,SOCAR Graz-Grabenstraße,Grabenstraße 166,8010,Graz,47.091185,15.430296
 33395,SOCAR Perchtoldsdorf,Ketzergasse 191a,2380,Perchtoldsdorf,48.1301731,16.2919418
 33396,SOCAR Krumpendorf,Hauptstraße 180,9201,Krumpendorf,46.6266886,14.2080065
 33404,A1 Tankstelle Feistritz im Rosental,Hauptstraße 197,9181,Feistritz im Rosental,46.524677,14.1636058
 33405,A1 Tankstelle Weitensfeld,Kaindorf 27,9344,Weitensfeld,46.8510669,14.1672939
 33408,SOCAR Gmunden,Mühlwangstraße 20,4810,Gmunden,47.9206129,13.8053132
+33409,A1 Tankstelle Linz,Landwiedstraße 61,4020,Linz,48.2719766,14.2817769
 33410,SOCAR Arnfels,Leibnitzerstraße 277,8454,Arnfels,46.6799076,15.4011543
 33414,SOCAR Burgau,Neudauerstraße 270,8291,Burgau,47.14749,16.102583
 33418,SOCAR Feldkirchen,Doktor-Arthur-Lemisch-Straße 7,9560,Feldkirchen,46.726235,14.089773
@@ -1094,6 +1098,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 42266,Diskont Tankstelle,"Haidäckerstraße 4 (""Hofer Parkplatz"")",7000,Eisenstadt,47.825142,16.532042
 42326,avanti - Griffen, 33,9112,Griffen,46.70256,14.72846
 42386,"PINK - so pink, so clever",Schmiedstraße 29,4070,Eferding,48.3081944,14.0209109
+42446,Diskont Tankstelle,"Gewerbestraße 1 (""Hofer Parkplatz"")",7111,Parndorf,47.980945,16.854293
 42526,OMV - Kitzbühel St.Johanner Straße 15a,St.Johanner Strasse 15a,6370,Kitzbuehel,47.45609,12.38639
 42546,Tankstelle Schwarzer,Hauptstrasse 32,8380,Jennersdorf,46.9370322,16.1365588
 42586,avanti - Klagenfurt Kohldorferstraße 101,Kohldorferstrasse 101,9020,Klagenfurt,46.62048,14.26865
@@ -1141,6 +1146,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 44626,avanti - Traun/St.Martin Leondinger Straße 47,Leondinger Strasse 47,4050,Traun/St.Martin,48.23916,14.2622
 44686,avanti - Pinkafeld Wiener Straße 8,Wiener Strasse 8,7423,Pinkafeld,47.3744,16.12554
 44766,Turmöl Quick,Nachdemsee 12,4813,Altmünster,47.884276,13.771423
+44846,A1 Tankstelle Bärnbach,Voitsberger Straße 5a,8572,Bärnbach,47.070834,15.130362
 44887,avanti - Haldensee Seestraße 5,Seestrasse 5,6673,Haldensee,47.49479,10.55756
 51108,Turmöl Quick,Grieskirchnerstraße 4,4600,Wels,48.169214,14.024823
 65142,TOP Tankstelle,Obere Wienerstraße 3,3495,Rohrendorf,48.4233073,15.6564601
@@ -1453,6 +1459,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 676713,Viertler,Kalwang 4,8775,Kalwang,47.4233141,14.761608
 679907,F. LEITNER - Jöbstl,Bundesstraße 228,8471,Spielfeld,46.70806756104655,15.636075969338194
 682602,"PINK - so pink, so clever",Welserstraße 5,4701,Bad Schallerbach,48.2275333,13.9257925
+684452,SOCAR Leoben-I,Kärntner Straße 105,8700,Leoben,47.3801846,15.1055575
 685125,GTS - Günstig Tanken Schmöger ,Körnermarkt 5,3542,Gföhl,48.516035,15.493225
 692206,SPRITINN,Rechte Wienzeile 43,1050,Wien,48.1963317,16.3587045
 692890,Sprit Diskont Thomas Weißenböck-Straßl,Nibelungenstrasse 20,4090,Engelhartszell,48.5017813,13.735886
@@ -1511,6 +1518,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 931254,Turmöl,Altmannsdorferstraße 150,1230,Wien,48.1547657,16.3193503
 931424,Eni,Bundesstraße 62,2831,Scheiblingkirchen ,47.6619429,16.1294872
 932275,Turmöl Tankstelle,Landstrasse 139,2410,Hainburg,48.1410521,16.9245927
+933638,SOCAR Unterwart,Steinamangerer Straße 349,7501,Unterwart,47.2714106,16.2388066
 934315,SOCAR Michelhausen,Bergstraße 1,3451,Michelhausen,48.2814015,15.9296682
 951924,Turmöl Quick,Grazer Straße 33,8510,Stainz,46.8971308,15.2678969
 955681,AVIA Xpress (Automaten-Tankstelle),Salzburgerstr. 26,4850,Timelkam,48.001815,13.60349
@@ -2018,6 +2026,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1470789,F. LEITNER,Waisenegg 121,8190,Birkfeld,47.380990747458696,15.67813208285314
 1470867,ENI Stumm ,Gewerbegebiet 6,6275,Stumm ,47.29034628764583,11.88055119320892
 1471047,Treibstoffparadies,Gewerbepark Ost 1,8504,Preding,46.85349,15.40998
+1471087,SOCAR Attnang - Puchheim,Bahnhofstraße 25,4800,Attnang - Puchheim,48.015832,13.724478
 1471107,Wings Graz,Triesterstraße 459,8055,Graz,47.020192,15.438608
 1471147,Turmöl Quick,Wiener Straße 30,3002,Purkersdorf,48.20595,16.1824
 1471167,Direct,Mattersburger Straße 5,7000,Eisenstadt,47.8359,16.52446
@@ -2034,7 +2043,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
