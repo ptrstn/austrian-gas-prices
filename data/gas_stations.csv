@@ -1056,6 +1056,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 40766,AVIA Xpress,Reitschulgasse 9,4600,Wels,48.1670468,14.0346315
 40786,Diskont Diesel,Hainfeld 68,8262,Ilz,47.08102,15.9682
 40787,"Frey, Diesel",Tobaj 48,7540,Tobaj,47.08552,16.3084
+40826,ENI Tankstelle,Freileben 13,4121,Altenfelden,48.496716,13.970559
 40846,OMV - Linz Lunzerstraße,Lunzerstrasse ,4030,Linz,48.25805,14.32992
 40847,avanti - Arzl im Pitztal Dorfstraße 16,Dorfstrasse 16,6471,Arzl im Pitztal,47.21094,10.75935
 40906,Shell Tankstelle,Hauptstrasse 78,6464,Tarrenz,47.260181,10.755312
@@ -1748,6 +1749,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354816,avanti - Pottendorf Wiener Straße 8,Wiener Strasse 8,2486,Pottendorf,47.91283,16.38632
 1354817,JET TANKSTELLE,GASTEINER STRASSE 72,5500,BISCHOFSHOFEN,47.406171,13.217781
 1354818,avanti - Ruprechtshofen Hauptstraße 24,Hauptstrasse 24,3244,Ruprechtshofen,48.13974,15.28193
+1354819,JET TANKSTELLE,SALZBURGER STRASSE 7,8940,LIEZEN,47.563365,14.242358
 1354821,JET TANKSTELLE,KAISER FRANZ JOSEF STRASSE 40,6845,HOHENEMS,47.35725,9.68315
 1354822,OMV - Eisenstadt Mattersburger Straße 28,Mattersburger Strasse 28,7000,Eisenstadt,47.83317,16.52318
 1354823,JET TANKSTELLE,MÜNCHNER BUNDESSTR. 15,5020,SALZBURG,47.817898,13.018664
@@ -1802,6 +1804,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354885,JET TANKSTELLE,FREISTÄDTERSTR. 340,4040,LINZ,48.328471,14.321451
 1354886,OMV - Nenzing Bundesstraße 77,Bundesstrasse 77,6710,Nenzing,47.18918,9.70154
 1354887,JET TANKSTELLE,SALURNERSTRASSE 40,6330,KUFSTEIN,47.574902,12.157785
+1354890,JET TANKSTELLE,GESÄUSESTRASSE 33,8940,LIEZEN,47.560379,14.258505
 1354891,OMV - Wien Adalbert Stifter-Straße 67,Adalbert Stifter-Strasse 67,1200,Wien,48.24309,16.37535
 1354892,JET TANKSTELLE,LAXENBURGER STRASSE 248,1230,WIEN,48.135681,16.356244
 1354894,JET TANKSTELLE,ROSENTALERSTRASSE 102,9020,KLAGENFURT,46.611954,14.300578
@@ -1867,6 +1870,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1446426,Turmöl Quick,Hauptstraße 86,4092,Esternberg,48.542477,13.5834969
 1448503,Turmöl Quick,Oggauerstraße 25,7071,Rust,47.8032631,16.6715008
 1448506,Turmöl Quick,Eisenstädter Straße 3,7081,Schützen am Gebirge,47.8510135,16.629086
+1450706,Landforst Obdach,Hauptstrasse 50a,8742,Obdach,47.065869,14.697315
 1450707,Landforst Mürzzuschlag,Ganztal 1a,8680,Mürzzuschlag,47.591368,15.66314
 1450710,Landforst Scheifling,Murauerstrasse 7,8811,Scheifling,47.153053,14.409831
 1456506,Genol,Gewerbestraße 1,3293,Lunz,47.864063,15.038582
