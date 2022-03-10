@@ -556,7 +556,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 7854,IQ,Auen 7,8162,Passail,47.282293,15.5142528
 7855,Alfred Solterer,Schloßstraße 3,3485,Haitzendorf,48.428375,15.739696
 7858,"Diesel, Eurosuper",Dr. Ludwig Lesergasse 28,7011,Siegendorf,47.7809891,16.5363814
-7859,KOBRAS ... Mit Personal ...                                                                                                                                                ,Hof 270a,6951,"Lingenau,  ..  SUPER PLUS € 1,770 .. PREISINFOS - PLZ 6991 oder 6886 eingeben, ........... mehr INFOS - ANKLICKEN ...  ",47.4508201,9.9248451
+7859,KOBRAS ... Mit Personal ...                                         ,Hof 270a,6951,"Lingenau,  ..  SUPER PLUS € ......... .. PREISINFOS - PLZ 6991 oder 6886 eingeben, ........... mehr INFOS - ANKLICKEN ...  ",47.4508201,9.9248451
 7860,S1 Tankstelle Sunko,Grazerstraße 60,8434,Neutillmitsch,46.8144216,15.5490549
 7862,Turmöl,Lindenstrasse 35,7522,Strem,47.0475283,16.4094818
 7866,Freie Tankstelle Haselsberger,Stockach 38 ,6306,Söll,47.5169378,12.1971431
@@ -909,6 +909,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 35600,BP,Ossiacherzeile 50 A ,9500,Villach,46.6115786,13.8562822
 35602,BP,Wieselburger Strasse 2 ,3281,Oberndorf/Melk,48.0658753,15.2161752
 35605,BP,Bundesstrasse 279 ,6543,Nauders/Reschenpass,46.890758,10.499075
+35607,BP,Gries 16 ,6631,Lermoos,47.407339,10.869062
 35608,BP,Bundesstrasse 292 ,6543,Nauders,46.892171,10.49947
 35610,BP,Puntigamer Strasse 130 ,8055,Graz,47.03359761,15.44269355
 35611,BP,Ennser Strasse 10 A ,4400,Steyr,48.0546353,14.4214433
@@ -1544,6 +1545,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1132045,Diskont Tankstelle,"Leinerstraße 4a (""Hofer Parkplatz"")",3300,Amstetten,48.106349,14.835048
 1132046,Diskont Tankstelle,"Schüttaustraße 5-7 (""Hofer Parkplatz"")",3400,Klosterneuburg,48.2947,16.339166
 1132409,Turmöl Quick,Hoeflach 109,8350,Fehring,46.9376143,16.0040279
+1136271,AP-Trading GmbH,Gewerbestrasse 13,5102,Anthering,47.8648121,13.0140076
 1136445,AP-Trading GmbH,Bundesstrasse 91,5071,Wals,47.7713395,12.9440879
 1136447,AP-Trading GmbH,Urstein Nord 75,5412,Puch,47.7405295,13.0826309
 1136451,AP-Trading GmbH,Niederfeldweg 9a,6230,Brixlegg,47.4370676,11.8807031
@@ -2137,6 +2139,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1473838,Strohmeier Tankstelle,Am Hundsturm 2-4,1050,Wien,48.187799,16.34712
 1473848,Diskont Tankstelle,"Ernstbrunnerstraße 2 (""Hofer Parkplatz"")",2130,Mistelbach,48.5609853,16.5597662
 1473888,Diskont Tankstelle,"Königstetter Strasse 148 (""Hofer-Parkplatz"")",3430,Tulln,48.3193484,16.0829742
+1473889,AP-Trading GmbH,Alpenstrasse 35,5081,Anif,47.74816537790275,13.068242104399618
 1473908,Turmöl Quick,Welser Straße 70,4623,Gunskirchen,48.1378,13.9568
 1473928,Diskont Tankstelle,"Hammerschmiedstrasse 1 (""Hofer-Parkplatz"")",2100,Leobendorf,48.359636,16.3114818
 1473929,Turmöl Judenburg,Burggasse 42,8750,Judenburg,47.16888851208108,14.65430780513867
