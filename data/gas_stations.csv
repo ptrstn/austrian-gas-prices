@@ -611,6 +611,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 33321,Genol,Automeile 1,3261,Wolfpassing,48.071871,15.057685
 33336,IQ Tankstelle,Markt 56,4272,Weitersfelden,48.435465,14.781006
 33337,Shell Tankstelle,Hanriederstrasse 9,4134,Putzleinsdorf,48.513842,13.872853
+33339,IQ Tankstelle,Salzkammergutstrasse 3,4844,Regau,47.991065,13.684733
 33340,Shell Tankstelle,Naarner Strasse 73,4320,Perg,48.239517,14.626021
 33343,Eni Tankstelle,Bundesstrasse 130,2102,Bisamberg,48.332867,16.345122
 33348,Shell Tankstelle,Siemensstrasse 105b,1210,Wien,48.266989,16.428849
@@ -1526,6 +1527,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1214419,CP - Der Preis ist heiß!,Wiener Straße 36-38,7000,Eisenstadt,47.8449265,16.50778
 1217840,Turmöl R.U.M. Jöchlinger GesmbH,Wienerstrasse 5,2203,Eibesbrunn,48.3602376,16.4917678
 1221668,eni AUTOMATIC-Tankstelle 0-24h bei Washplex Linz/Industriezeile,Industriezeile 58,4020,Linz,48.307117,14.315913
+1225807,M3 Feldbach,Grazer Straße 19,8330,Feldbach,46.9541186,15.8834315
 1231298,"PINK - so pink, so clever",Harterding 20,4952,Weng,48.2479956,13.1899036
 1236279,Turmöl Quick,Olsastrasse 21,9360,Friesach,46.9523135,14.4154186
 1246499,Turmöl Quick,Bahnstraße 30,7210,Mattersburg,47.7366435,16.4047107
