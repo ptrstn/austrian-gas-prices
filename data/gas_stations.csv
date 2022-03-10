@@ -1355,6 +1355,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 384864,Shell Austria,ACHENSEE-STRASSE 2,6200,JENBACH,47.3885,11.77445
 386713,Sprint - Kärntner Straße 30,Kärntner Straße 30,8020,Graz,47.060542316479136,15.421137487628185
 387050,Shell Austria,TULLNERSTRASSE 486,2013,GOELLERSDORF,48.492429,16.109405
+395307,Shell Austria,MARIAZELLERSTRASSE 134A,3100,ST.POELTEN,48.18775,15.61686
 395309,Shell Austria,DONAUSTADTSTRASSE 37C,1220,WIEN,48.22704,16.44498
 397170,AVIA an der B3,Mauthausenerstraße 24,4221,Steyregg,48.2809842,14.37466
 399023,Turmöl Quick,Wienerstraße 100,7013,Klingenbach,47.7577602,16.5385952
@@ -1513,6 +1514,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 862063,"Diesel, Super",Steinamanger Straße,7472,Schachendorf,47.26326,16.4338
 866141,"Diesel, Eurosuper",Ödenburger Strasse 50,7013,Klingenbach,47.75624,16.55126
 874225,Treibstoffparadies ,Zellach 6b,9413,St. Gertraud,46.8580653,14.8530872
+886748,Treibstoffparadies,Am Weichselgarten 3,2201,Seyring,48.3453667,16.4732359
 888622,Turmöl Marth,Grazer Strasse 54-56,7540,Güssing,47.0477081,16.3182847
 894715,Lagerhaus Kirnberg GENOL,Pöllabergstrasse 4,3241,Kirnberg,48.0727027,15.3201001
 895059,Turmöl Quick,Zellerstraße 26,5730,Mittersill,47.2851698,12.4911117
