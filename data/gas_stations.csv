@@ -599,6 +599,8 @@ station_id,name,address,postal_code,city,latitude,longitude
 30226,M O N E T T I,Wienerstraße 40,2120,Wolkersdorf,48.38074,16.511714
 30230,ENI,Grazer Straße 21,8410,Wildon,46.8900838,15.4979414
 30231,TAC,Taborstraße 102-108 ,1200,Wien,48.2270659,16.3870746
+30232,Gschiel-Diskont,Kaindorf 340,8224,Kaindorf,47.2195712,15.9022812
+30233,Gschiel-Diskont,Schildbach 215 ,8230,Hartberg,47.269547,15.953972
 30234,Tankstelle Hintersteiner - Qualitätsprodukte - Shell-Motorenöle,Hauptstraße 20,3261,Steinakirchen,48.0709673,15.0536983
 30237,Tankstelle Prinz ,Donaustrasse 3,3644,Emmersdorf,48.2371064,15.3265873
 30238,Lohberger,Ödenburger Straße 14 ,1210,Wien,48.27539596984909,16.397716999053955
@@ -1719,6 +1721,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354754,MAXI TANK TANKSTELLE,KAPRUNERSTRASSE 52,5671,BRUCK AN DER GLOCKNERSTRASSE,47.288424,12.809409
 1354755,OMV - Eggenburg Stoitzendorferstraße 8,Stoitzendorferstrasse 8,3730,Eggenburg,48.6437,15.82231
 1354756,JET TANKSTELLE,FACHMARKTZENTRUM 3 A,7210,MATTERSBURG,47.731865,16.412426
+1354758,JET TANKSTELLE,PANNONIA STRASSE 1,7111,PARNDORF,47.98129,16.848456
 1354760,JET TANKSTELLE,BADSTUBENWEG 90,9500,VILLACH,46.631499,13.824641
 1354761,avanti - Mödling Gabrieler Straße 11-13,Gabrieler Strasse 11-13,2340,Moedling,48.08762,16.29563
 1354762,JET TANKSTELLE,ATTERSEESTRASSE 50,4850,TIMELKAM,47.997352,13.621662
@@ -2046,7 +2049,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
