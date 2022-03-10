@@ -994,6 +994,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 35779,BP,Silvrettastrasse 17 ,6561,Ischgl,47.0156769,10.2967348
 35780,BP,Arsenalstrasse 5b ,1030,Wien,48.1776167,16.3929526
 35783,BP,Bundesstrasse 1 ,6410,Telfs,47.307579,11.079111
+35846,SOCAR Tribuswinkel,Zubringerstraße 40,2512,Tribuswinkel,47.9926268,16.2710589
 35886,Turmöl Quick,Goethestraße 40,4020,Linz,48.297625,14.297791
 35887,,Austraße 5,2871,Zöbern,47.5118871,16.1345432
 35946,Turmöl Quick,Bahnhofstraße 15,4540,Bad Hall,48.038558,14.207961
@@ -1381,6 +1382,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 448798,Shell Austria,ANDIESEN 8,4774,ST. MARIENKIRCHEN,48.39134,13.42525
 448800,Shell Austria,ST.JULIEN-STRASSE 33A,5020,SALZBURG,47.8109,13.04281
 449140,Shell Austria,ZINSGASSE 20,5580,TAMSWEG,47.13165,13.8077
+449484,Shell Austria,BRENNER STRASSE 4,6020,INNSBRUCK,47.24151,11.38978
 449653,Shell Austria,LEOPOLDAUERSTRASSE 51,1210,WIEN,48.25993,16.41174
 449657,Shell Austria,RHEINSTRASSE 88,6900,BREGENZ,47.49363,9.71095
 449658,Shell Austria,A2/SUEDAUTOBAHN,9100,VOELKERMARKT,46.67935,14.59596
@@ -1447,6 +1449,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 665786,avanti - Graz Weblinger Straße 41,Weblinger Strasse 41,8054,Graz,47.02883,15.40058
 669483,Diskont Tankstelle Wolfgang Wieser,Frojach 4,8841,Frojach,47.1334244,14.3072246
 673686,AVIA Ennsbach,Ybbsfeldstr. 16,3376,Ennsbach ,48.1466758,15.0315842
+676543,IQ  Tankomat Allhaming,Poststrasse 3,4511,Allhaming,48.153132,14.158255
 676713,Viertler,Kalwang 4,8775,Kalwang,47.4233141,14.761608
 679907,F. LEITNER - Jöbstl,Bundesstraße 228,8471,Spielfeld,46.70806756104655,15.636075969338194
 682602,"PINK - so pink, so clever",Welserstraße 5,4701,Bad Schallerbach,48.2275333,13.9257925
