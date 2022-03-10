@@ -1062,6 +1062,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 39266,Discont Tankstelle,Linzerstrasse 9,4650,Edt,48.0975489,13.8952541
 39306,LKW - Tankstelle,Schwarzenberg 168,4164,Schwarzenberg,48.7363868,13.8195391
 39546,Turmöl Quick,Umfahrungsstraße 2,8570,Voitsberg,47.0354119,15.1698067
+39666,speed-DISKONT-automatic Ennsdorf,Mauthausener Str. 17,4482,Ennsdorf bei Enns,48.2253635,14.5205096
 39706,Turmöl Quick,Linzerstraße 22,4840,Vöcklabruck,48.0036408,13.6621207
 39786,Gutmann ENI Tankstelle,Färberstraße 10,5760,Saalfelden,47.4262187,12.8400902
 39846,speed-DISKONT-automatic Linz/Urfahr,Freistädter Straße 231,4040,Linz,48.3275086,14.3045974
@@ -1182,6 +1183,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 101593,OMV - Sankt Johann im Pongau Wagrainer Straße 11,Wagrainer Strasse 11,5600,Sankt Johann im Pongau,47.34862,13.20651
 108726,Wema  GmbH,Zeihenbühl 435,6951,Lingenau,47.4495768,9.9046295
 112651,AVIA XPress (unser Service: Luft und Wasser),Tavernplatz 9a,3650,Pöggstall,48.317241,15.1978073
+117653,A1-direkt St. Pantaleon-Erla,Alt-Pyburg 1,4303,St. Pantaleon-Erla,48.2309077,14.5288888
 119702,F. LEITNER - Trost,Zwaring 33,8142,Zwaring,46.912819,15.410008
 121434,Loistank,Wienerstraße 42,3550,Langenlois,48.4707896,15.6856897
 123126,AVIA ,Brünning 37,4760,Raab,48.3505859,13.6358061
@@ -1421,6 +1423,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 450352,Shell Austria,MOOS 66,5431,KUCHL,47.6347,13.13875
 450523,Shell Austria,PFENNINGGELDG 2/ECKE HERBSTSTRASSE,1160,WIEN,48.20786,16.31328
 450524,Shell Austria,WAGRAMERSTRASSE 14,1220,WIEN,48.23367,16.42036
+450525,Shell Austria,WIENERSTRASSE 38,2100,KORNEUBURG,48.33925,16.33763
 450528,Shell Austria,INNSBRUCKERSTRASSE 53,6600,REUTTE,47.47973,10.73032
 450529,Shell Austria,PANZENDORF 134,9919,HEINFELS,46.74968,12.4423
 450530,Shell Austria,REICHSSTRASSE 137,6800,FELDKIRCH-LEVIS,47.2468,9.60984
