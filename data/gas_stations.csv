@@ -463,6 +463,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 7566,LAGERHAUS Genol mit Tankkartensystem,Moosbrunnerstraße,2521,Trumau,47.992636,16.345961
 7568,LAGERHAUS Genol mit Tankkartensystem,Friedhofstraße,2441,Mitterndorf,47.993138,16.472594
 7569,Tankstelle Lichtenegg,Hauptstraße 13,2813,Lichtenegg,47.600766,16.196637
+7573,Genol,Bahnstraße  14,3664,Martinsberg,48.376221,15.156884
 7575,LAGERHAUS Genol mit Tankkartensystem,Hauptstraße ,2434,Pischelsdorf,48.003634,16.564722
 7576,Lagerhaus,Lastenstrasse 2,9360,Friesach,46.9534585,14.4097946
 7578,LAGERHAUS Genol mit Tankkartensystem,Seibersdorferstraße,2451,Hof am Leithagebirge,47.945251,16.567415
@@ -476,10 +477,17 @@ station_id,name,address,postal_code,city,latitude,longitude
 7590,Lagerhaus-Genol,Maisbergstraße 1,3341,Ybbsitz,47.9469098,14.8897326
 7591,Shell,Sportplatzstraße  2,3931,Schweiggers,48.667217,15.0672604
 7593,Tankstelle Schaller,Bergwerkstraße 33,6130,Schwaz,47.3596855,11.7227999
+7595,Genol,Sallingstadt  64,3931,Sallingstadt,48.6819704,15.103704
+7596,Genol,Grünbach  20,3911,Rappottenstein,48.520897,15.070968
+7597,Genol,Neuhof   30,3631,Ottenschlag,48.4243299,15.1899941
 7598,TK Tankstellen GmbH,Straßenhäuser 70,6842,Koblach,47.3096459,9.619797
 7599,Genol,Lichtenau 63,3522,Lichtenau,48.4955077,15.3980561
 7600,Logistik Service GmbH  ,Stahlstr. 35,4030,Linz,48.2716732,14.3242741
+7602,Genol,Bahnhofstraße  136,3921,Langschlag,48.5767039,14.8846694
+7605,Genol,Kottes  75,3623,Kottes,48.4175608,15.3059831
+7607,Genol,Kreuzberg   112,3920,Gr. Gerungs,48.5712179,14.9586789
 7608,Shell,Grafenschlag  89,3912,Grafenschlag,48.4916278,15.181062
+7609,Genol,Linzerstraße  99,3925,Arbesbach,48.492093,14.9521204
 7610,TK Tankstellen GmbH,Studa 3a,6800,Feldkirch,47.2690136,9.6042398
 7611,TK Tankstellen GmbH,Bremschlstrasse 37,6706,Bürs,47.1478021,9.8192284
 7613,Lagerhaus,Bahnstrasse 4,9141,Eberndorf,46.5900375,14.6376837
@@ -501,6 +509,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 7663,Lagerhaus - Genol,Kirchengasse 3,3552,Lengenfeld,48.4708909,15.5973356
 7666,Lagerhaus - Genol,Gewerbestrasse 8-12,3550,Langenlois,48.4711342,15.6912918
 7667,Bedienungstankstelle,"Markt 10/1, 3664  Martinsberg",3664,Martinsberg,48.3762477,15.1490331
+7668,Lagerhaus - Genol,Mühlbach 93,3473,Mühlbach am Manhartsberg,48.5171956,15.7864336
 7670,DIEWO Diskonttankstelle,Siggstrasse 2,4611,Buchkirchen,48.2260233,14.0280795
 7671,Lagerhaus - Genol,Hornerstrasse  43,3710,Ziersdorf,48.5293754,15.9208267
 7673,Lagerhaus - Genol,Bahnhofstrasse 19,3462,Absdorf,48.4017836,15.9834831
@@ -1847,6 +1856,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354906,JET TANKSTELLE,RADLPASSSTRASSE 10,8510,STAINZ,46.888042,15.259575
 1354907,OMV - Wien Wientalstraße/Auhofbrücke 40,Wientalstrasse/Auhofbruecke 40,1140,Wien,48.20186,16.23616
 1354908,OMV - Wien Gunoldstraße 7 / Muthgasse 1,Gunoldstrasse 7 / Muthgasse 1 ,1190,Wien,48.24531,16.36578
+1354909,JET TANKSTELLE,RESSAVARSTRASSE 31,8230,HARTBERG,47.282788,15.975247
 1354910,OMV - Wien Hütteldorfer Straße 216b,Huetteldorfer Strasse 216b,1140,Wien,48.19788,16.27994
 1354911,JET TANKSTELLE,ERNSTBRUNNER STRASSE 5,2130,MISTELBACH,48.560874,16.561675
 1354913,JET TANKSTELLE,FELDKIRCHENSTRASSE 38,8401,KALSDORF,46.971032,15.459558
@@ -1910,6 +1920,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1460806,Diskont Tankstelle Langauen ,B100,9500,VILLACH,46.636393,13.814563
 1463026,Diskont Tankstelle,"35. Straße 2 (""Hofer Parkplatz"") ",3331,Kematen an der Ybbs,48.037782,14.778013
 1464796,BP Tankstelle Brandner KG,Tröpolach 177,9631,Jenig,46.6273845,13.2542347
+1466208,GENOL,Wirtschaftspark 1,2130,Mistelbach,48.563921,16.636163
 1467380,avanti - Dornbirn Lustenauer Straße 24,Lustenauer Strasse 24,6850,Dornbirn,47.40698,9.73476
 1467392,Turmöl Mauthausen,Poschacherstrasse 10,4310,Mauthausen,48.239588049949816,14.528217035799331
 1467404,D.Gertl Tankstelle GmbH,x,6241,Radfeld,47.4517224,11.9360568
