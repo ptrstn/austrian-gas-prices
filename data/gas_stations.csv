@@ -694,6 +694,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 33592,AVIA,Ybbsitzer Straße 79,3340,Waidhofen/Ybbs,47.9430098,14.8073965
 33593,AVIA,Bahnstraße 288,3040,Neulengbach,48.1974564,15.9032417
 33594,AVIA,Heidenreichsteiner Straße 25,3830,Waidhofen/Thaya,48.8183833,15.2768885
+33595,AVIA,Spitalstraße 3,3804,Allentsteig,48.6979044,15.3307498
 33596,AVIA ,Keltenstraße 2,3100,St. Pölten-Ratzersdorf,48.2279934,15.6768304
 33597,AVIA XPress (unser Service: Luft und Wasser),Wollsberg 37,4652,Steinerkirchen,48.0779136,13.999056
 33598,AVIA,Franz Eigl-Str. 7,3910,Zwettl,48.6028473,15.1854858
@@ -1339,6 +1340,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 370714,Shell Austria,AM KAISERMUEHLENDAMM 140,1220,WIEN,48.20715,16.44691
 384864,Shell Austria,ACHENSEE-STRASSE 2,6200,JENBACH,47.3885,11.77445
 386713,Sprint - Kärntner Straße 30,Kärntner Straße 30,8020,Graz,47.060542316479136,15.421137487628185
+387050,Shell Austria,TULLNERSTRASSE 486,2013,GOELLERSDORF,48.492429,16.109405
 395309,Shell Austria,DONAUSTADTSTRASSE 37C,1220,WIEN,48.22704,16.44498
 397170,AVIA an der B3,Mauthausenerstraße 24,4221,Steyregg,48.2809842,14.37466
 399023,Turmöl Quick,Wienerstraße 100,7013,Klingenbach,47.7577602,16.5385952
@@ -1360,6 +1362,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 428033,Shell Oberndorf/Sbg,Salzburger Strasse 4,5110,Oberndorf bei Salzburg,47.935624,12.94659
 428034,Shell Spittal/Drau ,Zgurner Strasse 2,9800,Spittal an der Drau,46.782823,13.534383
 428035,Shell Lannach,Radlpass Strasse 26,8502,Lannach,46.949105,15.337384
+431081,Shell Austria,WOLFGANGSEESTRASSE 31,5322,HOF B.SALZBURG,47.81692,13.22801
 431256,Shell Austria,HEILIGENSTAEDTERSTR. 60,1190,WIEN,48.24161,16.36138
 433274,F. LEITNER,Arzbegerstrasse 175,8162,Passail,47.278239,15.511518
 435627,Shell Austria,MITSCHASTRASSE 29,2130,MISTELBACH,48.56169,16.57694
@@ -1964,6 +1967,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1469506,Turmöl Quick,Hardtmuthgasse 51,1100,Wien,48.170174,16.370448
 1469526, Grosch,Wiener Straße 67,3433,Königstetten,48.3040595,16.153094799999963
 1469546,avanti - Wien Jedletzbergerstraße 7,Jedletzbergerstrasse 7,1110,Wien,48.17054,16.45797
+1469566,Shell Austria,SEESTADTSTRASSE 6,1220,WIEN,48.216561,16.505235
 1469587,MS Tankstelle Sunk,Saffen 64,3270,Scheibbs,48.0221766013797,15.15354155480732
 1469646,Turmöl,Hollergasse 7,1150,Wien,48.185346,16.324959
 1469666,BayWa Tankstelle,Scheibenstraße 2,6923,Lauterach,47.46296,9.72747
@@ -2023,7 +2027,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
