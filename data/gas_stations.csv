@@ -1378,6 +1378,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 311212,Brenner,Wagramer Straße 16,2213,Bockfließ,48.3577548,16.600584649999995
 319807,A1 Tankstelle Friedberg,Hochstraße 271,8240,Friedberg,47.429269,16.0592633
 323678,Hoftankstelle - Stöbermühle,Mühlweg 1,3492,Etsdorf,48.438084,15.741538
+329579,Shell Schiestl Egg am See,Eggerseeuferstrasse 85,9580,Drobollach,46.578141,13.936454
 330085,A1-direkt Ried im Innkreis,Riedauer Straße 35,4910,Ried im Innkreis,48.2174061,13.4939519
 349459,UNSER LAGERHAUS WESTENDORF,BAHNHOFSTRASSE 18,6363,WESTENDORF,47.4416027,12.2238335
 350470,"   SOMA      ""gut und günstig tanken...""",Fischbach 3,8654,Fischbach,47.442903,15.649836
@@ -1973,6 +1974,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1463026,Diskont Tankstelle,"35. Straße 2 (""Hofer Parkplatz"") ",3331,Kematen an der Ybbs,48.037782,14.778013
 1464796,BP Tankstelle Brandner KG,Tröpolach 177,9631,Jenig,46.6273845,13.2542347
 1466208,GENOL,Wirtschaftspark 1,2130,Mistelbach,48.563921,16.636163
+1467378,Shell Schiestl,Eggerseeuferstr.85,9580,Drobollach,46.0,13.0
 1467380,avanti - Dornbirn Lustenauer Straße 24,Lustenauer Strasse 24,6850,Dornbirn,47.40698,9.73476
 1467392,Turmöl Mauthausen,Poschacherstrasse 10,4310,Mauthausen,48.239588049949816,14.528217035799331
 1467404,D.Gertl Tankstelle GmbH,x,6241,Radfeld,47.4517224,11.9360568
@@ -2118,7 +2120,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
