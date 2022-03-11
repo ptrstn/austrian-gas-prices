@@ -433,7 +433,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 6634,Land lebt auf,St. Martin 88,8954,St. Martin,47.485918,13.983232
 6636,Shell,Wienerstraße 30,5301,Eugendorf,47.878444,13.1638944
 6637,Eni Service Station,Mattseer Landesstr. 4,5161,Elixhausen,47.8596157,13.059111
-6643,BP,Wildshut 31,5120,St.Pantaleon,48.0120073,12.8617339
+6643,TURMÖL,Wildshut 31,5120,St.Pantaleon,48.0120073,12.8617339
 6653,Diskont,Wiener Strasse 86,2860,Kirchschlag,47.4941774,16.2825461
 6661,Toms Kfz Teile,Wildendürnbach 110,2164,Wildendürnbach,48.756557,16.501615
 6664,Diskont-Tankstelle,Hauptstraße 121,7022,Schattendorf,47.712072,16.512151
@@ -1027,6 +1027,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 36206,Disk Tankstelle+TANKAUTOMAT,Talstrasse 25,6284,Ramsau,47.2233433,11.8808568
 36268,OMV - Laakirchen Reiterholz 3,Reiterholz 3,4663,Laakirchen,48.00466,13.85405
 36271,avanti - Wien Simmeringer Hauptstraße 5,Simmeringer Hauptstrasse 5,1110,Wien,48.18388,16.4059
+36366,SOCAR Kirchbach,Kirchbach 121,8082,Kirchbach in der Steiermark,46.9346848,15.6655956
 36546,avanti - Wildungsmauer Untere Carnuntumer Straße 6,Untere Carnuntumer Strasse 6,2403,Wildungsmauer,48.10775,16.80919
 36547,avanti - Ampflwang Siedlung 170,Siedlung 170,4843,Ampflwang,48.08075,13.56378
 36666,Shell - Eschlboeck,Untenbruck 17,4731,Prambachkirchen,48.3176716,13.9183929
@@ -2083,7 +2084,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
