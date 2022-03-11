@@ -970,6 +970,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 35611,BP,Ennser Strasse 10 A ,4400,Steyr,48.0546353,14.4214433
 35612,BP,An Der Raststation-Lkw ,3385,Voellerndorf,48.176784,15.5487265
 35616,BP,Gewerbeparkstr.On1 Gew.Park Stadlau ,1220,Wien,48.247683,16.466253
+35619,BP,Bruennerstr./Staatsgr. ,2165,Drasenhofen,48.758792,16.64742
 35622,BP,Hallerstrasse 100 ,6020,Innsbruck,47.2774823,11.42386
 35623,BP,Hauptstrasse 54 ,3021,Pressbaum,48.180025,16.0778655
 35626,BP,Gleisdorfer Strasse 60 ,8160,Weiz,47.2120772,15.6294475
@@ -1062,6 +1063,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 36268,OMV - Laakirchen Reiterholz 3,Reiterholz 3,4663,Laakirchen,48.00466,13.85405
 36271,avanti - Wien Simmeringer Hauptstraße 5,Simmeringer Hauptstrasse 5,1110,Wien,48.18388,16.4059
 36366,SOCAR Kirchbach,Kirchbach 121,8082,Kirchbach in der Steiermark,46.9346848,15.6655956
+36406,Shell Tankstelle,Sankt Pankraz 70,4572,Sankt Pankraz,47.773466,14.177733
 36546,avanti - Wildungsmauer Untere Carnuntumer Straße 6,Untere Carnuntumer Strasse 6,2403,Wildungsmauer,48.10775,16.80919
 36547,avanti - Ampflwang Siedlung 170,Siedlung 170,4843,Ampflwang,48.08075,13.56378
 36666,Shell - Eschlboeck,Untenbruck 17,4731,Prambachkirchen,48.3176716,13.9183929
@@ -1775,6 +1777,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354704,JET TANKSTELLE,GEWERBEPARK NORD 3,8431,GRALLA,46.804627,15.557541
 1354707,avanti - Krems an der Donau Förthofer Donaulände 8,Foerthofer Donaulaende 8,3500,Krems an der Donau,48.39735,15.56875
 1354709,SCHNELL UND GUENSTIG TANKSTELLE,MARKTGASSE 2,2700,WIENER NEUSTADT,47.804291,16.236956
+1354710,OMV - Hobersdorf Wiener Straße 91,Wiener Strasse 91,2193,Hobersdorf,48.5728,16.6394
 1354711,JET TANKSTELLE,LUSTENAUERSTRASSE 2,6840,GÖTZIS,47.344695,9.656679
 1354712,OMV - Frauenhofen Wiener Straße 6,Wiener Strasse 6,3580,Frauenhofen,48.66569,15.63271
 1354713,SCHNELL UND GUENSTIG TANKSTELLE,INDUSTRIEPARKSTRASSE 1,2130,MISTELBACH,48.560945,16.576985
