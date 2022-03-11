@@ -1196,6 +1196,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 100404,OMV - Pettneu am Arlberg Schnann-Gewerbezone 150,Schnann-Gewerbezone 150,6574,Pettneu am Arlberg,47.1489,10.3743
 101593,OMV - Sankt Johann im Pongau Wagrainer Straße 11,Wagrainer Strasse 11,5600,Sankt Johann im Pongau,47.34862,13.20651
 108726,Wema  GmbH,Zeihenbühl 435,6951,Lingenau,47.4495768,9.9046295
+109233,JOBA-Diskont Tanken,Hauptstrasse 48,3140,Pottenbrunn,48.234907,15.6905083
 112651,AVIA XPress (unser Service: Luft und Wasser),Tavernplatz 9a,3650,Pöggstall,48.317241,15.1978073
 117653,A1-direkt St. Pantaleon-Erla,Alt-Pyburg 1,4303,St. Pantaleon-Erla,48.2309077,14.5288888
 119702,F. LEITNER - Trost,Zwaring 33,8142,Zwaring,46.912819,15.410008
@@ -1452,6 +1453,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 450178,Shell Austria,HALLEINER LANDESSTRASSE 12,5411,OBERALM,47.69183,13.10054
 450179,Shell Austria,AMRASERSEE-STRASSE 56,6020,INNSBRUCK,47.26338,11.42971
 450348,Shell Austria,UMFAHRUNGSSTRASSE 14,9100,VOELKERMARKT,46.66237,14.62665
+450349,Shell Austria,MARIA PFEIFERSTRASSE 6,8055,SEIERSBERG,47.01319,15.40898
 450350,Shell Austria,DARINGERGASSE 1A,1190,WIEN,48.24722,16.33481
 450352,Shell Austria,MOOS 66,5431,KUCHL,47.6347,13.13875
 450523,Shell Austria,PFENNINGGELDG 2/ECKE HERBSTSTRASSE,1160,WIEN,48.20786,16.31328
@@ -1476,6 +1478,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 556156,Shell Prutz,Reschen Strasse 2,6522,Prutz,47.078642,10.661713
 556157,Turmöl - Pöllau,Grazer Strasse 292,8225,Pöllau,47.29917,15.83739
 586790,Turmöl Quick,Stallhofen Nr.16,8152,Stallhofen,47.0504691,15.2135246
+591002,"PINK - so pink, so clever",Margaretha-Eder-Straße 20,4523,Neuzeug,48.0545437,14.341474
 592851,eni,Marktstraße 19,5611,Großarl,47.2428529,13.2059728
 605978,Turmöl Gold,Steinamangerstrasse 8,7423,Pinkafeld,47.3635786,16.1251255
 620135,Turmöl,Mold 1a,3580,Horn,48.6390981,15.7066824
@@ -1688,6 +1691,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1317946,Turmöl Quick,Hainfelderstraße 1,2564,Weissenbach,47.9843422,16.0491348
 1317947,Turmöl Quick,Druckereistraße 5,4810,Gmunden,47.9253052,13.7884062
 1318663,Freie Tankstelle,Fisching 45,8741,Weißkirchen,47.161529,14.7363227
+1323706,Turmöl,St.Pöltnerstrasse 1,3204,Kirchberg,48.0266295,15.4348698
 1324987,ENI,Drautalstrasse 14,9710,Neu-Feffernitz,46.69,13.68
 1325346,IQ,Waidhofnerstraße 3,3842,Thaya,48.8541601,15.2850218
 1329486,Turmöl Quick,Klagenfurterstraße 19,9220,Velden,46.6179668,14.0501651
@@ -1933,6 +1937,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354942,JET TANKSTELLE,JEDLETZBERGERSTRASSE 18,1110,WIEN,48.168847,16.459643
 1354943,JET TANKSTELLE,FACHLEUTNERSTRASSE 1,2020,HOLLABRUNN,48.579845,16.073274
 1354944,OMV - Wien Triester Straße 38,Triester Strasse 38,1100,Wien,48.1774,16.35653
+1354945,JET TANKSTELLE,HAUPTSTRASSE 88,3021,PRESSBAUM,48.177604,16.06147
 1354946,avanti - Wien Brünner Straße 420,Bruenner Strasse 420,1210,Wien,48.31144,16.43012
 1354947,JET TANKSTELLE,BAHNHOFSTRASSE 46,4100,OTTENSHEIM,48.337386,14.176568
 1354948,JET TANKSTELLE,WALLENMAHD 22,6850,DORNBIRN,47.39649,9.731134
