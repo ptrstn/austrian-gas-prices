@@ -254,6 +254,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 4373,LH Trag,Trag 59,8541,Schwanberg,46.7684516,15.2362533
 4377,LH Ehrenhausen,Gamlitzer Straße 100,8461,Ehrenhausen,46.7200306,15.5854964
 4380,LH Unterhaag,Unterhaag 79,8455,Oberhaag,46.6859779,15.357285
+4381,LH Gleinstätten,Gleinstätten 136,8443,Gleinstätten,46.754897,15.3604132
 4385,iQ,Kammerbach 36,3683,Yspertal,48.3313114,15.0615705
 4387,Turmöl Tankstelle WiMMER,Haslau 10,4715,Taufkirchen a.d.Tr.,48.2698808,13.7432926
 4398,Bp,Linzerstraße 52,4780,Schärding,48.4511296,13.4359547
@@ -1773,6 +1774,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354740,OMV - Hagenbrunn Brünner Straße 31,Bruenner Strasse 31,2201,Hagenbrunn,48.33608,16.46097
 1354741,MAXI TANK TANKSTELLE,GUNSKIRCHNERSTRASSE 7,4600,WELS,48.147172,13.974008
 1354742,avanti - Korneuburg Wiener Straße 44,Wiener Strasse 44,2100,Korneuburg,48.33832,16.33873
+1354743,JET TANKSTELLE,GEWERBESTR. 14,8605,KAPFENBERG,47.467578,15.340207
 1354744,avanti - Langenlois Wiener Straße 53,Wiener Strasse 53,3550,Langenlois,48.47614,15.69817
 1354745,JET TANKSTELLE,WERKSTRASSE 14,2630,TERNITZ,47.711667,16.040511
 1354747,JET TANKSTELLE,BUNDESSTRASSE 18,5600,ST JOHANN IM PONGAU,47.350359,13.194386
