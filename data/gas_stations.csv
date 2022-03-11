@@ -353,6 +353,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 6210,Pamer GmbH,Wirtschaftsweg 2,2424,Zurndorf,47.9839221,17.0054015
 6211,Lagerhaus-Genol,Bundesstraße 29,7093,Jois,47.9649077,16.7972276
 6212,Shell-Tankstelle Schermann,Eichbergerstr. 1/1,8234,Rohrbach/L. ,47.391348,15.994549
+6213,Genol RLH-Süd-Bgld,RLH Süd   D-Ehrensdorf,7522,D-Ehrensdorf,47.096546,16.414958
 6214,Lagerhaus-Genol,Oberer Satz 4,7100,Neusiedl am See,47.9490506,16.8489615
 6216,LAGERHAUS Genol mit Tankkartensystem,Hauptstraße 9,2444,Seibersdorf,47.9597341,16.5188009
 6217,Lagerhaus-Genol,Triftstraße 24,7121,Weiden,47.9276196,16.874917
@@ -365,18 +366,23 @@ station_id,name,address,postal_code,city,latitude,longitude
 6225,Lagerhaus-Genol,Andauerstraße 1,7131,Halbturn,47.8702538,16.9760281
 6226,Lagerhaus-Genol,Rübenplatz 1,7161,St Andrae,47.7806754,16.9475997
 6228,Lagerhaus-Genol,Lagerplatz 2,7162,Tadten,47.7637837,16.9905274
+6229,Genol RLH-Süd-Bgld,RLH Süd  Kukmirn,7543,Kukmirn,47.081352,16.216153
 6230,GENOL-LH EFERDING-OÖ. MITTE eGen,BAHNHOFSTRASSE 25,4082,ASCHACH AN DER DONAU,48.36248,14.009414
 6232,Lagerhaus-Genol,Bahnstraße 115,7151,Wallern,47.7351682,16.9296436
 6233,GENOL-LH EFERDING-OÖ. MITTE eGen,SCHLOSSSTRASSE 51,4072,ALKOVEN,48.288005,14.11491
+6234,Genol RLH-Süd-Bgld,RLH Süd   Moschendorf,7540,Moschendorf,47.05784,16.475544
 6235,Lagerhaus-Genol,Bahnstraße 39,7152,Pamhagen,47.7027354,16.9035419
 6237,Lagerhaus-Genol,Kirchengasse 70,7143,Apetlon,47.7452956,16.8292031
+6239,Genol RLH-Süd-Bgld,RLH Süd   Bildein,7521,Bildein,47.130637,16.466467
 6240,GENOL-LH EFERDING-OÖ. MITTE eGen,BERGERSTRASSE 1,4083,HAIBACH OB DER DONAU,48.416328,13.916588
 6242,Lagerhaus-Genol,Apetlonerstraße 38,7142,Illmitz,47.7601503,16.8077144
 6243,i-diskont Menhart - Tankstelle mit Bedienung,Untere Landstraße 288,3511,Furth/G.,48.3769549,15.6103479
 6245,GENOL-LH EFERDING-OÖ. MITTE eGen,GRIESKIRCHNERSTRASSE 6,4731,PRAMBACHKIRCHEN,48.310987,13.903348
+6251,Genol RLH-Süd-Bgld,RLH Süd  Oberwarter Straße 244,7535,St.Michael,47.123815,16.266455
 6252,Genol,Raiffeisenstraße 19,3902,Vitis,48.7566554,15.1753462
 6300,Lagerhaus - Genol,Umseerstrasse 1,3040,Neulengbach,48.2011233,15.8987035
 6304,Genol RLH-Süd-Bgld,RLH Süd    Grazer Straße 33,7571,Rudersdorf,47.054979,16.110935
+6306,Genol RLH-Süd-Bgld,RLH Süd   Tobaj,7540,Tobaj,47.088866,16.305749
 6322,Stöber Tankstelle (unabhängige Tankstelle),Pfaffing 8,3386,Hafnerbach,48.213178,15.50982
 6323,Genol-Lagerhaus Thermenland Fürstenfeld, Fürstenfeld Jahnstrasse 5,8280,Fürstenfeld,47.0393225,16.0852794
 6325,Walter,Unterauersbach 8,8342,Unterauersbach,46.86577,15.77547
