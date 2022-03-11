@@ -70,6 +70,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 489,OMV - Wolfsberg Grazer Straße 7,Grazer Strasse 7,9400,Wolfsberg,46.84742,14.84422
 491,OMV - Bad St. Leonhard im Lavanttal Klagenfurter Straße 230,Klagenfurter Strasse 230,9462,Bad St. Leonhard im Lavanttal,46.96214,14.79496
 492,avanti - Klagenfurt St.Veiter Straße 258,St.Veiter Strasse 258,9020,Klagenfurt,46.65337,14.31387
+493,OMV - Sankt Andrä Framrach 17,Framrach 17,9433,Sankt Andrae,46.7449,14.82285
 495,OMV - Braunau Salzburger Straße 99,Salzburger Strasse 99,5280,Braunau,48.24673,13.0403
 496,OMV - Achenkirch Achenseestraße B181 385a,Achenseestrasse B181 385a,6215,Achenkirch,47.529,11.708
 501,avanti - Ort im Innkreis Kammer 19,Kammer 19,4974,Ort im Innkreis,48.31724,13.42524
@@ -2349,6 +2350,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474218,eni,Althanstrasse 14,1090,Wien,48.229354,16.358291
 1474219,eni,Jägerstrasse 60,1200,Wien,48.235,16.37054
 1474222,eni,Salzburger Strasse 42,4840,Vöcklabruck,48.004059,13.638663
+1474225,eni,Landstrasse 37,5230,Mattighofen,48.115024,13.152329
 1474226,eni,Leitenstrasse 30,4812,Pinsdorf,47.932972,13.777175
 1474227,eni,Linzer Strasse 15,4072,Alkoven,48.28863,14.11781
 1474233,eni,Am Bäckerberg 1a,4490,St. Florian,48.21373,14.402403
