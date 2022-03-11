@@ -561,6 +561,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 7806,Eibl Werner,Gaißau 155,5425,Krispl,47.7120404,13.194849
 7808,Hirschmugl,Gewerbepark Nord 1,8431,Gralla,46.804271,15.555675
 7812,Vivod GmbH,Laaberstrasse 1,2384,Breitenfurt,48.1381917,16.2038779
+7815,Fuchs,Grazerst. 85,8232,Grafendorf,47.3279528,15.9907409
 7818,Posauner Petrol,Klamm 14A,5621,St. Veit im Pongau,47.2976853,13.081528
 7820,car&care Tankstelle Konrad Service-Center,Triester Straße 219,8073,Feldkirchen,46.9938723,15.4548317
 7822,Lagerhaus GENOL,Bahnstraße 3,3380,Pöchlarn,48.208717,15.212052
@@ -652,6 +653,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 33339,IQ Tankstelle,Salzkammergutstrasse 3,4844,Regau,47.991065,13.684733
 33340,Shell Tankstelle,Naarner Strasse 73,4320,Perg,48.239517,14.626021
 33343,Eni Tankstelle,Bundesstrasse 130,2102,Bisamberg,48.332867,16.345122
+33345,IQ Tankstelle,Felixstrasse 2-12,7210,Mattersburg,47.736046,16.406848
 33348,Shell Tankstelle,Siemensstrasse 105b,1210,Wien,48.266989,16.428849
 33352,Shell Tankstelle,Umfahrung-Sued 1,4150,Rohrbach,48.565037,13.985382
 33353,Shell Tankstelle,Linzer Strasse 44,4240,Freistadt,48.502303,14.501686
@@ -665,6 +667,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 33374,SOCAR Bruck an der Mur,Wiener Straße 72,8600,Bruck an der Mur,47.4238817,15.2724008
 33376,SOCAR Plüddemanngasse,Plüddemanngasse 99,8010,Graz,47.0611267,15.4683001
 33377,SOCAR Traisen,Mariazeller Straße 6,3160,Traisen,48.056097,15.60524
+33378,SOCAR Kaindorf,Grazer Straße 134,8430,Kaindorf,46.794066,15.538406
 33380,SOCAR Stockerau,Eduard-Rösch-Straße 69-73,2000,Stockerau,48.3872641,16.226451
 33381,SOCAR Wien-Endresstraße,Endresstraße 69,1230,Wien,48.1486138,16.2777595
 33383,A1 Tankstelle Leoben-II,Kärntner Straße 149,8700,Leoben,47.3783142,15.1024084
@@ -737,6 +740,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 33605,AVIA XPress (unser Service: Luft und Wasser),Nr. 44,3925,Arbesbach ,48.4936271,14.9520745
 33606,AVIA XPress (unser Service: Luft und Wasser),Schremser Straße 50,3950,Gmünd,48.7693868,14.9982722
 33607,AVIA,Pöggstallerstraße 1-3,3631,Ottenschlag,48.4242584,15.2183151
+33608,AVIA ,Kammerhof 7,3202,Hofstetten,48.1024227,15.5196428
 33609,AVIA,Gewerbeparkstraße 1,3500,Krems,48.4052349,15.6549839
 33610,AVIA XPress (unser Service: Luft und Wasser),Linzer Straße 14,4650,Edt/Lambach,48.095318,13.8926439
 33611,AVIA mit Bedienung und Tankautomat,Franz Diebl-Str. 44,3921,Langschlag,48.573888,14.8870475
@@ -1699,6 +1703,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1317946,Turmöl Quick,Hainfelderstraße 1,2564,Weissenbach,47.9843422,16.0491348
 1317947,Turmöl Quick,Druckereistraße 5,4810,Gmunden,47.9253052,13.7884062
 1318663,Freie Tankstelle,Fisching 45,8741,Weißkirchen,47.161529,14.7363227
+1322785,Shell Liezen,Salzburger Strasse 35,8940,Liezen,47.5682389,14.2289522
 1323706,Turmöl,St.Pöltnerstrasse 1,3204,Kirchberg,48.0266295,15.4348698
 1324987,ENI,Drautalstrasse 14,9710,Neu-Feffernitz,46.69,13.68
 1325346,IQ,Waidhofnerstraße 3,3842,Thaya,48.8541601,15.2850218
@@ -2094,6 +2099,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1470186,Diskont Tankstelle,"Dalistraße 2 (""Hofer-Parkplatz"")",4600,Wels,48.183581,14.025047
 1470206,JET TANKSTELLE,ST. POELTNER STRASSE 1 C,3150,WILHELMSBURG,48.11764,15.608591
 1470246,Disk,Salzburgerstrasse 18,6380,St. Johann,47.526113,12.424003
+1470247,M3 Lafnitz,Lafnitz 224,8233,Lafnitz,47.369795,16.021117
 1470266,INN-TANK,Kirchbichlerstr. 21,6336,Langkampfen,47.535122,12.093432
 1470267,Diskont Tankstelle,"Donaufelderstraße 137 (""Hofer-Parkplatz"")",1210,Wien,48.252459,16.427015
 1470288,Genol,Hauptstraße 117,2126,Ladendorf,48.532292,16.479712
@@ -2129,7 +2135,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
