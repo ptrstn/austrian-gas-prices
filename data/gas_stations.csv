@@ -1685,6 +1685,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1217840,Turmöl R.U.M. Jöchlinger GesmbH,Wienerstrasse 5,2203,Eibesbrunn,48.3602376,16.4917678
 1221668,eni AUTOMATIC-Tankstelle 0-24h bei Washplex Linz/Industriezeile,Industriezeile 58,4020,Linz,48.307117,14.315913
 1225807,M3 Feldbach,Grazer Straße 19,8330,Feldbach,46.9541186,15.8834315
+1231297,Shell Abersee,Gschwendt 213,5342,Abersee,47.7197681,13.3932863
 1231298,"PINK - so pink, so clever",Harterding 20,4952,Weng,48.2479956,13.1899036
 1236279,Turmöl Quick,Olsastrasse 21,9360,Friesach,46.9523135,14.4154186
 1246499,Turmöl Quick,Bahnstraße 30,7210,Mattersburg,47.7366435,16.4047107
@@ -2143,7 +2144,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
