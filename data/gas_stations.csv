@@ -661,6 +661,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 33384,SOCAR Wien-Altmannsdorferstraße,Altmannsdorfer Straße 200a,1230,Wien,48.1400585,16.3237024
 33389,SOCAR Klagenfurt-Pischeldorferstraße,Pischeldorferstraße 155,9020,Klagenfurt,46.6378812,14.3332067
 33390,SOCAR Graz-Grabenstraße,Grabenstraße 166,8010,Graz,47.091185,15.430296
+33391,SOCAR Seibersdorf,Grazer Straße 97,8232,Seibersdorf,47.32786092847619,15.991220646103232
 33395,SOCAR Perchtoldsdorf,Ketzergasse 191a,2380,Perchtoldsdorf,48.1301731,16.2919418
 33396,SOCAR Krumpendorf,Hauptstraße 180,9201,Krumpendorf,46.6266886,14.2080065
 33404,A1 Tankstelle Feistritz im Rosental,Hauptstraße 197,9181,Feistritz im Rosental,46.524677,14.1636058
@@ -1406,6 +1407,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 437498,Shell Austria,HADIKGASSE 128-134,1140,WIEN,48.190443,16.294513
 447952,Shell Austria,HUETTELBERGSTRASSE 4,1140,WIEN,48.20271,16.25757
 448121,Shell Austria,LINZER STR 2A,1150,WIEN,48.19039,16.32173
+448795,Shell Austria,STEINFELDERSTRASSE 12,2344,MARIA ENZERSDORF,48.09087,16.30905
 448796,Shell Austria,ETZELSHOFEN 125,4975,SUBEN,48.40061,13.42603
 448798,Shell Austria,ANDIESEN 8,4774,ST. MARIENKIRCHEN,48.39134,13.42525
 448800,Shell Austria,ST.JULIEN-STRASSE 33A,5020,SALZBURG,47.8109,13.04281
@@ -2075,7 +2077,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
