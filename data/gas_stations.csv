@@ -493,6 +493,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 7609,Genol,Linzerstraße  99,3925,Arbesbach,48.492093,14.9521204
 7610,TK Tankstellen GmbH,Studa 3a,6800,Feldkirch,47.2690136,9.6042398
 7611,TK Tankstellen GmbH,Bremschlstrasse 37,6706,Bürs,47.1478021,9.8192284
+7612,Genol,Yspertal   40,3683,Yspertal/ Altenmarkt,48.2772633,15.0637296
 7613,Lagerhaus,Bahnstrasse 4,9141,Eberndorf,46.5900375,14.6376837
 7615,Shell,Zwettlerstraße  16,3542,Gföhl,48.5176115,15.4851752
 7616,TK Tankstellen GmbH,Zürs 219,6763,Zürs,47.1714442,10.1627547
@@ -660,6 +661,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 33366,IQ Tankstelle,Hauptstrasse 36,4551,Ried im Traunkreis,48.025668,14.075224
 33368,IQ Tankstelle,Mauthausner Strasse 22,4222,St.Georgen an der Gusen,48.270463,14.452255
 33370,IQ Tankstelle,Kenading,4761,Enzenkirchen,48.4114,13.6347
+33376,SOCAR Plüddemanngasse,Plüddemanngasse 99,8010,Graz,47.0611267,15.4683001
 33377,SOCAR Traisen,Mariazeller Straße 6,3160,Traisen,48.056097,15.60524
 33380,SOCAR Stockerau,Eduard-Rösch-Straße 69-73,2000,Stockerau,48.3872641,16.226451
 33381,SOCAR Wien-Endresstraße,Endresstraße 69,1230,Wien,48.1486138,16.2777595
@@ -1447,6 +1449,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 449828,Shell Austria,NEUSIEDLER STRASSE 82,7000,EISENSTADT,47.84621,16.54064
 449829,Shell Austria,ALPENSTRASSE 2,5081,ANIF B.SALZBURG,47.74943,13.06947
 449830,Shell Austria,KITZBUEHLSTRASSE 73,6365,KIRCHBERG,47.44879,12.32443
+450001,Shell Austria,NUMMER 46,8951,TRAUTENFELS,47.522776,14.083286
 450002,Shell Austria,WAGRAMER STRASSE 203,1210,WIEN,48.26443,16.45486
 450003,Shell Austria,SALZBURGERSTRASSE 2,4053,HAID B.ANSFELDEN,48.20488,14.24781
 450004,Shell Austria,SCHWEFEL 40,6850,DORNBIRN-SCHWEFEL,47.4256,9.7414
@@ -2122,7 +2125,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
@@ -2286,6 +2289,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474107,eni,Schwefel 70a,6850,Dornbirn,47.42974,9.73995
 1474108,eni,Rheinstrasse 20,6971,Bregenz-Hard,47.488611,9.702186
 1474110,eni,Hohenemser Strasse 1,6890,Lustenau,47.419113,9.660987
+1474113,eni,Klagenfurter Strasse 42a,9100,Völkermarkt,46.65927,14.61731
 1474114,eni,Tiroler Strasse 141,9500,Villach,46.632043,13.824202
 1474117,eni,Villacher Strasse 21,9220,Velden,46.613684,14.03577
 1474118,eni,Tibitsch 84,9212,Techelsberg am Wörthersee,46.63023943,14.09422545
@@ -2314,6 +2318,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474193,eni,Italiener Strasse 57,9500,Villach,46.603335,13.840528
 1474197,eni,Huben 40,9971,Matrei in Osttirol,46.9346,12.575
 1474199,eni,Rosegger Strasse 15,9220,Velden,46.60427,14.035324
+1474201,eni24,Bad Eisenkappel 196,9135,Bad Eisenkappel,46.4898,14.5898
 1474205,eni,A2 Süd Pack Km 235,9451,Preitenegg,46.95825664,14.91269847
 1474206,eni,Klagenfurterstrasse 42,9170,Ferlach,46.528588,14.291352
 1474207,eni,Huttengasse 73-75,1160,Wien,48.21114,16.31069
