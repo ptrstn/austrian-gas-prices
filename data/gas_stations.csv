@@ -932,6 +932,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 35466,,Payerstetten 6,3652,Leiben,48.2496835,15.2480109
 35506,Turmöl Quick,Zeltenschlagstraße 2,8700,Leoben,47.3789195,15.0887587
 35549,BP,Dorfstrasse 148 ,6450,Soelden,46.963209,11.007721
+35550,BP,Schulstrasse 8 ,9562,Himmelberg,46.752109,14.035099
 35552,BP,Harderstrasse 84 ,6972,Fussach,47.467528,9.658248
 35566,BP,Adsdorf 13 ,4113,St. Martin Im Muehlkreis,48.4338571,14.0432299
 35567,BP,Franz Josefskai/Morzinpl ,1010,Wien,48.2123537,16.3743119
@@ -946,6 +947,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 35582,BP,Geiselbergstr.47/Hauffg.35 ,1110,Wien,48.1748413,16.408093
 35584,BP,Leopoldauerstr.7 ,2201,Gerasdorf,48.294044,16.467783
 35587,BP,Pragerstr./Hornerstr. ,2000,Stockerau,48.386155,16.198568
+35589,BP,Wienerstrasse ,7100,Neusiedl/See,47.963175,16.836934
 35592,BP,Froehlichgasse 45 ,8010,Graz,47.05580667,15.44821175
 35595,BP,Im Buch 43 ,6840,Goetzis,47.339767,9.6516261
 35597,BP,Schnellstrasse S 6 ,2620,Natschbach,47.7067169,16.1023164
@@ -1340,6 +1342,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 248036,eni,Neusiedler Strasse 15,2340,Mödling,48.081721,16.284519
 248037,eni,Ötscherlandstrasse 48,3292,Gaming,47.91926,15.07857
 248038,eni,Fischauer Gasse 217,2700,Wr. Neustadt,47.823034,16.215393
+249929,Shell Knittelfeld,Wiener Strasse 17,8720,Knittelfeld,47.21741446,14.82705871
 250098,Diskont Tankstelle,"Wiener Straße 72 (""Hofer Parkplatz"")",2500,Baden,48.013001,16.256536
 255985,123tanken.at - Tankstellenbetriebs & Service GmbH,Rotensterngasse 25,1020,Wien,48.2172366,16.3844335
 259032,Diskont Tankstelle,"Gewerbestraße 2 (""Am Hofer Parkplatz"")",3160,Traisen,48.049897,15.612339
