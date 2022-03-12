@@ -56,6 +56,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 435,OMV - Ried im Oberinntal Reschenstraße 299,Reschenstrasse 299,6531,Ried im Oberinntal,47.05741,10.65375
 442,OMV - Neumarkt Kärntner Straße 22,Kaerntner Strasse 22,8820,Neumarkt,47.06752,14.43023
 447,OMV - Hermagor Gailtalstraße 12,Gailtalstrasse 12,9620,Hermagor,46.62964,13.37877
+448,OMV - Feldkirchen 10. Oktober-Straße 23,10. Oktober-Strasse 23,9560,Feldkirchen,46.72299,14.09689
 449,OMV - Viktring Keutschacher Straße 135,Keutschacher Strasse 135,9073,Viktring,46.59189,14.27158
 450,OMV - Wolfsberg Klagenfurter Straße 16,Klagenfurter Strasse 16,9400,Wolfsberg,46.82775,14.83911
 453,avanti - Alkoven Strass 16,Strass 16,4072,Alkoven,48.28792,14.07613
@@ -666,6 +667,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 33343,Eni Tankstelle,Bundesstrasse 130,2102,Bisamberg,48.332867,16.345122
 33345,IQ Tankstelle,Felixstrasse 2-12,7210,Mattersburg,47.736046,16.406848
 33348,Shell Tankstelle,Siemensstrasse 105b,1210,Wien,48.266989,16.428849
+33350,Shell Tankstelle,Hauserstrasse 10,4723,Natternbach,48.394626,13.749498
 33352,Shell Tankstelle,Umfahrung-Sued 1,4150,Rohrbach,48.565037,13.985382
 33353,Shell Tankstelle,Linzer Strasse 44,4240,Freistadt,48.502303,14.501686
 33355,Eni Tankstelle,Linzer Strasse 24,4070,Eferding,48.302104,14.029778
@@ -676,6 +678,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 33368,IQ Tankstelle,Mauthausner Strasse 22,4222,St.Georgen an der Gusen,48.270463,14.452255
 33370,IQ Tankstelle,Kenading,4761,Enzenkirchen,48.4114,13.6347
 33374,SOCAR Bruck an der Mur,Wiener Straße 72,8600,Bruck an der Mur,47.4238817,15.2724008
+33375,A1 Tankstelle Knittelfeld,Kärntner Straße 61a,8720,Knittelfeld,47.2101079,14.8150181
 33376,SOCAR Plüddemanngasse,Plüddemanngasse 99,8010,Graz,47.0611267,15.4683001
 33377,SOCAR Traisen,Mariazeller Straße 6,3160,Traisen,48.056097,15.60524
 33378,SOCAR Kaindorf,Grazer Straße 134,8430,Kaindorf,46.794066,15.538406
@@ -1101,6 +1104,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 38966,Pagitz GesmbH,Unterferlach 34,9170,Ferlach,46.541226,14.313791
 39266,Discont Tankstelle,Linzerstrasse 9,4650,Edt,48.0975489,13.8952541
 39306,LKW - Tankstelle,Schwarzenberg 168,4164,Schwarzenberg,48.7363868,13.8195391
+39406,SOCAR Seiersberg,Kärntner Straße 522,8054,Graz,47.0137645,15.3980945
 39546,Turmöl Quick,Umfahrungsstraße 2,8570,Voitsberg,47.0354119,15.1698067
 39666,speed-DISKONT-automatic Ennsdorf,Mauthausener Str. 17,4482,Ennsdorf bei Enns,48.2253635,14.5205096
 39706,Turmöl Quick,Linzerstraße 22,4840,Vöcklabruck,48.0036408,13.6621207
@@ -2164,7 +2168,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
