@@ -34,6 +34,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 284,OMV - Linz Hafenstraße 8,Hafenstrasse 8,4020,Linz,48.31554,14.30166
 314,OMV - Spittal an der Drau Villacher Straße 50,Villacher Strasse 50,9800,Spittal an der Drau,46.79163,13.50961
 320,OMV - Reith bei Seefeld Krinz 27,Krinz 27,6100,Reith bei Seefeld,47.32402,11.19909
+322,OMV - Salzburg Schiller Straße 28,Schiller Strasse 28,5020,Salzburg,47.82232,13.03982
 334,OMV - Wien Sterngasse 13,Sterngasse 13,1230,Wien,48.14891,16.33836
 335,avanti - Orth an der Donau Wiener Straße 76,Wiener Strasse 76,2304,Orth an der Donau,48.14992,16.68739
 351,OMV - Gföhl Langenloiser Straße 85,Langenloiser Strasse 85,3542,Gfoehl,48.51208,15.51044
