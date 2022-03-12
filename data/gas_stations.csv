@@ -696,6 +696,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 33391,SOCAR Seibersdorf,Grazer Straße 97,8232,Seibersdorf,47.32786092847619,15.991220646103232
 33395,SOCAR Perchtoldsdorf,Ketzergasse 191a,2380,Perchtoldsdorf,48.1301731,16.2919418
 33396,SOCAR Krumpendorf,Hauptstraße 180,9201,Krumpendorf,46.6266886,14.2080065
+33400,SOCAR Schwanberg,Deutschlandsberger Straße 6,8541,Schwanberg,46.7601246,15.2069591
 33404,A1 Tankstelle Feistritz im Rosental,Hauptstraße 197,9181,Feistritz im Rosental,46.524677,14.1636058
 33405,A1 Tankstelle Weitensfeld,Kaindorf 27,9344,Weitensfeld,46.8510669,14.1672939
 33408,SOCAR Gmunden,Mühlwangstraße 20,4810,Gmunden,47.9206129,13.8053132
@@ -1636,6 +1637,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1013770,SOCAR Lebring,Leibnitzer Straße 76,8403,Lebring,46.8465923,15.5377049
 1013942,CP - Der Preis ist heiß!,Landstraße 11-13,7034,Zillingtal,47.8131905,16.4100043
 1037136,Lagerh,Hauptschulstraße 2,9523,Landskron,46.627642,13.8801489
+1038360,SOCAR Paurach,Paurach 49,8330,Paurach,46.9672942,15.8414639
 1038732,ENI,Gesäusestraße,8940,Liezen,47.5593257,14.2532636
 1048950,RAG.ERDGAS.MOBIL,Schwarzmoos 28,4851,Gampern,48.01639,13.57391
 1048951,RAG.ERDGAS.MOBIL,Krift 51,4550,Kremsmünster,48.021777,14.121975
@@ -1892,6 +1894,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354821,JET TANKSTELLE,KAISER FRANZ JOSEF STRASSE 40,6845,HOHENEMS,47.35725,9.68315
 1354822,OMV - Eisenstadt Mattersburger Straße 28,Mattersburger Strasse 28,7000,Eisenstadt,47.83317,16.52318
 1354823,JET TANKSTELLE,MÜNCHNER BUNDESSTR. 15,5020,SALZBURG,47.817898,13.018664
+1354824,OMV - Kottingbrunn Badener Straße 1,Badener Strasse 1,2542,Kottingbrunn,47.9493,16.22221
 1354825,JET TANKSTELLE,INNSBRUCKER BUNDESSTRASSE 65,5020,SALZBURG,47.801351,13.01488
 1354826,OMV - Sankt Pölten Mariazeller Straße 95,Mariazeller Strasse 95,3100,Sankt Poelten,48.18769,15.61753
 1354827,JET TANKSTELLE,SALURNERSTRASSE 61,6330,KUFSTEIN,47.574301,12.157852
