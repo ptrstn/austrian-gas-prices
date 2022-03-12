@@ -2169,7 +2169,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
@@ -2305,6 +2305,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474070,eni,Amraser Seestrasse 64,6020,Innsbruck-Amras,47.26347,11.43327
 1474071,eni,Brennerautobahn West Berg,6143,Matrei,47.13996,11.44809
 1474072,eni,Allgäuer Strasse 66,6600,Reutte,47.49908,10.72013
+1474073,eni,Salzburger Strasse 26,6112,Wattens,47.2919,11.59919
 1474075,eni,Salzburger Strasse 23,6380,St.Johann,47.52709,12.42416
 1474076,eni,Gewerbepark Süd 12,6330,Kufstein,47.56627,12.15626
 1474077,eni,Tiroler Strasse 2,6424,Silz,47.269103,10.939677
@@ -2385,6 +2386,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474250,eni,Pirching 97,8200,Hofstätten a. d. Raab,47.089452,15.73237
 1474253,eni,Gewerbepark Nord Nr. 11,8431,Gralla,46.80548,15.56009
 1474256,eni,Alte Poststrasse 87,8020,Graz,47.076647,15.407399
+1474267,eni,Wiener Strasse 46,2100,Korneuburg,48.337485,16.33953
 1474268,eni,Oberegging 54,3254,Bergland,48.158477,15.111832
 1474269,eni,Wienerstrasse 94,2620,Neunkirchen,47.728592,16.092987
 1474271,eni,Braitnerstrasse 62a,2500,Baden,48.001929,16.241614
