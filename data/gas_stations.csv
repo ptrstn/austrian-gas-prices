@@ -30,6 +30,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 270,OMV - Kapfenberg Krottendorf 3b,Krottendorf 3b,8605,Kapfenberg,47.45024,15.33985
 276,OMV - Obertrum Salzburger Straße 2,Salzburger Strasse 2,5162,Obertrum,47.93554,13.08069
 277,OMV - Salzburg Innsbrucker Bundesstraße 142,Innsbrucker Bundesstrasse 142,5020,Salzburg,47.79796,13.00609
+279,OMV - Salzburg Vogelweider Straße 86,Vogelweider Strasse 86,5020,Salzburg,47.81696,13.05364
 280,OMV - Sankt Michael im Lungau Bundesstraße 112,Bundesstrasse 112,5582,Sankt Michael im Lungau,47.09406,13.67553
 284,OMV - Linz Hafenstraße 8,Hafenstrasse 8,4020,Linz,48.31554,14.30166
 314,OMV - Spittal an der Drau Villacher Straße 50,Villacher Strasse 50,9800,Spittal an der Drau,46.79163,13.50961
@@ -1439,6 +1440,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 414541,Shell Austria,KREMSERSTRASSE 24 A,2070,RETZ,48.75353,15.95206
 414542,Shell Austria,BUNDESSTRASSE 3,6714,NUEZIDERS,47.16535,9.7953
 414544,Shell Austria,TRIESTERSTRASSE 6A-8,1100,WIEN,48.1790148559,16.3580035648
+422466,Shell Austria,VOGELWEIDERSTRASSE 108,5020,SALZBURG,47.820006,13.053319
 422468,Shell Austria,KRANEBITTER ALLEE 14,6020,INNSBRUCK,47.26487,11.36904
 422973,Shell Austria,DR.ARTHUR LEMISCHSTRASSE 16,9560,FELDKIRCHEN,46.726883,14.090068
 423989,Tanken an der S31,Siemensstrasse 1,7343,Neutal,47.5381315,16.4331036
