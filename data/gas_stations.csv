@@ -2182,7 +2182,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
@@ -2406,6 +2406,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474271,eni,Braitnerstrasse 62a,2500,Baden,48.001929,16.241614
 1474273,eni,Hauptstrasse 77,3170,Hainfeld,48.03805,15.76293
 1474274,eni,Alfred Fröhlich Strasse 1,2201,Gerasdorf,48.338906,16.464694
+1474276,eni,Königstetterstrasse 154,3430,Tulln - Nitzing,48.31826,16.0859
 1474278,eni,Wiener Strasse 31,2120,Wolkersdorf,48.378384,16.510479
 1474279,eni,Handelskai 388a,1020,Wien,48.2032,16.4358
 1474280,eni,Oberzellergasse 2a,1030,Wien,48.193838,16.396971
