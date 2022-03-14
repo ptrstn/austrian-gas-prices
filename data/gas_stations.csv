@@ -180,6 +180,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 4111,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,STEYRERSTRASSE 28,4501,NEUHOFEN,48.1379881,14.2393913
 4114,,Halleiner Landesstraße 30,5061,Elsbethen,47.7548456,13.0872532
 4117,AP-Kufstein GmbH,Gewerbepark Süd 6,6330,Kufstein,47.566781,12.155927
+4120,Hettegger Diesel-Automatentankstelle,Kellau 157,5440,Golling,47.608102,13.166428
 4127,Freie Tankstelle (AVIA Treibstoffe),"Tank-Point GmbH, Anton-Beirer-Str. 2",6600,Pinswang,47.551383,10.670877
 4128,Land-lebt-auf,Breitenaich 100,4075,Breitenaich,48.25400972369837,13.971261978149414
 4130,,Rechberg 5,4324,Rechberg,48.3218409,14.7105544
@@ -816,6 +817,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 33972,A1-direkt Rabenstein,Sankt. Pöltnerstraße 27,3203,Rabenstein,48.0661333,15.4718566
 33986,Shell,Austrasse 21,5582,St. Michael,47.0948959,13.6359162
 33988,TURMOEL,Bad Haller Straße 13,4595,Waldneukirchen,47.9988499326379,14.2595619036942
+33991,Pock Diskont,Stocking 35,8410,Wildon,46.8860408,15.5443557
 33994,Diskonttankstelle Glauninger,Tieschen 100,8355,Tieschen,46.7843816,15.9435734
 33998,Lagerhaus-Tankstelle 24 h mit Waschportal,Mittergöming 16,5114,Göming,47.9566192,12.9426605
 33999,Turmöl,Balldorf 39,3304,St.Georgen/Y,48.1239759,14.9732833
@@ -2211,7 +2213,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
