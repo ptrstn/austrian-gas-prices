@@ -1421,6 +1421,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 308183,Gutmann ENI Tankstelle,Kreckelmoosstraße 5,6600,Reutte,47.4787178,10.7335222
 309865,Sprint - Landforst Knittelfeld,Leobner Strasse 9,8720,Knittelfeld,47.21736836658948,14.83972350115114
 311212,Brenner,Wagramer Straße 16,2213,Bockfließ,48.3577548,16.600584649999995
+319806,SOCAR Perg,Linzer Straße 38,4320,Perg,48.2504125,14.6279426
 319807,A1 Tankstelle Friedberg,Hochstraße 271,8240,Friedberg,47.429269,16.0592633
 323678,Hoftankstelle - Stöbermühle,Mühlweg 1,3492,Etsdorf,48.438084,15.741538
 329579,Shell Schiestl Egg am See,Eggerseeuferstrasse 85,9580,Drobollach,46.578141,13.936454
@@ -2194,7 +2195,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
@@ -2214,6 +2215,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1472347,SOCAR Großraming,Eisenstraße 13,4463,Großraming,47.883577,14.54315
 1472348,Lagerhaus Tankstelle Sillian,Südtirolerstraße 1 f,9920,Sillian,46.745791,12.408574
 1472367,SB Center ERHART Graschach,Graschach 36,8543,Sankt Martin im Sulmtal,46.74744,15.32598
+1472387,GENOL,Franz Holbeinstraße 19,2263,Dürnkrut,48.4774223,16.8501595
 1472389,GENOL,Hauptstraße 345,2275,Bernhardsthal,48.6886798,16.8738908
 1472390,GENOL,Bahnstraße 34,2265,Drösing,48.5385187,16.8961139
 1472391,GENOL,Ginzersdorferstraße 2,2143,Großkrut,48.641651,16.7217
