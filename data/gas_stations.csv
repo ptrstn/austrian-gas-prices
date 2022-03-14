@@ -451,6 +451,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 6612,ENI,Dorf 23d,6210,Wiesing,47.4034807,11.8032194
 6615,Genol,Lagerhausplatz 1,3751,Sigmundsherberg,48.6904743,15.7328588
 6616,Genol,Pulkauerstraße 1,3743,Röschitz,48.6652995,15.8918456
+6618,Genol,93,3713,Harmannsdorf,48.6006624,15.7427428
 6619,Genol,51,3592,Winkl,48.670913,15.475316
 6620,Genol,Pragerstraße 69,3580,Horn,48.6630707,15.6452203
 6626,ENI,Wiener Strasse 28-30,7442,Lockenhaus,47.4104932,16.4151537
@@ -527,6 +528,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 7624,Dieselkraftstoff,Kehrgasse 71,8793,Trofaiach,47.419478,15.001466
 7626,M-Rast,Haupstrasse 242,8740,Zeltweg,47.1948031,14.7264376
 7632,Bikerschani Discount,Patzmannsdorf 74,2153,Patzmannsdorf,48.6378755,16.2810035
+7636,Wölfl,Kammer 38 - Gewerbegebiet,4974,Reichersberg,48.308489,13.425225
 7642,Turmöl kapfenberg  Alfred Steiner,grazerstrasse 77,8605,Kapfenberg,47.4328653,15.2712667
 7644,Gruber Diesel,Industriepark 1,8772,Traboch - Timmersdorf,47.3724078,14.9887659
 7645,Plose A Oil,Innstrasse 13,6122,Fritzens,47.3012592,11.5923631
@@ -725,6 +727,8 @@ station_id,name,address,postal_code,city,latitude,longitude
 33436,Hirschmugl,Deutsch Goritz 78,8483,Deutsch Goritz,46.749278,15.831924
 33452,GENOL,Bahnhofstrasse 4,3233,Kilb,48.1021422,15.4037764
 33455,Genol,Zissersdorf 96,2094,Zissersdorf,48.8257786,15.6323395
+33456,Genol,Obermarkersdorf,2073,Obermarkersdorf,48.74105,15.897603
+33457,Genol,Unternalb,2070,Unternalb,48.742861,15.956225
 33461,Diesel,"Unser Lagerhaus Fieberbrunn, Rosenegg 31",6391,Fieberbrunn,47.489121,12.527916
 33463,Ford-Levak,Halbenrain 13,8492,Halbenrain,46.7226069,15.9474719
 33469,U2 Hadres,Bundesstrasse 41,2061,Hadres,48.706617,16.139662
@@ -2204,7 +2208,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
@@ -2372,6 +2376,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474107,eni,Schwefel 70a,6850,Dornbirn,47.42974,9.73995
 1474108,eni,Rheinstrasse 20,6971,Bregenz-Hard,47.488611,9.702186
 1474110,eni,Hohenemser Strasse 1,6890,Lustenau,47.419113,9.660987
+1474111,eni,Tiroler Strasse 9,9800,Spittal/Drau,46.80076,13.49156
 1474113,eni,Klagenfurter Strasse 42a,9100,Völkermarkt,46.65927,14.61731
 1474114,eni,Tiroler Strasse 141,9500,Villach,46.632043,13.824202
 1474117,eni,Villacher Strasse 21,9220,Velden,46.613684,14.03577
