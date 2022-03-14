@@ -721,6 +721,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 33411,A1-direkt Tankstelle Lannach,Radlpass Straße 50,8502,Lannach,46.9440153,15.3183495
 33412,A1 Tankstelle Stadl an der Mur,Murauer Straße 118,8862,Stadl an der Mur,47.0839155,13.9628069
 33414,SOCAR Burgau,Neudauerstraße 270,8291,Burgau,47.14749,16.102583
+33417,SOCAR Eggenbergergürtel,Eggenbergergürtel 70,8020,Graz,47.065671,15.420501
 33418,SOCAR Feldkirchen,Doktor-Arthur-Lemisch-Straße 7,9560,Feldkirchen,46.726235,14.089773
 33419,SOCAR Grafenstein,Schloß Rain 16,9131,Grafenstein,46.6291795,14.413485
 33420,A1 Tankstelle Faak am See,Seeufer Landesstraße 24,9583,Faak am See,46.5653186,13.9186409
@@ -2159,6 +2160,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1469546,avanti - Wien Jedletzbergerstraße 7,Jedletzbergerstrasse 7,1110,Wien,48.17054,16.45797
 1469566,Shell Austria,SEESTADTSTRASSE 6,1220,WIEN,48.216561,16.505235
 1469587,MS Tankstelle Sunk,Saffen 64,3270,Scheibbs,48.0221766013797,15.15354155480732
+1469626,SOCAR Mixnitz,Gewerbestraße 2,8132,Pernegg an der Mur,47.343351,15.349546
 1469646,Turmöl,Hollergasse 7,1150,Wien,48.185346,16.324959
 1469666,BayWa Tankstelle,Scheibenstraße 2,6923,Lauterach,47.46296,9.72747
 1469726,Turmöl Quick,Großreifling 85,8931,Großreifling,47.665699,14.716091
