@@ -439,13 +439,19 @@ station_id,name,address,postal_code,city,latitude,longitude
 6426,Genol Lagerhaus Tankstelle,Bahnstraße 20,3820,Raabs an der Thaya,48.8432528,15.4967657
 6428,Genol Lagerhaus Tankstelle,Waldkirchen 44,3844,Waldkirchen an der Thaya,48.9367125,15.3565481
 6429,Genol Lagerhaus Tankstelle,Illmauerstraße 1,3851,Kautzen,48.9298793,15.240267
+6430,Genol,Bundesstraße 11,2031,Altenmarkt/Thale,48.5795,16.193738
 6441,Torrefina Gmbh.,Schottenfeldgasse 94,1070,Wien,48.2071479,16.343487
 6444,GENOL - Lagerhaus,Wienerstraße 95a,2700,Wr. Neustadt,47.8296057,16.2439872
 6446,Discont Waldhart,Affenhausen 4,6413,Wildermieming,47.3130791,11.0053247
 6449,Disconttankstelle Huber Petrol,Gewerbepark Süd 3,5141,Moosdorf,48.0391046,12.9885879
 6453,GENOL - Lagerhaus,Lagerhausstraße 1,2842,Thomasberg,47.6028673,16.1186639
 6456,Shell,Wiener Straße 123,2620,Neunkirchen,47.7304251,16.0955848
+6459,Genol,Hauptstrasse 177,2002,Gr. Mugl,48.492727,16.235926
+6466,Genol,Schmidastrasse 1,3464,Hausleiten,48.391142,16.106861
+6470,Genol,Niederfellabrunn 106,2004,Niederfellabrunn,48.460927,16.298336
+6472,Genol,Bahnstrasse 20,2011,Sierndorf,48.431229,16.17452
 6475,KFZ SIMON  -  Pinkafeld,Wienerstraße 72,7423,Pinkafeld,47.381353,16.120446
+6480,Genol,Parzelle 301,2041,Wullersdorf,48.629317,16.101982
 6488,RUDOLF,Klagenfurter Strasse 46,9100,Völkermarkt,46.657907,14.6136657
 6502,Shell,Jormannsdorferstraße 52,7431,Bad Tatzmannsdorf,47.3454259,16.2241246
 6550,Genol,43,3753,Hötzelsdorf,48.7434981,15.669049
@@ -1667,6 +1673,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 959802,Tankstelle  JESCHKO,Hauptstraße 144,2245,Velm-Götzendorf,48.469955,16.7886465
 969715,Welog Rast Ilz,Neudorf 163,8262,Ilz,47.0922779,15.9244672
 981384,Diskont Nissan Feichtinger,Eisenbirn 10,4792,Münzkirchen,48.4738875,13.5610313
+989379,Genol,Wehrfeld 60,2000,Ober Olberndorf,48.412697,16.170995
 993900,OIL! Tankstelle,Grazerstrasse 29,8120,Peggau,47.1955,15.3468
 998770,F. LEITNER - Kult 34,Industriestraße 18a,9586,Fürnitz,46.5662344184139,13.822157200546668
 1004230,Tankstelle Holzgethan,Marktstraße 39,2831,Warth,47.6471798,16.1264914
@@ -2185,6 +2192,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1470086,Rumpold,Petersplatz 5,8093,St. Peter am Ottersbach,46.79924,15.759666
 1470106,Eni Oberscheider,Schulze Delitzsch-Straße 2,3100,St. Pölten,48.179642,15.614191
 1470126,M3 Drautank,Karawankenweg 17,9500,Villach,46.597852,13.850062
+1470146,Genol,Wienerstrasse 73,2000,Stockerau,48.38724846216198,16.239068555388215
 1470166,Turmöl Fusch,Zellerfusch 131,5672,Fusch,47.231741,12.825534
 1470186,Diskont Tankstelle,"Dalistraße 2 (""Hofer-Parkplatz"")",4600,Wels,48.183581,14.025047
 1470206,JET TANKSTELLE,ST. POELTNER STRASSE 1 C,3150,WILHELMSBURG,48.11764,15.608591
