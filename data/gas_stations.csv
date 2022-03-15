@@ -37,6 +37,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 314,OMV - Spittal an der Drau Villacher Straße 50,Villacher Strasse 50,9800,Spittal an der Drau,46.79163,13.50961
 320,OMV - Reith bei Seefeld Krinz 27,Krinz 27,6100,Reith bei Seefeld,47.32402,11.19909
 322,OMV - Salzburg Schiller Straße 28,Schiller Strasse 28,5020,Salzburg,47.82232,13.03982
+326,OMV - Steyr Haagerstraße 38A,Haagerstrasse 38A,4400,Steyr,48.05521,14.44928
 334,OMV - Wien Sterngasse 13,Sterngasse 13,1230,Wien,48.14891,16.33836
 335,avanti - Orth an der Donau Wiener Straße 76,Wiener Strasse 76,2304,Orth an der Donau,48.14992,16.68739
 351,OMV - Gföhl Langenloiser Straße 85,Langenloiser Strasse 85,3542,Gfoehl,48.51208,15.51044
@@ -1725,6 +1726,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1151451,TURMÖL powered by boesch energy,Schoenbrunner Strasse 213,1120,Wien,48.18452,16.33505
 1152503,TS-Allerheiligen (gegenüber Uniwash),Wieden 129a,8643,Allerheiligen,47.481729,15.401709
 1154619,Turmöl Quick,Reyerdorfer Straße 4a,2243,Matzen,48.3976496,16.6948144
+1157257,Shell Schwechat,Himberger Strasse 56a,2320,Schwechat,48.1264641,16.4726918
 1157935,avanti - Klagenfurt Görtschitztal Straße 22,Goertschitztal Strasse 22,9020,Klagenfurt,46.63785,14.37077
 1159658,Diskont Tankstelle,"Gewerbepark Ost 27 ("" Hofer-Parkplatz"")",4846,Redlham,48.046853,13.759449
 1159659,Diskont Tankstelle,"Haselbach 30 ("" Hofer-Parkplatz"")",4121,Altenfelden,48.497102,13.969221
