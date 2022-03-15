@@ -85,6 +85,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 502,OMV - Grieskirchen Wengerstraße 16,Wengerstrasse 16,4710,Grieskirchen,48.2327,13.82238
 526,avanti - Klosterneuburg Wiener Straße 42,Wiener Strasse 42,3400,Klosterneuburg,48.30458,16.32988
 1102,"Turmöl - Steindorf, Bundesstr. 2",Bundesstrasse 2,9552,Steindorf,46.6998857,14.0164502
+1105,BAUER ,Kohlbauernstrasse 15,2630,Ternitz,47.7202207,16.0368469
 1109,JVG JOHANNA - GARAGE GmbH,Johannagasse 28,1050,Wien,48.1854701,16.3473292
 1111, Tankstelle Braunstingl,Drasenhofen 330,2165,Drasenhofen,48.7510538,16.6487938
 1113,Treibstoffparadies,Bad Gams 5,8524,Bad Gams,46.8695627,15.2233968
@@ -980,6 +981,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 35327,Günters Tankstelle,Kleinsemmering 60,8160,Gutenberg a. Raab,47.1965866,15.5671483
 35446,AVIA XPress (unser Service: Luft und Wasser),Oberndorfer-Ortsstraße 1,3130,Herzogenburg,48.2807828,15.6971053
 35466,,Payerstetten 6,3652,Leiben,48.2496835,15.2480109
+35486,Toms Tankstelle,Haupstraße 31,4770,Andorf,48.37105,13.57387
 35506,Turmöl Quick,Zeltenschlagstraße 2,8700,Leoben,47.3789195,15.0887587
 35549,BP,Dorfstrasse 148 ,6450,Soelden,46.963209,11.007721
 35550,BP,Schulstrasse 8 ,9562,Himmelberg,46.752109,14.035099
