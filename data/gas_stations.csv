@@ -15,6 +15,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 199,OMV - Wörgl Salzburger Straße 55,Salzburger Strasse 55,6300,Woergl,47.49028,12.07354
 212,OMV - Sankt Pölten Dr.Adolf Schärf-Straße 1,Dr.Adolf Schaerf-Strasse 1,3100,Sankt Poelten,48.22376,15.63452
 219,OMV - Pörtschach Hauptstraße 232,Hauptstrasse 232,9210,Poertschach,46.63668,14.13709
+224,OMV - Bramberg Weichseldorf 243,Weichseldorf 243,5733,Bramberg,47.2678,12.33757
 226,avanti - Zwettl Linzer Straße 4,Linzer Strasse 4,4180,Zwettl,48.46445,14.27161
 227,avanti - Sankt Florian/Inn Bundesstraße 129,Bundesstrasse 129,4780,Sankt Florian/Inn,48.43865,13.44392
 228,OMV - Gmunden Bahnhofstraße 42,Bahnhofstrasse 42,4810,Gmunden,47.92428,13.78782
@@ -507,6 +508,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 6682,RLH Marchfeld,Tallesbrunnerstraße,2252,Ollersdorf,48.397197,16.791133
 6683,Lagerhaus-Genol,Im Ort 280,3353,Biberbach,48.0295151,14.7104265
 6684,Genol LGH Waldhausen_(-TKK Abschlag),Markt 94,4391,Waldhausen,48.2722,14.9508179
+6685,Genol - Raiffeisenlagerhaus St. Pölten,Wienerstrasse 39,3385,Prinzersdorf,48.202141801774296,15.523724555969238
 6686,Lagerhaus-Genol,Römerstraße 8,3324,Euratsfeld,48.0814318,14.9298474
 6689,Lagerhaus-Genol,Oisberg 24,3343,Hollenstein,47.8056603,14.7721094
 6691,Freie Tankstelle,Stanz 108,8653,Stanz,47.4650246,15.5026924
@@ -1877,6 +1879,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354703,avanti - Weißenbach am Lech 46, 46,6671,Weissenbach am Lech,47.44138,10.64229
 1354704,JET TANKSTELLE,GEWERBEPARK NORD 3,8431,GRALLA,46.804627,15.557541
 1354707,avanti - Krems an der Donau Förthofer Donaulände 8,Foerthofer Donaulaende 8,3500,Krems an der Donau,48.39735,15.56875
+1354708,avanti - Hittisau Windern 379,Windern 379,6952,Hittisau,47.45811,9.95489
 1354709,SCHNELL UND GUENSTIG TANKSTELLE,MARKTGASSE 2,2700,WIENER NEUSTADT,47.804291,16.236956
 1354710,OMV - Hobersdorf Wiener Straße 91,Wiener Strasse 91,2193,Hobersdorf,48.5728,16.6394
 1354711,JET TANKSTELLE,LUSTENAUERSTRASSE 2,6840,GÖTZIS,47.344695,9.656679
