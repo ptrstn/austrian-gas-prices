@@ -561,6 +561,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 7624,Dieselkraftstoff,Kehrgasse 71,8793,Trofaiach,47.419478,15.001466
 7626,M-Rast,Haupstrasse 242,8740,Zeltweg,47.1948031,14.7264376
 7632,Bikerschani Discount,Patzmannsdorf 74,2153,Patzmannsdorf,48.6378755,16.2810035
+7633,Wölfl,Bayernstrasse 24,5071,Wals-Siezenheim,47.817794,12.98
 7636,Wölfl,Kammer 38 - Gewerbegebiet,4974,Reichersberg,48.308489,13.425225
 7642,Turmöl kapfenberg  Alfred Steiner,grazerstrasse 77,8605,Kapfenberg,47.4328653,15.2712667
 7644,Gruber Diesel,Industriepark 1,8772,Traboch - Timmersdorf,47.3724078,14.9887659
@@ -2445,6 +2446,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474131,eni,Spielbergstrasse 4,6391,Fieberbrunn,47.4797,12.5389
 1474133,eni,Salurner Strasse 28,6330,Kufstein,47.5764,12.1604
 1474135,eni,Rennweg 20,6020,Innsbruck,47.277037,11.400716
+1474137,eni,Umfahrungsstrasse 688,6290,Mayrhofen,47.16,11.8493
 1474141,eni,Hauptstrasse 96,6511,Zams,47.1573815,10.58935314
 1474143,eni,Innsbruckerstrasse 52a,6130,Schwaz,47.340606,11.706625
 1474147,eni,Salzachtalstrasse 23,5400,Hallein,47.6797,13.1045
