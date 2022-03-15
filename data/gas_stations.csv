@@ -73,6 +73,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 462,avanti - Linz Unionstraße 71a,Unionstrasse 71a,4020,Linz,48.28312,14.28828
 482,OMV - Stockerau Autobahn A 22,Autobahn A 22 ,2000,Stockerau,48.38086,16.20408
 483,OMV - Tausendblum/Neulengbach Tullner Straße 64,Tullner Strasse 64,3040,Tausendblum/Neulengbach,48.19653,15.89983
+485,OMV - Langenrohr/Asparn Teichstraße 1,Teichstrasse 1,3442,Langenrohr/Asparn,48.32242,16.02642
 486,OMV - Murau Keltensiedlung 95,Keltensiedlung 95,8850,Murau,47.11225,14.1823
 488,OMV - Graz Straßganger Straße 436,Strassganger Strasse 436,8054,Graz,47.03326,15.39896
 489,OMV - Wolfsberg Grazer Straße 7,Grazer Strasse 7,9400,Wolfsberg,46.84742,14.84422
@@ -1460,6 +1461,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 294796,eni,Leopoldauerstrasse 180,1210,Wien,48.2624,16.4359
 294802,eni,Breitenfurterstrasse 215,1230,Wien,48.156939,16.305341
 294806,eni,Gersthofer Strasse Nr. 2b,1180,Wien,48.226999,16.326521
+294813,eni,Untere Donaulände 15,4020,Linz,48.3135,14.2989
 294852,eni,Bruck Hainburgerstrasse 19-21,2320,Schwechat,48.14046,16.483833
 294886,eni,Brennerautobahn Ost Tal,6143,Matrei,47.14072,11.44653
 294894,eni,Allgäuer Strasse 66,6600,Reutte,47.49908,10.72013
