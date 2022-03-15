@@ -1173,7 +1173,10 @@ station_id,name,address,postal_code,city,latitude,longitude
 38246,Zach,Bundesstraße 10,2431,Enzersdorf/Fischa,48.066238,16.605534
 38306,A1 Tankstelle Sooß,Bezirksstraße 18,2500,Sooß,47.9825239,16.2206042
 38426,BP,Schieferrollstrasse 17,6250,Kundl,47.466898,11.989712
+38686,LAGERHAUS Genol Köflach,Bahnweg 6,8580,Köflach,47.0628136,15.0844437
 38866,AVIA Xpress (Automaten-Tankstelle),Am Müllerberg 23,4701,Bad Schallerbach,48.2226367,13.9148443
+38946,LAGERHAUS Genol Edelschrott,Packerstraße 14,8583,Edelschrott,47.021201,15.0509102
+38947,LAGERHAUS Genol Stallhofen,Aichegg 110,8152,Stallhofen,47.0530953,15.2187091
 38954,LAGERHAUS Genol Groß St. Florian,Markstraße 38,8522,Groß St. Florian,46.82187519179757,15.31919002532959
 38966,Pagitz GesmbH,Unterferlach 34,9170,Ferlach,46.541226,14.313791
 39266,Discont Tankstelle,Linzerstrasse 9,4650,Edt,48.0975489,13.8952541
@@ -2256,6 +2259,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1470767,Pürrer Trans GmbH.,Weißes Kreuz 100,2851,Krumbach,47.541153,16.154808
 1470788,GG Tankstelle Langenrohr,Tullner Straße 6 ,3442,Langenrohr,48.31138203436592,16.014680121853992
 1470789,F. LEITNER,Waisenegg 121,8190,Birkfeld,47.380990747458696,15.67813208285314
+1470827,LAGERHAUS Genol Voitsberg,Am Vorum 2,8570,Voitsberg,47.052799,15.131794
 1470867,ENI Stumm ,Gewerbegebiet 6,6275,Stumm ,47.29034628764583,11.88055119320892
 1471047,Treibstoffparadies,Gewerbepark Ost 1,8504,Preding,46.85349,15.40998
 1471087,SOCAR Attnang - Puchheim,Bahnhofstraße 25,4800,Attnang - Puchheim,48.015832,13.724478
