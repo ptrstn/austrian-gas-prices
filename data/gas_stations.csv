@@ -1093,6 +1093,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 35633,BP,Kranebitter Allee 30 ,6020,Innsbruck,47.26456624,11.36583292
 35635,BP,L.V.Hoehnelgasse ,1100,Wien,48.159072,16.387181
 35636,BP,Kaiser Ebersdorferstr.248-250 ,1110,Wien,48.159913,16.457723
+35639,BP,Hauptstrasse 34 ,3200,Obergrafendorf,48.1496988,15.5495212
 35642,BP,Altenberger Strasse 7 ,4040,Linz-Auhof,48.3312129,14.317456
 35643,BP,Lamprechtshauserner B156 ,5101,Bergheim / Lengfelden,47.844393,13.050127
 35647,BP,Salzburgerstr. ,6380,St. Johann In Tirol,47.5253228,12.4229437
@@ -1104,6 +1105,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 35659,BP,Gewerbestrasse 1 ,5301,Eugendorf-Strass,47.8615638,13.1283831
 35660,BP,Klagenfurterstrasse 10 ,9371,Brueckl,46.7460876,14.5309907
 35662,BP,Friesacherstrasse ,9300,St. Veit An Der Glan,46.772496,14.36707
+35664,BP,Hainfelderstr. ,3071,Boeheimkirchen,48.194014,15.765381
 35666,BP,St Johannerstrasse ,6370,Kitzbuehel,47.459666,12.386913
 35668,BP,Eisenstrasse 85 ,4451,St. Ulrich/Garsten,48.0011226,14.4100604
 35673,BP,Iseltalerstrasse 25 ,9900,Lienz,46.8285946,12.7566304
@@ -1135,6 +1137,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 35727,BP,Wiener Str. 76 ,3500,Krems,48.4150387,15.6162211
 35729,BP,Triesterstrasse 153 ,1100,Wien,48.15669974,16.34239786
 35730,BP,Erlach 138 ,6150,Steinach Am Brenner,47.095326,11.465437
+35731,BP,Virgentalstrasse 39 ,9972,Virgen,47.0017349,12.4643059
 35733,BP,Liebensdorf 36 ,8081,Heiligenkreuz Am Waasen,46.9821421,15.5649621
 35735,BP,Bregenzerstr. 63 ,6900,Bregenz/Lochau,47.5111513,9.7530777
 35736,BP,Stiegstrasse 63 ,6830,Rankweil,47.2796507,9.6496174
