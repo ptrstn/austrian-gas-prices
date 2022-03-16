@@ -1538,6 +1538,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 319806,SOCAR Perg,Linzer Straße 38,4320,Perg,48.2504125,14.6279426
 319807,A1 Tankstelle Friedberg,Hochstraße 271,8240,Friedberg,47.429269,16.0592633
 323678,Hoftankstelle - Stöbermühle,Mühlweg 1,3492,Etsdorf,48.438084,15.741538
+328402,Shell Sattendorf/Annenheim,Kanzelplatz 5,9520,Sattendorf,46.65913999,13.89891995
 329579,Shell Schiestl Egg am See,Eggerseeuferstrasse 85,9580,Drobollach,46.578141,13.936454
 330085,A1-direkt Ried im Innkreis,Riedauer Straße 35,4910,Ried im Innkreis,48.2174061,13.4939519
 349459,UNSER LAGERHAUS WESTENDORF,BAHNHOFSTRASSE 18,6363,WESTENDORF,47.4416027,12.2238335
@@ -1817,6 +1818,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1140459,"TANKSTELLE PREHM, Krennach",Krennach 13,8312,Ottendorf,47.0262052,15.8892822
 1142439,Disk TANKAUTOMAT,Weitraer Straße 109,3950,Gmünd,48.762337,14.970329
 1142440,Disk TANKAUTOMAT,Hauptstraße 112,5222,Munderfing,48.074402,13.177966
+1144407,Shell Gamlitz,Untere Hauptstrasse 238,8462,Gamlitz,46.7206482,15.556767
 1144580,Diskont Tankstelle,"Mankerstrasse 59 (""Hofer-Parkplatz"")",3380,Pöchlarn,48.19947,15.220914
 1147026,Turmöl Quick,Jahnstraße 47,3430,Tulln,48.3280541,16.0449461
 1149829,Rekord-Tankstelle,Wirtschaftspark-West 9,7423,Pinkafeld,47.373778,16.092691
@@ -2331,7 +2333,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
