@@ -208,6 +208,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 4143,Disk,Milser Straße 22,6060,Hall,47.2831587,11.519987
 4144,Disk TANKAUTOMAT,Unterdorf 171,6405,Pfaffenhofen,47.3002541,11.0741368
 4145,Disk + TANKAUTOMAT,Brennerstraße 50,6154,Stafflach,47.0413327,11.4826603
+4148,Disk Tankautomat,Lumma 15,6410,Telfs ,47.3099491,11.0614951
 4149,Disk TANKAUTOMAT,Salzburgerstraße 8,6112,Wattens,47.291649,11.595071
 4150,Disk TANKAUTOMAT,Schwabstraße 13,6170,Zirl,47.2739683,11.2394431
 4151,Disk TANKAUTOMAT,Bundesstraße 32,6421,Rietz,47.2917213,11.0373365
@@ -2596,3 +2597,4 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474388,Diskont Tankstelle,"Wienerbergstraße 1 (""Hofer-Parkplatz"")",4310,Mauthausen,48.240424,14.530663
 1474389,Diskont Tankstelle,"Haidhofstrasse 147 (""Hofer-Parkplatz"")",2500,Baden,47.9751916,16.2812818
 1474390,Diskont Tankstelle,"Gewerbestraße 2 (""Am Hofer Parkplatz"")",3160,Traisen,48.049897,15.612339
+1474391,Diskont Tankstelle,"Wiener Straße 54 (""Am Hofer Parkplatz"")",3340,Waidhofen,47.976722,14.754875
