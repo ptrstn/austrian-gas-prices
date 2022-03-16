@@ -85,6 +85,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 496,OMV - Achenkirch Achenseestraße B181 385a,Achenseestrasse B181 385a,6215,Achenkirch,47.529,11.708
 501,avanti - Ort im Innkreis Kammer 19,Kammer 19,4974,Ort im Innkreis,48.31724,13.42524
 502,OMV - Grieskirchen Wengerstraße 16,Wengerstrasse 16,4710,Grieskirchen,48.2327,13.82238
+503,OMV - Mondsee Salzburger Straße 8,Salzburger Strasse 8,5310,Mondsee,47.85349,13.34419
 526,avanti - Klosterneuburg Wiener Straße 42,Wiener Strasse 42,3400,Klosterneuburg,48.30458,16.32988
 1102,"Turmöl - Steindorf, Bundesstr. 2",Bundesstrasse 2,9552,Steindorf,46.6998857,14.0164502
 1105,BAUER ,Kohlbauernstrasse 15,2630,Ternitz,47.7202207,16.0368469
@@ -2333,7 +2334,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
@@ -2600,3 +2601,4 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474389,Diskont Tankstelle,"Haidhofstrasse 147 (""Hofer-Parkplatz"")",2500,Baden,47.9751916,16.2812818
 1474390,Diskont Tankstelle,"Gewerbestraße 2 (""Am Hofer Parkplatz"")",3160,Traisen,48.049897,15.612339
 1474391,Diskont Tankstelle,"Wiener Straße 54 (""Am Hofer Parkplatz"")",3340,Waidhofen,47.976722,14.754875
+1474394,Diskont Tankstelle,"Hofer Straße 2 (""Hofer Parkplatz"")",2325,Himberg,48.071822,16.45753
