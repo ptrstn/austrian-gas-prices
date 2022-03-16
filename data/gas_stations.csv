@@ -50,6 +50,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 374,OMV - Weiden am See Parz. Nr. 2164 17-18,Parz. Nr. 2164 17-18,7100,Weiden am See,47.9375,16.85532
 380,OMV - Schwaz Münchner Straße 24,Muenchner Strasse 24,6130,Schwaz,47.35044,11.70603
 381,OMV - Nassereith Fernpaß Bundesstraße 1,Fernpass Bundesstrasse 1,6465,Nassereith,47.3272,10.8198
+382,OMV - Längenfeld Unterlängenfeld 117b,Unterlaengenfeld 117b,6444,Laengenfeld,47.07863,10.96764
 391,OMV - Strasshof Hauptstraße 119,Hauptstrasse 119,2231,Strasshof,48.31458,16.6256
 394,avanti - Stegersbach Wiener Straße 3,Wiener Strasse 3,7551,Stegersbach,47.16113,16.16488
 395,OMV - Graz Seebacher Gasse 8,Seebacher Gasse 8,8010,Graz,47.07722,15.45904
