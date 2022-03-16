@@ -121,6 +121,10 @@ station_id,name,address,postal_code,city,latitude,longitude
 2083,Genol - Lagerhaus,Hansbergstrasse 22,4173,St. Veit ,48.4675476,14.1568711
 2085,BP - Lagerhaus,Scheiblberg 44,4150,Rohrbach,48.5621814,13.9935071
 2086,Tankstelle Pein Susanne GmbH,Grazerstrasse 55,8480,Mureck,46.7063947,15.7597657
+2090,Genol  Lagerhaus Pregarten-Gallneukirchen,Hacklberg 7,4224,Wartberg,48.3551185,14.5184771
+2091,Genol  Lagerhaus Pregarten-Gallneukirchen,Am Taferlberg 2,4284,Tragwein,48.3317095,14.6178986
+2092,Genol  Lagerhaus Pregarten-Gallneukirchen,Linzer Straße 11,4283,Bad Zell,48.3469,14.6676972
+2093,Genol  Lagerhaus Pregarten-Gallneukirchen,Schulstraße 9,4274,Schönau,48.443991,14.6803544
 2094,Genol  Lagerhaus Pregarten-Gallneukirchen,Markt Unterweißenbach 204,4273,Unterweißenbach,48.433248,14.780412
 2095,Genol Lagerhaus Pregarten-Gallneukirchen,Am Bahnhof 1,4292,Kefermarkt,48.439863,14.5380846
 2096,Genol  Lagerhaus Pregarten-Gallneukirchen,Mühlbergstraße 8,4294,St. Leonhard,48.4447808,14.6764956
@@ -203,6 +207,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 4149,Disk TANKAUTOMAT,Salzburgerstraße 8,6112,Wattens,47.291649,11.595071
 4150,Disk TANKAUTOMAT,Schwabstraße 13,6170,Zirl,47.2739683,11.2394431
 4151,Disk TANKAUTOMAT,Bundesstraße 32,6421,Rietz,47.2917213,11.0373365
+4152,Lagerhaus,Bahnhofstraße 309,9761,Greifenburg,46.7428812,13.1847392
 4153,Disk,Unterdorf 2,6473,Wenns,47.1664133,10.7314383
 4154,Disk TANKAUTOMAT,Tirolerstraße 14,6424,Silz,47.2687587,10.9373833
 4155,Disk TANKAUTOMAT,Kaunertal 101,6524,Kaunertal,47.0365443,10.7499389
@@ -322,18 +327,25 @@ station_id,name,address,postal_code,city,latitude,longitude
 6090,Stadtwerke Kapfenberg GmbH,Stadtwerkestraße 6,8605,Kapfenberg,47.4473181,15.3010401
 6093,Lagerhaus Altmünster,Großalmstraße 24,4813,Altmünster,47.887313,13.760194
 6095,Diskonttankstelle Zmugg Silvia e.U.,Florianer Str. 73,8522,Groß St. Florian,46.822545,15.2856707
+6096,Lagerhaus Ohlsdorf,Kleinreith-Gewerbepark 5,4694,Ohlsdorf,47.941144,13.792863
+6097,Lagerhaus Almtal,Kalkofen 1,4644,Scharnstein,47.899003,13.950866
+6100,Lagerhaus Vorchdorf,Pettenbacherstraße 41,4655,Vorchdorf,48.000903,13.929128
+6101,Lagerhaus Laakirchen,Matzingthalstraße 7,4663,Laakirchen,47.98575,13.823225
 6102,GENOL-LAGERHAUS,Trölsberg 71,4240,Freistadt,48.4958148,14.4869588
 6105,GENOL-LAGERHAUS,Oswalderstrasse 33,4291,Lasberg,48.4734549,14.5475483
 6107,Genol,Hausbrunnerstrasse 131,2181,Dobermannsdorf,48.604889,16.8245804
+6109,Genol,Grundstück Nr. 873/1,2185,Ebersdorf,48.60257,16.696135
 6113,Genol,Bachzeile 1,2191,Gaweinstal,48.4740972,16.5903426
 6116,GENOL-LAGERHAUS,Gusenstrasse 3,4242,Hirschbach,48.4870345,14.4124628
 6117,"BELLINGER, freie Tankstelle",Unterschwendt 46,6385,Schwendt bei Kössen,47.6481,12.4044
 6118,Genol,Grundstück Nr. 76/18,2126,Grafensulz,48.5493354,16.4444155
+6121,Genol,Lagerhausstrasse 5,2223,Hohenruppersdorf,48.4695248,16.6474432
 6122,GENOL-LAGERHAUS,Hiltschnerstrasse 1,4262,Leopoldschlag,48.6163057,14.4999232
 6124,Genol Landring: Additiv - B0 Diesel ,Pischelsdorf 330,8212,Pischelsdorf,47.17511,15.808612
 6125,Genol,Weitersfeld 265,2084,Weitersfeld,48.7873611,15.8022277
 6126,Genol,Thayapark 1-2,2136,Laa/Thaya,48.7147259,16.3790297
 6129,Genol,Hauptrasse  1,2124,Kreuzstetten,48.4799509,16.4766339
+6132,Genol,Grundstück Nr. 2476,2182,Palterndorf,48.585694,16.8240896
 6133,Genol,Grundstück Nr. 1186/1,2191,Pellendorf,48.487622,16.551847
 6136,Genol,Hauptstrasse 7,2134,Staatz-Kautendorf,48.6742855,16.4887124
 6139,Genol,Hauptstrasse 137,2123,Wolfpassing,48.456473,16.526442
@@ -401,11 +413,14 @@ station_id,name,address,postal_code,city,latitude,longitude
 6240,GENOL-LH EFERDING-OÖ. MITTE eGen,BERGERSTRASSE 1,4083,HAIBACH OB DER DONAU,48.416328,13.916588
 6242,Lagerhaus-Genol,Apetlonerstraße 38,7142,Illmitz,47.7601503,16.8077144
 6243,i-diskont Menhart - Tankstelle mit Bedienung,Untere Landstraße 288,3511,Furth/G.,48.3769549,15.6103479
+6244,Genol RLH-Süd-Bgld,RLH Süd   Gewerbepark 33,7471,Rechnitz,47.28083,16.443261
 6245,GENOL-LH EFERDING-OÖ. MITTE eGen,GRIESKIRCHNERSTRASSE 6,4731,PRAMBACHKIRCHEN,48.310987,13.903348
+6247,Genol RLH-Süd-Bgld,RLH Süd   St.Kathrein,7474,St.Kathrein,47.138629,16.413236
 6248,Lagerhaus - Genol,Umseerstrasse 29,3040,Neulengbach,48.202649,15.89206
 6251,Genol RLH-Süd-Bgld,RLH Süd  Oberwarter Straße 244,7535,St.Michael,47.123815,16.266455
 6252,Genol,Raiffeisenstraße 19,3902,Vitis,48.7566554,15.1753462
 6300,Lagerhaus - Genol,Umseerstrasse 1,3040,Neulengbach,48.2011233,15.8987035
+6302,Genol RLH-Süd-Bgld,RLH Süd Wiesfleck 237,7423,Wiesfleck,47.370774,16.153089
 6303,Lagerhaus - Genol,Hauptstrasse 39,3042,Wuermla,48.2517536,15.8619983
 6304,Genol RLH-Süd-Bgld,RLH Süd    Grazer Straße 33,7571,Rudersdorf,47.054979,16.110935
 6306,Genol RLH-Süd-Bgld,RLH Süd   Tobaj,7540,Tobaj,47.088866,16.305749
@@ -642,6 +657,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 7806,Eibl Werner,Gaißau 155,5425,Krispl,47.7120404,13.194849
 7808,Hirschmugl,Gewerbepark Nord 1,8431,Gralla,46.804271,15.555675
 7812,Vivod GmbH,Laaberstrasse 1,2384,Breitenfurt,48.1381917,16.2038779
+7814,Lagerhaus,Mitterbreiten 1,9812,Pusarnitz,46.833366,13.4034057
 7815,Fuchs,Grazerst. 85,8232,Grafendorf,47.3279528,15.9907409
 7818,Posauner Petrol,Klamm 14A,5621,St. Veit im Pongau,47.2976853,13.081528
 7820,car&care Tankstelle Konrad Service-Center,Triester Straße 219,8073,Feldkirchen,46.9938723,15.4548317
@@ -1178,6 +1194,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 37887,avanti - Linz Wahringerstraße,Wahringerstrasse ,4030,Linz,48.26326,14.3232
 37906,BP,Tauernstraße 24,5550,Radstadt,47.3818495,13.4732484
 37986,AVIA,Wiener Straße 12,7540,Güssing,47.0697623,16.3224431
+37987,Genol  Lagerhaus Pregarten-Gallneukirchen,Betriebsstraße 20,4224,Wartberg,48.3585818,14.4770062
 37988,avanti - Rutzenmoos Autobahnzubringer Gmunden,Autobahnzubringer Gmunden ,4845,Rutzenmoos,47.95502,13.73619
 38009,Landesprodukte Scheiber,Jakling 6,9433,St. Andrä,46.7585275,14.8463902
 38026,avanti - Wien Julius Ficker Straße 77,Julius Ficker Strasse 77,1210,Wien,48.26672,16.44859
@@ -1280,6 +1297,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 43746,Diskont Tankstelle,"Doktor-Karl-Renner-Straße 60 (""Am Hofer-Parkplatz"")",4470,Enns,48.215991,14.458914
 43866,Turmöl Quick,Bundesstraße 33,9560,Untere Glan,46.7337805,14.1558516
 43946,SB-Tankstelle Zauner,Ludwig-Paglstr. 1,4780,Schärding,48.447209,13.439305
+44006,avanti - Kronstorf Hauptstraße 19,Hauptstrasse 19,4484,Kronstorf,48.14532,14.46511
 44026,Kerschbaumer Autodienst,Untermarkt 10,9363,Metnitz,46.9808815,14.2196908
 44066,Unser Lagerhaus,Gewerbepark 2,6405,Pfaffenhofen,47.300377,11.072502
 44086,Gutmann ENI Tankstelle ,Gewerbegebiet 16,6580,Sankt Anton ,47.139757,10.289706
@@ -2300,7 +2318,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
@@ -2325,6 +2343,11 @@ station_id,name,address,postal_code,city,latitude,longitude
 1472390,GENOL,Bahnstraße 34,2265,Drösing,48.5385187,16.8961139
 1472391,GENOL,Ginzersdorferstraße 2,2143,Großkrut,48.641651,16.7217
 1472392,GENOL,Hauptstraße 146,2171,Herrnbaumgarten,48.6985903,16.6968271
+1472395,GENOL,Niedersulzerstraße 2,2225,Loidesthal,48.499619,16.73936
+1472396,GENOL,Hauptstraße 3,2225,Maustrenk,48.6041651,16.7121257
+1472397,GENOL,Obersulz 262O,2224,Obersulz,48.490974,16.674957
+1472399,GENOL,Feldstraße 1,2245,Velm-Götzendorf,48.4696596,16.7961651
+1472400,GENOL,Bahnstraße 1-3,2225,Zistersdorf,48.545331,16.770856
 1472407,Diskont Tankstelle,"Kärntner Straße 27 (""Hofer-Parkplatz"")",9500,Villach,46.59742,13.83869
 1472427,Shell Austria,AM MOOSGRABEN 3,4845,RUTZENMOOS,47.95469,13.72976
 1472467,BP,Innsbruckerstraße 5,6353,Going,47.51587717150713,12.318637318552142
