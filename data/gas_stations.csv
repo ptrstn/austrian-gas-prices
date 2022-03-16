@@ -429,10 +429,12 @@ station_id,name,address,postal_code,city,latitude,longitude
 6367,Genol-Tankstelle Diesel/Super/Benzin/Heizöl,Grosshartmannsdorf 134,8264,Grosshartmannsdorf,47.1377892,15.9236975
 6368,Salchenegger,Leopersdorf 21,8650,Kindberg,47.493491,15.428084
 6370,Genol,Weingartenstrasse 5,4100,Ottensheim,48.3386377,14.1749231
+6371,Lagerhaus: Diesel & Additiv-B0 Diesel & AdBlue,Lugitschstraße 4,8330,Feldbach,46.9581249,15.8858175
 6381,Genol,Hauptstrasse 17,4101,Feldkirchen,48.3470443238984,14.0563175517918
 6383,Genol,Mitterweg 1,4190,Bad Leonfelden ,48.526057,14.2947304
 6385,Turmöl,Hauptstraße 22,2285,Leopoldsdorf/M,48.2258462,16.6951563
 6387,Genol,Hauptstrasse 17,4191,Vorderweissenbach,48.5527675,14.218088
+6388,Genol - Lagerhaus: Diesel,Grazerstraße 16,8344,Bad Gleichenberg,46.8758584,15.8992749
 6389,GENOL - Lagerhaus,Pamaerstraße 6,2472,Prellenkirchen,48.0750381,16.956532
 6390,Genol,Bahnhofstrasse 9,4221,Steyregg,48.2846194,14.3637533
 6392,Genol,Pöstlingbergstrasse 1 ,4040,Lichtenberg,48.3613605,14.2400963
@@ -445,6 +447,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 6407,Freie Tankstelle Nockenstein,Wolfgangseestraße 35,5023,Koppl,47.8203145,13.1112882
 6408,GENOL - Lagerhaus,Lokalbahnstraße 13,2620,Neunkirchen,47.7248325,16.0828276
 6409,Turmöl,Furth 7,4973,Senftenbach,48.2638396,13.4174949
+6410,Genol - Lagerhaus: Diesel,Jörgen 23,8355,Tieschen,46.7667335,15.9303568
 6411,Verde Mobil,Ennsdorferstrasse 2/2,4482,Ennsdorf,48.220269,14.50107
 6412,GENOL - Lagerhaus,Sägemühle 2,2851,Krumbach,47.5032608,16.2044289
 6422,GENOL - Lagerhaus,Ofenbachstraße,2821,Lanzenkirchen,47.742137,16.240472
@@ -454,18 +457,28 @@ station_id,name,address,postal_code,city,latitude,longitude
 6428,Genol Lagerhaus Tankstelle,Waldkirchen 44,3844,Waldkirchen an der Thaya,48.9367125,15.3565481
 6429,Genol Lagerhaus Tankstelle,Illmauerstraße 1,3851,Kautzen,48.9298793,15.240267
 6430,Genol,Bundesstraße 11,2031,Altenmarkt/Thale,48.5795,16.193738
+6432,Wechselgau - Genol,Obersaifen 141,8225,Pöllau,47.3127605,15.8245464
+6433,Wechselgau - Genol,Ferdinand-Leihsstraße 38,8230,Hartberg,47.281567,15.9871544
 6434,Genol,Grundstücksnr. 281,2013,Göllersdorf,48.513278,16.163968
+6436,Wechselgau - Genol,Weidenstraße 17,8230,Hartberg,47.2847147,15.9856961
 6439,Genol,Dürnleis 81,2033,Dürnleis,48.627504,16.21953
 6441,Torrefina Gmbh.,Schottenfeldgasse 94,1070,Wien,48.2071479,16.343487
 6443,Genol,Grundstücksnr. 221/1,2013,Eitzersthal,48.489684,16.095808
 6444,GENOL - Lagerhaus,Wienerstraße 95a,2700,Wr. Neustadt,47.8296057,16.2439872
 6446,Discont Waldhart,Affenhausen 4,6413,Wildermieming,47.3130791,11.0053247
+6448,Wechselgau - Genol,Geistbründlweg 3,8243,Pinggau,47.4448561,16.0629432
 6449,Disconttankstelle Huber Petrol,Gewerbepark Süd 3,5141,Moosdorf,48.0391046,12.9885879
+6450,Wechselgau - Genol,Am Bahnhof 33,8232,Grafendorf,47.3453769,16.0033823
+6452,Wechselgau -Genol,Pittermann 176,8254,Wenigzell,47.4233715,15.7869337
 6453,GENOL - Lagerhaus,Lagerhausstraße 1,2842,Thomasberg,47.6028673,16.1186639
+6454,Wechselgau - Genol,Schmiedviertel 148,8252,Mönichwald,47.4488975,15.8578515
 6455,Genol,An der Bahn 216,2013,Göllersdorf,48.492926,16.125693
 6456,Shell,Wiener Straße 123,2620,Neunkirchen,47.7304251,16.0955848
+6457,Wechselgau - Genol,Sebersdorf 12,8272,Sebersdorf,47.1878186,15.9996447
+6458,Wechselgau - Genol,Schachen 275,8250,Vorau,47.4040002,15.8781321
 6459,Genol,Hauptstrasse 177,2002,Gr. Mugl,48.492727,16.235926
 6462,Genol,Hauptplatz 56,2020,Groß,48.572902,15.987428
+6464,Wechselgau - Genol,Kaindorf 225,8224,Kaindorf,47.2241715,15.9076084
 6465,Genol,Bahnstrasse 17,2054,Haugsdorf,48.709194,16.072086
 6466,Genol,Schmidastrasse 1,3464,Hausleiten,48.391142,16.106861
 6468,Genol,Klein Stetteldorf ,2020,Kleinstetteldorf,48.586668,16.151206
@@ -477,6 +490,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 6478,Genol,Parzelle 3269/35,2061,Unter Markersdorf,48.711599,16.115498
 6480,Genol,Parzelle 301,2041,Wullersdorf,48.629317,16.101982
 6481,Genol,Zellerndorf 216,2051,Zellerndorf,48.697516,15.96579
+6483,Genol - Lagerhaus: Diesel,Halbenrainerstraße 43,8490,Bad Radkersburg,46.692333,15.9734219
 6488,RUDOLF,Klagenfurter Strasse 46,9100,Völkermarkt,46.657907,14.6136657
 6502,Shell,Jormannsdorferstraße 52,7431,Bad Tatzmannsdorf,47.3454259,16.2241246
 6550,Genol,43,3753,Hötzelsdorf,48.7434981,15.669049
@@ -2220,6 +2234,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1469526, Grosch,Wiener Straße 67,3433,Königstetten,48.3040595,16.153094799999963
 1469546,avanti - Wien Jedletzbergerstraße 7,Jedletzbergerstrasse 7,1110,Wien,48.17054,16.45797
 1469566,Shell Austria,SEESTADTSTRASSE 6,1220,WIEN,48.216561,16.505235
+1469567,Lagerhaus: Benzin & Diesel + B0 Diesel & AdBlue,Dörfl 49,8330,Kornberg,46.976247,15.878982
 1469587,MS Tankstelle Sunk,Saffen 64,3270,Scheibbs,48.0221766013797,15.15354155480732
 1469626,SOCAR Mixnitz,Gewerbestraße 2,8132,Pernegg an der Mur,47.343351,15.349546
 1469646,Turmöl,Hollergasse 7,1150,Wien,48.185346,16.324959
@@ -2285,7 +2300,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
