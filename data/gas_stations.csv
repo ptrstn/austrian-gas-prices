@@ -51,6 +51,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 380,OMV - Schwaz Münchner Straße 24,Muenchner Strasse 24,6130,Schwaz,47.35044,11.70603
 381,OMV - Nassereith Fernpaß Bundesstraße 1,Fernpass Bundesstrasse 1,6465,Nassereith,47.3272,10.8198
 382,OMV - Längenfeld Unterlängenfeld 117b,Unterlaengenfeld 117b,6444,Laengenfeld,47.07863,10.96764
+383,OMV - Hall in Tirol Schlöglstraße 77,Schloeglstrasse 77,6060,Hall in Tirol,47.27348,11.47347
 391,OMV - Strasshof Hauptstraße 119,Hauptstrasse 119,2231,Strasshof,48.31458,16.6256
 394,avanti - Stegersbach Wiener Straße 3,Wiener Strasse 3,7551,Stegersbach,47.16113,16.16488
 395,OMV - Graz Seebacher Gasse 8,Seebacher Gasse 8,8010,Graz,47.07722,15.45904
@@ -2080,6 +2081,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354864,JET TANKSTELLE,FRIEDHOFSTRASSE 28,4020,LINZ,48.293683,14.301109
 1354865,OMV - Thüringen Walgaustraße 68,Walgaustrasse 68,6712,Thueringen,47.1993,9.75582
 1354866,JET TANKSTELLE,GINZKEY STRASSE 58,4600,WELS,48.179293,14.062516
+1354867,OMV - Innerbraz Äuleweg 1,Aeuleweg 1,6751,Innerbraz,47.14077,9.92512
 1354868,OMV - Alberschwende Hof 978,Hof 978,6861,Alberschwende,47.45076,9.82779
 1354869,JET TANKSTELLE,STEINAMANGERERSTRASSE 189,7400,OBERWART,47.273995,16.234408
 1354870,OMV - Hard Rheinstraße 24,Rheinstrasse 24,6971,Hard,47.48752,9.69962
@@ -2095,6 +2097,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354881,JET TANKSTELLE,EUROPASTRASSE 8,5400,HALLEIN,47.684607,13.103615
 1354882,avanti - Hard Hofsteigstraße 85,Hofsteigstrasse 85,6971,Hard,47.49046,9.70295
 1354883,JET TANKSTELLE,Brückenstraße 10,3430,TULLN,48.328077,16.058304
+1354884,OMV - Klösterle Danöfen 126,Danoefen 126,6754,Kloesterle,47.12939,10.06077
 1354885,JET TANKSTELLE,FREISTÄDTERSTR. 340,4040,LINZ,48.328471,14.321451
 1354886,OMV - Nenzing Bundesstraße 77,Bundesstrasse 77,6710,Nenzing,47.18918,9.70154
 1354887,JET TANKSTELLE,SALURNERSTRASSE 40,6330,KUFSTEIN,47.574902,12.157785
