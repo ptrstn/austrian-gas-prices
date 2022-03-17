@@ -2519,6 +2519,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474087,eni A 12 Inntalautobahn,An der Au 1,6493,Mils bei Imst,47.213166,10.696501
 1474088,eni,Alpenstrasse 60,5020,Salzburg,47.78366,13.066648
 1474089,eni,Zeller Bundesstrasse 1a,5760,Saalfelden,47.427965,12.842227
+1474092,eni,Bundesstrasse 311,5662,Gries/Taxenbach,47.28952,12.90538
 1474093,eni,Münchner Bundesstrasse 29,5020,Salzburg-Liefg.,47.81956,13.01762
 1474094,eni,Salzachtal Bundesstrasse 105,5081,Anif,47.732787,13.065609
 1474095,eni,Schallmooser Hauptstrasse 54,5020,Salzburg,47.807711,13.062374
@@ -2631,6 +2632,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474408,Diskont Tankstelle,"Wiener Straße 72 (""Hofer Parkplatz"")",2500,Baden,48.013001,16.256536
 1474409,Diskont Tankstelle,"Wienerstraße 1 (""Hofer Parkplatz"")",2115,Ernstbrunn,48.525741,16.37906
 1474411,Diskont Tankstelle,"Ybbsstrasse 70  (""Hofer Parkplatz"")",3300,Amstetten ,48.114269,14.869259
+1474412,Diskont Tankstelle,"35. Straße 2 (""Hofer Parkplatz"") ",3331,Kematen an der Ybbs,48.037782,14.778013
 1474413,Diskont Tankstelle,"Feldkirchnerstraße 221 (""Hofer Parkplatz"")",9020,Klagenfurt,46.649367,14.28417
 1474414,Diskont Tankstelle,"Haidäckerstraße 4 (""Hofer Parkplatz"")",7000,Eisenstadt,47.825142,16.532042
 1474415,Diskont Tankstelle,"Gewerbestraße 1 (""Hofer Parkplatz"")",7111,Parndorf,47.980945,16.854293
