@@ -7,6 +7,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 172,OMV - Attnang-Puchheim Salzburger Straße 91,Salzburger Strasse 91,4800,Attnang-Puchheim,48.00541,13.70937
 175,avanti - Kufstein Schubertstraße 20,Schubertstrasse 20,6330,Kufstein,47.58636,12.16222
 177,OMV - Wels Eisenfeldstraße 2,Eisenfeldstrasse 2,4600,Wels,48.16575,14.0391
+178,OMV - Windischgarsten Gleinkerseestraße 42,Gleinkerseestrasse 42,4580,Windischgarsten,47.71611,14.31597
 180,avanti - Steyr Ennser Straße 16,Ennser Strasse 16,4400,Steyr,48.05739,14.42064
 181,OMV - Schwarzach Salzburger Straße 52,Salzburger Strasse 52,5620,Schwarzach,47.32019,13.14384
 182,OMV - Salzburg Alpenstraße 106,Alpenstrasse 106,5020,Salzburg,47.77622,13.06826
@@ -2054,6 +2055,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354834,JET TANKSTELLE,LEOGANGER STRASSE 18 A,5760,SAALFELDEN,47.429818,12.842545
 1354835,avanti - Alland Bundesstraße 11,Bundesstrasse 11,2534,Alland,48.05753,16.08695
 1354836,JET TANKSTELLE,KÄRNTNER STRASSE 58,8720,KNITTELFELD,47.21075,14.817659
+1354837,OMV - Amstetten Reichsstraße 92,Reichsstrasse 92,3300,Amstetten,48.11657,14.90712
 1354838,SCHNELL UND GUENSTIG TANKSTELLE,BUNDESSTRASSE 34,6063,RUM,47.277562,11.444639
 1354839,OMV - Waidhofen an der Ybbs Wiener Straße 2a,Wiener Strasse 2a,3340,Waidhofen an der Ybbs,47.96667,14.76931
 1354840,JET TANKSTELLE,KÖRÖSISTRASSE 210,8010,GRAZ,47.094203,15.423206
