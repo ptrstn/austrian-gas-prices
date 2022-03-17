@@ -2360,7 +2360,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
@@ -2638,3 +2638,6 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474415,Diskont Tankstelle,"Gewerbestraße 1 (""Hofer Parkplatz"")",7111,Parndorf,47.980945,16.854293
 1474416,Diskont Tankstelle,"Fachmarktzentrum 2 (""Hofer Parkplatz"")",7210,Mattersburg,47.73078,16.412779
 1474417,Diskont Tankstelle,"Burgenlandstraße /B50 (""Hofer Parkplatz"")",7344,Stoob,47.514537,16.487473
+1474418,Diskont Tankstelle,"Dalistraße 2 (""Hofer-Parkplatz"")",4600,Wels,48.183581,14.025047
+1474420,Diskont Tankstelle,"Malvenstrasse 3 (""Hofer-Parkplatz"")",4600,Wels West,48.1433978,13.9709846
+1474421,Diskont Tankstelle,"Hannesgrub Nord 1 (""Hofer-Parkplatz"")",4910,Tumeltsham,48.2207783,13.49649
