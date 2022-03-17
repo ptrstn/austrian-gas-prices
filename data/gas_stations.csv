@@ -665,7 +665,10 @@ station_id,name,address,postal_code,city,latitude,longitude
 7767,Walters´s Zapfsäulen,Moos 70,8542,St.Peter,46.768572,15.264537
 7768,KK Kaindl AVIA,Baumgartenberg 40,4342,Baumgartenberg,48.2090333,14.7462471
 7769,Eni,Mankerstraße 8,3233,Kilb,48.1010142,15.4050088
+7784,GENOL-LH EFERDING-OÖ. MITTE eGen,BAHNHOFSTRASSE 40,4710,GRIESKIRCHEN,48.231293,13.8410691
+7785,GENOL-LH EFERDING-OÖ. MITTE eGen,KIMPLINGERSTRASSE 9,4720,NEUMARKT,48.2727841,13.7392114
 7786,Brüder Resch,Steinmühle 3,4161,Ulrichsberg,48.6742195,13.8973395
+7790,GENOL-LH EFERDING-OÖ. MITTE eGen,STEINBRUCK 16,4742,PRAM,48.23172,13.61824
 7794,GENOL-LH EFERDING-OÖ. MITTE eGen,TRAPPENHOF SUED 1,4714,MEGGENHOFEN,48.1829959,13.7823221
 7797,TWS GmbH,Rübenstraße 2,4063,Hörschnig,48.246483,14.182423
 7800,Gusenbauer Willibald e.U.Freie Tankstelle,Schönau 12,4331,Naarn,48.2036345,14.6617906
@@ -1637,6 +1640,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 450004,Shell Austria,SCHWEFEL 40,6850,DORNBIRN-SCHWEFEL,47.4256,9.7414
 450005,Shell Austria,RHAETIKONSTRASSE 42,6780,SCHRUNS,47.08052,9.90337
 450007,Shell Austria,ST.PETER-HAUPTSTRASSE 24,8042,GRAZ-ST.PETER,47.05735,15.47102
+450176,Shell Austria,WIENERSTRASSE 97,2511,PFAFFSTAETTEN,48.01552,16.27364
 450178,Shell Austria,HALLEINER LANDESSTRASSE 12,5411,OBERALM,47.69183,13.10054
 450179,Shell Austria,AMRASERSEE-STRASSE 56,6020,INNSBRUCK,47.26338,11.42971
 450348,Shell Austria,UMFAHRUNGSSTRASSE 14,9100,VOELKERMARKT,46.66237,14.62665
@@ -2360,7 +2364,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
@@ -2644,4 +2648,10 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474422,Diskont Tankstelle,"Braunauer Strasse 27 (""Hofer-Parkplatz"")",5230,Mattighofen,48.0942884,13.1570388
 1474423,Diskont Tankstelle,"Auweg 2 (""Hofer Parkplatz"")",4052,Ansfelden,48.215537,14.277291
 1474424,Diskont Tankstelle,"Kollingerfeld 5 (""Hofer-Parkplatz"")",4563,Micheldorf,47.890228,14.1277908
+1474426,Diskont Tankstelle,"Richterstraße 5 (""Hofer-Parkplatz"")",4060,Leonding,48.27194,14.267871
+1474427,Diskont Tankstelle,"Doktor-Karl-Renner-Straße 60 (""Am Hofer-Parkplatz"")",4470,Enns,48.215991,14.458914
 1474428,Diskont Tankstelle,"Atterseestraße 95 (""Am Hofer Parkplatz"")",4850,Timelkam,47.998139,13.621548
+1474429,Diskont Tankstelle,"Gewerbepark Ost 27 ("" Hofer-Parkplatz"")",4846,Redlham,48.046853,13.759449
+1474430,Diskont Tankstelle,"Aubachweg 2 (""Am Hofer Parkplatz"")",4910,Ried im Innkreis,48.207022,13.464818
+1474431,Diskont Tankstelle,"Haselbach 30 ("" Hofer-Parkplatz"")",4121,Altenfelden,48.497102,13.969221
+1474435,Diskont Tankstelle,"Bundesstrasse 23 (""Hofer-Parkplatz"")",5600,St. Johann,47.3569941,13.1971638
