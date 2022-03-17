@@ -2212,6 +2212,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1466208,GENOL,Wirtschaftspark 1,2130,Mistelbach,48.563921,16.636163
 1467378,Shell Schiestl,Eggerseeuferstr.85,9580,Drobollach,46.0,13.0
 1467380,avanti - Dornbirn Lustenauer Straße 24,Lustenauer Strasse 24,6850,Dornbirn,47.40698,9.73476
+1467384,avanti - Münchendorf Bundesstraße B16,Bundesstrasse B16 ,2482,Muenchendorf,48.03444,16.37948
 1467392,Turmöl Mauthausen,Poschacherstrasse 10,4310,Mauthausen,48.239588049949816,14.528217035799331
 1467404,D.Gertl Tankstelle GmbH,x,6241,Radfeld,47.4517224,11.9360568
 1467446,Turmöl,Bennoplatz 4,1080,Wien,48.2120591,16.3420486
@@ -2644,6 +2645,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474416,Diskont Tankstelle,"Fachmarktzentrum 2 (""Hofer Parkplatz"")",7210,Mattersburg,47.73078,16.412779
 1474417,Diskont Tankstelle,"Burgenlandstraße /B50 (""Hofer Parkplatz"")",7344,Stoob,47.514537,16.487473
 1474418,Diskont Tankstelle,"Dalistraße 2 (""Hofer-Parkplatz"")",4600,Wels,48.183581,14.025047
+1474419,Diskont Tankstelle,"Wiener Bundesstrasse 117 (""Hofer-Parkplatz"")",4050,Traun,48.2354475,14.2369947
 1474420,Diskont Tankstelle,"Malvenstrasse 3 (""Hofer-Parkplatz"")",4600,Wels West,48.1433978,13.9709846
 1474421,Diskont Tankstelle,"Hannesgrub Nord 1 (""Hofer-Parkplatz"")",4910,Tumeltsham,48.2207783,13.49649
 1474422,Diskont Tankstelle,"Braunauer Strasse 27 (""Hofer-Parkplatz"")",5230,Mattighofen,48.0942884,13.1570388
