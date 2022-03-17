@@ -15,6 +15,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 187,avanti - Kirchdorf in Tirol Innsbrucker Straße 51,Innsbrucker Strasse 51,6383,Kirchdorf in Tirol,47.54417,12.44904
 199,OMV - Wörgl Salzburger Straße 55,Salzburger Strasse 55,6300,Woergl,47.49028,12.07354
 212,OMV - Sankt Pölten Dr.Adolf Schärf-Straße 1,Dr.Adolf Schaerf-Strasse 1,3100,Sankt Poelten,48.22376,15.63452
+213,OMV - Himberg Gutenhofer Straße 9,Gutenhofer Strasse 9,2325,Himberg,48.07949,16.44134
 219,OMV - Pörtschach Hauptstraße 232,Hauptstrasse 232,9210,Poertschach,46.63668,14.13709
 224,OMV - Bramberg Weichseldorf 243,Weichseldorf 243,5733,Bramberg,47.2678,12.33757
 226,avanti - Zwettl Linzer Straße 4,Linzer Strasse 4,4180,Zwettl,48.46445,14.27161
@@ -1851,6 +1852,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1169819,Turmöl Quick,Bahnstraße 15,7151,Wallern,47.725795,16.9349372
 1172639,SB-Tankstelle Zauner,Jagern 18,4761,Enzenkirchen,48.37648,13.63102
 1173509,Turmöl Quick,Wiener Straße 43,7052,Müllendorf,47.8403885,16.5005816
+1173679,Winkler KJL GmbH,Eisenstädter Str. 18,2491,Neufeld an der Leitha,47.8651813,16.3817289
 1173681,F. LEITNER,Rebenland Center Straße 2,8472,Vogau,46.73890659116481,15.6023388790774
 1178939,"TurboStopp, Freie Tankstelle",Gerlos 297,6281,Gerlos,47.2286462,12.0479962
 1181569,Diskont Tankstelle,"Wienerstraße 1 (""Hofer Parkplatz"")",2115,Ernstbrunn,48.525741,16.37906
