@@ -39,6 +39,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 284,OMV - Linz Hafenstraße 8,Hafenstrasse 8,4020,Linz,48.31554,14.30166
 314,OMV - Spittal an der Drau Villacher Straße 50,Villacher Strasse 50,9800,Spittal an der Drau,46.79163,13.50961
 320,OMV - Reith bei Seefeld Krinz 27,Krinz 27,6100,Reith bei Seefeld,47.32402,11.19909
+321,OMV - Saalfelden Bundesstraße 2,Bundesstrasse 2,5760,Saalfelden,47.42897,12.84275
 322,OMV - Salzburg Schiller Straße 28,Schiller Strasse 28,5020,Salzburg,47.82232,13.03982
 326,OMV - Steyr Haagerstraße 38A,Haagerstrasse 38A,4400,Steyr,48.05521,14.44928
 334,OMV - Wien Sterngasse 13,Sterngasse 13,1230,Wien,48.14891,16.33836
@@ -1818,6 +1819,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1131479,Diskont Tankstelle,"Seekirchnerstraße 1 (""Hofer Parkplatz"")",5162,Obertrum,47.936206,13.082396
 1131667,AWI-Diskont Bedienungstankstelle,Sternwartestraße 23,1180,Wien,48.2295664,16.3462611
 1132039,Diskont Tankstelle,"Bergerbräuhofstraße 40a (""Hofer Parkplatz"")",5020,Salzburg,47.818913,13.056385
+1132040,Diskont Tankstelle,"Othmar-Spanlang-Straße 1 (""Hofer Parkplatz"")",4780,Schärding,48.446581,13.439444
 1132041,Diskont Tankstelle,"Simmeringer Hauptstraße 334 (""Hofer Parkplatz"")",1110,Wien,48.147895,16.462057
 1132042,Diskont Tankstelle,"Wiener Straße 210-218 (""Hofer Parkplatz"")",2103,Langenzersdorf,48.297103,16.375102
 1132043,Diskont Tankstelle,"Strazzegasse 8 / Schönkirchnerstraße (""Hofer Parkplatz"")",2231,Strasshof,48.320866,16.650621
@@ -2358,7 +2360,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
