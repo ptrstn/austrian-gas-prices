@@ -64,6 +64,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 420,avanti - Mannersdorf/Leithagebirge Halterzeile 3,Halterzeile 3,2452,Mannersdorf/Leithagebirge,47.97132,16.59832
 422,OMV - Zistersdorf Umfahrungsstraße 28A,Umfahrungsstrasse 28a,2225,Zistersdorf,48.54239,16.76417
 433,OMV - Hopfgarten Bahnhofstraße 11,Bahnhofstrasse 11,6361,Hopfgarten,47.45309,12.15153
+434,OMV - Tannheim Höf 14,Hoef 14,6675,Tannheim,47.49917,10.51679
 435,OMV - Ried im Oberinntal Reschenstraße 299,Reschenstrasse 299,6531,Ried im Oberinntal,47.05741,10.65375
 442,OMV - Neumarkt Kärntner Straße 22,Kaerntner Strasse 22,8820,Neumarkt,47.06752,14.43023
 447,OMV - Hermagor Gailtalstraße 12,Gailtalstrasse 12,9620,Hermagor,46.62964,13.37877
@@ -2250,6 +2251,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1468487,Diskont - Cafe Nadia,Bahnhofstraße 29,9375,Hüttenberg,46.931056,14.549275
 1468526,M3 St.Kathrein,Offenegg 13,8171,St. Kathrein,47.309666,15.562736
 1468646,F. LEITNER,Viertelfeistritz 46,8184,Feistritz bei Anger,47.248343,15.698791
+1468686,"Tank Roth ""Express"" Andritz",Weinzöttlstraße 15,8045,Graz,47.1034105,15.4143672
 1468688,Turmöl Quick,Hauptstraße 25,3224,Mitterbach,47.816267,15.295843
 1468726, AVIA Xpress (Automaten-Tankstelle),10.-Oktober-Straße 29,9560,Feldkirchen in Kärnten,46.722217,14.098879
 1468800,Welog - Landespartner des Burgenlands,Obere Hauptstraße 230,7535,St. Michael im Burgenland,47.136327,16.272085
