@@ -911,6 +911,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 33708,AVIA XPress (unser Service: Luft und Wasser),Hauptstraße 25,2125,Neubau,48.4985214,16.5169696
 33713,AVIA,Austraße 26,6200,Jenbach,47.3892748,11.7855675
 33715,AVIA,Schlitters 27c,6262,Schlitters,47.3811223,11.8341075
+33716,AVIA,Kaltenbach 21,6345,Kössen,47.6620529,12.4253387
 33717,ENI,Mühltal 19,6305,Itter,47.4829762,12.148585
 33722,AVIA Xpress (Automaten-Tankstelle),Steyrtalstr. 30,4523,Neuzeug,48.046108,14.3329223
 33723,AVIA,Steyrer Straße 2,4493,Wolfern,48.0779861,14.3785871
@@ -1172,6 +1173,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 35729,BP,Triesterstrasse 153 ,1100,Wien,48.15669974,16.34239786
 35730,BP,Erlach 138 ,6150,Steinach Am Brenner,47.095326,11.465437
 35731,BP,Virgentalstrasse 39 ,9972,Virgen,47.0017349,12.4643059
+35732,BP,Huette 15 ,6345,Koessen,47.6618131,12.4129411
 35733,BP,Liebensdorf 36 ,8081,Heiligenkreuz Am Waasen,46.9821421,15.5649621
 35735,BP,Bregenzerstr. 63 ,6900,Bregenz/Lochau,47.5111513,9.7530777
 35736,BP,Stiegstrasse 63 ,6830,Rankweil,47.2796507,9.6496174
@@ -2388,7 +2390,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
