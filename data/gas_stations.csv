@@ -2390,7 +2390,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
@@ -2646,6 +2646,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474290,eni,Krottenbachstrasse 32-34,1190,Wien,48.2407,16.3393
 1474291,eni,Kärntnerstrasse 88,8053,Graz - Wetzelsdorf,47.054916,15.41637
 1474294,eni,Märzenkeller 3,8850,Murau,47.113156,14.163099
+1474295,eni,Hauptstrasse 2,8472,Strass,46.72951,15.61609
 1474296,eni,Grazer Vorstadt 11,8570,Voitsberg,47.04799,15.153765
 1474308,Diskont Tankstelle,"Emerich-Berger-Straße 7 (""Hofer Parkplatz"")",3950,Gmünd,48.766005,14.979923
 1474309,Diskont Tankstelle,"Shuttleworthstraße 11 (""Hofer-Parkplatz"")",1210,Wien,48.271488,16.407684
