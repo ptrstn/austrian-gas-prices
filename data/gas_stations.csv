@@ -639,6 +639,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 7699,BP,Murtaler Straße 579,5582,St. Michael,47.09614456951144,13.633711338043211
 7700,F4L Petrol,Grossendorf 82,4551,Riied im Traunkreis,48.038725,14.058359
 7702,Unser Lagerhaus St. Johann,Bahnhofstraße 28,6380,St. Johann/Tirol,47.5199377,12.4319425
+7703,BP,Niederland 112,5091,Unken,47.6653044,12.7527992
 7704,Shell,Mandlingstraße 8,8974,Mandling,47.40410246,13.57432991
 7705,LMEnergy Express,Hauptstraße 105,5302,Henndorf,47.9058183,13.193274
 7706,LMEnergy Express,Salzachtalbundesstraße 111,5081,Anif,47.7313262,13.0641858
@@ -802,6 +803,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 33389,SOCAR Klagenfurt-Pischeldorferstraße,Pischeldorferstraße 155,9020,Klagenfurt,46.6378812,14.3332067
 33390,SOCAR Graz-Grabenstraße,Grabenstraße 166,8010,Graz,47.091185,15.430296
 33391,SOCAR Seibersdorf,Grazer Straße 97,8232,Seibersdorf,47.32786092847619,15.991220646103232
+33393,A1 Tankstelle Pöls,Tauernstraße 47,8761,Pöls,47.2157962,14.5751201
 33394,SOCAR Eisenerz,Vordernbergerstraße 62,8790,Eisenerz,47.5510166,14.9424382
 33395,SOCAR Perchtoldsdorf,Ketzergasse 191a,2380,Perchtoldsdorf,48.1301731,16.2919418
 33396,SOCAR Krumpendorf,Hauptstraße 180,9201,Krumpendorf,46.6266886,14.2080065
@@ -1627,6 +1629,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 448800,Shell Austria,ST.JULIEN-STRASSE 33A,5020,SALZBURG,47.8109,13.04281
 449139,Shell Austria,HAUPTSTRASSE 51,4662,STEYRERMUEHL,47.99134,13.80796
 449140,Shell Austria,ZINSGASSE 20,5580,TAMSWEG,47.13165,13.8077
+449481,Shell Austria,FLORIDSDORFER HAUPTSTR 17,1210,WIEN,48.25439,16.39411
 449482,Shell Austria,FORSTBERGSTRASSE 18,4470,ENNS,48.20985,14.47687
 449484,Shell Austria,BRENNER STRASSE 4,6020,INNSBRUCK,47.24151,11.38978
 449653,Shell Austria,LEOPOLDAUERSTRASSE 51,1210,WIEN,48.25993,16.41174
