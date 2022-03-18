@@ -122,6 +122,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 2061,"PINK - so pink, so clever",Reitingerstrasse 1,4641,Steinhaus,48.1039304,14.0397516
 2062,"PINK - so pink, so clever",Karl-Schachinger-Straße 17,4070,Eferding,48.3001235,14.015287
 2063,PINK Sparen beim Fahren,Edtstraße 15,4060,Leonding,48.2554481,14.2537114
+2064,"PINK - so pink, so clever",Inn 11,4632,Pichl/Wels,48.2034231,13.9258968
 2066,Freie Tankstelle (AVIA Treibstoffe),"Tankstelle Knunbauer GmbH, Fronwaldstrasse 17",4784,Schardenberg,48.52244,13.490805
 2070,freie Tankstelle,Hirschegg 50,8584,Hirschegg,47.0201138,14.9572875
 2075,"Autohaus Trummer, freie Tankstelle",Gnas 120,8342,Gnas,46.8706748,15.8259354
@@ -1321,6 +1322,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 43006,SHELL,MILLSTÄTTERSTRASSE 40,9545,RADENTHEIN,46.7993832,13.6876552
 43046,Diskont Tankstelle,"Emerich-Berger-Straße 7 (""Hofer Parkplatz"")",3950,Gmünd,48.766005,14.979923
 43066,IQ Tankstelle,Falkensteinstrasse 3,4142,Hofkirchen im Muehlkreis,48.484137,13.804911
+43068,IQ Tankstelle,Mistlberg 47,4284,Tragwein,48.330061,14.602548
 43069,IQ Tankstelle,Rannariedlerstrasse 10,4143,Neustift,48.503373,13.755291
 43070,Shell Tankstelle,Ennserstrasse 95,4407,Steyr Gleink,48.081942,14.427105
 43073,IQ Tankstelle,Donaukraftwerkstrasse 1,2000,Stockerau,48.375765,16.237686
