@@ -2555,6 +2555,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474103,eni A 10 Tauernautobahn,Lamm 113,5584,Zederhaus/Krottendf.,47.131458,13.54817
 1474104,eni,Liechtensteinerstrasse 115,6800,Feldkirch,47.221748,9.576177
 1474105,eni,Langgasse 118a,6830,Rankweil,47.27182,9.61785
+1474106,eni,Arlbergstrasse 56,6900,Bregenz-Rieden,47.495268,9.733599
 1474107,eni,Schwefel 70a,6850,Dornbirn,47.42974,9.73995
 1474108,eni,Rheinstrasse 20,6971,Bregenz-Hard,47.488611,9.702186
 1474110,eni,Hohenemser Strasse 1,6890,Lustenau,47.419113,9.660987
@@ -2582,9 +2583,11 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474157,eni,Ignaz Harrerstrasse 78,5020,Salzburg,47.8121,13.024
 1474159,eni,Gabelsbergerstrasse 1,5020,Salzburg,47.810199,13.046559
 1474161,eni,Mittersillerstraße 9,5722,Niedernsill,47.28329,12.62393
+1474165,eni,Bundesstrasse 18,6923,Lauterach,47.4821512,9.73155
 1474167,eni,Lustenauerstrasse 52,6850,Dornbirn,47.4104,9.72079
 1474169,eni,Rheinstrasse 4,6900,Bregenz,47.4985,9.73258
 1474171,eni,Bahnhofstrasse 21,6780,Schruns,47.0801,9.91687
+1474173,eni,Achstrasse 39,6922,Wolfurt,47.48154,9.74613
 1474175,eni,Maria Theresienstrasse 14,6890,Lustenau,47.4282,9.65945
 1474177,eni24,Villacherstrasse 44,9800,Spittal/Drau,46.7919,13.5083
 1474183,eni,Feldkirchner Strasse 9,9556,Liebenfels,46.7375,14.2858
@@ -2651,6 +2654,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474389,Diskont Tankstelle,"Haidhofstrasse 147 (""Hofer-Parkplatz"")",2500,Baden,47.9751916,16.2812818
 1474390,Diskont Tankstelle,"Gewerbestraße 2 (""Am Hofer Parkplatz"")",3160,Traisen,48.049897,15.612339
 1474391,Diskont Tankstelle,"Wiener Straße 54 (""Am Hofer Parkplatz"")",3340,Waidhofen,47.976722,14.754875
+1474393,Diskont Tankstelle,"Mankerstrasse 59 (""Hofer-Parkplatz"")",3380,Pöchlarn,48.19947,15.220914
 1474394,Diskont Tankstelle,"Hofer Straße 2 (""Hofer Parkplatz"")",2325,Himberg,48.071822,16.45753
 1474408,Diskont Tankstelle,"Wiener Straße 72 (""Hofer Parkplatz"")",2500,Baden,48.013001,16.256536
 1474409,Diskont Tankstelle,"Wienerstraße 1 (""Hofer Parkplatz"")",2115,Ernstbrunn,48.525741,16.37906
