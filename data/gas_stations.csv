@@ -310,6 +310,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 5093,Turmöl Tankstelle,Margaretenstrasse 28,1040,Wien,48.1962250998788,16.3648216561744
 5095,Wulz,Obervellach,9821,Obervellach,46.930587,13.207326
 5098,LAGERHAUS Genol mit Tankkartensystem,Sportplatzgasse 2,2443,Leithaprodersdorf,47.9363111,16.4865995
+5100,LAGERHAUS Genol mit Tankkartensystem,Oberwaltersdorferstraße 2,2523,Tattendorf,47.956716,16.3066358
 5101,LAGERHAUS Genol mit Tankkartensystem,Untere Hauptstraße 28,2451,Au am Leithagebirge,47.9232341,16.5570952
 5105,LAGERHAUS Genol mit Tankkartensystem,Rauchenwartherstraße 1,2325,Himberg,48.0834215,16.4453918
 5106,LAGERHAUS Genol mit Tankkartensystem,Hintausstraße 35,2452,Mannersdorf,47.9760094,16.6038693
@@ -806,6 +807,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 33396,SOCAR Krumpendorf,Hauptstraße 180,9201,Krumpendorf,46.6266886,14.2080065
 33399,A1 Tankstelle Fehring,Brunn 144,8350,Fehring,46.9515668,16.0100281
 33400,SOCAR Schwanberg,Deutschlandsberger Straße 6,8541,Schwanberg,46.7601246,15.2069591
+33402,A1 Tankstelle Judenburg,Burggasse 85a,8750,Judenburg,47.1695363,14.6464932
 33403,A1 Tankstelle Mürzzuschlag,Wiener Straße 90,8680,Mürzzuschlag,47.60641,15.6807706
 33404,A1 Tankstelle Feistritz im Rosental,Hauptstraße 197,9181,Feistritz im Rosental,46.524677,14.1636058
 33405,A1 Tankstelle Weitensfeld,Kaindorf 27,9344,Weitensfeld,46.8510669,14.1672939
@@ -2367,7 +2369,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
