@@ -1435,6 +1435,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 247819,eni,Feldstrasse 44,2345,Brunn/Geb.,48.122997,16.293216
 247820,eni,Mattersburger Strasse 20,7000,Eisenstadt,47.835896,16.523812
 247822,eni,Wiener Strasse 52,7423,Pinkafeld,47.379013,16.122093
+247823,eni,Mönchhofer Strasse 10,7132,Frauenkirchen,47.84375,16.930306
 247825,eni,Eisenstädter Strasse 7a,8380,Jennersdorf,46.937501,16.143843
 247827,eni,Steinbrückl 14,7531,Kemeten,47.275937,16.156024
 247829,eni,Salurner Strasse 28,6330,Kufstein,47.5764,12.1604
@@ -2685,6 +2686,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474422,Diskont Tankstelle,"Braunauer Strasse 27 (""Hofer-Parkplatz"")",5230,Mattighofen,48.0942884,13.1570388
 1474423,Diskont Tankstelle,"Auweg 2 (""Hofer Parkplatz"")",4052,Ansfelden,48.215537,14.277291
 1474424,Diskont Tankstelle,"Kollingerfeld 5 (""Hofer-Parkplatz"")",4563,Micheldorf,47.890228,14.1277908
+1474425,Diskont Tankstelle,"Neue Landstraße 74 (""Hofer-Parkplatz"")",4655,Vorchdorf,48.008358,13.920214
 1474426,Diskont Tankstelle,"Richterstraße 5 (""Hofer-Parkplatz"")",4060,Leonding,48.27194,14.267871
 1474427,Diskont Tankstelle,"Doktor-Karl-Renner-Straße 60 (""Am Hofer-Parkplatz"")",4470,Enns,48.215991,14.458914
 1474428,Diskont Tankstelle,"Atterseestraße 95 (""Am Hofer Parkplatz"")",4850,Timelkam,47.998139,13.621548
