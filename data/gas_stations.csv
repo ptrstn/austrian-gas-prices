@@ -2394,7 +2394,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
@@ -2670,6 +2670,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474394,Diskont Tankstelle,"Hofer Straße 2 (""Hofer Parkplatz"")",2325,Himberg,48.071822,16.45753
 1474408,Diskont Tankstelle,"Wiener Straße 72 (""Hofer Parkplatz"")",2500,Baden,48.013001,16.256536
 1474409,Diskont Tankstelle,"Wienerstraße 1 (""Hofer Parkplatz"")",2115,Ernstbrunn,48.525741,16.37906
+1474410,Diskont Tankstelle,"Bahnhofstraße 26 (""Hofer Parkplatz"")",3370,Ybbs,48.16811,15.086662
 1474411,Diskont Tankstelle,"Ybbsstrasse 70  (""Hofer Parkplatz"")",3300,Amstetten ,48.114269,14.869259
 1474412,Diskont Tankstelle,"35. Straße 2 (""Hofer Parkplatz"") ",3331,Kematen an der Ybbs,48.037782,14.778013
 1474413,Diskont Tankstelle,"Feldkirchnerstraße 221 (""Hofer Parkplatz"")",9020,Klagenfurt,46.649367,14.28417
