@@ -2574,6 +2574,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474108,eni,Rheinstrasse 20,6971,Bregenz-Hard,47.488611,9.702186
 1474110,eni,Hohenemser Strasse 1,6890,Lustenau,47.419113,9.660987
 1474111,eni,Tiroler Strasse 9,9800,Spittal/Drau,46.80076,13.49156
+1474112,eni,Reintal 21,9841,Winklern,46.862484,12.890597
 1474113,eni,Klagenfurter Strasse 42a,9100,Völkermarkt,46.65927,14.61731
 1474114,eni,Tiroler Strasse 141,9500,Villach,46.632043,13.824202
 1474117,eni,Villacher Strasse 21,9220,Velden,46.613684,14.03577
@@ -2604,6 +2605,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474173,eni,Achstrasse 39,6922,Wolfurt,47.48154,9.74613
 1474175,eni,Maria Theresienstrasse 14,6890,Lustenau,47.4282,9.65945
 1474177,eni24,Villacherstrasse 44,9800,Spittal/Drau,46.7919,13.5083
+1474179,eni,Mörtschach 72,9842,Mörtschach,46.9222,12.9105
 1474183,eni,Feldkirchner Strasse 9,9556,Liebenfels,46.7375,14.2858
 1474193,eni,Italiener Strasse 57,9500,Villach,46.603335,13.840528
 1474197,eni,Huben 40,9971,Matrei in Osttirol,46.9346,12.575
