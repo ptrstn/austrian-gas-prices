@@ -73,6 +73,8 @@ station_id,name,address,postal_code,city,latitude,longitude
 434,OMV - Tannheim Höf 14,Hoef 14,6675,Tannheim,47.49917,10.51679
 435,OMV - Ried im Oberinntal Reschenstraße 299,Reschenstrasse 299,6531,Ried im Oberinntal,47.05741,10.65375
 442,OMV - Neumarkt Kärntner Straße 22,Kaerntner Strasse 22,8820,Neumarkt,47.06752,14.43023
+443,OMV - Kapfenberg Wiener Straße 79,Wiener Strasse 79,8605,Kapfenberg,47.44692,15.30208
+444,OMV - Bruck an der Mur Leobner Straße 59,Leobner Strasse 59,8600,Bruck an der Mur,47.40623,15.26573
 447,OMV - Hermagor Gailtalstraße 12,Gailtalstrasse 12,9620,Hermagor,46.62964,13.37877
 448,OMV - Feldkirchen 10. Oktober-Straße 23,10. Oktober-Strasse 23,9560,Feldkirchen,46.72299,14.09689
 449,OMV - Viktring Keutschacher Straße 135,Keutschacher Strasse 135,9073,Viktring,46.59189,14.27158
@@ -2356,7 +2358,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1470046,Diskont Tankstelle,"Feldkirchnerstraße 221 (""Hofer Parkplatz"")",9020,Klagenfurt,46.649367,14.28417
 1470066,Turmöl Quick,Gmündner Straße 198,3970,Weitra,48.703029,14.898026
 1470086,Rumpold,Petersplatz 5,8093,St. Peter am Ottersbach,46.79924,15.759666
-1470106,Eni Oberscheider,Schulze Delitzsch-Straße 2,3100,St. Pölten,48.179642,15.614191
+1470106,Eni Oberscheider St. Pölten,Schulze Delitzsch-Straße 2,3100,St. Pölten,48.179642,15.614191
 1470126,M3 Drautank,Karawankenweg 17,9500,Villach,46.597852,13.850062
 1470146,Genol,Wienerstrasse 73,2000,Stockerau,48.38724846216198,16.239068555388215
 1470166,Turmöl Fusch,Zellerfusch 131,5672,Fusch,47.231741,12.825534
