@@ -992,6 +992,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 34480,DICKINGER Agrarhandel GmbH,Stampfstraße 3,4655,Vorchdorf,48.0051382,13.9188821
 34490,Tankstelle Robert Döberl ,Horner Strasse 33,2095,Drosendorf/Thaya ,48.861948,15.623181
 34493,Diskont,Markt 6,4263,Windhaag bei Freistadt,48.588616,14.561648
+34494,Tanktreff Josef Bernd Prokopetz,Obere Gaberling 1,7322,Lackenbach,47.58301,16.460949
 34495,Diskont Oberndorfer,Jebenstein 3,4615,Holzhausen,48.2195481,14.1105648
 34496,S-Petrol,Parndorferstraße 173,2460,Bruckneudorf,48.0165215,16.8083408
 34499,Diskont Pöltl,Hofstatt 21,7312,Unterpetersdorf,47.5907015,16.579503
@@ -1023,7 +1024,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 34576,Kaufhaus Bartl,Nr. 28,2163,Ottenthal,48.758134,16.578278
 34587,Tankstelle Pernsteiner - Tankautomat mit Bankomat,Hauptstraße 9,4131,Kirchberg ob der Donau,48.444348,13.938993
 34588,Shell,Kremserstraße 2-4,3470,Kirchberg am Wagram,48.4308585,15.9019522
-34590,ENI OBERSCHEIDER,Reichsstrasse 16a,6890,Lustenau,47.430313,9.64951
+34590,Eni Oberscheider Lustenau,Reichsstrasse 16a,6890,Lustenau,47.430313,9.64951
 34591,SB-Tankstelle,Diesendorf 15,3243,St. Leonhard,48.0925635,15.2496315
 34592,Marken-Diskont Franz Falk,Oberbuch 9,8274,Buch,47.2339552,15.9964327
 34593,LAGERHAUS   Hopfgarten - Wörgl und Umgebung reg.Gen.m.b.H.,Bahnhofstr. 7,6361,Hopfgarten,47.4526716,12.1517289
