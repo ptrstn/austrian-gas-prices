@@ -53,6 +53,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 361,OMV - Lienz Tiroler Straße 10,Tiroler Strasse  10,9900,Lienz,46.83095,12.77553
 362,OMV - Seeboden Hauptstraße 39,Hauptstrasse 39,9871,Seeboden,46.81713,13.51108
 364,OMV - Innsbruck Innrain 104,Innrain 104,6020,Innsbruck,47.25734,11.37805
+367,OMV - Zell am See Brucker Bundesstraße 110,Brucker Bundesstrasse 110,5700,Zell am See,47.29793,12.79454
 374,OMV - Weiden am See Parz. Nr. 2164 17-18,Parz. Nr. 2164 17-18,7100,Weiden am See,47.9375,16.85532
 380,OMV - Schwaz Münchner Straße 24,Muenchner Strasse 24,6130,Schwaz,47.35044,11.70603
 381,OMV - Nassereith Fernpaß Bundesstraße 1,Fernpass Bundesstrasse 1,6465,Nassereith,47.3272,10.8198
@@ -64,11 +65,13 @@ station_id,name,address,postal_code,city,latitude,longitude
 398,OMV - Graz St. Peter Hauptstraße 228,St. Peter Hauptstrasse 228,8042,Graz,47.04384,15.48696
 399,OMV - Admont Hall 360,Hall 360,8911,Admont,47.58208,14.45614
 402,avanti - Mauthausen Machlandstraße 5,Machlandstrasse 5,4310,Mauthausen,48.24347,14.53427
+403,OMV - Linz Makartstraße 29,Makartstrasse 29,4020,Linz,48.28592,14.30255
 405,OMV - Kufstein Oskar Pirlo-Straße 32,Oskar Pirlo-Strasse 32,6330,Kufstein,47.58913,12.17427
 410,OMV - Golling an der Salzach Autobahn Golling Ost 31,Autobahn Golling Ost 31,5440,Golling an der Salzach,47.58396,13.1575
 412,avanti - Steyr Sierninger Straße 178,Sierninger Strasse 178,4400,Steyr,48.04345,14.38747
 420,avanti - Mannersdorf/Leithagebirge Halterzeile 3,Halterzeile 3,2452,Mannersdorf/Leithagebirge,47.97132,16.59832
 422,OMV - Zistersdorf Umfahrungsstraße 28A,Umfahrungsstrasse 28a,2225,Zistersdorf,48.54239,16.76417
+423,OMV - Perchtoldsdorf Brunner Gasse 48,Brunner Gasse 48,2380,Perchtoldsdorf,48.11554,16.27169
 433,OMV - Hopfgarten Bahnhofstraße 11,Bahnhofstrasse 11,6361,Hopfgarten,47.45309,12.15153
 434,OMV - Tannheim Höf 14,Hoef 14,6675,Tannheim,47.49917,10.51679
 435,OMV - Ried im Oberinntal Reschenstraße 299,Reschenstrasse 299,6531,Ried im Oberinntal,47.05741,10.65375
@@ -958,6 +961,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 34321,TURMÖL Tankstelle Schlögl,St. Georgen an der Stiefing 27,8413,St. Georgen an der Stiefing,46.874172,15.580502
 34322,freie Tankstelle,Lödersdorf 54,8334,Lödersdorf,46.9559582,15.9564707
 34332,Genol - Lagerhaus,Lungitz 35,4223,Lungitz,48.2881453,14.47541
+34333,Genol - Lagerhaus,Technologiepark 1,4320,Perg,48.2481413,14.6232363
 34335,OMV,Bahnhofstraße 11a,7471,Rechnitz,47.302575,16.4423994
 34337,Autohaus Heinrich GmbH - ENI Tankstelle,Sillian 46,9920,Sillian,46.7510013,12.4260524
 34338,Diskont Tankstelle,Lembach 7,8333,Riegersburg,47.015015,15.9495948
@@ -2191,6 +2195,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354923,JET TANKSTELLE,WEIZER STRASSE 50,8200,GLEISDORF,47.111991,15.704419
 1354924,OMV - Wien Gablenzgasse 109,Gablenzgasse 109,1150,Wien,48.20685,16.31374
 1354925,JET TANKSTELLE,LINZERSTRASSE 58,4780,SCHÄRDING,48.450421,13.436477
+1354926,OMV - Wien Etrichstraße 42,Etrichstrasse 42,1110,Wien,48.15133,16.4632
 1354927,JET TANKSTELLE,MURWEG 3,8753,FOHNSDORF,47.18312,14.682149
 1354928,JET TANKSTELLE,PUCHBERGER STRASSE 1,2700,WIENER NEUSTADT,47.805343,16.211228
 1354929,OMV - Wien Laaer Berg-Straße 240,Laaer Berg-Strasse 240,1100,Wien,48.14818,16.39664
