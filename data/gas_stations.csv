@@ -459,6 +459,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 6326,Genol - Raiffeisenlagerhaus St. Pölten,Mariazeller Strasse 18,3184,Türnitz,47.93719784267224,15.497417449951172
 6327,Genol-Lagerhaus Thermenland Großwilfersdorf,Grosswilfersdorf,8263,Grosswilfersdorf 240,47.0771621,15.9967258
 6328,Genol - Raiffeisenlagerhaus St. Pölten,Lagerhausgasse 8,3130,Herzogenburg,48.275296,15.697478
+6329,GENOL - Lagerhaus,1. Straße 2,2460,Bruck/Leitha,48.033844,16.7985297
 6350,Diskont Reisinger,Marktplatz 8,4212,Neumarkt,48.427392,14.483693
 6351,Land lebt auf,Ökodorfstraße 2,3384,Groß Sierning,48.194358,15.461712
 6353,LAGERHAUS Genol mit Tankkartensystem,Bachgasse 27,2332,Hennersdorf,48.1121708,16.368079
@@ -2416,7 +2417,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
@@ -2737,3 +2738,8 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474488,Diskont Tankstelle,"Gewerbepark 2 (""Hofer Parkplatz"")",8811,Scheifling,47.154865,14.415071
 1474489,Diskont Tankstelle,"Bundesstraße 28 (""Hofer-Parkplatz"")",8740,Zeltweg,47.19556,14.741117
 1474490,Diskont Tankstelle,"Karlauergürtel 4 (""Hofer Parkplatz"")",8020,Graz,47.05646,15.428041
+1474492,Diskont Tankstelle,"Gnaserstraße 26 (""Am Hofer Parkplatz"")",8330,Feldbach,46.953682,15.869513
+1474493,Diskont Tankstelle,"Stadlweg 51 (""Hofer-Parkplatz"")",9020,Klagenfurt,46.6076452,14.3294016
+1474494,Diskont Tankstelle,"Ossiacher see strasse (""Hofer""-Parkplatz)",9521,Treffen,46.652264,13.874552
+1474495,Diskont Tankstelle,"Lastenstrasse 1 (""Hofer-Parkplatz"")",9800,Spittal an der Drau,46.787236,13.517817
+1474496,Diskont Tankstelle,"Badstubenweg 80 (""Hofer-Parkplatz"")",9500,Villach,46.631153,13.8226038
