@@ -319,6 +319,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 5090,AWI-Diskont Bedienungstankstelle,Wienerstraße 22,7053,Hornstein,47.8842953,16.4402099
 5093,Turmöl Tankstelle,Margaretenstrasse 28,1040,Wien,48.1962250998788,16.3648216561744
 5095,Wulz,Obervellach,9821,Obervellach,46.930587,13.207326
+5097,LAGERHAUS Genol mit Tankkartensystem,Bahnstraße 66,2440,Gramatneusiedl,48.033501,16.4942357
 5098,LAGERHAUS Genol mit Tankkartensystem,Sportplatzgasse 2,2443,Leithaprodersdorf,47.9363111,16.4865995
 5100,LAGERHAUS Genol mit Tankkartensystem,Oberwaltersdorferstraße 2,2523,Tattendorf,47.956716,16.3066358
 5101,LAGERHAUS Genol mit Tankkartensystem,Untere Hauptstraße 28,2451,Au am Leithagebirge,47.9232341,16.5570952
@@ -405,6 +406,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 6188,Genol,Altmannser Straße 2,3860,Heidenreichstein,48.8651376,15.1175531
 6189,Genol Lagerhaus Innviertel-Traunviertel-Urfahr eGen.,Höhnharter Straße 47,5252,Aspach,48.1824222,13.2944021
 6190,Genol Lagerhaus Innviertel-Traunviertel-Urfahr eGen.,Moosham 35,4943,Geinberg,48.2697773,13.2628
+6193,Genol Lagerhaus Innviertel-Traunviertel-Urfahr eGen.,Lambrechten 53,4772,Lambrechten,48.3167086,13.5114448
 6195,Genol Lagerhaus Innviertel-Traunviertel-Urfahr eGen.,Gewerbestr. 1,4962,Mining,48.2707097,13.1710372
 6197,Genol Lagerhaus Innviertel-Traunviertel-Urfahr eGen.,Diesseits 189,4973,St.Martin,48.2910626,13.4412191
 6199,Genol Lagerhaus Innviertel-Traunviertel-Urfahr eGen.,Bahnhofstraße 76,4910,Ried,48.2015373,13.486405
@@ -538,6 +540,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 6481,Genol,Zellerndorf 216,2051,Zellerndorf,48.697516,15.96579
 6483,Genol - Lagerhaus: Diesel,Halbenrainerstraße 43,8490,Bad Radkersburg,46.692333,15.9734219
 6488,RUDOLF,Klagenfurter Strasse 46,9100,Völkermarkt,46.657907,14.6136657
+6489,"Genol - Lagerhaus: Benzin, Diesel & Additiv-B0 Diesel",Hauptstraße 254,8093,St. Peter am Ottersbach,46.797847,15.7615083
 6502,Shell,Jormannsdorferstraße 52,7431,Bad Tatzmannsdorf,47.3454259,16.2241246
 6550,Genol,43,3753,Hötzelsdorf,48.7434981,15.669049
 6551,TK Kopf GmbH,Grünburger Straße 34,4452,Ternberg,47.9535397,14.3562672
@@ -834,6 +837,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 33403,A1 Tankstelle Mürzzuschlag,Wiener Straße 90,8680,Mürzzuschlag,47.60641,15.6807706
 33404,A1 Tankstelle Feistritz im Rosental,Hauptstraße 197,9181,Feistritz im Rosental,46.524677,14.1636058
 33405,A1 Tankstelle Weitensfeld,Kaindorf 27,9344,Weitensfeld,46.8510669,14.1672939
+33406,SOCAR Weissensee,Oberdorf 59,9762,Weissensee,46.7224102,13.2599965
 33408,SOCAR Gmunden,Mühlwangstraße 20,4810,Gmunden,47.9206129,13.8053132
 33409,A1 Tankstelle Linz,Landwiedstraße 61,4020,Linz,48.2719766,14.2817769
 33410,SOCAR Arnfels,Leibnitzerstraße 277,8454,Arnfels,46.6799076,15.4011543
@@ -1006,6 +1010,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 34460,Lagerhaus Genol,Hauptstrasse 75,4770,Andorf,48.3664201,13.5658676
 34464,Lagerhaus Genol,Sportplatzstrasse 121,4794,Kopfing,48.4431738,13.659578
 34465,Lagerhaus Genol,Molkereistrasse 5,4792,Münzkirchen,48.482705,13.5585491
+34467,Lagerhaus Genol,Hasledt 38,4724,Neukirchen/Walde,48.4063695,13.7808293
 34468,Lagerhaus Genol,St. Willibald 139,4762,St. Willibald,48.3622902,13.6855696
 34470,Lagerhaus Genol,St. Aegidi 29,4725,St. Aegidi,48.4781749,13.7377153
 34471,Lagerhaus Genol,Haberedt 19,4775,Taufkirchen/Pram,48.4085476,13.5180797
@@ -1218,6 +1223,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 35750,BP,Handelskai 276-280 ,1020,Wien,48.2165742,16.4171484
 35754,BP,Krottenbachstr. 17 ,1190,Wien,48.2403021,16.3418194
 35755,BP,Triesterstrasse 104 ,1100,Wien,48.15715224,16.34123557
+35757,BP,Ybbsstr.39 ,3300,Amstetten,48.1165951,14.8716518
 35758,BP,Triesterstrasse 68 ,1100,Wien,48.16565603,16.34673579
 35759,BP,Dorf 48 ,6373,Jochberg,47.3758435,12.4189833
 35760,BP,Hirtenbergerstrasse 4e ,2544,Leobersdorf,47.9347144,16.2171296
@@ -1622,6 +1628,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 328402,Shell Sattendorf/Annenheim,Kanzelplatz 5,9520,Sattendorf,46.65913999,13.89891995
 329579,Shell Schiestl Egg am See,Eggerseeuferstrasse 85,9580,Drobollach,46.578141,13.936454
 330085,A1-direkt Ried im Innkreis,Riedauer Straße 35,4910,Ried im Innkreis,48.2174061,13.4939519
+335971,BP,Glemmtaler Landesstraße 386,5753,Saalbach,47.3890943,12.6423517
 349459,UNSER LAGERHAUS WESTENDORF,BAHNHOFSTRASSE 18,6363,WESTENDORF,47.4416027,12.2238335
 350470,"   SOMA      ""gut und günstig tanken...""",Fischbach 3,8654,Fischbach,47.442903,15.649836
 355182,Shell Austria,GMUNDNERSTRASSE 21,4690,SCHWANENSTADT,48.05175,13.77699
