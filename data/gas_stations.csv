@@ -2452,7 +2452,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
@@ -2637,6 +2637,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474118,eni,Tibitsch 84,9212,Techelsberg am Wörthersee,46.63023943,14.09422545
 1474119,eni,Klagenfurter Strasse 40,9400,Wolfsberg,46.819419,14.835443
 1474121,eni,Ossiacher Zeile 74,9500,Villach,46.617815,13.860633
+1474122,eni,Südring 260,9020,Klagenfurt,46.606074,14.30911
 1474124,eni,Nr. 301,9613,Feistritz an der Gail,46.5835447,13.6108395
 1474125,eni,Mauthen 189,9640,Kötschach,46.665507,12.998308
 1474126,eni,Förolach 46,9615,Förolach,46.628684,13.475166
@@ -2664,6 +2665,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474177,eni24,Villacherstrasse 44,9800,Spittal/Drau,46.7919,13.5083
 1474179,eni,Mörtschach 72,9842,Mörtschach,46.9222,12.9105
 1474183,eni,Feldkirchner Strasse 9,9556,Liebenfels,46.7375,14.2858
+1474191,eni,Rosentaler Strasse 196,9020,Klagenfurt,46.6035,14.29695
 1474193,eni,Italiener Strasse 57,9500,Villach,46.603335,13.840528
 1474197,eni,Huben 40,9971,Matrei in Osttirol,46.9346,12.575
 1474199,eni,Rosegger Strasse 15,9220,Velden,46.60427,14.035324
