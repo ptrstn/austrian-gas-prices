@@ -312,6 +312,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 4426,Diskont,Marburger Straße 48,8435,Wagna/Leitring,46.7725681,15.5546311
 4427,PETERSCHELKA Diskont Bedienungstankstelle,Bahnstrasse 2,2214,Auersthal,48.3712274,16.641593
 4432,ENI,Maierhof 13,8443,Gleinstätten,46.7616412,15.4013033
+4435,LAGERHAUS Genol mit Tankkartensystem,Bahnstraße 29,2483,Ebreichsdorf,47.9642984,16.40705
 4438,Turmöl,Braunauerstraße 10,4910,Ried im Innkreis,48.2060237,13.4806086
 4443,Turmöl Tankstelle,Kärntnerstraße 2,8811,Scheifling,47.1528366,14.4140374
 4447,Turmöl KFZ-Renzl,Franking 17,5131,Franking,48.052796,12.912396
@@ -2702,6 +2703,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474226,eni,Leitenstrasse 30,4812,Pinsdorf,47.932972,13.777175
 1474227,eni,Linzer Strasse 15,4072,Alkoven,48.28863,14.11781
 1474228,eni,Welser Strasse 8,4060,Leonding-Gaumbg.,48.27434,14.27253
+1474229,eni,Windegg 4,4221,Steyregg,48.28492,14.352131
 1474232,eni,Asamerstraße 3 /  Gewerbepark,4655,Vorchdorf,48.010868,13.924406
 1474233,eni,Am Bäckerberg 1a,4490,St. Florian,48.21373,14.402403
 1474235,eni,Kremstalstrasse 117,4053,Ritzlhof,48.187343,14.249556
@@ -2720,6 +2722,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474272,eni,August-Resch-Strasse 2,2542,Kottingbrunn,47.954979,16.219877
 1474273,eni,Hauptstrasse 77,3170,Hainfeld,48.03805,15.76293
 1474274,eni,Alfred Fröhlich Strasse 1,2201,Gerasdorf,48.338906,16.464694
+1474275,eni,Hauptstrasse 11,2763,Pernitz,47.896353,15.968453
 1474276,eni,Königstetterstrasse 154,3430,Tulln - Nitzing,48.31826,16.0859
 1474278,eni,Wiener Strasse 31,2120,Wolkersdorf,48.378384,16.510479
 1474279,eni,Handelskai 388a,1020,Wien,48.2032,16.4358
