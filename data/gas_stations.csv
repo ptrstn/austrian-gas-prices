@@ -190,6 +190,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 4088,Tankstopp,Praterstraße 10,3100,St.Pölten,48.2099825,15.6222046
 4089,Tankstopp,Hauptstraße 8,3143,Pyhra,48.1590154,15.6848005
 4092,Shell,Dorfstraße 2,6450,Sölden,46.9757145,11.0111102
+4093,TRT Billiger Tanken,Industriestrasse 10,8784,Trieben,47.491544,14.486096
 4094,Turmöl Quick,Salzburgerstraße 14,5145,Neukirchen/Enknach,48.1787503,13.0508818
 4095,Turmöl Quick,Eberschwang 98,4906,Eberschwang,48.1568483,13.5618253
 4096,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,KLOSTERSTRASSE 2,4451,GARSTEN,48.0222942,14.4047398
@@ -687,6 +688,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 7734,BP,Montafonerstraße 29,6700,Bludenz,47.140981,9.833898
 7736,BP,Braunauerstraße 28,5204,Straßwalchen,47.9880682,13.2493806
 7738,GENOL-LH EFERDING-OÖ. MITTE eGen,BAHNHOFSTRASSE 51-55,4070,EFERDING,48.3021109,14.0143393
+7743,Genol   ,Langwies 25,4871,Zipf,48.0264297,13.5108238
 7751,BP,Kärntner Straße 291,8054,Graz,47.0341251,15.4090408
 7752,Magistrat Stadt Villach,St. Johanner Straße 20,9500,Villach,46.6113273,13.8330066
 7754,Fasching Diesel Diskont,Weizer Strasse 11,8190,Birkfeld,47.351566,15.695525
@@ -700,6 +702,12 @@ station_id,name,address,postal_code,city,latitude,longitude
 7769,Eni,Mankerstraße 8,3233,Kilb,48.1010142,15.4050088
 7772,GENOL-LH EFERDING-OÖ. MITTE eGen,ST. THOMAS 34,4732,ST. THOMAS BEI WAIZENKIRCHEN,48.284471,13.880056
 7774,GENOL-LH EFERDING-OÖ. MITTE eGen,KINZLSTRASSE 22,4730,WAIZENKIRCHEN,48.331604,13.855294
+7775,Genol   ,Schwaigern 56,4890,Frankenmarkt,47.988426,13.3929995
+7777,Genol  ,Hauptstr. 36,4861,Schörfling,47.9442884,13.5949965
+7778,Genol   ,Bahnhofstr. 15,4880,St. Georgen,47.937191,13.4887
+7779,Genol   ,Huberstr. 1,4690,Schwanenstadt,48.0512507,13.7655883
+7781,Genol   ,Fichtenweg 3,4901,Ottnang,48.0912647,13.6666947
+7783,Genol    ,Niederthalheim 200,4692,Niederthalheim,48.1005036,13.766689
 7784,GENOL-LH EFERDING-OÖ. MITTE eGen,BAHNHOFSTRASSE 40,4710,GRIESKIRCHEN,48.231293,13.8410691
 7785,GENOL-LH EFERDING-OÖ. MITTE eGen,KIMPLINGERSTRASSE 9,4720,NEUMARKT,48.2727841,13.7392114
 7786,Brüder Resch,Steinmühle 3,4161,Ulrichsberg,48.6742195,13.8973395
@@ -713,6 +721,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 7812,Vivod GmbH,Laaberstrasse 1,2384,Breitenfurt,48.1381917,16.2038779
 7814,Lagerhaus,Mitterbreiten 1,9812,Pusarnitz,46.833366,13.4034057
 7815,Fuchs,Grazerst. 85,8232,Grafendorf,47.3279528,15.9907409
+7817,Lagerhaus,Untere Vorstadt 35,9853,Gmuend,46.9032866,13.529803
 7818,Posauner Petrol,Klamm 14A,5621,St. Veit im Pongau,47.2976853,13.081528
 7820,car&care Tankstelle Konrad Service-Center,Triester Straße 219,8073,Feldkirchen,46.9938723,15.4548317
 7822,Lagerhaus GENOL,Bahnstraße 3,3380,Pöchlarn,48.208717,15.212052
@@ -1263,6 +1272,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 36008,Diskonttankstelle Gamsjäger,Betriebsgebiet Greiling,3107,St. Pölten,48.257599,15.641141
 36026,Hochkofler - Freie Tankstelle,Hauptstraße 12,8551,Pölfing-Brunn,46.72297639007692,15.2785062789917
 36086,dts Trading  GmbH,Gnigler Strasse 52,5020,Salzburg,47.816757,13.059568
+36088,dts Trading GmbH,Im Gewerbepark,9711,Paternion,46.696375,13.645041
 36106,ENI Rüf,Bersbuch 401,6866,Andelsbuch,47.3979731,9.853856
 36186,BP - Lagerhaus,Schwarzenberg 168,4164,Schwarzenberg,48.7363704,13.8195141
 36206,Disk Tankstelle+TANKAUTOMAT,Talstrasse 25,6284,Ramsau,47.2233433,11.8808568
@@ -2471,7 +2481,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
