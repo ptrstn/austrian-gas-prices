@@ -853,7 +853,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 33394,SOCAR Eisenerz,Vordernbergerstraße 62,8790,Eisenerz,47.5510166,14.9424382
 33395,SOCAR Perchtoldsdorf,Ketzergasse 191a,2380,Perchtoldsdorf,48.1301731,16.2919418
 33396,SOCAR Krumpendorf,Hauptstraße 180,9201,Krumpendorf,46.6266886,14.2080065
-33399,A1 Tankstelle Fehring,Brunn 144,8350,Fehring,46.9515668,16.0100281
+33399,SOCAR Fehring,Brunn 144,8350,Fehring,46.9515668,16.0100281
 33400,SOCAR Schwanberg,Deutschlandsberger Straße 6,8541,Schwanberg,46.7601246,15.2069591
 33402,A1 Tankstelle Judenburg,Burggasse 85a,8750,Judenburg,47.1695363,14.6464932
 33403,A1 Tankstelle Mürzzuschlag,Wiener Straße 90,8680,Mürzzuschlag,47.60641,15.6807706
@@ -1611,6 +1611,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 260546,avanti - Lieboch Lutzstraße 1,Lutzstrasse 1,8501,Lieboch,46.96186,15.3529
 264416,AVIA Xpress (Automaten-Tankstelle),Kremstalstrasse 50,4501,Neuhofen an der Krems,48.131053,14.220532
 264754,Turmöl Quick,Industriegelände 5,4710,Grieskirchen,48.226524,13.846774
+266942,Shell Maria Alm,Hochkoenigstrasse 9,5761,Maria Alm,47.40779999,12.89421995
 271834,Turmöl Quick,Badenerstraße 51,2751,Matzendorf-Hölles,47.887392,16.219604
 272171,"PINK - so pink, so clever",Freundorf 2,4076,St. Marienkirchen,48.260292,13.9408497
 274360,Müller Tankstellen GesmbH,Bundesstraße 15,4817,St. Konrad,47.9107899,13.90395
