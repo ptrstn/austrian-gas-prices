@@ -2691,6 +2691,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474127,eni,Tirolerstrasse 4,9781,Oberdrauburg,46.749596,12.963577
 1474128,eni,Kärntnerstrasse 84,9900,Lienz,46.83117595,12.78306752
 1474129,eni,Stadionstrasse 21,9545,Radenthein,46.798428,13.710362
+1474130,eni,St.Veiter-Strasse 168,9020,Klagenfurt,46.6442357,14.31504931
 1474131,eni,Spielbergstrasse 4,6391,Fieberbrunn,47.4797,12.5389
 1474133,eni,Salurner Strasse 28,6330,Kufstein,47.5764,12.1604
 1474135,eni,Rennweg 20,6020,Innsbruck,47.277037,11.400716
@@ -2717,6 +2718,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474197,eni,Huben 40,9971,Matrei in Osttirol,46.9346,12.575
 1474199,eni,Rosegger Strasse 15,9220,Velden,46.60427,14.035324
 1474201,eni,Bad Eisenkappel 196,9135,Bad Eisenkappel,46.4898,14.5898
+1474203,eni,St. Veiter-Strasse 61,9020,Klagenfurt,46.6359,14.3118
 1474205,eni,A2 Süd Pack Km 235,9451,Preitenegg,46.95825664,14.91269847
 1474206,eni,Klagenfurterstrasse 42,9170,Ferlach,46.528588,14.291352
 1474207,eni,Huttengasse 73-75,1160,Wien,48.21114,16.31069
