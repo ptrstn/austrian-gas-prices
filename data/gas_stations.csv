@@ -63,6 +63,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 391,OMV - Strasshof Hauptstraße 119,Hauptstrasse 119,2231,Strasshof,48.31458,16.6256
 394,avanti - Stegersbach Wiener Straße 3,Wiener Strasse 3,7551,Stegersbach,47.16113,16.16488
 395,OMV - Graz Seebacher Gasse 8,Seebacher Gasse 8,8010,Graz,47.07722,15.45904
+396,OMV - Lieboch Packer Straße 6,Packer Strasse 6,8501,Lieboch,46.9723,15.36164
 398,OMV - Graz St. Peter Hauptstraße 228,St. Peter Hauptstrasse 228,8042,Graz,47.04384,15.48696
 399,OMV - Admont Hall 360,Hall 360,8911,Admont,47.58208,14.45614
 402,avanti - Mauthausen Machlandstraße 5,Machlandstrasse 5,4310,Mauthausen,48.24347,14.53427
@@ -2483,7 +2484,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
