@@ -581,6 +581,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 6661,Toms Kfz Teile,Wildendürnbach 110,2164,Wildendürnbach,48.756557,16.501615
 6664,Diskont-Tankstelle,Hauptstraße 121,7022,Schattendorf,47.712072,16.512151
 6665,Turmöl Eisinger,Erlauftalstraße 86,3251,Purgstall an der Erlauf,48.0719143,15.1370813
+6670,RLH Marchfeld,Hintausweg,2301,Andlersdorf,48.178646,16.66965
 6671,Turmöl Schmidberger,Linzerstr. 54,4531,Kematen/Krems,48.105947781697,14.189147600194
 6672,RLH Marchfeld,Lagerhausstraße,2230,Gaenserndorf,48.341578,16.736024
 6673,Beiskammer,Kirchham 18,4656,Kirchham,47.9718766,13.8992497
@@ -605,10 +606,13 @@ station_id,name,address,postal_code,city,latitude,longitude
 7550,Tankstelle Heindl,Mitterbach 4,3193,St. Aegyd am Neuwalde,47.86843,15.593498
 7551,LAGERHAUS Genol mit Tankkartensystem,Untere Hauptstraße,2485,Wimpassing,47.923705,16.435976
 7553,LAGERHAUS Genol mit Tankkartensystem,Trautmannsdorferstraße,2434,Sommerein,47.992693,16.656239
+7554,RLH Marchfeld,Hintausweg,2301,Probstdorf,48.171137,16.619812
 7555,Durlacher Peter Freie Tankstelle,Pischelsdorf 55,8212,Pischelsdorf,47.172211,15.804691
 7556,LAGERHAUS Genol mit Tankkartensystem,Himbergerstraße,2320,Rauchenwarth,48.084802,16.524661
 7557,Lagerhaus-Genol,Marktstraße 19,3323,Neustadtl,48.1919909,14.9027987
 7558,Lagerhaus,Bahnstrasse 3,9330,Treibach/Althofen,46.8654084,14.4650033
+7560,RLH Marchfeld,Neusiedlzeile,2304,Orth an der Donau,48.148207,16.711181
+7563,RLH Marchfeld,Donau-Bundesstraße,2304,Wagram an der Donau,48.163613,16.752597
 7564,LAGERHAUS Genol mit Tankkartensystem,Leopoldsdorferstraße,2481,Achau,48.078767,16.387954
 7566,LAGERHAUS Genol mit Tankkartensystem,Moosbrunnerstraße,2521,Trumau,47.992636,16.345961
 7568,LAGERHAUS Genol mit Tankkartensystem,Friedhofstraße,2441,Mitterndorf,47.993138,16.472594
@@ -726,6 +730,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 7794,GENOL-LH EFERDING-OÖ. MITTE eGen,TRAPPENHOF SUED 1,4714,MEGGENHOFEN,48.1829959,13.7823221
 7797,TWS GmbH,Rübenstraße 2,4063,Hörschnig,48.246483,14.182423
 7800,Gusenbauer Willibald e.U.Freie Tankstelle,Schönau 12,4331,Naarn,48.2036345,14.6617906
+7802,Gussmagg Dieseltankstelle,Pischelsdorf 122,8212,Pischelsdorf,47.1711466,15.7995454
 7806,Eibl Werner,Gaißau 155,5425,Krispl,47.7120404,13.194849
 7808,Hirschmugl,Gewerbepark Nord 1,8431,Gralla,46.804271,15.555675
 7812,Vivod GmbH,Laaberstrasse 1,2384,Breitenfurt,48.1381917,16.2038779
@@ -1318,6 +1323,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 38009,Landesprodukte Scheiber,Jakling 6,9433,St. Andrä,46.7585275,14.8463902
 38026,avanti - Wien Julius Ficker Straße 77,Julius Ficker Strasse 77,1210,Wien,48.26672,16.44859
 38027,avanti - Braunau Laabstraße,Laabstrasse ,5280,Braunau,48.26028,13.05145
+38066,Gutmann ENI Tankstelle,Brennerstraße 119,6156,Gries,47.0295924,11.4900618
 38126,Turmöl,Klopeiner See Straße 1,9122,St.Kanzian,46.6128356,14.604615
 38146,Gutmann ENI Tankstelle,Lofererstraße 28,6322,Kirchbichl,47.4942396,12.0910738
 38166,"""deine Tankstelle""",Oberhof  3,8933,Sankt Gallen,47.6842133,14.6147679
@@ -2383,6 +2389,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1467986,PINK Sparen beim Fahren,33. Straße 1,3331,Kematen an der Ybbs,48.027572,14.768701
 1468009,Turmöl Quick,Sulzbacherstraße 41,4820,Bad Ischl,47.690502,13.623264
 1468026,Turmöl Quick,Eichberg 121,3950,Gmünd,48.73747,14.917971
+1468101,ENI GUTMANN STOLL Tankstelle,Brennerstraße 3,6150,Steinach am Brenner,47.098619,11.464359
 1468110,Diskont Kaier,Wolfsberg 8,8421,Schwarzautal,46.8446231,15.6580187
 1468126,BP,Breitenfurterstr. 112,1120,Wien,48.160527,16.309543
 1468154,eww-Tankstation,Wiesenstrasse 39,4600,Wels,48.16201,14.037198
