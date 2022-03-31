@@ -593,6 +593,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 6678,RLH Marchfeld,Feldhofstraße,2283,Obersiebenbrunn,48.264122,16.712434
 6679,Genol,Schlosshoferstraße 2,2294,Marchegg,48.246258,16.921542
 6680,Lagerhaus-Genol,Molkereistraße 3,3361,Aschbach,48.0716716,14.7608353
+6681,Genol LGH Grein_(-TKK Abschlag),Ufer 14,4360,Grein,48.2220734,14.8507314
 6682,RLH Marchfeld,Tallesbrunnerstraße,2252,Ollersdorf,48.397197,16.791133
 6683,Lagerhaus-Genol,Im Ort 280,3353,Biberbach,48.0295151,14.7104265
 6684,Genol LGH Waldhausen_(-TKK Abschlag),Markt 94,4391,Waldhausen,48.2722,14.9508179
@@ -2512,7 +2513,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
@@ -2599,7 +2600,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1473432,Turmöl,Dinghoferstraße 35-37,4020,Linz,48.300474,14.2974598
 1473448,Turmöl,Pasching Point 1,4061,Pasching,48.243611,14.223014
 1473468,Diskont Tankstelle,"Garnei 208 (""Hofer-Parkplatz"")",5431,Kuchl,47.638523,13.137367
-1473469,BP Osttangente,Eferdingerstraße 81,4600,Wels,48.181068,14.02697
+1473469,Turmöl,Eferdingerstraße 81,4600,Wels,48.181068,14.02697
 1473470,Turmstrom,Salzburger Straße 146,4600,Wels,48.156625,14.00097
 1473471,Turmöl,Linzerstraße 189,4600,Wels,48.172875,14.052951
 1473474,Turmöl,Conrad von Hötzendorfer Straße 135,8010,Graz,47.051117,15.451463
