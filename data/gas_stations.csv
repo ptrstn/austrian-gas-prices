@@ -219,7 +219,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 4120,Hettegger Diesel-Automatentankstelle,Kellau 157,5440,Golling,47.608102,13.166428
 4127,Freie Tankstelle (AVIA Treibstoffe),"Tank-Point GmbH, Anton-Beirer-Str. 2",6600,Pinswang,47.551383,10.670877
 4128,Land-lebt-auf,Breitenaich 100,4075,Breitenaich,48.25400972369837,13.971261978149414
-4130,,Rechberg 5,4324,Rechberg,48.3218409,14.7105544
+4130,Tankstelle Primetzhofer,Rechberg 5,4324,Rechberg,48.3218409,14.7105544
 4131,Freie Tankstelle,Els 30,3613,Els 30,48.4443299,15.3725413
 4134,SUN Bedienungstankstelle,Neusiedlerstraße 15,7082,Donnerskirchen,47.8952783,16.6487855
 4135,OMV ,Wienerstraße 29,2860,Kirchschlag,47.4987588,16.2899594
@@ -852,6 +852,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 33366,IQ Tankstelle,Hauptstrasse 36,4551,Ried im Traunkreis,48.025668,14.075224
 33368,IQ Tankstelle,Mauthausner Strasse 22,4222,St.Georgen an der Gusen,48.270463,14.452255
 33370,IQ Tankstelle,Kenading,4761,Enzenkirchen,48.4114,13.6347
+33373,A1 Tankstelle Gnas,Burgfried 98,8342,Gnas,46.8822032,15.8178043
 33374,SOCAR Bruck an der Mur,Wiener Straße 72,8600,Bruck an der Mur,47.4238817,15.2724008
 33375,A1 Tankstelle Knittelfeld,Kärntner Straße 61a,8720,Knittelfeld,47.2101079,14.8150181
 33376,SOCAR Plüddemanngasse,Plüddemanngasse 99,8010,Graz,47.0611267,15.4683001
