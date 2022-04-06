@@ -527,10 +527,10 @@ station_id,name,address,postal_code,city,latitude,longitude
 6428,Genol Lagerhaus Tankstelle,Waldkirchen 44,3844,Waldkirchen an der Thaya,48.9367125,15.3565481
 6429,Genol Lagerhaus Tankstelle,Illmauerstraße 1,3851,Kautzen,48.9298793,15.240267
 6430,Genol,Bundesstraße 11,2031,Altenmarkt/Thale,48.5795,16.193738
-6432,Wechselgau - Genol,Obersaifen 141,8225,Pöllau,47.3127605,15.8245464
+6432,Wechselgau - Premium Kraftdiesel,Obersaifen 141,8225,Pöllau,47.3127605,15.8245464
 6433,Wechselgau - Genol,Ferdinand-Leihsstraße 38,8230,Hartberg,47.281567,15.9871544
 6434,Genol,Grundstücksnr. 281,2013,Göllersdorf,48.513278,16.163968
-6436,Wechselgau - Genol,Weidenstraße 17,8230,Hartberg,47.2847147,15.9856961
+6436,Wechselgau - Premium Kraftdiesel,Weidenstraße 17,8230,Hartberg,47.2847147,15.9856961
 6439,Genol,Dürnleis 81,2033,Dürnleis,48.627504,16.21953
 6441,Torrefina Gmbh.,Schottenfeldgasse 94,1070,Wien,48.2071479,16.343487
 6443,Genol,Grundstücksnr. 221/1,2013,Eitzersthal,48.489684,16.095808
@@ -539,13 +539,13 @@ station_id,name,address,postal_code,city,latitude,longitude
 6448,Wechselgau - Genol,Geistbründlweg 3,8243,Pinggau,47.4448561,16.0629432
 6449,Disconttankstelle Huber Petrol,Gewerbepark Süd 3,5141,Moosdorf,48.0391046,12.9885879
 6450,Wechselgau - Genol,Am Bahnhof 33,8232,Grafendorf,47.3453769,16.0033823
-6452,Wechselgau -Genol,Pittermann 176,8254,Wenigzell,47.4233715,15.7869337
+6452,Wechselgau - Premium Kraftdiesel,Pittermann 176,8254,Wenigzell,47.4233715,15.7869337
 6453,GENOL - Lagerhaus,Lagerhausstraße 1,2842,Thomasberg,47.6028673,16.1186639
 6454,Wechselgau - Genol,Schmiedviertel 148,8252,Mönichwald,47.4488975,15.8578515
 6455,Genol,An der Bahn 216,2013,Göllersdorf,48.492926,16.125693
 6456,Shell,Wiener Straße 123,2620,Neunkirchen,47.7304251,16.0955848
 6457,Wechselgau - Genol,Sebersdorf 12,8272,Sebersdorf,47.1878186,15.9996447
-6458,Wechselgau - Genol,Schachen 275,8250,Vorau,47.4040002,15.8781321
+6458,Wechselgau - Premium Kraftdiesel,Schachen 275,8250,Vorau,47.4040002,15.8781321
 6459,Genol,Hauptstrasse 177,2002,Gr. Mugl,48.492727,16.235926
 6462,Genol,Hauptplatz 56,2020,Groß,48.572902,15.987428
 6464,Wechselgau - Genol,Kaindorf 225,8224,Kaindorf,47.2241715,15.9076084
@@ -871,6 +871,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 33389,SOCAR Klagenfurt-Pischeldorferstraße,Pischeldorferstraße 155,9020,Klagenfurt,46.6378812,14.3332067
 33390,SOCAR Graz-Grabenstraße,Grabenstraße 166,8010,Graz,47.091185,15.430296
 33391,SOCAR Seibersdorf,Grazer Straße 97,8232,Seibersdorf,47.32786092847619,15.991220646103232
+33392,A1 Tankstelle Obdach,Hauptstraße 8/d,8742,Obdach,47.0723865,14.6931516
 33393,A1 Tankstelle Pöls,Tauernstraße 47,8761,Pöls,47.2157962,14.5751201
 33394,SOCAR Eisenerz,Vordernbergerstraße 62,8790,Eisenerz,47.5510166,14.9424382
 33395,SOCAR Perchtoldsdorf,Ketzergasse 191a,2380,Perchtoldsdorf,48.1301731,16.2919418
@@ -1471,6 +1472,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 44887,avanti - Haldensee Seestraße 5,Seestrasse 5,6673,Haldensee,47.49479,10.55756
 51108,Turmöl Quick,Grieskirchnerstraße 4,4600,Wels,48.169214,14.024823
 57863,SOCAR Traismauer,Wiener Straße 27,3133,Traismauer,48.349704,15.747039
+57865,A1 Tankstelle Eibiswald,Eibiswald 242a,8552,Eibiswald,46.6897,15.248797
 58370,OMV - Salzburg Minnesheimstraße 10,Minnesheimstrasse 10,5023,Salzburg,47.81309,13.0695
 65142,TOP Tankstelle,Obere Wienerstraße 3,3495,Rohrendorf,48.4233073,15.6564601
 80314,Turmöl Quick,Schlossberg 202,8463,Leutschach,46.6614397,15.4701057
