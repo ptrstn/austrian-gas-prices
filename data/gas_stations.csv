@@ -548,7 +548,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 6458,Wechselgau - Premium Kraftdiesel,Schachen 275,8250,Vorau,47.4040002,15.8781321
 6459,Genol,Hauptstrasse 177,2002,Gr. Mugl,48.492727,16.235926
 6462,Genol,Hauptplatz 56,2020,Groß,48.572902,15.987428
-6464,Wechselgau - Genol,Kaindorf 225,8224,Kaindorf,47.2241715,15.9076084
+6464,Wechselgau - Premium Kraftdiesel,Kaindorf 225,8224,Kaindorf,47.2241715,15.9076084
 6465,Genol,Bahnstrasse 17,2054,Haugsdorf,48.709194,16.072086
 6466,Genol,Schmidastrasse 1,3464,Hausleiten,48.391142,16.106861
 6468,Genol,Klein Stetteldorf ,2020,Kleinstetteldorf,48.586668,16.151206
@@ -2217,6 +2217,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354817,JET TANKSTELLE,GASTEINER STRASSE 72,5500,BISCHOFSHOFEN,47.406171,13.217781
 1354818,avanti - Ruprechtshofen Hauptstraße 24,Hauptstrasse 24,3244,Ruprechtshofen,48.13974,15.28193
 1354819,JET TANKSTELLE,SALZBURGER STRASSE 7,8940,LIEZEN,47.563365,14.242358
+1354820,OMV - Hirtenberg Leobersdorfer Straße 96,Leobersdorfer Strasse 96,2552,Hirtenberg,47.93151,16.19569
 1354821,JET TANKSTELLE,KAISER FRANZ JOSEF STRASSE 40,6845,HOHENEMS,47.35725,9.68315
 1354822,OMV - Eisenstadt Mattersburger Straße 28,Mattersburger Strasse 28,7000,Eisenstadt,47.83317,16.52318
 1354823,JET TANKSTELLE,MÜNCHNER BUNDESSTR. 15,5020,SALZBURG,47.817898,13.018664
