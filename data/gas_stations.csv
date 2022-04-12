@@ -1184,6 +1184,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 35580,BP,Einzingergasse 2 ,1210,Wien,48.28254695,16.3799518
 35582,BP,Geiselbergstr.47/Hauffg.35 ,1110,Wien,48.1748413,16.408093
 35584,BP,Leopoldauerstr.7 ,2201,Gerasdorf,48.294044,16.467783
+35585,BP,Salzburgerstr.70 ,5500,Bischofshofen,47.422931,13.2163962
 35587,BP,Pragerstr./Hornerstr. ,2000,Stockerau,48.386155,16.198568
 35589,BP,Wienerstrasse ,7100,Neusiedl/See,47.963175,16.836934
 35592,BP,Froehlichgasse 45 ,8010,Graz,47.05580667,15.44821175
@@ -1278,6 +1279,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 35760,BP,Hirtenbergerstrasse 4e ,2544,Leobersdorf,47.9347144,16.2171296
 35761,BP,Salzburgerstrasse 383 ,4030,Linz,48.2472572,14.2648409
 35762,BP,Margaretenguertel 43-45 ,1050,Wien,48.1796472,16.3517548
+35765,BP,Laab 2 ,4770,Andorf,48.3525038,13.5588295
 35766,BP,Niederoesterreichring 20 ,3100,St. Poelten,48.1979429,15.6397468
 35768,BP,Altmannsdorferstr.117 ,1120,Wien,48.1609065,16.3184664
 35769,BP,Erzherzog Karlstr. 253 ,1220,Wien,48.2204444,16.48015387
