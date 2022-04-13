@@ -766,6 +766,10 @@ station_id,name,address,postal_code,city,latitude,longitude
 27307,Freie Tankstelle,Fraham 13,5273,Rossbach,48.1926383,13.2767613
 27308,AWI-Diskont Automatentankstelle,Hauptstraße 140,2020,Schöngrabern,48.601151,16.063085
 27309,GET - Tankstelle 3350 Haag,Steyrerstrasse 52a,3350,Haag,48.1074058,14.5638737
+27311,Landmarkt Lagerhaus,Thörl 66,8983,Bad MItterndorf,47.5513489,13.9437291
+27313,Landmarkt Lagerhaus,Aigen 59,8943,Aigen/Ennstal,47.5246087,14.1472137
+27316,Landmarkt Lagerhaus,Bahnhofstrasse 277,8970,Schladming,47.3943797,13.6815587
+27317,Landmarkt Lagerhaus,Hall 618,8911,Admont,47.5819645,14.4546736
 27321,BP,Donaufelderstr.91 ,1210,Wien,48.2532979,16.4184148
 27322,BP,Erdbergstr 184,1030,Wien,48.1931587,16.4103596
 27325,Freie Tankstelle Hallstatt,Lahnstraße 169,4830,Hallstatt,47.5563905,13.6476446
@@ -2458,6 +2462,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1469026,Direct,Tullner Straße 15a,3442,Asparn,48.322172,16.025357
 1469046,AVIA Xpress (Automaten-Tankstelle),Rieder Straße 6,4873,Frankenburg am Hausruck,48.069783,13.492186
 1469086,AVIA XPress (unser Service: Luft und Wasser),Sandweg 4a,2070,Retz,48.757997,15.959427
+1469106,Tank-und Waschcenter Seebacher,Europastraße 12,8784,Trieben,47.490085,14.484256
 1469126,Turmöl Quick,Breitenfurterstraße 473,1230,Wien,48.137832,16.257546
 1469166,Eni Ligist,Steinberg 209,8563,Ligist,46.992576,15.211659
 1469186,JET TANKSTELLE,GLEICHENBERGER STRASSE 75,8330,FELDBACH,46.94948,15.909504
