@@ -156,6 +156,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 2096,Genol  Lagerhaus Pregarten-Gallneukirchen,Mühlbergstraße 8,4294,St. Leonhard,48.4447808,14.6764956
 2098,Deine Tankstelle,Égelsdorf 14,8261,Sinabelkirchen,47.1208582,15.8132125
 3050,Diskont Rainer,Günserstrasse 1,7350,Oberpullendorf,47.494585,16.510917
+3051,Diesel PUR ohne Bioanteile,Kapellenstraße 39,8071,Breitenhilm,47.0055481,15.541654
 3053,SOCAR Tankstelle,Italiener Straße 44,9500,Villach,46.6075251,13.8414415
 3054,Tankstelle Bauer,Buchtelbar - Bratlalm,8254,Wenigzell,47.42888889,15.779444
 3056,DK Diskont-Tankstelle,Bundesstrasse 24,7531,Kemeten,47.248772,16.1527173
@@ -900,6 +901,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 33412,A1 Tankstelle Stadl an der Mur,Murauer Straße 118,8862,Stadl an der Mur,47.0839155,13.9628069
 33413,SOCAR Graz-Steinbergstraße,Steinbergstraße 70,8052,Graz,47.05238,15.369153
 33414,SOCAR Burgau,Neudauerstraße 270,8291,Burgau,47.14749,16.102583
+33415,SOCAR Mariazell,Dr. Ludwig Leber-Straße 8,8630,Mariazell,47.7741177,15.3155675
 33417,SOCAR Eggenbergergürtel,Eggenbergergürtel 70,8020,Graz,47.065671,15.420501
 33418,SOCAR Feldkirchen,Doktor-Arthur-Lemisch-Straße 7,9560,Feldkirchen,46.726235,14.089773
 33419,SOCAR Grafenstein,Schloß Rain 16,9131,Grafenstein,46.6291795,14.413485
