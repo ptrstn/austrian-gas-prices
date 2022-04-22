@@ -759,7 +759,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 7854,IQ,Auen 7,8162,Passail,47.282293,15.5142528
 7855,Alfred Solterer,Schloßstraße 3,3485,Haitzendorf,48.428375,15.739696
 7858,"Diesel, Eurosuper",Dr. Ludwig Lesergasse 28,7011,Siegendorf,47.7809891,16.5363814
-7859,KOBRAS ... Mit Personal 9 - 12°°/ 14 - 18°°                                         ,Hof 270a,6951,"Lingenau,  Tankautomat 6°° - 22°°.. .SUPER PLUS € 1,908 .  ..... Mehr INFO:  Anklicken    Diesel & Heizölzustellung im Bregenzerwald .... ...  TEL. 05513 6275 . 0664 230 6135",47.4508201,9.9248451
+7859,KOBRAS Tanken - Personal 9 - 12°°/ 14 - 18°°                                         ,Hof 270a,6951,"Lingenau,  Tankautomat 6°° - 22°°.. .SUPER PLUS € 1,908 .  ..... Mehr INFO:  Anklicken    Diesel & Heizölzustellung im Bregenzerwald .... ...  TEL. 05513 6275 . 0664 230 6135",47.4508201,9.9248451
 7860,S1 Tankstelle Sunko,Grazerstraße 60,8434,Neutillmitsch,46.8144216,15.5490549
 7862,Turmöl,Lindenstrasse 35,7522,Strem,47.0475283,16.4094818
 7864,Fa. Elmecker Martin,Linzerstrasse 14,4192,Schenkenfelden,48.5001792,14.3622129
@@ -889,6 +889,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 33396,SOCAR Krumpendorf,Hauptstraße 180,9201,Krumpendorf,46.6266886,14.2080065
 33399,SOCAR Fehring,Brunn 144,8350,Fehring,46.9515668,16.0100281
 33400,SOCAR Schwanberg,Deutschlandsberger Straße 6,8541,Schwanberg,46.7601246,15.2069591
+33401,A1 Tankstelle Thörl bei Aflenz,Palbersdorf 209,8621,Thörl bei Aflenz,47.520983,15.230784
 33402,A1 Tankstelle Judenburg,Burggasse 85a,8750,Judenburg,47.1695363,14.6464932
 33403,A1 Tankstelle Mürzzuschlag,Wiener Straße 90,8680,Mürzzuschlag,47.60641,15.6807706
 33404,A1 Tankstelle Feistritz im Rosental,Hauptstraße 197,9181,Feistritz im Rosental,46.524677,14.1636058
