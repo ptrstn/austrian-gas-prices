@@ -1249,6 +1249,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 35664,BP,Hainfelderstr. ,3071,Boeheimkirchen,48.194014,15.765381
 35666,BP,St Johannerstrasse ,6370,Kitzbuehel,47.459666,12.386913
 35668,BP,Eisenstrasse 85 ,4451,St. Ulrich/Garsten,48.0011226,14.4100604
+35671,BP,Braunauer Str. 1 ,5122,Ach,48.157068,12.840153
 35672,BP,Turracher Bundesstr. 12 ,9565,Ebene-Reichenau,46.85573,13.892426
 35673,BP,Iseltalerstrasse 25 ,9900,Lienz,46.8285946,12.7566304
 35674,BP,Stock 11 ,3251,Merkenstetten,48.0391545,15.1434112
@@ -1657,7 +1658,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 247989,eni,Asamerstraße 3 /  Gewerbepark,4655,Vorchdorf,48.010868,13.924406
 247993,eni,Andiesen 15,4774,St. Marienkirchen / Schärding,48.394378,13.427743
 247994,eni,Ennser Strasse 152a,4407,Dietach,48.10141305,14.44195747
-247995,eni,Bundesstrassee 28,8753,Fohnsdorf/Hetzendorf,47.18231156,14.67360377
+247995,eni,Bundesstrasse 28,8753,Fohnsdorf/Hetzendorf,47.18231156,14.67360377
 247996,eni,Pacherner Hauptstrasse 47,8075,Pachern,47.04445557,15.51069036
 247997,eni,Wiener Strasse 304,8051,Graz,47.098039,15.404107
 248004,eni,Pirching 97,8200,Hofstätten a. d. Raab,47.089452,15.73237
