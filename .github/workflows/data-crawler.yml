@@ -27,7 +27,6 @@ jobs:
           pip install -e .
       - name: Run data crawler
         run: |
-          agp --vienna
           agp --austria
       - name: Commit files
         run: |

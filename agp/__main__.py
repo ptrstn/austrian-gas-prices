@@ -42,18 +42,6 @@ def main():
 
     fuel_types = (FuelType.SUPER_95, FuelType.DIESEL, FuelType.CNG_ERDGAS)
 
-    if args.vienna:
-        print("== Vienna ==")
-        for fuel_type in fuel_types:
-            stations = get_gas_stations_vienna(fuel_type)
-            update_gas_stations_file(stations)
-            prices = gas_stations_to_gas_prices(stations)
-            assert len(prices) == len(set(prices))
-
-            file_name = f"vienna_{fuel_type}.csv"
-            save_gas_prices_to_file(prices, file_name)
-            print()
-
     if args.austria:
         print("== Austria ==")
         for fuel_type in fuel_types:
