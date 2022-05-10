@@ -1507,7 +1507,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 44887,avanti - Haldensee Seestraße 5,Seestrasse 5,6673,Haldensee,47.49479,10.55756
 51108,Turmöl Quick,Grieskirchnerstraße 4,4600,Wels,48.169214,14.024823
 57863,SOCAR Traismauer,Wiener Straße 27,3133,Traismauer,48.349704,15.747039
-57865,A1 Tankstelle Eibiswald,Eibiswald 242a,8552,Eibiswald,46.6897,15.248797
+57865,SOCAR Eibiswald,Eibiswald 242a,8552,Eibiswald,46.6897,15.248797
 58370,OMV - Salzburg Minnesheimstraße 10,Minnesheimstrasse 10,5023,Salzburg,47.81309,13.0695
 65142,TOP Tankstelle,Obere Wienerstraße 3,3495,Rohrendorf,48.4233073,15.6564601
 75202,Shell Tankstelle,Reichersberg 54,4981,Reichersberg,48.3315703,13.3576275
@@ -2030,6 +2030,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1136271,AP-Trading GmbH,Gewerbestrasse 13,5102,Anthering,47.8648121,13.0140076
 1136444,AP-Trading GmbH,Wagrainerstraße 337,5542,Flachau,47.362434,13.383149
 1136445,AP-Trading GmbH,Bundesstrasse 91,5071,Wals,47.7713395,12.9440879
+1136446,AP-Trading GmbH,Südstraße 3,3382,Loosdorf,48.1889935,15.4063191
 1136447,AP-Trading GmbH,Urstein Nord 75,5412,Puch,47.7405295,13.0826309
 1136451,AP-Trading GmbH,Niederfeldweg 9a,6230,Brixlegg,47.4370676,11.8807031
 1136811,SPRITKÖNIG,Elisabethstraße 78,8010,Graz,47.0775241,15.46176
