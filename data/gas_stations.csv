@@ -1572,6 +1572,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 215302,Turmöl Quick,Linzerstraße 92a,4600,Wels,48.165209,14.043058
 218370,Turmöl Quick,Wienerstraße 56,7551,Stegersbach,47.168488,16.163935
 218712,SPRITKÖNIG SCS,SCS Strasse 1420/7,2334,Vösendorf,48.112274,16.316303
+222994,Shell Trofaiach,Hauptstrasse 12,8793,Trofaiach,47.42144727,15.01451248
 223334,Land lebt auf,Hauptstraße 53,3142,Perschling,48.259959,15.800892
 223671,Diskont Tankstelle,"Wienerbergstraße 1 (""Hofer-Parkplatz"")",4310,Mauthausen,48.240424,14.530663
 224519,Turmöl Quick,Hauptstraße 101,2531,Gaaden,48.0646577,16.2146802
@@ -2841,6 +2842,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474217,eni,Bonygasse /Ruckergasse,1120,Wien,48.179079,16.326542
 1474218,eni,Althanstrasse 14,1090,Wien,48.229354,16.358291
 1474219,eni,Jägerstrasse 60,1200,Wien,48.235,16.37054
+1474221,eni,Dallingerstrasse 11,4030,Linz,48.241899,14.291482
 1474222,eni,Salzburger Strasse 42,4840,Vöcklabruck,48.004059,13.638663
 1474225,eni,Landstrasse 37,5230,Mattighofen,48.115024,13.152329
 1474226,eni,Leitenstrasse 30,4812,Pinsdorf,47.932972,13.777175
