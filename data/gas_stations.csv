@@ -497,6 +497,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 6311,Lagerhaus - Genol,Koenigstetterstrasse 163,3430,Tulln,48.3220158,16.0791595
 6312,Genol Lagerhaus Innviertel-Traunviertel-Urfahr eGen.,Harlochnerstraße 1,5230,Mattighofen,48.1059377,13.1525169
 6314,Genol Lagerhaus Innviertel-Traunviertel-Urfahr eGen.,Döstling 20,5121,Ostermiething,48.0619882,12.8349643
+6316,Genol Lagerhaus Innviertel-Traunviertel-Urfahr eGen.,Heinz Lannerstraße 1,5122,Hochburg,48.146017,12.8379112
 6317,Genol Lagerhaus Innviertel-Traunviertel-Urfahr eGen.,Gundertshausen 79,5142,Gundertshausen,48.089198,12.9917241
 6322,Stöber Tankstelle (unabhängige Tankstelle),Pfaffing 8,3386,Hafnerbach,48.213178,15.50982
 6323,Genol-Lagerhaus Thermenland Fürstenfeld, Fürstenfeld Jahnstrasse 5,8280,Fürstenfeld,47.0393225,16.0852794
@@ -2613,7 +2614,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
