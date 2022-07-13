@@ -48,6 +48,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 321,OMV - Saalfelden Bundesstraße 2,Bundesstrasse 2,5760,Saalfelden,47.42897,12.84275
 322,OMV - Salzburg Schiller Straße 28,Schiller Strasse 28,5020,Salzburg,47.82232,13.03982
 326,OMV - Steyr Haagerstraße 38A,Haagerstrasse 38A,4400,Steyr,48.05521,14.44928
+327,OMV - Bad Leonfelden Oberstiftung 100,Oberstiftung 100,4190,Bad Leonfelden,48.51185,14.29526
 334,OMV - Wien Sterngasse 13,Sterngasse 13,1230,Wien,48.14891,16.33836
 335,avanti - Orth an der Donau Wiener Straße 76,Wiener Strasse 76,2304,Orth an der Donau,48.14992,16.68739
 351,OMV - Gföhl Langenloiser Straße 85,Langenloiser Strasse 85,3542,Gfoehl,48.51208,15.51044
