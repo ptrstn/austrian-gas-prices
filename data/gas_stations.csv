@@ -37,6 +37,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 269,avanti - Sankt Veit an der Glan Klagenfurter Straße 78,Klagenfurter Strasse 78,9300,Sankt Veit an der Glan,46.76102,14.36625
 270,OMV - Kapfenberg Krottendorf 3b,Krottendorf 3b,8605,Kapfenberg,47.45024,15.33985
 271,OMV - Engerwitzdorf Freistädter Straße 50,Freistaedter Strasse 50,4209,Engerwitzdorf,48.3418,14.41327
+272,OMV - Leonding Hainzenbachstraße 18,Hainzenbachstrasse 18,4060,Leonding,48.27868,14.2457
 276,OMV - Obertrum Salzburger Straße 2,Salzburger Strasse 2,5162,Obertrum,47.93554,13.08069
 277,OMV - Salzburg Innsbrucker Bundesstraße 142,Innsbrucker Bundesstrasse 142,5020,Salzburg,47.79796,13.00609
 279,OMV - Salzburg Vogelweider Straße 86,Vogelweider Strasse 86,5020,Salzburg,47.81696,13.05364
@@ -303,7 +304,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 4331,Diskont Tankstelle,"Braunauer Strasse 27 (""Hofer-Parkplatz"")",5230,Mattighofen,48.0942884,13.1570388
 4332,Diskont Tankstelle,"Kollingerfeld 5 (""Hofer-Parkplatz"")",4563,Micheldorf,47.890228,14.1277908
 4333,TURMÖL powered by boesch energy,Langenlebarnerstr. 41,3430,Tulln,48.3312234,16.0647039
-4337,BP,Kierlinger Strasse 31d,3400,Klosterneuburg,48.3067073,16.3137209
+4337,TURMÖL powerd by boesch energy ,Kierlinger Strasse 31d,3400,Klosterneuburg,48.3067073,16.3137209
 4338,Diskont Tankstelle,"Franz-Brötzner-Strasse 3 (""Hofer-Parkplatz"")",5071,Wals,47.7931146,12.9851652
 4340,Diskont Tankstelle,"Bundesstrasse 23 (""Hofer-Parkplatz"")",5600,St. Johann,47.3569941,13.1971638
 4342,Diskont Tankstelle,"Hermann-Gmeiner-Strasse 14 (""Hofer-Parkplatz"")",9990,Nussdorf,46.8275812,12.8150528
@@ -1606,6 +1607,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 247818,eni,Wiener Strasse 87,3580,Horn,48.66217,15.671424
 247819,eni,Feldstrasse 44,2345,Brunn/Geb.,48.122997,16.293216
 247820,eni,Mattersburger Strasse 20,7000,Eisenstadt,47.835896,16.523812
+247821,eni,Obere Hauptstrasse 44,2425,Nickelsdorf,47.942799,17.06157
 247822,eni,Wiener Strasse 52,7423,Pinkafeld,47.379013,16.122093
 247823,eni,Mönchhofer Strasse 10,7132,Frauenkirchen,47.84375,16.930306
 247825,eni,Eisenstädter Strasse 7a,8380,Jennersdorf,46.937501,16.143843
@@ -3013,3 +3015,5 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474991,M3 riedlingsdorf,Untere Hauptstraße 153,7422,Riedlingsdorf,47.3371468,16.1450365
 1475011,Turmöl,Braunauerstraße 10,4910,Ried im Innkreis,48.20589,13.46058
 1475031,"M3 Lebring ""Waschcenter""",Stangersdorf-Gewerbegebiet 5,8403,Lang  Lebring,46.851329,15.514185
+1475071,Turmöl,Ragnitzstraße 127,8047,Graz,47.077803,15.491144
+1475091,AVIA XPress (unser Service: Luft und Wasser),Betriebsgebiet 107,3542,Jaidhof,48.525221,15.461022
