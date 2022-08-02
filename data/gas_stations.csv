@@ -918,7 +918,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 33402,A1 Tankstelle Judenburg,Burggasse 85a,8750,Judenburg,47.1695363,14.6464932
 33403,A1 Tankstelle Mürzzuschlag,Wiener Straße 90,8680,Mürzzuschlag,47.60641,15.6807706
 33404,A1 Tankstelle Feistritz im Rosental,Hauptstraße 197,9181,Feistritz im Rosental,46.524677,14.1636058
-33405,A1 Tankstelle Weitensfeld,Kaindorf 27,9344,Weitensfeld,46.8510669,14.1672939
+33405,SOCAR Weitensfeld,Kaindorf 27,9344,Weitensfeld,46.8510669,14.1672939
 33406,SOCAR Weissensee,Oberdorf 59,9762,Weissensee,46.7224102,13.2599965
 33408,SOCAR Gmunden,Mühlwangstraße 20,4810,Gmunden,47.9206129,13.8053132
 33409,A1 Tankstelle Linz,Landwiedstraße 61,4020,Linz,48.2719766,14.2817769
@@ -2009,7 +2009,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 888622,Turmöl Marth,Grazer Strasse 54-56,7540,Güssing,47.0477081,16.3182847
 894715,Lagerhaus Kirnberg GENOL,Pöllabergstrasse 4,3241,Kirnberg,48.0727027,15.3201001
 895059,Turmöl Quick,Zellerstraße 26,5730,Mittersill,47.2851698,12.4911117
-910999,A1 Tankstelle Waidring,Loferer Bundesstraße 1,6384,Waidring,47.5864172,12.5849435
+910999,SOCAR Waidring,Loferer Bundesstraße 1,6384,Waidring,47.5864172,12.5849435
 917551,"avanti - Neulengbach, Tullner Straße 1b",Tullner Strasse 1b,3040,Neulengbach,48.19262,15.89473
 919807,Shell Aigen,Schlaegler Hauptsstrasse 14,4160,Aigen im Muehlkreis,48.635745,13.963945
 931082,SOCAR St. Pölten,Praterstraße 30,3100,Sankt Pölten,48.2134658,15.6239836
