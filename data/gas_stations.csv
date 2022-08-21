@@ -54,6 +54,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 334,OMV - Wien Sterngasse 13,Sterngasse 13,1230,Wien,48.14891,16.33836
 335,avanti - Orth an der Donau Wiener Straße 76,Wiener Strasse 76,2304,Orth an der Donau,48.14992,16.68739
 340,OMV - Gries am Brenner Brennersee 231,Brennersee 231,6156,Gries am Brenner,47.01769,11.50733
+350,OMV - Haag Straße zur Autobahn 5,Strasse zur Autobahn 5,3350,Haag,48.11517,14.57068
 351,OMV - Gföhl Langenloiser Straße 85,Langenloiser Strasse 85,3542,Gfoehl,48.51208,15.51044
 355,OMV - Villach Maria-Gailer-Straße 53,Maria-Gailer-Strasse 53,9500,Villach,46.60434,13.87092
 356,OMV - Sankt Veit an der Glan Lastenstraße 38,Lastenstrasse 38,9300,Sankt Veit an der Glan,46.76591,14.36587
