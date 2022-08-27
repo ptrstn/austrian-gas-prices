@@ -87,7 +87,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 423,OMV - Perchtoldsdorf Brunner Gasse 48,Brunner Gasse 48,2380,Perchtoldsdorf,48.11554,16.27169
 433,OMV - Hopfgarten Bahnhofstraße 11,Bahnhofstrasse 11,6361,Hopfgarten,47.45309,12.15153
 434,OMV - Tannheim Höf 14,Hoef 14,6675,Tannheim,47.49917,10.51679
-435,OMV - Ried im Oberinntal Reschenstraße 299,Reschenstrasse 299,6531,Ried im Oberinntal,47.05741,10.65375
+435,"OMV - Ried im Oberinntal, Ried i. O. 299",Ried i. O. 299,6531,Ried im Oberinntal,47.05741,10.65375
 442,OMV - Neumarkt Kärntner Straße 22,Kaerntner Strasse 22,8820,Neumarkt,47.06752,14.43023
 443,OMV - Kapfenberg Wiener Straße 79,Wiener Strasse 79,8605,Kapfenberg,47.44692,15.30208
 444,OMV - Bruck an der Mur Leobner Straße 59,Leobner Strasse 59,8600,Bruck an der Mur,47.40623,15.26573
