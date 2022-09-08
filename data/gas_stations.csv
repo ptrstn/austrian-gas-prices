@@ -800,6 +800,8 @@ station_id,name,address,postal_code,city,latitude,longitude
 27309,GET - Tankstelle 3350 Haag,Steyrerstrasse 52a,3350,Haag,48.1074058,14.5638737
 27311,Landmarkt Lagerhaus,Thörl 66,8983,Bad MItterndorf,47.5513489,13.9437291
 27313,Landmarkt Lagerhaus,Aigen 59,8943,Aigen/Ennstal,47.5246087,14.1472137
+27314,Landmarkt Lagerhaus,Öblarn 221,8960,Öblarn,47.4616464,13.98989
+27315,Landmarkt Lagerhaus,Mössna 177,8961,St. Nikolai im Sölktal,47.3526517,14.0228413
 27316,Landmarkt Lagerhaus,Bahnhofstrasse 277,8970,Schladming,47.3943797,13.6815587
 27317,Landmarkt Lagerhaus,Hall 618,8911,Admont,47.5819645,14.4546736
 27321,BP,Donaufelderstr.91 ,1210,Wien,48.2532979,16.4184148
@@ -2774,7 +2776,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1473608,Turmöl Quick,Stixenlehen 100,3345,Göstling an der Ybbs,47.80756,14.93721
 1473609,Turmöl Quick,Furth 24,8755,St. Peter ob Judenburg,47.18404,14.59632
 1473628,OMV - Neusiedl am See Erwin-Schrödinger-Straße 9,Erwin-Schroedinger-Strasse 9,7100,Neusiedl am See,47.97359,16.84885
-1473708,OMVFL - Neustift im Mühlkreis Passauer Straße 23,Passauer Strasse 23,4143,Neustift im Muehlkreis,48.52955,13.74859
+1473708,OMV Fast Lane - Neustift im Mühlkreis Passauer Straße 23,Passauer Strasse 23,4143,Neustift im Muehlkreis,48.52955,13.74859
 1473749,Turmstrom,Wienerstraße 19,8820,Neumarkt,47.07918,14.42462
 1473750,BP,Gewerbegebiet 1,6611,Heiterwang,47.435845,10.767215
 1473768,TURMÖL Quick powered by boesch energy,Zeitling 36,4320,Perg,48.25192,14.61781
