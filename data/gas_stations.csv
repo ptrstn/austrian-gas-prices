@@ -932,7 +932,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 33409,SOCAR Linz,Landwiedstraße 61,4020,Linz,48.2719766,14.2817769
 33410,SOCAR Arnfels,Leibnitzerstraße 277,8454,Arnfels,46.6799076,15.4011543
 33411,SOCAR Lannach,Radlpass Straße 50,8502,Lannach,46.9440153,15.3183495
-33412,A1 Tankstelle Stadl an der Mur,Murauer Straße 118,8862,Stadl an der Mur,47.0839155,13.9628069
+33412,SOCAR Stadl an der Mur,Murauer Straße 118,8862,Stadl an der Mur,47.0839155,13.9628069
 33413,SOCAR Graz-Steinbergstraße,Steinbergstraße 70,8052,Graz,47.05238,15.369153
 33414,SOCAR Burgau,Neudauerstraße 270,8291,Burgau,47.14749,16.102583
 33415,SOCAR Mariazell,Dr. Ludwig Leber-Straße 8,8630,Mariazell,47.7741177,15.3155675
@@ -2663,7 +2663,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
