@@ -1145,6 +1145,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 34545,Freie Tankstelle,Hasnerstraße 128,1160,Wien ,48.2116586,16.3102334
 34547,Moser Tankstelle Feldkirchen,Oberglan-Gewerbestr. 1,9560,Feldkirchen,46.694667,14.125671
 34548,Supantschitsch Wolfgang Turmöl Tankstelle,Greuth 14,9121,Tainach,46.6358199,14.5411675
+34550,Turmöl,St. Veiterstraße 203,9020,Klagenfurt,46.6530942,14.3132648
 34555,AVIA XPress (unser Service: Luft und Wasser),Europastraße,3902,Vitis,48.75864,15.194403
 34557,Tankstelle Grabner,Köppel 74,8251,Bruck / Lafnitz,47.4379623,15.9162258
 34558,Grübler Thomas Dieseltankstelle,Böcksteiner Bundesstraße 15,5640,Bad Gastein,47.1054555,13.1342715
@@ -1229,6 +1230,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 35466,,Payerstetten 6,3652,Leiben,48.2496835,15.2480109
 35486,Toms Tankstelle,Haupstraße 31,4770,Andorf,48.37105,13.57387
 35506,Turmöl Quick,Zeltenschlagstraße 2,8700,Leoben,47.3789195,15.0887587
+35526,Turmöl,Zeller Str.30,5730,Mittersill,47.285008,12.4929563
 35548,BP,Hauptstrasse 9 A ,8793,Trofaiach,47.420335,15.013976
 35549,BP,Dorfstrasse 148 ,6450,Soelden,46.963209,11.007721
 35550,BP,Schulstrasse 8 ,9562,Himmelberg,46.752109,14.035099
