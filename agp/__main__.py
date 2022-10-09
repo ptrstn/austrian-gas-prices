@@ -1,4 +1,5 @@
 import argparse
+import datetime
 
 from oidafuel.core import gas_stations_to_gas_prices
 from oidafuel.datatypes import FuelType
@@ -42,6 +43,8 @@ def main():
 
     fuel_types = (FuelType.SUPER_95, FuelType.DIESEL, FuelType.CNG_ERDGAS)
 
+    now = datetime.datetime.now()
+
     if args.austria:
         print("== Austria ==")
         for fuel_type in fuel_types:
@@ -50,7 +53,7 @@ def main():
             prices = gas_stations_to_gas_prices(stations)
             assert len(prices) == len(set(prices))
 
-            file_name = f"austria_{fuel_type}.csv"
+            file_name = f"austria_{fuel_type}_{now.year}_{now.month}.csv"
             save_gas_prices_to_file(prices, file_name)
 
 
