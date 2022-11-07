@@ -2672,7 +2672,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
@@ -2927,6 +2927,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1474238,eni,Wiener Strasse 304,8051,Graz,47.098039,15.404107
 1474239,eni,Obere Klaus 213,8970,Schladming,47.389662,13.635927
 1474240,eni,Weinzöttlstrasse 2,8045,Graz-Andritz,47.098696,15.418162
+1474241,eni,Hauptstrasse 456,8962,Gröbming,47.449228,13.903754
 1474246,eni,Anton Regnerstrasse 59,8720,Knittelfeld,47.218076,14.816033
 1474249,eni,Grazerstrasse 21,8280,Fürstenfeld,47.0587009,16.06726348
 1474250,eni,Pirching 97,8200,Hofstätten a. d. Raab,47.089452,15.73237
