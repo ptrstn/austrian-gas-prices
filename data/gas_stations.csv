@@ -2672,7 +2672,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
@@ -3078,3 +3078,9 @@ station_id,name,address,postal_code,city,latitude,longitude
 1475332,M3 LÖDERSDORF,Lödersdorf 54,8334,Lödersdorf,46.958,15.9496
 1475351,AVIA XPress (unser Service: Luft und Wasser),Gewerbestraße 5,3270,Scheibbs,48.01344,15.157238
 1475411,Gutmann ENI Tankstelle,Leopoldstraße 67,6020,Innsbruck,47.25418591941195,11.399176862157589
+1475471,Lagerhaus Zipf,Langwies 25,4871,Zipf,48.0264297,13.5108238
+1475472,Lagerhaus Frankenmarkt,Schwaigern 56,4890,Frankenmarkt,47.988426,13.3929995
+1475491,Lagerhaus Kammer - Schörfling,Hauptstr. 36,4861,Schörfling,47.9442884,13.5949965
+1475492,Lagerhaus St. Georgen,Bahnhofstr. 15,4880,St. Georgen,47.937191,13.4887
+1475493,Lagerhaus Schwanenstadt,Huberstr. 1,4690,Schwanenstadt,48.0512507,13.7655883
+1475495,Lagerhaus Niederthalheim,Hauptstraße 14,4692,Niederthalheim,48.1005036,13.766689
