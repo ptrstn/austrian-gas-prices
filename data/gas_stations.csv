@@ -2067,6 +2067,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1063757,Eni Klaus,Treietstrasse 25,6833,Klaus-Weiler,47.30725,9.63172
 1072750,HWK Diesel,Franz-Cervinka-Weg 3,6372,Oberndorf in Tirol,47.4886206,12.3768668
 1076805,AVIA Xpress (Automaten-Tankstelle),Neustraße 25,4522,Sierning,48.041274,14.306479
+1077879,Shell Tankstelle,Thoerl-Maglern 35,9602,Thoerl-Maglern,46.544241,13.653541
 1080770,Shell Austria,MÜHLDORF 236,8330,Feldbach,46.949818,15.905441
 1081860,Disk TANKAUTOMAT,Gewerbezone 12,6404,Polling in Tirol,47.285421,11.143494
 1083080,ESSMEISTER Full-Service Tankstelle,Burgwiesenring 3,3370,Ybbs/Donau,48.1753596,15.084943
@@ -2672,7 +2673,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
@@ -3092,3 +3093,5 @@ station_id,name,address,postal_code,city,latitude,longitude
 1475499,Lagerhaus Vorchdorf,Pettenbacherstraße 41,4655,Vorchdorf,48.000903,13.929128
 1475500,Lagerhaus Laakirchen,Matzingthalstraße 7,4663,Laakirchen,47.98575,13.823225
 1475511,Rumpold,Pistorf 209,8443,Gleinstätten,46.7577626,15.3695254
+1475551,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,Hauptstrasse 17,4101,Feldkirchen,48.3470443238984,14.0563175517918
+1475553,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,Hauptstrasse 17,4191,Vorderweissenbach,48.5527675,14.218088
