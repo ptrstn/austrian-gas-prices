@@ -571,10 +571,10 @@ station_id,name,address,postal_code,city,latitude,longitude
 6446,Discont Waldhart,Affenhausen 4,6413,Wildermieming,47.3130791,11.0053247
 6448,Wechselgau - Premium Kraftdiesel,Geistbründlweg 3,8243,Pinggau,47.4448561,16.0629432
 6449,Disconttankstelle Huber Petrol,Gewerbepark Süd 3,5141,Moosdorf,48.0391046,12.9885879
-6450,Wechselgau - Genol,Am Bahnhof 33,8232,Grafendorf,47.3453769,16.0033823
+6450,Wechselgau - Premium Kraftdiesel,Am Bahnhof 33,8232,Grafendorf,47.3453769,16.0033823
 6452,Wechselgau - Premium Kraftdiesel,Pittermann 176,8254,Wenigzell,47.4233715,15.7869337
 6453,GENOL - Lagerhaus,Lagerhausstraße 1,2842,Thomasberg,47.6028673,16.1186639
-6454,Wechselgau - Genol,Schmiedviertel 148,8252,Mönichwald,47.4488975,15.8578515
+6454,Wechselgau - Premium Kraftdiesel,Schmiedviertel 148,8252,Mönichwald,47.4488975,15.8578515
 6455,Genol,An der Bahn 216,2013,Göllersdorf,48.492926,16.125693
 6456,Shell,Wiener Straße 123,2620,Neunkirchen,47.7304251,16.0955848
 6457,Wechselgau - Genol,Sebersdorf 12,8272,Sebersdorf,47.1878186,15.9996447
@@ -3098,4 +3098,5 @@ station_id,name,address,postal_code,city,latitude,longitude
 1475552,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,Mitterweg 1,4190,Bad Leonfelden ,48.526057,14.2947304
 1475553,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,Hauptstrasse 17,4191,Vorderweissenbach,48.5527675,14.218088
 1475554,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,Bahnhofstrasse 9,4221,Steyregg,48.2846194,14.3637533
+1475591,Turmöl Quick,Kärntnerstrasse 20,8580,Köflach,47.061629,15.079417
 1475592,Turmöl Quick,Klamm 14a,5620,ST. Veit/ Pongau,47.29785,13.08284
