@@ -1436,7 +1436,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 38950,LAGERHAUS Frohnleiten B0 Additiv Diesel,Mayr-Melnhof-Straße 5,8130,Frohnleiten,47.2668387,15.3257902
 38951,LAGERHAUS  Deutschfeistritz B0 Additiv Diesel,Bahnhofstraße 238,8121,Deutschfeistritz,47.19965649454807,15.338963270187378
 38952,LAGERHAUS Übelbach B0 Additiv Diesel,Gleinalmstraße 252,8124,Übelbach,47.2245783,15.2391411
-38953,LAGERHAUS Kalsdorf B0 Additiv Diesel,Hauptstraße 36,8401,Kalsdorf,46.9735935,15.4710581
+38953,LAGERHAUS Genol Kalsdorf ,Hauptstraße 36,8401,Kalsdorf,46.9735935,15.4710581
 38954,LAGERHAUS Groß St. Florian B0 Additiv Diesel,Markstraße 38,8522,Groß St. Florian,46.82187519179757,15.31919002532959
 38955,LAGERHAUS Stainz B0 Additiv Diesel,Langwiesenbachgasse 9,8510,Stainz,46.8895356,15.2702762
 38966,Pagitz GesmbH,Unterferlach 34,9170,Ferlach,46.541226,14.313791
@@ -2651,7 +2651,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1470767,Pürrer Trans GmbH.,Weißes Kreuz 100,2851,Krumbach,47.541153,16.154808
 1470788,GG Tankstelle Langenrohr,Tullner Straße 6 ,3442,Langenrohr,48.31138203436592,16.014680121853992
 1470789,F. LEITNER,Waisenegg 121,8190,Birkfeld,47.380990747458696,15.67813208285314
-1470827,LAGERHAUS Voitsberg B0 Additiv Diesel,Am Vorum 2,8570,Voitsberg,47.052799,15.131794
+1470827,LAGERHAUS Genol Voitsberg,Am Vorum 2,8570,Voitsberg,47.052799,15.131794
 1470867,ENI Stumm ,Gewerbegebiet 6,6275,Stumm ,47.29034628764583,11.88055119320892
 1471047,Treibstoffparadies,Gewerbepark Ost 1,8504,Preding,46.85349,15.40998
 1471067,Genol Lagerhaus Innviertel-Traunviertel-Urfahr eGen.,Salzburgerstr. 5,5211,Friedburg,48.01718,13.24637
