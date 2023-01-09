@@ -768,7 +768,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 7792,GENOL-LH EFERDING-OÖ. MITTE eGen,MEGGENHOFEN 80,4714,MEGGENHOFEN,48.1810549,13.7898836
 7794,GENOL-LH EFERDING-OÖ. MITTE eGen,TRAPPENHOF SUED 1,4714,MEGGENHOFEN,48.1829959,13.7823221
 7797,TWS GmbH,Rübenstraße 2,4063,Hörschnig,48.246483,14.182423
-7800,Gusenbauer Willibald e.U.Freie Tankstelle,Schönau 12,4331,Naarn,48.2036345,14.6617906
+7800,Gusenbauer Andreas e.U.,Schönau 12,4331,Naarn,48.2036345,14.6617906
 7802,Gussmagg Dieseltankstelle,Pischelsdorf 122,8212,Pischelsdorf,47.1711466,15.7995454
 7806,Eibl Werner,Gaißau 155,5425,Krispl,47.7120404,13.194849
 7808,Hirschmugl,Gewerbepark Nord 1,8431,Gralla,46.804271,15.555675
@@ -2613,7 +2613,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1469766,EVM - Biomethan Tankstelle,Energiestraße 9,2433,Margarethen am Moos,48.047635,16.605493
 1469786,Lagerhaus Tankstelle Matrei,Seblas 17,9971,Matrei in Osttirol,46.981732797028485,12.549961697284306
 1469806,SHELL,Güssinger Str. 384,7535,St. Michael,47.119516,16.274524
-1469807,Turmöl Tankstelle,Obere Hauptstraße 174,7537,Neuberg,47.184775,16.248481
+1469807,SHELL ,Obere Hauptstraße 174,7537,Neuberg,47.184775,16.248481
 1469826,"AVIA XPress (SB-Carwash, SB-Sauger, Wasser gratis) ",Hauptstraße 74,2384,Breitenfurt,48.1356658,16.194080999999983
 1469886,Turmöl Quick,Untere Hauptstraße 87,7100,Neusiedl am See,47.943084,16.850562
 1469906,Ziegler,Etmißl,8622,Thörl,47.5157998,15.174991
