@@ -2021,7 +2021,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 798257,AVIA Xpress (Automaten-Tankstelle),Windern 111,4693,Desselbrunn,48.020905,13.791278
 810034,Diesel Prommegger St. Michael,Gewerbestraße 649,5582,St. Michael,47.0968149,13.6314642
 817933,Rumpold,Technologiepark 1,8423,St. Veit am Vogau,46.757742,15.623819
-819631,M3 PUCHBERG ,Schneeberg 29,2734,Puchberg am Schneeberg,47.7887601,15.9091111
+819631,M3 Puchberg ,Schneeberg 29,2734,Puchberg am Schneeberg,47.7887601,15.9091111
 824526,Turmöl Quick,Rosentalerstraße 138,9020,Klagenfurt,46.6086948,14.299279
 833952,avanti - Sankt Margarethen an der Raab 190, 190,8321,Sankt Margarethen an der Raab,47.04704,15.74609
 845059,Turmöl Quick,Deutsch Altenburgerstraße 1,2472,Prellenkirchen,48.0768643,16.9466248
@@ -3080,7 +3080,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1475291,M3 GROßKLEIN,Mattelsberg 130,8452,Großklein,46.7361,15.4444
 1475311,"M3 GROßKLEIN ""Waschcenter""",Mattelsberg 130,8452,Großklein,46.7361,15.4444
 1475331,Rumpold,Grazer Straße 33,8101,Gratkorn,47.129919,15.343183
-1475332,M3 PFINGSTL Lödersdorf Waschcenter,Lödersdorf 54,8334,Lödersdorf,46.958,15.9496
+1475332,M3 Lödersdorf,Lödersdorf 54,8334,Lödersdorf,46.958,15.9496
 1475351,AVIA XPress (unser Service: Luft und Wasser),Gewerbestraße 5,3270,Scheibbs,48.01344,15.157238
 1475411,Gutmann ENI Tankstelle,Leopoldstraße 67,6020,Innsbruck,47.25418591941195,11.399176862157589
 1475451,Rumpold,Stangersdorf-Gewerbegebiet 5,8403,Lang,46.8512074,15.5121246
