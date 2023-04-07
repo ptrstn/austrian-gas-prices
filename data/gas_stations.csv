@@ -3125,13 +3125,18 @@ station_id,name,address,postal_code,city,latitude,longitude
 1475951,Turmöl,Bundesstraße 1,7503,Jabing,47.24842,16.29674
 1475953,Turmöl,Hauptstraße 102,7062,St. Margarethen,47.80355,16.61396
 1475971,Turmöl,Tivoligasse 53,1120,Wien,48.18057,16.32149
-1475991,Genol Lagerhaus Innviertel-Traunviertel-Urfahr eGen.,Wigretsberg 9,4175,Herzogsdorf,48.44082,14.11762
-1475992,Genol Lagerhaus Innviertel-Traunviertel-Urfahr eGen.,Pöstlingbergstrasse 1,4040,Lichtenberg,48.3613605,14.2400963
+1475991,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,Wigretsberg 9,4175,Herzogsdorf,48.44082,14.11762
+1475992,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,Pöstlingbergstrasse 1,4040,Lichtenberg,48.3613605,14.2400963
 1475993,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,Ennsdorferstrasse 2/2,4482,Ennsdorf,48.220269,14.50107
 1476012,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,Mitterweg 1,4190,Bad Leonfelden,48.526057,14.2947304
 1476013,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,Eisenstraße 26,4463,Großraming,47.8841826,14.548873
+1476014,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,Steyrerstraße 28,4501,Neuhofen,48.1379881,14.2393913
 1476015,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,Bahnhofstraße 7,4552,Wartberg,47.9899716,14.1209213
 1476018,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,Mollner Straße 7,4591,Molln,47.8885554,14.2389091
 1476020,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,Almtalstraße 3,4643,Pettenbach,47.96416,14.01119
 1476021,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,Linzer Straße 2,4493,Wolfern,48.082721,14.3701416
 1476022,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,Klosterstraße 2,4451,Garsten,48.0222942,14.4047398
+1476023,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,Hauptstraße 17,4191,Vorderweissenbach,48.5527675,14.218088
+1476024,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,Hauptstraße 17,4101,Feldkirchen,48.3470443238984,14.0563175517918
+1476025,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,Weingartenstraße 5,4101,Ottensheim,48.3386377,48.3386377
+1476026,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,Bahnhofstraße 9,4221,Steyregg,48.2846194,14.3637533
