@@ -451,7 +451,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 6190,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,Moosham 35,4943,Geinberg,48.2697773,13.2628
 6192,Genol Lagerhaus Innviertel-Traunviertel-Urfahr eGen.,Edt 15,4943,Gurten,48.2404448,13.3376284
 6193,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,Lambrechten 53,4772,Lambrechten,48.3167086,13.5114448
-6194,Genol Lagerhaus Innviertel-Traunviertel-Urfahr eGen.,Bahnhofstraße 32,5270,Mauerkirchen,48.1971181,13.1286289
+6194,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,Bahnhofstraße 32,5270,Mauerkirchen,48.1971181,13.1286289
 6195,Genol Lagerhaus Innviertel-Traunviertel-Urfahr eGen.,Gewerbestr. 1,4962,Mining,48.2707097,13.1710372
 6197,Genol Lagerhaus Innviertel-Traunviertel-Urfahr eGen.,Diesseits 189,4973,St.Martin,48.2910626,13.4412191
 6199,Genol Lagerhaus Innviertel-Traunviertel-Urfahr eGen.,Bahnhofstraße 76,4910,Ried,48.2015373,13.486405
@@ -507,12 +507,12 @@ station_id,name,address,postal_code,city,latitude,longitude
 6304,Genol RLH-Süd-Bgld,RLH Süd    Grazer Straße 33,7571,Rudersdorf,47.054979,16.110935
 6306,Genol RLH-Süd-Bgld,RLH Süd   Tobaj,7540,Tobaj,47.088866,16.305749
 6309,Lagerhaus - Genol,Rusterstrasse 35,3451,Michelhausen,48.2931812,15.9311563
-6310,Genol Lagerhaus Innviertel-Traunviertel-Urfahr eGen.,Feichtet 24,4906,Eberschwang,48.1516227,13.5373927
+6310,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,Feichtet 24,4906,Eberschwang,48.1516227,13.5373927
 6311,Lagerhaus - Genol,Koenigstetterstrasse 163,3430,Tulln,48.3220158,16.0791595
 6312,Genol Lagerhaus Innviertel-Traunviertel-Urfahr eGen.,Harlochnerstraße 1,5230,Mattighofen,48.1059377,13.1525169
 6314,Genol Lagerhaus Innviertel-Traunviertel-Urfahr eGen.,Döstling 20,5121,Ostermiething,48.0619882,12.8349643
 6316,Genol Lagerhaus Innviertel-Traunviertel-Urfahr eGen.,Heinz Lannerstraße 1,5122,Hochburg,48.146017,12.8379112
-6317,Genol Lagerhaus Innviertel-Traunviertel-Urfahr eGen.,Gundertshausen 79,5142,Gundertshausen,48.089198,12.9917241
+6317,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,Gundertshausen 79,5142,Gundertshausen,48.089198,12.9917241
 6322,Stöber Tankstelle (unabhängige Tankstelle),Pfaffing 8,3386,Hafnerbach,48.213178,15.50982
 6323,Genol-Lagerhaus Thermenland Fürstenfeld, Fürstenfeld Jahnstrasse 5,8280,Fürstenfeld,47.0393225,16.0852794
 6325,Walter,Unterauersbach 8,8342,Unterauersbach,46.86577,15.77547
@@ -3142,3 +3142,4 @@ station_id,name,address,postal_code,city,latitude,longitude
 1476025,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,Weingartenstraße 5,4101,Ottensheim,48.3386377,48.3386377
 1476026,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,Bahnhofstraße 9,4221,Steyregg,48.2846194,14.3637533
 1476032,ENI Hartberg,Reservarstraße 50,8230,Hartberg,47.28266,15.975332
+1476051,Sido Tank GmbH.,Hitzendorf 134,8151,Hitzendorf,47.035246,15.300302
