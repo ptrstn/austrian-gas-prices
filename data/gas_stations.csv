@@ -1079,7 +1079,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 34052,Genol - Lagerhaus,Aistenthal 40-41,4061,Hörsching,48.2488977,14.1906722
 34307,Genol - Lagerhaus,Wollsberg 22,4652,Linden,48.0783064,13.9963659
 34308,Genol - Lagerhaus,Hauptstraße 19,4621,Sipbachzell,48.0976805,14.11135425
-34310,,Neukirchen 19,3650,Pöggstall,48.2893261,15.1619335
+34310,Neukirchen,Neukirchen 19,3650,Pöggstall,48.2893261,15.1619335
 34311,BP,Wachauer Straße 4,3660,Klein Pöchlarn,48.2173428,15.2216307
 34316,eni/Zankl GmbH,Jenig 7,9631,Jenig,46.6283556,13.2523853
 34320,freie Tankstelle,Untere Hauptstr. 153,7422,Riedlingsdorf,47.3371468,16.1450365
