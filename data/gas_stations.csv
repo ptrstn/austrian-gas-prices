@@ -2678,7 +2678,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
@@ -3160,3 +3160,4 @@ station_id,name,address,postal_code,city,latitude,longitude
 1476431,Turmöl,Kärntner Straße 2,8811,Scheifling ,47.15284,14.41422
 1476451,OMV Fast Lane - Kirchschlag/Bucklige Welt Wiener Straße 29,Wiener Strasse 58,2860,Kirchschlag/Bucklige Welt,47.49879,16.28993
 1476591,Turmöl Quick,Eichfeld 64A,8480,Mureck,46.72592,15.77227
+1476631,"M3 Ligist + Spar ""Express""",Steinberg 209,8563,Steinberg bei Ligist,46.992602,15.211308
