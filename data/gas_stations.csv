@@ -3122,7 +3122,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1475871,Ismaili Mefail,BUNDESSTRAßE 9,8472,SPIELFELD,46.69578,15.63778
 1475892,Kapferer und Kapferer/Gutmann Tankstelle,Auto Kapferer GmbH & CO KG,6441,Umhausen,47.1358178,10.9270027
 1475911,SOCAR Donnerskirchen,Neusiedlerstraße 15,7082,Donnerskirchen,47.895234,16.648856
-1475931,M3 Lafnitz,Neustift an der Lafnitz 224,8233,Lafnitz,47.369696,16.021119
+1475931,M3 Lafnitz + Waschcenter,Neustift an der Lafnitz 224,8233,Lafnitz,47.369696,16.021119
 1475932,M3 Rohrbach,Bahnhofstraße 1,8234,Rohrbach an der Lafnitz,47.393169,15.991696
 1475951,Turmöl,Bundesstraße 1,7503,Jabing,47.24842,16.29674
 1475952,Turmöl,Steinamangerstraße 8,7423,Pinkafeld,47.36364,16.12516
@@ -3145,7 +3145,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1476025,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,Weingartenstraße 5,4101,Ottensheim,48.3386377,48.3386377
 1476026,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,Bahnhofstraße 9,4221,Steyregg,48.2846194,14.3637533
 1476031,Turmöl Quick,Attergauerstraße 21,4864,Attersee,47.91682,13.53221
-1476032,M3 Hartberg,Reservarstraße 50,8230,Hartberg,47.28266,15.975332
+1476032,"M3 Hartberg + Spar ""Express""",Reservarstraße 50,8230,Hartberg,47.28266,15.975332
 1476051,Sido Tank GmbH.,Hitzendorf 134,8151,Hitzendorf,47.035246,15.300302
 1476071,Scheyerer Energie- & Kraftstoffe GmbH,Böcksteiner Bundesstraße 15,5640,Bad Gastein,47.10545807128239,13.134271557478826
 1476111,Turmöl Quick,Prillingerstraße 6,4600,Wels,48.15888,13.98018
