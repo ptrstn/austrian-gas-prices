@@ -2371,7 +2371,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354842,JET TANKSTELLE,BUNDESSTRASSE 7,8160,PREDING BEI WEIZ,47.204711,15.639891
 1354843,OMV - Breitenbrunn Eisenstädter Straße 69,Eisenstaedter Strasse 69,7091,Breitenbrunn,47.93942,16.72805
 1354844,JET TANKSTELLE,KLAGENFURTER STRASSE 19 B,9400,WOLFSBERG,46.82661,14.839675
-1354845,OMV - Ebreichsdorf Wiener Neustädter Straße 2,Wiener Neustaedter Strasse 2,2483,Ebreichsdorf,47.96042,16.3977
+1354845,OMV - Ebreichsdorf Wiener Neustädter Straße 2,Wiener Neustaedter Strasse  2,2483,Ebreichsdorf,47.96042,16.3977
 1354846,JET TANKSTELLE,REICHSSTRASSE 133 A,6800,FELDKIRCH,47.247387,9.610381
 1354847,avanti - Purgstall Erlauftalstraße 34,Erlauftalstrasse 34,3251,Purgstall,48.06215,15.13914
 1354849,JET TANKSTELLE,BREITENFURTERSTRASSE 164,1230,WIEN,48.153886,16.301339
@@ -2678,7 +2678,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
