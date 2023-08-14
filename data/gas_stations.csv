@@ -1404,7 +1404,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 36806,Koidl Discounttankstelle,Gewerbering West 5,5730,Mittersill,47.2778885,12.4536911
 36826,Lagerhaus Tankstelle ,Sankt Jakob 70,9184,Sankt Jakob,46.551601,14.049067
 36827,Genol,Gailtalstrasse 5,9620,Hermagor,46.628662,13.3778629
-36946,Landkauf Bund,Wieden 35,8345,Straden,46.8085675,15.8704039
+36946,Landkauf Bund,Wieden 35,8345,Straden,46.789949,15.852563
 37006,,Industriestraße 17,9560,Feldkirchen,46.7215632,14.1021638
 37367,TEMMEL GmbH,Industriezentrum Straß 3,8472,Straß in Steiermark,46.7109181,15.6569945
 37386,OMV - Salzburg Münchner Bundesstraße 85,Muenchner Bundesstrasse 85,5020,Salzburg,47.82773,13.00872
@@ -2678,7 +2678,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
