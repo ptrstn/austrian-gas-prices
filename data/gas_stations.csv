@@ -1848,7 +1848,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 427693,Shell Austria,IGNAZ-HARRERSTRASSE 94,5020,SALZBURG,47.81366,13.02191
 428033,BP Oberndorf/Sbg,Salzburger Straße 4,5110,Oberndorf bei Salzburg,47.935624,12.94659
 428034,Shell Spittal/Drau ,Zgurner Strasse 2,9800,Spittal an der Drau,46.782823,13.534383
-428035,Shell Lannach,Radlpass Strasse 26,8502,Lannach,46.949105,15.337384
+428035,BP Lannach,Radlpass Straße 26,8502,Lannach,46.949105,15.337384
 430734,Shell Austria,VIKTRINGERRING 57,9020,KLAGENFURT,46.62057,14.3042
 430739,Shell Austria,FREISTAEDTERSTRASSE 300,4040,LINZ-STEG,48.32925,14.3131
 430741,Shell Austria,BAHNHOFSTRASSE 309,8990,BAD AUSSEE,47.604762,13.782719
@@ -2678,7 +2678,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
