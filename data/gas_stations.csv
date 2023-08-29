@@ -821,7 +821,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 27337,Lagerhaus-Tankstelle 24 h mit Waschportal,Gruberfeldstrasse 2,5162,Obertrum,47.936731,13.08418
 27338,ECODROM - 24h Tanken & Car Wellness,Oberfeldstraße 95,4600,Wels,48.1821416,14.0157362
 27339,Lagerhaus-Tankstelle 24 h mit Waschportal,Neumarkterstrasse 1,5204,Strasswalchen,47.9568802,13.2352561
-27340,BP Tankstelle,Wiener Bundesstraße 153,4050,Traun,48.234185,14.23294
+27340,BP Traun,Wiener Bundesstraße 153,4050,Traun,48.234185,14.23294
 27341,ECODROM - 24h Tanken & Car Wellness,Boschstraße 5a,4600,Wels,48.1600429,14.0460357
 27344,ECODROM - 24h Tanken & Car Wellness,Auf der Haiden 2,5280,Braunau am Inn,48.2504417,13.0476875
 27346,Lagerhaus-Tankstelle 24 h,Lagerhausstrasse 2,5071,Wals,47.7877589,12.9733529
@@ -2678,7 +2678,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
