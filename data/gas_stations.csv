@@ -1094,6 +1094,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 34337,Autohaus Heinrich GmbH - ENI Tankstelle,Sillian 46,9920,Sillian,46.7510013,12.4260524
 34338,Diskont Tankstelle,Lembach 7,8333,Riegersburg,47.015015,15.9495948
 34340,Gbr. Trippl Transporte GmbH & Co KG,Mariazellerstrasse 89,8605,Kapfenberg,47.4524949,15.266624
+34343,Genol - Lagerhaus,Wimmstraße 20,4323,Münzbach,48.2685209,14.720535
 34346,Avia,Hauptplatz 8,2440,Gramatneusiedl,48.0281775,16.4893376
 34347,BICHLER premiumDIESEL XTREMEverde,Bernreit 26,3163,Rohrbach,48.0459966,15.7235472
 34349,"Diskonttankstelle Stöhr (Diesel, Super 95)",Oberdorf 87,8324,Kirchberg/Raab,46.97728,15.72051
@@ -2678,7 +2679,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
