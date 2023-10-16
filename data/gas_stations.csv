@@ -224,7 +224,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 4098,Turmöl Quick,Innerrotte 50,9963,St. Jakob,46.9151971,12.3338164
 4099,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,LINZERSTRASSE 2,4493,WOLFERN,48.082721,14.3701416
 4100,Turmöl Quick,Hochfeldgasse 2A,8600,Bruck a.d. Mur,47.4222857,15.2727542
-4101,Turmöl Quick,Millstätterstraße 21,9545,Radenthein,46.7983963,13.6962295
+4101,Turmöl Quick,Millstätterstraße 42a,9545,Radenthein,46.7983963,13.6962295
 4102,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,EISENSTRASSE 26,4463,GROSSRAMING,47.8841826,14.548873
 4103,Genol Lagerhaus Innviertel-Traunviertel-Urfahr,Almtalstraße 3,4643,PETTENBACH,47.96416,14.01119
 4104,Turmöl Quick,Triglavstraße 1,9500,Villach,46.5939688,13.8435871
@@ -1992,7 +1992,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 731311,Turmöl Quick,Gutenhoferstraße 16,2325,Himberg,48.0782678,16.4421257
 734696,Turmöl Quick,Haupstraße 140,7201,Neudörfl,47.8011008,16.2826219
 735876,Turmöl,Pragerstrasse 3,4240,Freistadt,48.5144615,14.5027188
-736213,Turmöl Quick,Weiten 1,3653,Weiten,48.2942038,15.2628862
+736213,Turmöl Quick,Hauptstraße 64,3653,Weiten,48.2942038,15.2628862
 746352,Genol,Wigretsberg 9,4175,Herzogsdorf,48.44082,14.11762
 750565,Rumpold,Bundesstraße 50,8770,St. Michael,47.350148,15.009137
 754943,Turmöl Quick,Wienerneustädter Straße 65,7033,Pöttsching,47.8067759,16.3620933
