@@ -389,7 +389,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 6083,Turmöl Quick,Währinger Gürtel 116,1090,Wien,48.2266238,16.3504673
 6085,Turmöl Quick,Kremserstraße 34,3910,Zwettl,48.6053521,15.1781478
 6086,Turmöl Quick,Grazer Vorstadt 70,8570,Voitsberg,47.0446452,15.1588515
-6087,Turmöl Quick,Lindengasse 16,4040,Linz,48.3227485,14.2887706
+6087,Turmöl Quick,Lindengasse 16,4040,Linz-Urfahr,48.3227485,14.2887706
 6088,Turmöl Quick,Grautschenhof 35,8684,Spital am Semmering,47.6023511,15.7188567
 6090,Stadtwerke Kapfenberg GmbH,Stadtwerkestraße 6,8605,Kapfenberg,47.4473181,15.3010401
 6093,Lagerhaus Altmünster,Großalmstraße 24,4813,Altmünster,47.887313,13.760194
@@ -2680,7 +2680,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
