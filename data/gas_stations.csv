@@ -1627,7 +1627,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 232961,All In Tankstelle,Grazerstrasse 45,8062,Kumberg,47.1689413,15.586242
 237857,SB-Tankstelle Schmied im Wald,Gschaid 8,4723,Natternbach,48.4039189,13.6922177
 238026,BP,Johann-Herbst-Straße 15,5061,Glasenbach,47.7696131,13.0854539
-243076,Shell Leoben,Ostererweg 2,8700,Leoben,47.380715,15.107001
+243076,BP Leoben,Ostererweg 2,8700,Leoben,47.380715,15.107001
 247812,eni,Hauptstrasse 38,2351,Wr. Neudorf,48.086212,16.318213
 247813,eni,Simon Scheiner Strasse 6,2136,Laa an der Thaya,48.71853,16.39589
 247814,eni,Bundesstrasse 10,2460,Bruck/Leitha,48.021571,16.767329
@@ -2762,7 +2762,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1473352,Turmöl,Hauptstraße 2,4642,Sattledt,48.073546,14.051851
 1473369,Turmöl,Bahnhofstraße 46,4810,Gmunden,47.92534,13.7871
 1473370,Turmöl,Salzburgerstraße 226,4600,Wels,48.15355,13.98728
-1473408,Turmöl,Klaus 147,4564,Klaus ,47.83948,14.158698
+1473408,Turmöl,Klaus 147,4564,Klaus an der Pyhrnbahn ,47.83948,14.158698
 1473409,Turmöl,Salzburgerstraße 90,5500,Bischofshofen,47.424963,13.214529
 1473429,Turmöl,Unionstraße 55,4020,Linz,48.2840769,14.2923911
 1473430,Turmöl,Muldenstraße 2,4020,Linz,48.277745,14.310447
