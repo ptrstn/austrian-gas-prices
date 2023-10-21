@@ -2353,7 +2353,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1354821,JET TANKSTELLE,KAISER FRANZ JOSEF STRASSE 40,6845,HOHENEMS,47.35725,9.68315
 1354822,OMV - Eisenstadt Mattersburger Straße 28,Mattersburger Strasse 28,7000,Eisenstadt,47.83317,16.52318
 1354823,JET TANKSTELLE,MÜNCHNER BUNDESSTR. 15,5020,SALZBURG,47.817898,13.018664
-1354824,OMV - Kottingbrunn Badener Straße 1,Badener Strasse 1,2542,Kottingbrunn,47.9493,16.22221
+1354824,OMV - Kottingbrunn Badner Straße 1,Badner Strasse 1,2542,Kottingbrunn,47.9493,16.22221
 1354825,JET TANKSTELLE,INNSBRUCKER BUNDESSTRASSE 65,5020,SALZBURG,47.801351,13.01488
 1354826,OMV - Sankt Pölten Mariazeller Straße 95,Mariazeller Strasse 95,3100,Sankt Poelten,48.18769,15.61753
 1354827,JET TANKSTELLE,SALURNERSTRASSE 61,6330,KUFSTEIN,47.574301,12.157852
@@ -2680,7 +2680,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
