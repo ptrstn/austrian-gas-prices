@@ -2680,7 +2680,7 @@ station_id,name,address,postal_code,city,latitude,longitude
 1471947,Eni Sillian,Tassenbach 157,9920,Sillian,46.748797,12.463799
 1471967,Turmöl - Sparexpress,Innsbruckerbundestrasse 97,5020,Salzburg,47.7946047,12.9865265
 1471968,Turmöl - Sparexpress,Aignerstrasse 22,5020,Salzburg,47.797207,13.0674354
-1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.71312072192956,13.486561730101547
+1471987,Autohaus Resch GmbH,"Wolfgangseestraße, 2",5350,Strobl,47.713120721929556,13.486561730101547
 1471988,FS Tankstelle,Brünner Straße 64,1210,Wien,48.265778603571135,16.403233581540622
 1472007,Turmöl Quick,Dr. Franz-Thomas-Straße 22a,4810,Gmunden,47.90907,13.78402
 1472008,FS Tankstelle,Donaufelderstr.128,1210,Wien,48.25236,16.42563
@@ -3179,9 +3179,10 @@ station_id,name,address,postal_code,city,latitude,longitude
 1477131,M3 Fresing,Nr. 5,8441,Fresing,46.75851894400156,15.44616917309066
 1477171,M3 Oberjahring,Oberjahring 8,8505,Oberjahring,46.8160448871459,15.462007503311838
 1477172,M3 Braunau,Salzburger Str. 11,5280,Braunau am Inn,48.2546850983996,13.036477300015548
+1477173,M3 Markt Allhau,Hauptstrasse 5,7411,Markt Allhau,47.28924150946,16.08150899033
 1477174,M3 Feldbach,Grazer Str. 25,8330,Feldbach,46.954385222733,15.88357280253
 1477175,Wings Lind Villach,Rennsteiner Str. 34,9500,Villach,46.623650355456,13.843586896051
-1477176,M3 St. Kathrein am Offenegg,St. Kathrein 13,8162,Sankt Kathrein am Offenegg,47.309632575154,15.562699116993
+1477176,M3 St. Kathrein am Offenegg,St. Kathrein 13,8184,Sankt Kathrein am Offenegg,47.309632575154,15.562699116993
 1477177,M3 St. Lorenzen,Mühlweg 13,8642,St. Lorenzen im Mürztal,47.469882672731,15.351630148706
 1477178,Drautank Villach,Karawankenweg 17,9500,Villach,46.597849381121,13.850109175206
 1477179,Tank Roth Mariatrost,Mariatroster Str. 150,8044,Graz,47.100229777752,15.478378327829
